@@ -979,8 +979,8 @@
         "nextGames": []
       }
     },
-    "update": 1766893516,
-    "etag": 1690879080,
+    "update": 1766965100,
+    "etag": 1683214927,
     "scoreID": 1
   },
   "meta": {
@@ -2166,7 +2166,7 @@
           40,
           15
         ],
-        "seasonalEvent": "innocentsDay",
+        "seasonalEvent": "christmas",
         "footballGround": "snow"
       },
       "apps": {
