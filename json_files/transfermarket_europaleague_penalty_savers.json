@@ -414,10 +414,10 @@
       true,
       true,
       true,
+      true,
       false,
       true,
       true,
-      false,
       false,
       false,
       false,
@@ -1314,6 +1314,19 @@
       false,
       false,
       true
+    ],
+    "Ardian Bajrami": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
     ],
     "Heinz Lindner": [
       false,

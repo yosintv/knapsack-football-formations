@@ -406,6 +406,19 @@
       false,
       false
     ],
+    "Oliver Christensen": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
     "Luca Lezzerini": [
       false,
       true,
@@ -775,7 +788,6 @@
   "Hellas Verona": {
     "Lorenzo Montipò": [
       false,
-      false,
       true,
       false,
       true,
@@ -784,7 +796,8 @@
       false,
       false,
       true,
-      false
+      false,
+      true
     ],
     "Simone Perilli": [
       false,
