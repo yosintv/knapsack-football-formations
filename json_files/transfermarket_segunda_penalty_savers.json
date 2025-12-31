@@ -206,6 +206,34 @@
       false
     ]
   },
+  "CD Leganés": {
+    "Juan Soriano": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Miguel San Román": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "Real Zaragoza": {
     "Esteban Andrada": [
       false,
@@ -234,8 +262,8 @@
       false
     ]
   },
-  "CD Leganés": {
-    "Juan Soriano": [
+  "Cádiz CF": {
+    "Victor Aznar": [
       false,
       false,
       false,
@@ -244,16 +272,16 @@
       false,
       false,
       false,
-      true,
       false,
-      false
+      false,
+      true
     ],
-    "Miguel San Román": [
-      false,
+    "David Gil": [
       false,
       false,
       false,
       true,
+      false,
       false,
       false,
       false,
@@ -318,34 +346,6 @@
       false
     ]
   },
-  "Cádiz CF": {
-    "Victor Aznar": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true
-    ],
-    "David Gil": [
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "Burgos CF": {
     "Ander Cantero": [
       true,
@@ -393,34 +393,6 @@
       true,
       false,
       false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "CD Castellón": {
-    "Amir Abedzadeh": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Romain Matthys": [
-      false,
-      false,
-      true,
-      true,
       false,
       false,
       false,
@@ -499,38 +471,25 @@
       false
     ]
   },
-  "FC Andorra": {
-    "Áron Yaakobishvili": [
+  "CD Castellón": {
+    "Amir Abedzadeh": [
+      false,
+      false,
+      false,
+      false,
       false,
       false,
       true,
-      false,
-      false,
-      false,
-      false,
       false,
       false,
       false,
       false
     ],
-    "Jesús Owono": [
-      false,
-      false,
-      false,
+    "Romain Matthys": [
       false,
       false,
       true,
-      false,
-      false,
       true,
-      false,
-      false
-    ],
-    "Nico Ratti": [
-      false,
-      false,
-      false,
-      false,
       false,
       false,
       false,
@@ -593,6 +552,47 @@
       false,
       false,
       true,
+      false
+    ]
+  },
+  "FC Andorra": {
+    "Áron Yaakobishvili": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Jesús Owono": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Nico Ratti": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
       false
     ]
   },

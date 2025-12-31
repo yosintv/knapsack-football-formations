@@ -718,6 +718,60 @@
       false
     ]
   },
+  "HNK Rijeka": {
+    "Martin Zlomislic": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "David Nwolokor": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Aleksa Todorovic": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Niko Vucetic": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "Legia Warszawa": {
     "Kacper Tobiasz": [
       false,
@@ -785,60 +839,6 @@
       false
     ]
   },
-  "HNK Rijeka": {
-    "Martin Zlomislic": [
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "David Nwolokor": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Aleksa Todorovic": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Niko Vucetic": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "Slovan Bratislava": {
     "Dominik Takac": [
       true,
@@ -878,6 +878,47 @@
       false,
       false,
       true
+    ]
+  },
+  "FC Lausanne-Sport": {
+    "Karlo Letica": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "Thomas Castella": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Tim Hottiger": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
     ]
   },
   "CS Universitatea Craiova": {
@@ -934,47 +975,6 @@
       false
     ],
     "Sorin Preda": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "FC Lausanne-Sport": {
-    "Karlo Letica": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
-      true,
-      false
-    ],
-    "Thomas Castella": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Tim Hottiger": [
       false,
       false,
       false,
