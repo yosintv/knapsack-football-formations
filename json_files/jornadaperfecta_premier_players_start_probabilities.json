@@ -1,37 +1,7 @@
 {
-  "West Ham United": {},
-  "Manchester City": {
-    "Haaland": 0.8,
-    "B. Silva": 0.7,
-    "Sávio": 0.3,
-    "Foden": 0.8,
-    "R. Cherki": 0.8,
-    "N. González": 0.8,
-    "Reijnders": 0.8,
-    "N. O'Reilly": 0.8,
-    "Gvardiol": 0.8,
-    "R. Dias": 0.8,
-    "M. Nunes": 0.8,
-    "Donnarumma": 0.8
-  },
-  "Wolverhampton": {},
-  "Sunderland": {
-    "B. Brobbey": 0.8,
-    "Adingra": 0.8,
-    "E. Fée": 0.8,
-    "C. Rigg": 0.8,
-    "Geertruida": 0.8,
-    "Xhaka": 0.8,
-    "D. Cirkin": 0.8,
-    "O. Alderete": 0.8,
-    "N. Mukiele": 0.8,
-    "T. Hume": 0.8,
-    "R. Roefs": 0.8
-  },
-  "Burnley": {},
-  "Everton": {},
-  "Chelsea": {},
   "Newcastle": {},
+  "Manchester United": {},
+  "Nottingham Forest": {},
   "Leeds United": {
     "N. Okafor": 0.8,
     "Calvert-Lewin": 0.8,
@@ -44,6 +14,21 @@
     "J. Bijol": 0.8,
     "Bogle": 0.8,
     "L. Perri": 0.8
+  },
+  "Arsenal": {},
+  "Burnley": {},
+  "Fulham": {
+    "R. Jiménez": 0.8,
+    "Kevin": 0.8,
+    "E. Smith": 0.8,
+    "H. Wilson": 0.8,
+    "Lukic": 0.8,
+    "S. Berge": 0.8,
+    "A. Robinson": 0.8,
+    "J. Cuenca": 0.8,
+    "J. Andersen": 0.8,
+    "K. Tete": 0.8,
+    "Leno": 0.8
   },
   "Crystal Palace": {
     "Y. Pino": 0.8,
@@ -58,7 +43,25 @@
     "J. Lerma": 0.8,
     "Henderson": 0.8
   },
-  "Nottingham Forest": {},
+  "Chelsea": {},
+  "Wolverhampton": {},
+  "Brighton & Hove Albion": {},
+  "Manchester City": {
+    "Haaland": 0.8,
+    "B. Silva": 0.7,
+    "Sávio": 0.3,
+    "Foden": 0.8,
+    "R. Cherki": 0.8,
+    "N. González": 0.8,
+    "Reijnders": 0.8,
+    "N. O'Reilly": 0.8,
+    "Gvardiol": 0.8,
+    "R. Dias": 0.8,
+    "M. Nunes": 0.8,
+    "Donnarumma": 0.8
+  },
+  "Aston Villa": {},
+  "West Ham United": {},
   "Tottenham Hotspur": {
     "Richarlison": 0.8,
     "K. Muani": 0.8,
@@ -72,20 +75,6 @@
     "P. Porro": 0.8,
     "Vicario": 0.8
   },
-  "Fulham": {
-    "R. Jiménez": 0.8,
-    "Kevin": 0.8,
-    "E. Smith": 0.8,
-    "H. Wilson": 0.8,
-    "Lukic": 0.8,
-    "S. Berge": 0.8,
-    "A. Robinson": 0.8,
-    "J. Cuenca": 0.8,
-    "J. Andersen": 0.8,
-    "K. Tete": 0.8,
-    "Leno": 0.8
-  },
-  "Manchester United": {},
   "Fc Brentford": {
     "I. Thiago": 0.8,
     "Schade": 0.8,
@@ -99,7 +88,6 @@
     "M. Kayode": 0.8,
     "Kelleher": 0.8
   },
-  "Aston Villa": {},
   "Liverpool": {
     "H. Ekitiké": 0.8,
     "F. Wirtz": 0.8,
@@ -115,7 +103,19 @@
     "Frimpong": 0.3,
     "Alisson": 0.8
   },
-  "Brighton & Hove Albion": {},
-  "Afc Bournemouth": {},
-  "Arsenal": {}
+  "Sunderland": {
+    "B. Brobbey": 0.8,
+    "Adingra": 0.8,
+    "E. Fée": 0.8,
+    "C. Rigg": 0.8,
+    "Geertruida": 0.8,
+    "Xhaka": 0.8,
+    "D. Cirkin": 0.8,
+    "O. Alderete": 0.8,
+    "N. Mukiele": 0.8,
+    "T. Hume": 0.8,
+    "R. Roefs": 0.8
+  },
+  "Everton": {},
+  "Afc Bournemouth": {}
 }
