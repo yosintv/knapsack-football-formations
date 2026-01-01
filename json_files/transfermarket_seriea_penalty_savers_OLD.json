@@ -406,19 +406,6 @@
       false,
       false
     ],
-    "Oliver Christensen": [
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
     "Luca Lezzerini": [
       false,
       true,
@@ -430,6 +417,19 @@
       true,
       false,
       true,
+      false
+    ],
+    "Oliver Christensen": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
       false
     ]
   },

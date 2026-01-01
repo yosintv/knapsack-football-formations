@@ -1,32 +1,19 @@
 {
-  "UD Almería": {
-    "Fernando Martínez": [
+  "Racing Santander": {
+    "Jokin Ezkieta": [
       false,
       false,
       false,
       false,
-      true,
       false,
-      true,
-      true,
+      false,
+      false,
+      false,
       false,
       false,
       false
     ],
-    "Andrés Fernández": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false
-    ],
-    "Luís Maximiano": [
+    "Plamen Andreev": [
       false,
       false,
       false,
@@ -81,6 +68,47 @@
       false
     ]
   },
+  "UD Almería": {
+    "Fernando Martínez": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "Andrés Fernández": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "Luís Maximiano": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "UD Las Palmas": {
     "Dinko Horkas": [
       false,
@@ -109,34 +137,6 @@
       false
     ],
     "Adri Suárez": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "Racing Santander": {
-    "Jokin Ezkieta": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Plamen Andreev": [
       false,
       false,
       false,
@@ -234,34 +234,6 @@
       false
     ]
   },
-  "Granada CF": {
-    "Luca Zidane": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Ander Astralaga": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "Real Zaragoza": {
     "Esteban Andrada": [
       false,
@@ -290,25 +262,25 @@
       false
     ]
   },
-  "Cádiz CF": {
-    "Victor Aznar": [
+  "Granada CF": {
+    "Luca Zidane": [
       false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true
-    ],
-    "David Gil": [
       false,
       false,
       false,
       true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Ander Astralaga": [
+      false,
+      false,
+      false,
+      false,
       false,
       false,
       false,
@@ -333,6 +305,34 @@
       false
     ],
     "Juanpa Palomares": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "Cádiz CF": {
+    "Victor Aznar": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "David Gil": [
       false,
       false,
       false,
@@ -402,6 +402,34 @@
       false
     ]
   },
+  "CD Castellón": {
+    "Romain Matthys": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Amir Abedzadeh": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "Málaga CF": {
     "Alfonso Herrero": [
       false,
@@ -465,34 +493,6 @@
       false,
       false,
       false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "CD Castellón": {
-    "Romain Matthys": [
-      false,
-      false,
-      true,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Amir Abedzadeh": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
       false,
       false,
       false,

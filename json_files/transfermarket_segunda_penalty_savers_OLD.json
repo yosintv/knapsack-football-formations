@@ -234,6 +234,34 @@
       false
     ]
   },
+  "Granada CF": {
+    "Luca Zidane": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Ander Astralaga": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "Real Zaragoza": {
     "Esteban Andrada": [
       false,
@@ -281,34 +309,6 @@
       false,
       false,
       true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "Granada CF": {
-    "Luca Zidane": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Ander Astralaga": [
-      false,
-      false,
-      false,
-      false,
       false,
       false,
       false,
@@ -472,6 +472,19 @@
     ]
   },
   "CD Castellón": {
+    "Romain Matthys": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
     "Amir Abedzadeh": [
       false,
       false,
@@ -484,12 +497,40 @@
       false,
       false,
       false
+    ]
+  },
+  "FC Andorra": {
+    "Áron Yaakobishvili": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
     ],
-    "Romain Matthys": [
+    "Jesús Owono": [
+      false,
+      false,
+      false,
       false,
       false,
       true,
+      false,
+      false,
       true,
+      false,
+      false
+    ],
+    "Nico Ratti": [
+      false,
+      false,
+      false,
+      false,
       false,
       false,
       false,
@@ -552,47 +593,6 @@
       false,
       false,
       true,
-      false
-    ]
-  },
-  "FC Andorra": {
-    "Áron Yaakobishvili": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Jesús Owono": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
-    "Nico Ratti": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
       false
     ]
   },
