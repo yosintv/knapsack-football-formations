@@ -1,11 +1,11 @@
 {
-  "Racing Santander": [
-    "Andrés Martín",
-    "Andrés Martín",
-    "Andrés Martín",
-    "Andrés Martín",
-    "Andrés Martín",
-    "Andrés Martín"
+  "UD Almería": [
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Adrián Embarba",
+    "Sergio Arribas"
   ],
   "Deportivo de La Coruña": [
     "Yeremay Hernández",
@@ -15,14 +15,6 @@
     "Yeremay Hernández",
     "Yeremay Hernández"
   ],
-  "UD Almería": [
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Adrián Embarba",
-    "Sergio Arribas"
-  ],
   "UD Las Palmas": [
     "Sandro Ramírez",
     "Fábio Silva",
@@ -30,6 +22,14 @@
     "Fábio Silva",
     "Sandro Ramírez",
     "Munir El Haddadi"
+  ],
+  "Racing Santander": [
+    "Andrés Martín",
+    "Andrés Martín",
+    "Andrés Martín",
+    "Andrés Martín",
+    "Andrés Martín",
+    "Andrés Martín"
   ],
   "Sporting": [
     "César Gelabert",
@@ -127,6 +127,14 @@
     "Israel Suero",
     "Israel Suero"
   ],
+  "FC Andorra": [
+    "Lautaro de León",
+    "Lautaro de León",
+    "Manu Nieto",
+    "Manu Nieto",
+    "Lautaro de León",
+    "Manu Nieto"
+  ],
   "Córdoba CF": [
     "Jacobo González",
     "Jacobo González",
@@ -142,14 +150,6 @@
     "Higinio Marín",
     "Jon Morcillo",
     "Fidel"
-  ],
-  "FC Andorra": [
-    "Lautaro de León",
-    "Lautaro de León",
-    "Manu Nieto",
-    "Manu Nieto",
-    "Lautaro de León",
-    "Manu Nieto"
   ],
   "SD Huesca": [
     "Iker Kortajarena",

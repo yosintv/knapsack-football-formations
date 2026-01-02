@@ -907,7 +907,7 @@
       false,
       false
     ],
-    "Matei Goga": [
+    "Silviu Lung Jr.": [
       false,
       false,
       false,
@@ -920,7 +920,7 @@
       false,
       false
     ],
-    "Silviu Lung Jr.": [
+    "Matei Goga": [
       false,
       false,
       false,
@@ -1490,19 +1490,6 @@
       true,
       false
     ],
-    "Aatu Hakala": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
     "Miilo Pitkänen": [
       false,
       false,
@@ -1513,6 +1500,19 @@
       false,
       false,
       false,
+      false,
+      false
+    ],
+    "Aatu Hakala": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
       false,
       false
     ]

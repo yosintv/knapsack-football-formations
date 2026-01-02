@@ -1,11 +1,11 @@
 {
-  "UD Almería": [
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Adrián Embarba",
-    "Sergio Arribas"
+  "Racing Santander": [
+    "Andrés Martín",
+    "Andrés Martín",
+    "Andrés Martín",
+    "Andrés Martín",
+    "Andrés Martín",
+    "Andrés Martín"
   ],
   "Deportivo de La Coruña": [
     "Yeremay Hernández",
@@ -15,6 +15,14 @@
     "Yeremay Hernández",
     "Yeremay Hernández"
   ],
+  "UD Almería": [
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Adrián Embarba",
+    "Sergio Arribas"
+  ],
   "UD Las Palmas": [
     "Sandro Ramírez",
     "Fábio Silva",
@@ -23,13 +31,13 @@
     "Sandro Ramírez",
     "Munir El Haddadi"
   ],
-  "Racing Santander": [
-    "Andrés Martín",
-    "Andrés Martín",
-    "Andrés Martín",
-    "Andrés Martín",
-    "Andrés Martín",
-    "Andrés Martín"
+  "Sporting": [
+    "César Gelabert",
+    "Jonathan Dubasin",
+    "Jonathan Dubasin",
+    "Juan Otero",
+    "Juan Otero",
+    "Jonathan Dubasin"
   ],
   "Real Valladolid CF": [
     "Chuki",
@@ -38,14 +46,6 @@
     "Mamadou Sylla",
     "Mamadou Sylla",
     "Víctor Meseguer"
-  ],
-  "Sporting": [
-    "César Gelabert",
-    "Jonathan Dubasin",
-    "Jonathan Dubasin",
-    "Juan Otero",
-    "Juan Otero",
-    "Jonathan Dubasin"
   ],
   "CD Leganés": [
     "Diego García",
@@ -103,14 +103,6 @@
     "Toni Villa",
     "Peru Nolaskoain"
   ],
-  "CD Castellón": [
-    "Douglas Aurélio",
-    "Álex Calatrava",
-    "Israel Suero",
-    "Israel Suero",
-    "Israel Suero",
-    "Israel Suero"
-  ],
   "Málaga CF": [
     "Chupe",
     "Eneko Jauregi",
@@ -126,6 +118,14 @@
     "Manu Justo",
     "Antón Escobar",
     "Antón Escobar"
+  ],
+  "CD Castellón": [
+    "Douglas Aurélio",
+    "Álex Calatrava",
+    "Israel Suero",
+    "Israel Suero",
+    "Israel Suero",
+    "Israel Suero"
   ],
   "Córdoba CF": [
     "Jacobo González",

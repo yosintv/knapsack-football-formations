@@ -11,8 +11,8 @@
     "Samu Omorodion",
     "Samu Omorodion",
     "Samu Omorodion",
-    "William Gomes",
     "Samu Omorodion",
+    "William Gomes",
     "Samu Omorodion"
   ],
   "Bologna FC 1909": [
@@ -74,10 +74,10 @@
   "Celtic FC": [
     "Arne Engels",
     "Arne Engels",
-    "Arne Engels",
     "Reo Hatate",
     "Kelechi Iheanacho",
-    "Kelechi Iheanacho"
+    "Kelechi Iheanacho",
+    "Arne Engels"
   ],
   "Rangers FC": [
     "Nedim Bajrami",
@@ -176,9 +176,9 @@
     "Jarne Steuckers"
   ],
   "SC Braga": [
+    "Ricardo Horta",
+    "Ricardo Horta",
     "Rodrigo Zalazar",
-    "Ricardo Horta",
-    "Ricardo Horta",
     "Rodrigo Zalazar",
     "Rodrigo Zalazar",
     "Rodrigo Zalazar"
@@ -215,14 +215,6 @@
     "Xherdan Shaqiri",
     "Xherdan Shaqiri"
   ],
-  "GNK Dinamo Zagreb": [
-    "Dion Beljo",
-    "Sandro Kulenovic",
-    "Sandro Kulenovic",
-    "Dion Beljo",
-    "Sandro Kulenovic",
-    "Bruno Petkovic"
-  ],
   "BSC Young Boys": [
     "Chris Bedia",
     "Chris Bedia",
@@ -230,6 +222,14 @@
     "Christian Fassnacht",
     "Chris Bedia",
     "Chris Bedia"
+  ],
+  "GNK Dinamo Zagreb": [
+    "Dion Beljo",
+    "Sandro Kulenovic",
+    "Sandro Kulenovic",
+    "Dion Beljo",
+    "Sandro Kulenovic",
+    "Bruno Petkovic"
   ],
   "FC Viktoria Plzen": [
     "Rafiu Durosinmi",
