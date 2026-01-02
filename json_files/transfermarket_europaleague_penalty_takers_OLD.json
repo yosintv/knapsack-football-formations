@@ -74,10 +74,10 @@
   "Celtic FC": [
     "Arne Engels",
     "Arne Engels",
+    "Arne Engels",
     "Reo Hatate",
     "Kelechi Iheanacho",
-    "Kelechi Iheanacho",
-    "Arne Engels"
+    "Kelechi Iheanacho"
   ],
   "Rangers FC": [
     "Nedim Bajrami",
@@ -215,14 +215,6 @@
     "Xherdan Shaqiri",
     "Xherdan Shaqiri"
   ],
-  "BSC Young Boys": [
-    "Chris Bedia",
-    "Chris Bedia",
-    "Chris Bedia",
-    "Christian Fassnacht",
-    "Chris Bedia",
-    "Chris Bedia"
-  ],
   "GNK Dinamo Zagreb": [
     "Dion Beljo",
     "Sandro Kulenovic",
@@ -230,6 +222,14 @@
     "Dion Beljo",
     "Sandro Kulenovic",
     "Bruno Petkovic"
+  ],
+  "BSC Young Boys": [
+    "Chris Bedia",
+    "Chris Bedia",
+    "Chris Bedia",
+    "Christian Fassnacht",
+    "Chris Bedia",
+    "Chris Bedia"
   ],
   "FC Viktoria Plzen": [
     "Rafiu Durosinmi",
