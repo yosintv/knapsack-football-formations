@@ -1,19 +1,32 @@
 {
-  "Racing Santander": {
-    "Jokin Ezkieta": [
+  "UD Almería": {
+    "Fernando Martínez": [
       false,
       false,
       false,
       false,
+      true,
       false,
-      false,
-      false,
-      false,
+      true,
+      true,
       false,
       false,
       false
     ],
-    "Plamen Andreev": [
+    "Andrés Fernández": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "Luís Maximiano": [
       false,
       false,
       false,
@@ -81,47 +94,6 @@
       false
     ]
   },
-  "UD Almería": {
-    "Fernando Martínez": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      true,
-      true,
-      false,
-      false,
-      false
-    ],
-    "Andrés Fernández": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false
-    ],
-    "Luís Maximiano": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "UD Las Palmas": {
     "Dinko Horkas": [
       false,
@@ -150,6 +122,34 @@
       false
     ],
     "Adri Suárez": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "Racing Santander": {
+    "Jokin Ezkieta": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Plamen Andreev": [
       false,
       false,
       false,
@@ -485,19 +485,6 @@
     ]
   },
   "CD Castellón": {
-    "Amir Abedzadeh": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
     "Romain Matthys": [
       false,
       false,
@@ -506,6 +493,19 @@
       false,
       false,
       false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Amir Abedzadeh": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
       false,
       false,
       false,

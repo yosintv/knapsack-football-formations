@@ -31,14 +31,6 @@
     "Andrés Martín",
     "Andrés Martín"
   ],
-  "Sporting": [
-    "César Gelabert",
-    "Jonathan Dubasin",
-    "Jonathan Dubasin",
-    "Juan Otero",
-    "Juan Otero",
-    "Jonathan Dubasin"
-  ],
   "Real Valladolid CF": [
     "Chuki",
     "Juanmi Latasa",
@@ -46,6 +38,14 @@
     "Mamadou Sylla",
     "Mamadou Sylla",
     "Víctor Meseguer"
+  ],
+  "Sporting": [
+    "César Gelabert",
+    "Jonathan Dubasin",
+    "Jonathan Dubasin",
+    "Juan Otero",
+    "Juan Otero",
+    "Jonathan Dubasin"
   ],
   "CD Leganés": [
     "Diego García",
@@ -96,12 +96,12 @@
     "David González"
   ],
   "SD Eibar": [
+    "Javi Martón",
     "José Corpas",
     "Jon Bautista",
     "José Corpas",
     "Javi Martón",
-    "Toni Villa",
-    "Peru Nolaskoain"
+    "Toni Villa"
   ],
   "Málaga CF": [
     "Chupe",
@@ -127,14 +127,6 @@
     "Israel Suero",
     "Israel Suero"
   ],
-  "FC Andorra": [
-    "Lautaro de León",
-    "Lautaro de León",
-    "Manu Nieto",
-    "Manu Nieto",
-    "Lautaro de León",
-    "Manu Nieto"
-  ],
   "Córdoba CF": [
     "Jacobo González",
     "Jacobo González",
@@ -150,6 +142,14 @@
     "Higinio Marín",
     "Jon Morcillo",
     "Fidel"
+  ],
+  "FC Andorra": [
+    "Lautaro de León",
+    "Lautaro de León",
+    "Manu Nieto",
+    "Manu Nieto",
+    "Lautaro de León",
+    "Manu Nieto"
   ],
   "SD Huesca": [
     "Iker Kortajarena",
