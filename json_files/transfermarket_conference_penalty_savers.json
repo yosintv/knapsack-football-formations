@@ -108,6 +108,19 @@
       false,
       false
     ],
+    "Oliver Christensen": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
     "Luca Lezzerini": [
       false,
       true,
@@ -948,7 +961,7 @@
       false,
       false
     ],
-    "Silviu Lung Jr.": [
+    "Matei Goga": [
       false,
       false,
       false,
@@ -961,7 +974,7 @@
       false,
       false
     ],
-    "Matei Goga": [
+    "Silviu Lung Jr.": [
       false,
       false,
       false,
@@ -1476,47 +1489,6 @@
       false
     ]
   },
-  "Kuopion Palloseura": {
-    "Johannes Kreidl": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      true,
-      true,
-      false
-    ],
-    "Aatu Hakala": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
-    "Miilo Pitkänen": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "Shamrock Rovers": {
     "Ed McGinty": [
       false,
@@ -1591,6 +1563,47 @@
       false,
       false,
       true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "Kuopion Palloseura": {
+    "Johannes Kreidl": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "Aatu Hakala": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Miilo Pitkänen": [
+      false,
+      false,
+      false,
+      false,
+      false,
       false,
       false,
       false,
