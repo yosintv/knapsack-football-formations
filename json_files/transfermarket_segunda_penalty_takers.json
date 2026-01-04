@@ -47,14 +47,6 @@
     "Mamadou Sylla",
     "Víctor Meseguer"
   ],
-  "Cádiz CF": [
-    "Iza Carcelén",
-    "Álex Fernández",
-    "Suso",
-    "Álex Fernández",
-    "Álex Fernández",
-    "Chris Ramos"
-  ],
   "CD Leganés": [
     "Diego García",
     "Diego García",
@@ -71,14 +63,6 @@
     "Dani Gómez",
     "Keidi Bare"
   ],
-  "Granada CF": [
-    "Jorge Pascual",
-    "Lucas Boyé",
-    "Lucas Boyé",
-    "Lucas Boyé",
-    "Lucas Boyé",
-    "Myrto Uzuni"
-  ],
   "CD Mirandés": [
     "Carlos Fernández",
     "Carlos Fernández",
@@ -86,6 +70,22 @@
     "Joaquín Panichelli",
     "Mathis Lachuer",
     "Mathis Lachuer"
+  ],
+  "Cádiz CF": [
+    "Iza Carcelén",
+    "Álex Fernández",
+    "Suso",
+    "Álex Fernández",
+    "Álex Fernández",
+    "Chris Ramos"
+  ],
+  "Granada CF": [
+    "Jorge Pascual",
+    "Lucas Boyé",
+    "Lucas Boyé",
+    "Lucas Boyé",
+    "Lucas Boyé",
+    "Myrto Uzuni"
   ],
   "Burgos CF": [
     "David González",
@@ -95,29 +95,13 @@
     "Mateo Mejía",
     "David González"
   ],
-  "Málaga CF": [
-    "Chupe",
-    "Eneko Jauregi",
-    "Julen Lobete",
-    "Antoñito Cordero",
-    "Antoñito Cordero",
-    "Roko Baturina"
-  ],
   "SD Eibar": [
-    "Javi Martón",
     "José Corpas",
     "Jon Bautista",
     "José Corpas",
     "Javi Martón",
-    "Toni Villa"
-  ],
-  "Cultural Leonesa": [
-    "Manu Justo",
-    "Manu Justo",
-    "Daniel Paraschiv",
-    "Manu Justo",
-    "Antón Escobar",
-    "Antón Escobar"
+    "Toni Villa",
+    "Peru Nolaskoain"
   ],
   "CD Castellón": [
     "Douglas Aurélio",
@@ -126,6 +110,22 @@
     "Israel Suero",
     "Israel Suero",
     "Israel Suero"
+  ],
+  "Málaga CF": [
+    "Chupe",
+    "Eneko Jauregi",
+    "Julen Lobete",
+    "Antoñito Cordero",
+    "Antoñito Cordero",
+    "Roko Baturina"
+  ],
+  "Cultural Leonesa": [
+    "Manu Justo",
+    "Manu Justo",
+    "Daniel Paraschiv",
+    "Manu Justo",
+    "Antón Escobar",
+    "Antón Escobar"
   ],
   "Córdoba CF": [
     "Jacobo González",

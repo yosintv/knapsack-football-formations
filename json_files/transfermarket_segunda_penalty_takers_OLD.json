@@ -1,12 +1,4 @@
 {
-  "UD Almería": [
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Sergio Arribas",
-    "Adrián Embarba",
-    "Sergio Arribas"
-  ],
   "Deportivo de La Coruña": [
     "Yeremay Hernández",
     "Yeremay Hernández",
@@ -14,6 +6,14 @@
     "Yeremay Hernández",
     "Yeremay Hernández",
     "Yeremay Hernández"
+  ],
+  "UD Almería": [
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Sergio Arribas",
+    "Adrián Embarba",
+    "Sergio Arribas"
   ],
   "UD Las Palmas": [
     "Sandro Ramírez",
@@ -31,6 +31,14 @@
     "Andrés Martín",
     "Andrés Martín"
   ],
+  "Sporting": [
+    "César Gelabert",
+    "Jonathan Dubasin",
+    "Jonathan Dubasin",
+    "Juan Otero",
+    "Juan Otero",
+    "Jonathan Dubasin"
+  ],
   "Real Valladolid CF": [
     "Chuki",
     "Juanmi Latasa",
@@ -39,13 +47,13 @@
     "Mamadou Sylla",
     "Víctor Meseguer"
   ],
-  "Sporting": [
-    "César Gelabert",
-    "Jonathan Dubasin",
-    "Jonathan Dubasin",
-    "Juan Otero",
-    "Juan Otero",
-    "Jonathan Dubasin"
+  "Cádiz CF": [
+    "Iza Carcelén",
+    "Álex Fernández",
+    "Suso",
+    "Álex Fernández",
+    "Álex Fernández",
+    "Chris Ramos"
   ],
   "CD Leganés": [
     "Diego García",
@@ -79,14 +87,6 @@
     "Mathis Lachuer",
     "Mathis Lachuer"
   ],
-  "Cádiz CF": [
-    "Iza Carcelén",
-    "Álex Fernández",
-    "Suso",
-    "Álex Fernández",
-    "Álex Fernández",
-    "Chris Ramos"
-  ],
   "Burgos CF": [
     "David González",
     "Curro Sánchez",
@@ -95,14 +95,6 @@
     "Mateo Mejía",
     "David González"
   ],
-  "SD Eibar": [
-    "Javi Martón",
-    "José Corpas",
-    "Jon Bautista",
-    "José Corpas",
-    "Javi Martón",
-    "Toni Villa"
-  ],
   "Málaga CF": [
     "Chupe",
     "Eneko Jauregi",
@@ -110,6 +102,14 @@
     "Antoñito Cordero",
     "Antoñito Cordero",
     "Roko Baturina"
+  ],
+  "SD Eibar": [
+    "Javi Martón",
+    "José Corpas",
+    "Jon Bautista",
+    "José Corpas",
+    "Javi Martón",
+    "Toni Villa"
   ],
   "Cultural Leonesa": [
     "Manu Justo",
