@@ -8,12 +8,12 @@
     "Ousmane Dembélé"
   ],
   "Chelsea": [
+    "Cole Palmer",
     "Estêvão",
     "Enzo Fernández",
     "Enzo Fernández",
     "Cole Palmer",
-    "Christopher Nkunku",
-    "Cole Palmer"
+    "Christopher Nkunku"
   ],
   "Bayern Munich": [
     "Harry Kane",
@@ -47,14 +47,6 @@
     "Kristjan Asllani",
     "Hakan Çalhanoğlu"
   ],
-  "SSC Napoli": [
-    "Rasmus Højlund",
-    "Kevin De Bruyne",
-    "Kevin De Bruyne",
-    "Kevin De Bruyne",
-    "Romelu Lukaku",
-    "Romelu Lukaku"
-  ],
   "Sporting CP": [
     "Luis Suárez",
     "Luis Suárez",
@@ -62,6 +54,14 @@
     "Luis Suárez",
     "Morten Hjulmand",
     "Luis Suárez"
+  ],
+  "SSC Napoli": [
+    "Rasmus Højlund",
+    "Kevin De Bruyne",
+    "Kevin De Bruyne",
+    "Kevin De Bruyne",
+    "Romelu Lukaku",
+    "Romelu Lukaku"
   ],
   "Atalanta BC": [
     "Gianluca Scamacca",
@@ -241,11 +241,11 @@
   ],
   "Olympiacos Piraeus": [
     "Mehdi Taremi",
+    "Mehdi Taremi",
     "Ayoub El Kaabi",
     "Ayoub El Kaabi",
     "Ayoub El Kaabi",
-    "Yusuf Yazıcı",
-    "Ayoub El Kaabi"
+    "Yusuf Yazıcı"
   ],
   "Union Saint-Gilloise": [
     "Marc Giger",

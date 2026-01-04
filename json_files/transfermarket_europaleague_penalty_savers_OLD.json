@@ -302,16 +302,16 @@
     ],
     "Maxime Dupé": [
       false,
-      true,
-      false,
-      false,
-      false,
-      false,
       false,
       true,
-      true,
       false,
-      true
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
     ],
     "Bartosz Zelazowski": [
       false,
@@ -409,6 +409,47 @@
       false
     ]
   },
+  "Rangers FC": {
+    "Jack Butland": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Liam Kelly": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Kieran Wright": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "PAOK Thessaloniki": {
     "Jiri Pavlenka": [
       false,
@@ -453,47 +494,6 @@
       false,
       false,
       false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "Rangers FC": {
-    "Jack Butland": [
-      true,
-      true,
-      true,
-      false,
-      true,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Liam Kelly": [
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Kieran Wright": [
-      false,
-      false,
-      true,
       false,
       false,
       false,
@@ -694,7 +694,7 @@
       false
     ],
     "Ofek Melika": [
-      false,
+      true,
       false,
       false,
       false,
@@ -1301,6 +1301,73 @@
       false
     ]
   },
+  "BSC Young Boys": {
+    "Marvin Keller": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "Ardian Bajrami": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Heinz Lindner": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "Dario Marzino": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "David von Ballmoos": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ]
+  },
   "GNK Dinamo Zagreb": {
     "Ivan Nevistic": [
       false,
@@ -1350,73 +1417,6 @@
       false,
       false,
       false,
-      false,
-      false,
-      true
-    ]
-  },
-  "BSC Young Boys": {
-    "Marvin Keller": [
-      true,
-      false,
-      false,
-      false,
-      false,
-      true,
-      true,
-      true,
-      false,
-      false,
-      true
-    ],
-    "Heinz Lindner": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      true,
-      false,
-      false,
-      true
-    ],
-    "Dario Marzino": [
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Ardian Bajrami": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "David von Ballmoos": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      true,
-      true,
       false,
       false,
       true
@@ -1680,19 +1680,6 @@
       false,
       false
     ],
-    "Ricardo Friedrich": [
-      true,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true
-    ],
     "Johan Dahlin": [
       false,
       false,
@@ -1731,6 +1718,19 @@
       false,
       false,
       false
+    ],
+    "Ricardo Friedrich": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
     ]
   },
   "Go Ahead Eagles": {
