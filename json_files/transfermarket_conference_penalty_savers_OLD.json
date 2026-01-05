@@ -691,6 +691,19 @@
       false,
       true
     ],
+    "Muhamed Sahinovic": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
     "Jakub Mądrzyk": [
       false,
       false,
@@ -716,19 +729,6 @@
       false,
       true,
       true
-    ],
-    "Muhamed Sahinovic": [
-      false,
-      true,
-      false,
-      true,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false
     ]
   },
   "HNK Rijeka": {
@@ -961,7 +961,7 @@
       false,
       false
     ],
-    "Matei Goga": [
+    "Silviu Lung Jr.": [
       false,
       false,
       false,
@@ -974,7 +974,7 @@
       false,
       false
     ],
-    "Silviu Lung Jr.": [
+    "Matei Goga": [
       false,
       false,
       false,
@@ -1585,19 +1585,6 @@
       true,
       false
     ],
-    "Aatu Hakala": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
     "Miilo Pitkänen": [
       false,
       false,
@@ -1610,11 +1597,37 @@
       false,
       false,
       false
+    ],
+    "Aatu Hakala": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
     ]
   },
   "Breidablik Kópavogur": {
     "Anton Ari Einarsson": [
       false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Gylfi Berg Snaehólm": [
+      true,
       false,
       false,
       false,
@@ -1638,55 +1651,16 @@
       false,
       false,
       false
-    ],
-    "Gylfi Berg Snaehólm": [
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
     ]
   },
   "Shelbourne FC": {
-    "Conor Kearns": [
+    "Conor Walsh": [
       false,
       false,
       false,
       true,
       false,
       false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Wessel Speel": [
-      true,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Lorcan Healy": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
       false,
       false,
       false,
@@ -1726,6 +1700,45 @@
       false,
       false,
       false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Conor Kearns": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Wessel Speel": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Lorcan Healy": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
       false,
       false,
       false,

@@ -71,14 +71,6 @@
     "Jean-Philippe Mateta",
     "Jean-Philippe Mateta"
   ],
-  "Brighton & Hove Albion": [
-    "James Milner",
-    "Danny Welbeck",
-    "Matt O'Riley",
-    "Matt O'Riley",
-    "Danny Welbeck",
-    "João Pedro"
-  ],
   "Aston Villa": [
     "Donyell Malen",
     "Emiliano Buendía",
@@ -86,6 +78,14 @@
     "Marcus Rashford",
     "Marco Asensio",
     "Marco Asensio"
+  ],
+  "Brighton & Hove Albion": [
+    "Danny Welbeck",
+    "Danny Welbeck",
+    "James Milner",
+    "Danny Welbeck",
+    "Matt O'Riley",
+    "Matt O'Riley"
   ],
   "AFC Bournemouth": [
     "Marcus Tavernier",
@@ -111,14 +111,6 @@
     "Dominic Calvert-Lewin",
     "Dominic Calvert-Lewin"
   ],
-  "West Ham United": [
-    "Lucas Paquetá",
-    "Lucas Paquetá",
-    "Jarrod Bowen",
-    "Lucas Paquetá",
-    "Lucas Paquetá",
-    "James Ward-Prowse"
-  ],
   "Sunderland AFC": [
     "Enzo Le Fée",
     "Enzo Le Fée",
@@ -126,6 +118,14 @@
     "Wilson Isidor",
     "Wilson Isidor",
     "Patrick Roberts"
+  ],
+  "West Ham United": [
+    "Lucas Paquetá",
+    "Lucas Paquetá",
+    "Lucas Paquetá",
+    "Jarrod Bowen",
+    "Lucas Paquetá",
+    "Lucas Paquetá"
   ],
   "Fulham FC": [
     "Raúl Jiménez",
