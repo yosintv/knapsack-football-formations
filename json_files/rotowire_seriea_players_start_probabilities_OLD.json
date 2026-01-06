@@ -60,6 +60,7 @@
     "Nikola Stulic": 0.8
   },
   "Roma": {
+    "Matias Soule": 0.5,
     "Mario Hermoso": 0.8,
     "Gianluca Mancini": 0.8,
     "Leon Bailey": 0.0,
@@ -78,7 +79,6 @@
     "Bryan Cristante": 0.8,
     "Zeki Celik": 0.8,
     "Paulo Dybala": 0.8,
-    "Matias Soule": 0.8,
     "Evan Ferguson": 0.8
   },
   "Sassuolo": {
@@ -122,12 +122,12 @@
     "Filip Kostic": 0.8
   },
   "Napoli": {
+    "Sam Beukema": 0.2,
+    "Lorenzo Lucca": 0.2,
     "Pasquale Mazzocchi": 0.0,
     "Frank Anguissa": 0.0,
-    "Sam Beukema": 0.0,
     "Kevin De Bruyne": 0.0,
     "Billy Gilmour": 0.0,
-    "Lorenzo Lucca": 0.0,
     "Romelu Lukaku": 0.0,
     "David Neres": 0.0,
     "Vanja Milinkovic-Savic": 0.8,
@@ -260,8 +260,8 @@
   },
   "Inter": {
     "Ange-Yoan Bonny": 0.2,
-    "Matteo Darmian": 0.2,
     "Andy Diouf": 0.2,
+    "Matteo Darmian": 0.0,
     "Raffaele Di Gennaro": 0.0,
     "Denzel Dumfries": 0.0,
     "Tomas Palacios": 0.0,
@@ -371,6 +371,7 @@
   },
   "Genoa": {
     "Maxwel Cornet": 0.2,
+    "Caleb Ekuban": 0.2,
     "Albert Gronbaek": 0.2,
     "Junior Messias": 0.2,
     "Jean Onana": 0.2,
