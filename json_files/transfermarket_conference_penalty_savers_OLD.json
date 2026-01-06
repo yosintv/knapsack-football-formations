@@ -68,14 +68,14 @@
       false
     ],
     "Karl-Johan Johnsson": [
-      true,
-      false,
-      true,
       false,
       false,
       false,
       false,
-      true,
+      false,
+      false,
+      false,
+      false,
       false,
       false,
       false
@@ -83,15 +83,15 @@
   },
   "ACF Fiorentina": {
     "David de Gea": [
-      true,
       false,
       false,
       false,
       false,
       false,
       false,
-      true,
-      true,
+      false,
+      false,
+      false,
       false,
       false
     ],
@@ -123,15 +123,15 @@
     ],
     "Luca Lezzerini": [
       false,
-      true,
       false,
       false,
       false,
       false,
       false,
-      true,
       false,
-      true,
+      false,
+      false,
+      false,
       false
     ]
   },
@@ -626,14 +626,14 @@
     ],
     "Krzysztof Bąkowski": [
       false,
-      true,
       false,
       false,
       false,
       false,
       false,
       false,
-      true,
+      false,
+      false,
       false,
       false
     ],
@@ -716,6 +716,19 @@
       false,
       true,
       true
+    ],
+    "Jakub Rajczykowski": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
     ],
     "Jakub Madrzyk": [
       false,
@@ -1484,8 +1497,8 @@
       false,
       false,
       false,
-      true,
-      true,
+      false,
+      false,
       false
     ]
   },
@@ -1543,46 +1556,18 @@
       false
     ]
   },
-  "Hamrun Spartans": {
-    "Henry Bonello": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Célio": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "Kuopion Palloseura": {
     "Johannes Kreidl": [
       false,
       false,
       false,
       false,
-      true,
       false,
       false,
-      true,
-      true,
-      true,
+      false,
+      false,
+      false,
+      false,
       false
     ],
     "Miilo Pitkänen": [
@@ -1608,6 +1593,34 @@
       false,
       false,
       true,
+      false,
+      false
+    ]
+  },
+  "Hamrun Spartans": {
+    "Henry Bonello": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Célio": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
       false,
       false
     ]
@@ -1765,12 +1778,12 @@
       false,
       false,
       false,
-      true,
-      false,
-      true,
       false,
       false,
-      true,
+      false,
+      false,
+      false,
+      false,
       false
     ],
     "Curro": [

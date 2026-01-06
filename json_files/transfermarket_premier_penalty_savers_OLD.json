@@ -143,9 +143,9 @@
       false,
       false,
       false,
-      true,
       false,
-      true,
+      false,
+      false,
       false,
       false
     ],
@@ -254,7 +254,7 @@
       false,
       false,
       false,
-      true,
+      false,
       false
     ],
     "André Onana": [
@@ -664,6 +664,60 @@
       false
     ]
   },
+  "West Ham United": {
+    "Mads Hermansen": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Alphonse Areola": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Lukasz Fabianski": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Wes Foderingham": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
   "Sunderland AFC": {
     "Robin Roefs": [
       true,
@@ -699,7 +753,7 @@
       false,
       false,
       false,
-      true,
+      false,
       false,
       false,
       false
@@ -715,88 +769,6 @@
       true,
       false,
       true,
-      false
-    ]
-  },
-  "West Ham United": {
-    "Mads Hermansen": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Alphonse Areola": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Lukasz Fabianski": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      true,
-      false
-    ],
-    "Wes Foderingham": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      true,
-      false,
-      true
-    ]
-  },
-  "Fulham FC": {
-    "Bernd Leno": [
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Benjamin Lecomte": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
       false
     ]
   },
@@ -841,6 +813,34 @@
       false
     ]
   },
+  "Fulham FC": {
+    "Bernd Leno": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Benjamin Lecomte": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "Leeds United": {
     "Lucas Perri": [
       false,
@@ -850,9 +850,9 @@
       false,
       false,
       false,
-      true,
       false,
-      true,
+      false,
+      false,
       false
     ],
     "Illan Meslier": [

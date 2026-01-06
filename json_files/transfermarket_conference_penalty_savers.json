@@ -68,14 +68,14 @@
       false
     ],
     "Karl-Johan Johnsson": [
+      true,
+      false,
+      true,
       false,
       false,
       false,
       false,
-      false,
-      false,
-      false,
-      false,
+      true,
       false,
       false,
       false
@@ -83,15 +83,15 @@
   },
   "ACF Fiorentina": {
     "David de Gea": [
+      true,
       false,
       false,
       false,
       false,
       false,
       false,
-      false,
-      false,
-      false,
+      true,
+      true,
       false,
       false
     ],
@@ -123,15 +123,15 @@
     ],
     "Luca Lezzerini": [
       false,
+      true,
       false,
       false,
       false,
       false,
       false,
+      true,
       false,
-      false,
-      false,
-      false,
+      true,
       false
     ]
   },
@@ -626,14 +626,14 @@
     ],
     "Krzysztof Bąkowski": [
       false,
+      true,
       false,
       false,
       false,
       false,
       false,
       false,
-      false,
-      false,
+      true,
       false,
       false
     ],
@@ -1497,8 +1497,8 @@
       false,
       false,
       false,
-      false,
-      false,
+      true,
+      true,
       false
     ]
   },
@@ -1562,12 +1562,12 @@
       false,
       false,
       false,
+      true,
       false,
       false,
-      false,
-      false,
-      false,
-      false,
+      true,
+      true,
+      true,
       false
     ],
     "Miilo Pitkänen": [
@@ -1778,12 +1778,12 @@
       false,
       false,
       false,
+      true,
+      false,
+      true,
       false,
       false,
-      false,
-      false,
-      false,
-      false,
+      true,
       false
     ],
     "Curro": [
