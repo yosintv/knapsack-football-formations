@@ -165,13 +165,13 @@
       false
     ],
     "Pau López": [
-      true,
       false,
       false,
       false,
       false,
       false,
-      true,
+      false,
+      false,
       false,
       false,
       false,
@@ -188,7 +188,7 @@
       false,
       false,
       false,
-      true
+      false
     ]
   },
   "Olympique Lyon": {
@@ -373,12 +373,12 @@
       false,
       false,
       false,
-      true,
-      true,
       false,
       false,
       false,
-      true,
+      false,
+      false,
+      false,
       false,
       false
     ],
@@ -465,13 +465,13 @@
   },
   "Rangers FC": {
     "Jack Butland": [
-      true,
-      true,
-      true,
-      true,
       false,
-      true,
-      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
       false,
       false,
       false,
@@ -509,7 +509,7 @@
       false,
       false,
       false,
-      true,
+      false,
       false,
       false,
       false,
@@ -607,7 +607,7 @@
       false,
       false,
       false,
-      true,
+      false,
       false,
       false
     ],
@@ -910,11 +910,11 @@
       false
     ],
     "İrfan Can Eğribayat": [
-      true,
       false,
       false,
-      true,
-      true,
+      false,
+      false,
+      false,
       false,
       false,
       false,
@@ -1208,7 +1208,7 @@
   },
   "Panathinaikos FC": {
     "Alban Lafont": [
-      true,
+      false,
       false,
       false,
       false,
@@ -1311,7 +1311,7 @@
       false,
       false,
       false,
-      true,
+      false,
       false,
       false
     ],

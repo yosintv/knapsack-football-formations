@@ -70,9 +70,9 @@
     "Gabriel Slonina": [
       false,
       false,
-      true,
       false,
-      true,
+      false,
+      false,
       false,
       false,
       false,
@@ -180,8 +180,8 @@
     "Aaron Ramsdale": [
       false,
       false,
-      true,
-      true,
+      false,
+      false,
       false,
       false,
       false,
@@ -218,12 +218,12 @@
     ],
     "John Ruddy": [
       false,
-      true,
-      false,
-      true,
       false,
       false,
-      true,
+      false,
+      false,
+      false,
+      false,
       false,
       false,
       false,
@@ -399,11 +399,11 @@
       false,
       false,
       false,
-      true,
       false,
       false,
       false,
-      true,
+      false,
+      false,
       false
     ]
   },
@@ -763,7 +763,7 @@
     "Temirlan Anarbekov": [
       false,
       false,
-      true,
+      false,
       false,
       false,
       false,
@@ -1118,12 +1118,12 @@
       false,
       false,
       false,
-      true,
       false,
       false,
-      true,
       false,
-      true,
+      false,
+      false,
+      false,
       false,
       false
     ],
@@ -1189,7 +1189,7 @@
       false,
       false,
       false,
-      true,
+      false,
       false,
       false,
       false
@@ -1452,6 +1452,60 @@
       false
     ]
   },
+  "SK Slavia Prague": {
+    "Jindrich Stanek": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Jakub Markovic": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "Ales Mandous": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Ondrej Kolar": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
   "Union Saint-Gilloise": {
     "Kjell Scherpen": [
       false,
@@ -1502,60 +1556,6 @@
       false,
       false,
       true,
-      false,
-      true
-    ]
-  },
-  "SK Slavia Prague": {
-    "Jindrich Stanek": [
-      false,
-      false,
-      true,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true
-    ],
-    "Jakub Markovic": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false
-    ],
-    "Ales Mandous": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      true,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
-    "Ondrej Kolar": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
       false,
       true
     ]
