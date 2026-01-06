@@ -1,11 +1,12 @@
 {
   "Monaco": {
-    "Pape Cabral": 0.2,
     "Lamine Camara": 0.2,
     "Vanderson": 0.2,
     "Krepin Diatta": 0.2,
     "Ansu Fati": 0.2,
     "Paul Pogba": 0.2,
+    "Mamadou Coulibaly": 0.0,
+    "Pape Cabral": 0.0,
     "Lukas Hradecky": 0.0,
     "Christian Mawissa Elebi": 0.0,
     "Takumi Minamino": 0.0,
@@ -14,13 +15,11 @@
   "Lorient": {
     "Arthur Avom": 0.2,
     "Abdoulaye Faye": 0.2,
-    "Panos Katseris": 0.2,
     "Arsene Kouassi": 0.2,
-    "Royce Openda": 0.2,
-    "Montassar Talbi": 0.2,
     "Aiyegun Tosin": 0.2,
     "Isaak Toure": 0.2,
-    "Darlene Yongwa": 0.2
+    "Darlene Yongwa": 0.2,
+    "Panos Katseris": 0.0
   },
   "PSG": {
     "Achraf Hakimi": 0.2,
@@ -47,6 +46,7 @@
     "Jonathan Gradit": 0.0
   },
   "AJ Auxerre": {
+    "Clement Akpa": 0.2,
     "Danny Loader": 0.2,
     "Francisco Sierralta": 0.2,
     "Lassine Sinayoko": 0.2,
@@ -65,7 +65,6 @@
     "Jeremie Boga": 0.2,
     "Hicham Boudaoui": 0.2,
     "Yehvann Diouf": 0.2,
-    "Ali El Abdi": 0.2,
     "Antoine Mendy": 0.2,
     "Terem Moffi": 0.2,
     "Mohamed Abdelmonem": 0.0,
@@ -80,7 +79,6 @@
   },
   "Marseille": {
     "Nayef Aguerd": 0.2,
-    "Leonardo Balerdi": 0.2,
     "Bilal Nadir": 0.0,
     "Arthur Vermeeren": 0.0
   },
@@ -124,7 +122,6 @@
     "Fode Doucoure": 0.2,
     "Reda Jousef Khadra": 0.2,
     "Lionel Mpasi": 0.2,
-    "Ally Samatta": 0.2,
     "Abdoulaye Toure": 0.2,
     "Etienne Youte": 0.2,
     "Stephan Zagadou": 0.2
