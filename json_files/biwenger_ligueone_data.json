@@ -7990,9 +7990,7 @@
         "fitness": [
           null,
           null,
-          0,
-          null,
-          null
+          0
         ],
         "points": 0,
         "pointsHome": 0,
@@ -13318,8 +13316,8 @@
         ]
       }
     },
-    "update": 1767827447,
-    "etag": 476269111,
+    "update": 1767842846,
+    "etag": 3385727902,
     "scoreID": 3
   },
   "meta": {
@@ -14888,7 +14886,7 @@
             "kind": "SofaScore"
           }
         ],
-        "config": []
+        "config": {}
       },
       {
         "id": 41,
@@ -14932,7 +14930,7 @@
             "kind": "Average"
           }
         ],
-        "config": []
+        "config": {}
       }
     ]
   }
