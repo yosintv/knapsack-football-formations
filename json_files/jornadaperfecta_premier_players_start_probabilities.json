@@ -1,17 +1,16 @@
 {
-  "Everton": {},
-  "Sunderland": {},
-  "Leeds United": {},
-  "Fulham": {},
-  "Afc Bournemouth": {},
-  "Crystal Palace": {},
-  "Wolverhampton": {},
-  "Nottingham Forest": {},
-  "West Ham United": {},
-  "Burnley": {},
-  "Aston Villa": {},
   "Newcastle": {},
+  "Nottingham Forest": {},
+  "Manchester United": {},
   "Manchester City": {},
+  "West Ham United": {},
+  "Fulham": {},
+  "Chelsea": {},
+  "Fc Brentford": {},
+  "Crystal Palace": {},
+  "Everton": {},
+  "Burnley": {},
+  "Brighton & Hove Albion": {},
   "Arsenal": {
     "Trossard": 0.8,
     "Gyökeres": 0.8,
@@ -27,9 +26,6 @@
     "Timber": 0.8,
     "D. Raya": 0.8
   },
-  "Chelsea": {},
-  "Brighton & Hove Albion": {},
-  "Tottenham Hotspur": {},
   "Liverpool": {
     "H. Ekitiké": 0.7,
     "Chiesa": 0.3,
@@ -44,6 +40,10 @@
     "Bradley": 0.8,
     "Alisson": 0.8
   },
-  "Fc Brentford": {},
-  "Manchester United": {}
+  "Afc Bournemouth": {},
+  "Sunderland": {},
+  "Tottenham Hotspur": {},
+  "Leeds United": {},
+  "Aston Villa": {},
+  "Wolverhampton": {}
 }

@@ -15,12 +15,12 @@
     "Ola Brynhildsen": 0.2
   },
   "Manchester City": {
-    "Rayan Ait-Nouri": 0.0,
+    "Rayan Ait-Nouri": 0.2,
+    "Omar Marmoush": 0.2,
     "Oscar Bobb": 0.0,
     "Ruben Dias": 0.0,
     "Josko Gvardiol": 0.0,
     "Mateo Kovacic": 0.0,
-    "Omar Marmoush": 0.0,
     "Savinho": 0.0,
     "John Stones": 0.0
   },
@@ -39,14 +39,14 @@
     "Wout Weghorst": 0.2
   },
   "Tottenham Hotspur": {
-    "Rodrigo Bentancur": 0.0,
-    "Lucas Bergvall": 0.0,
-    "Yves Bissouma": 0.0,
-    "Destiny Udogie": 0.0,
-    "Mohammed Kudus": 0.0,
+    "Rodrigo Bentancur": 0.2,
+    "Lucas Bergvall": 0.2,
+    "Yves Bissouma": 0.2,
+    "Destiny Udogie": 0.2,
+    "Mohammed Kudus": 0.2,
+    "Pape Sarr": 0.2,
     "Dejan Kulusevski": 0.0,
     "James Maddison": 0.0,
-    "Pape Sarr": 0.0,
     "Dominic Solanke": 0.0
   },
   "Borussia Dortmund": {
@@ -103,11 +103,11 @@
     "Edmond Tapsoba": 0.2
   },
   "Inter": {
-    "Matteo Darmian": 0.0,
+    "Matteo Darmian": 0.2,
+    "Andy Diouf": 0.2,
+    "Davide Frattesi": 0.2,
     "Raffaele Di Gennaro": 0.0,
-    "Andy Diouf": 0.0,
     "Denzel Dumfries": 0.0,
-    "Davide Frattesi": 0.0,
     "Tomas Palacios": 0.0
   },
   "Arsenal": {
@@ -172,8 +172,8 @@
     "Mohamed Salah": 0.0
   },
   "Newcastle United": {
+    "Anthony Elanga": 0.2,
     "Dan Burn": 0.0,
-    "Anthony Elanga": 0.0,
     "Emil Krafth": 0.0,
     "Will Osula": 0.0,
     "Fabian Schar": 0.0
@@ -208,12 +208,12 @@
     "Mohammed Fuseini": 0.2
   },
   "Atalanta": {
+    "Raoul Bellanova": 0.2,
+    "Sead Kolasinac": 0.2,
+    "Gianluca Scamacca": 0.2,
     "Mitchel Bakker": 0.0,
-    "Raoul Bellanova": 0.0,
-    "Sead Kolasinac": 0.0,
     "Odilon Kossounou": 0.0,
-    "Ademola Lookman": 0.0,
-    "Gianluca Scamacca": 0.0
+    "Ademola Lookman": 0.0
   },
   "Athletic": {
     "Yuri Berchiche": 0.2,
@@ -225,10 +225,10 @@
     "Maroan Sannadi": 0.0
   },
   "Chelsea": {
+    "Romeo Lavia": 0.2,
+    "Dario Essugo": 0.2,
     "Mykhailo Mudryk": 0.0,
-    "Levi Colwill": 0.0,
-    "Romeo Lavia": 0.0,
-    "Dario Essugo": 0.0
+    "Levi Colwill": 0.0
   },
   "Pafos": {
     "Pedrao": 0.0
