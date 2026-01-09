@@ -1031,8 +1031,8 @@
           3,
           4,
           5,
-          4,
-          7
+          null,
+          4
         ],
         "points": 118,
         "pointsHome": 63,
@@ -1176,7 +1176,7 @@
           null,
           null,
           null,
-          null
+          8
         ],
         "points": 56,
         "pointsHome": 34,
@@ -1292,14 +1292,14 @@
         "playedHome": 6,
         "playedAway": 5,
         "fitness": [
-          10,
+          9,
           4,
           5,
-          3,
-          12
+          null,
+          3
         ],
-        "points": 62,
-        "pointsHome": 31,
+        "points": 61,
+        "pointsHome": 30,
         "pointsAway": 31,
         "pointsLastSeason": null
       },
@@ -1831,7 +1831,7 @@
         "id": 37999,
         "name": "Ante Vukovic",
         "slug": "ante-vukovic",
-        "teamID": 775,
+        "teamID": null,
         "position": 1,
         "price": 150000,
         "fantasyPrice": 7000000,
@@ -2152,15 +2152,15 @@
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
-          1,
+          2,
           4,
           3,
           5,
           3
         ],
-        "points": 72,
+        "points": 73,
         "pointsHome": 31,
-        "pointsAway": 41,
+        "pointsAway": 42,
         "pointsLastSeason": 30
       },
       "33845": {
@@ -2251,7 +2251,7 @@
           4,
           5,
           5,
-          null,
+          5,
           5
         ],
         "points": 114,
@@ -2275,8 +2275,8 @@
           null,
           6,
           6,
-          null,
-          6
+          6,
+          7
         ],
         "points": 113,
         "pointsHome": 68,
@@ -2749,8 +2749,8 @@
           null,
           null,
           17,
-          3,
-          0
+          null,
+          3
         ],
         "points": 38,
         "pointsHome": 29,
@@ -2797,8 +2797,8 @@
           4,
           2,
           8,
-          2,
-          18
+          null,
+          2
         ],
         "points": 101,
         "pointsHome": 39,
@@ -2846,7 +2846,7 @@
           10,
           5,
           null,
-          null
+          15
         ],
         "points": 130,
         "pointsHome": 62,
@@ -2917,8 +2917,8 @@
           5,
           1,
           4,
-          null,
-          4
+          4,
+          14
         ],
         "points": 72,
         "pointsHome": 43,
@@ -3514,10 +3514,6 @@
         "playedHome": 0,
         "playedAway": 0,
         "fitness": [
-          null,
-          null,
-          null,
-          null,
           null
         ],
         "points": 0,
@@ -3970,6 +3966,10 @@
         "playedHome": 0,
         "playedAway": 0,
         "fitness": [
+          null,
+          null,
+          null,
+          null,
           null
         ],
         "points": 0,
@@ -3994,7 +3994,7 @@
           3,
           5,
           null,
-          null
+          7
         ],
         "points": 120,
         "pointsHome": 75,
@@ -4757,8 +4757,8 @@
           1,
           3,
           3,
-          null,
-          4
+          4,
+          2
         ],
         "points": 43,
         "pointsHome": 17,
@@ -5069,8 +5069,8 @@
           7,
           5,
           6,
-          2,
-          6
+          null,
+          2
         ],
         "points": 80,
         "pointsHome": 42,
@@ -7699,8 +7699,8 @@
           null,
           8,
           5,
-          2,
-          null
+          null,
+          2
         ],
         "points": 40,
         "pointsHome": 26,
@@ -7771,8 +7771,8 @@
           -5,
           16,
           10,
-          null,
-          11
+          11,
+          9
         ],
         "points": 119,
         "pointsHome": 70,
@@ -8537,8 +8537,8 @@
           5,
           5,
           5,
-          null,
-          1
+          1,
+          9
         ],
         "points": 42,
         "pointsHome": 19,
@@ -8561,7 +8561,7 @@
           5,
           8,
           8,
-          7,
+          null,
           7
         ],
         "points": 140,
@@ -8885,7 +8885,7 @@
         "id": 31230,
         "name": "Guendouzi",
         "slug": "m-guendouzi",
-        "teamID": 140,
+        "teamID": null,
         "position": 3,
         "price": 3240000,
         "fantasyPrice": 38000000,
@@ -9182,8 +9182,8 @@
           9,
           1,
           5,
-          null,
-          5
+          5,
+          4
         ],
         "points": 79,
         "pointsHome": 36,
@@ -9302,8 +9302,8 @@
           10,
           15,
           2,
-          null,
-          1
+          1,
+          12
         ],
         "points": 80,
         "pointsHome": 58,
@@ -9755,14 +9755,14 @@
         "playedHome": 9,
         "playedAway": 8,
         "fitness": [
-          5,
+          4,
           4,
           null,
-          4,
-          3
+          null,
+          4
         ],
-        "points": 77,
-        "pointsHome": 38,
+        "points": 76,
+        "pointsHome": 37,
         "pointsAway": 39,
         "pointsLastSeason": 136
       },
@@ -10214,8 +10214,8 @@
           2,
           4,
           5,
-          null,
-          2
+          2,
+          -1
         ],
         "points": 88,
         "pointsHome": 49,
@@ -10668,10 +10668,7 @@
         "playedAway": 1,
         "fitness": [
           -1,
-          2,
-          null,
-          null,
-          null
+          2
         ],
         "points": 1,
         "pointsHome": -1,
@@ -11263,9 +11260,6 @@
         "playedAway": 0,
         "fitness": [
           null,
-          null,
-          null,
-          null,
           null
         ],
         "points": 0,
@@ -11457,8 +11451,8 @@
           null,
           3,
           null,
-          0,
-          3
+          null,
+          0
         ],
         "points": 23,
         "pointsHome": 6,
@@ -11753,6 +11747,24 @@
         "pointsAway": 0,
         "pointsLastSeason": null
       },
+      "39738": {
+        "id": 39738,
+        "name": "Petar Ratkov",
+        "slug": "petar-ratkov",
+        "teamID": 140,
+        "position": 4,
+        "price": 1110000,
+        "fantasyPrice": 12000000,
+        "status": "unknown",
+        "priceIncrement": 0,
+        "playedHome": 0,
+        "playedAway": 0,
+        "fitness": [],
+        "points": 0,
+        "pointsHome": 0,
+        "pointsAway": 0,
+        "pointsLastSeason": null
+      },
       "35158": {
         "id": 35158,
         "name": "Petar Sucic",
@@ -11769,7 +11781,7 @@
           2,
           3,
           null,
-          null,
+          2,
           2
         ],
         "points": 67,
@@ -12081,7 +12093,7 @@
           3,
           4,
           1,
-          4,
+          null,
           4
         ],
         "points": 49,
@@ -12183,6 +12195,30 @@
         "points": 64,
         "pointsHome": 33,
         "pointsAway": 31,
+        "pointsLastSeason": null
+      },
+      "39737": {
+        "id": 39737,
+        "name": "Rafiu Durosinmi",
+        "slug": "rafiu-durosinmi",
+        "teamID": 775,
+        "position": 4,
+        "price": 3380000,
+        "fantasyPrice": 22000000,
+        "status": "unknown",
+        "priceIncrement": 0,
+        "playedHome": 0,
+        "playedAway": 0,
+        "fitness": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "points": 0,
+        "pointsHome": 0,
+        "pointsAway": 0,
         "pointsLastSeason": null
       },
       "21191": {
@@ -12654,14 +12690,14 @@
         "playedHome": 10,
         "playedAway": 7,
         "fitness": [
-          9,
+          8,
           null,
           4,
-          7,
-          2
+          null,
+          7
         ],
-        "points": 103,
-        "pointsHome": 73,
+        "points": 102,
+        "pointsHome": 72,
         "pointsAway": 30,
         "pointsLastSeason": 129
       },
@@ -12825,8 +12861,8 @@
           null,
           5,
           3,
-          3,
-          9
+          null,
+          3
         ],
         "points": 68,
         "pointsHome": 29,
@@ -14810,8 +14846,8 @@
           3,
           12,
           4,
-          null,
-          4
+          4,
+          3
         ],
         "points": 67,
         "pointsHome": 32,
@@ -15309,8 +15345,8 @@
         ]
       }
     },
-    "update": 1767915660,
-    "etag": 2664905960,
+    "update": 1767927250,
+    "etag": 1949464590,
     "scoreID": 3
   },
   "meta": {
