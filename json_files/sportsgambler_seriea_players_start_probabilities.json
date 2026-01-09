@@ -144,15 +144,15 @@
   },
   "AC Milan": {
     "Mike Maignan": 0.8,
-    "Fikayo Tomori": 0.8,
     "Koni De Winter": 0.8,
-    "Davide Bartesaghi": 0.8,
+    "Matteo Gabbia": 0.8,
+    "Strahinja Pavlovic": 0.8,
     "Alexis Saelemaekers": 0.8,
     "Youssouf Fofana": 0.8,
     "Luka Modric": 0.8,
     "Adrien Rabiot": 0.8,
-    "Pervis Estupinan": 0.8,
-    "Ruben Loftus-Cheek": 0.8,
+    "Davide Bartesaghi": 0.8,
+    "Christian Pulisic": 0.8,
     "Rafael Leao": 0.8
   },
   "Verona": {
@@ -174,12 +174,12 @@
     "Mario Gila": 0.8,
     "Alessio Romagnoli": 0.8,
     "Luca Pellegrini": 0.8,
-    "Matteo Guendouzi": 0.8,
+    "Nicolo Rovella": 0.8,
     "Danilo Cataldi": 0.8,
-    "Toma Basic": 0.8,
+    "Matias Vecino": 0.8,
     "Gustav Isaksen": 0.8,
     "Matteo Cancellieri": 0.8,
-    "Mattia Zaccagni": 0.8
+    "Pedro Rodriguez": 0.8
   },
   "Inter": {
     "Yann Sommer": 0.8,
@@ -210,13 +210,13 @@
   "Genoa": {
     "Nicola Leali": 0.8,
     "A. Marcandalli": 0.8,
-    "Leo Østigard": 0.8,
-    "Johan Vásquez": 0.8,
+    "Leo Oestigard": 0.8,
+    "Johan Vasquez": 0.8,
     "Brooke Norton-Cuffy": 0.8,
     "Morten Frendrup": 0.8,
-    "Ruslan Malinovskyi": 0.8,
+    "Ruslan Malinovsky": 0.8,
     "Morten Thorsby": 0.8,
-    "Aaron Martin": 0.8,
+    "Aaron Martin Caricol": 0.8,
     "Vitinha": 0.8,
     "Lorenzo Colombo": 0.8
   },
@@ -224,9 +224,9 @@
     "Elia Caprile": 0.8,
     "Sebastiano Luperto": 0.8,
     "Yerry Mina": 0.8,
-    "Juan Rodríguez": 0.8,
+    "Juan Rodriguez": 0.8,
     "Marco Palestra": 0.8,
-    "Michel Adopo": 0.8,
+    "Michel Ndary Adopo": 0.8,
     "Matteo Prati": 0.8,
     "Gabriele Zappa": 0.8,
     "Zito Luvumbo": 0.8,
@@ -236,10 +236,10 @@
   "Juventus": {
     "Michele Di Gregorio": 0.8,
     "Pierre Kalulu": 0.8,
-    "Bremer": 0.8,
+    "Gleison Bremer": 0.8,
     "Teun Koopmeiners": 0.8,
     "Weston McKennie": 0.8,
-    "Khéphren Thuram": 0.8,
+    "K. Thuram-Ulien": 0.8,
     "Manuel Locatelli": 0.8,
     "Andrea Cambiaso": 0.8,
     "Fabio Miretti": 0.8,
@@ -253,10 +253,10 @@
     "Matteo Bianchetti": 0.8,
     "R. F. Mussolini": 0.8,
     "Warren Bondo": 0.8,
-    "Martín Payero": 0.8,
+    "Martin Payero": 0.8,
     "Giuseppe Pezzella": 0.8,
     "Federico Bonazzoli": 0.8,
     "Jamie Vardy": 0.8,
-    "Dennis Johnsen": 0.8
+    "D. Toerset Johnsen": 0.8
   }
 }

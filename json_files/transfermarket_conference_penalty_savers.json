@@ -462,6 +462,19 @@
       false,
       true
     ],
+    "İrfan Can Eğribayat": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
     "Albert Posiadala": [
       false,
       false,
@@ -1502,6 +1515,34 @@
       false
     ]
   },
+  "Hamrun Spartans": {
+    "Henry Bonello": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Célio": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
   "Shamrock Rovers": {
     "Ed McGinty": [
       false,
@@ -1548,34 +1589,6 @@
       false,
       false,
       false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "Hamrun Spartans": {
-    "Henry Bonello": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Célio": [
-      false,
-      false,
-      false,
-      false,
-      true,
       false,
       false,
       false,
