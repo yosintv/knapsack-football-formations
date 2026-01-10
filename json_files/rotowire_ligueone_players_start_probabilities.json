@@ -1,12 +1,12 @@
 {
   "Monaco": {
-    "Lamine Camara": 0.2,
     "Vanderson": 0.5,
     "Ansu Fati": 0.2,
     "Paul Pogba": 0.2,
     "Mamadou Coulibaly": 0.0,
     "Thilo Kehrer": 0.0,
     "Pape Cabral": 0.0,
+    "Lamine Camara": 0.0,
     "Krepin Diatta": 0.0,
     "Lukas Hradecky": 0.0,
     "Christian Mawissa Elebi": 0.0,
@@ -61,9 +61,9 @@
     "Ousmane Dembele": 0.8
   },
   "Lille": {
-    "Hamza Igamane": 0.2,
     "Aissa Mandi": 0.2,
     "Ethan Mbappe": 0.2,
+    "Hamza Igamane": 0.0,
     "Ousmane Toure": 0.0,
     "Berke Ozer": 0.8,
     "Romain Perraud": 0.8,
@@ -136,13 +136,13 @@
   "Nice": {
     "Jeremie Boga": 0.2,
     "Hicham Boudaoui": 0.2,
-    "Yehvann Diouf": 0.2,
     "Isak Jansson": 0.2,
-    "Antoine Mendy": 0.2,
     "Terem Moffi": 0.2,
     "Kevin Carlos": 0.2,
     "Mohamed Abdelmonem": 0.0,
     "Moise Bombito": 0.0,
+    "Yehvann Diouf": 0.0,
+    "Antoine Mendy": 0.0,
     "Youssouf Ndayishimiye": 0.0,
     "Maxime Dupe": 0.8,
     "Melvin Bard": 0.8,
@@ -204,12 +204,12 @@
     "Joaquin Panichelli": 0.8
   },
   "Metz": {
-    "Habib Diallo": 0.2,
     "Jean-Philippe Gbamin": 0.2,
     "Joseph Mangondo": 0.2,
-    "Cheikh Tidiane Sabaly": 0.2,
     "Pape Sy": 0.2,
     "Koffi Kouao": 0.0,
+    "Habib Diallo": 0.0,
+    "Cheikh Tidiane Sabaly": 0.0,
     "Jonathan Fischer": 0.8,
     "Fode Ballo-Toure": 0.8,
     "Urie-Michel Mboula": 0.8,
@@ -276,12 +276,12 @@
     "Esteban Lepaul": 0.8
   },
   "Le Havre": {
-    "Mory Diaw": 0.2,
     "Fode Doucoure": 0.2,
     "Reda Jousef Khadra": 0.2,
     "Abdoulaye Toure": 0.2,
     "Etienne Youte": 0.2,
     "Stephan Zagadou": 0.2,
+    "Mory Diaw": 0.0,
     "Paul Argney": 0.8,
     "Yanis Zouaoui": 0.8,
     "Gautier Lloris": 0.8,
@@ -296,9 +296,9 @@
   },
   "Lyon": {
     "Endrick": 0.2,
-    "Moussa Niakhate": 0.2,
     "Corentin Tolisso": 0.0,
     "Malick Fofana": 0.0,
+    "Moussa Niakhate": 0.0,
     "Ernest Nuamah": 0.0,
     "Dominik Greif": 0.8,
     "Nicolas Tagliafico": 0.8,
