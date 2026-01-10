@@ -50,7 +50,7 @@
     "Dominic Solanke": 0.0
   },
   "Borussia Dortmund": {
-    "Aaron Anselmino": 0.0,
+    "Aaron Anselmino": 0.2,
     "Ramy Bensebaini": 0.0
   },
   "Sporting CP": {
@@ -63,10 +63,10 @@
     "Eduardo Quaresma": 0.0
   },
   "PSG": {
-    "Ibrahim Mbaye": 0.2,
     "Lucas Hernandez": 0.0,
     "Achraf Hakimi": 0.0,
     "Kang-In Lee": 0.0,
+    "Ibrahim Mbaye": 0.0,
     "Quentin Ndjantou": 0.0,
     "Matvey Safonov": 0.0
   },
@@ -79,11 +79,11 @@
     "Eder Militao": 0.0
   },
   "Monaco": {
-    "Lamine Camara": 0.2,
     "Vanderson": 0.2,
     "Ansu Fati": 0.2,
     "Paul Pogba": 0.2,
     "Pape Cabral": 0.0,
+    "Lamine Camara": 0.0,
     "Krepin Diatta": 0.0,
     "Lukas Hradecky": 0.0,
     "Christian Mawissa Elebi": 0.0,
@@ -124,10 +124,10 @@
   },
   "Napoli": {
     "Sam Beukema": 0.2,
-    "Billy Gilmour": 0.2,
     "David Neres": 0.2,
     "Frank Anguissa": 0.0,
     "Kevin De Bruyne": 0.0,
+    "Billy Gilmour": 0.0,
     "Romelu Lukaku": 0.0
   },
   "Qarabag": {
@@ -135,12 +135,12 @@
     "Shakhrudin Magomedaliyev": 0.2
   },
   "Eintracht Frankfurt": {
-    "Jean-Matteo Bahoya": 0.0,
+    "Jean-Matteo Bahoya": 0.2,
+    "Jonathan Burkardt": 0.2,
+    "Ellyes Skhiri": 0.2,
     "Michy Batshuayi": 0.0,
     "Elias Baum": 0.0,
-    "Jonathan Burkardt": 0.0,
-    "Fares Chaibi": 0.0,
-    "Ellyes Skhiri": 0.0
+    "Fares Chaibi": 0.0
   },
   "Galatasaray": {
     "Wilfried Singo": 0.2,
@@ -211,10 +211,10 @@
     "Mohammed Fuseini": 0.2
   },
   "Atalanta": {
+    "Sead Kolasinac": 0.2,
     "Gianluca Scamacca": 0.2,
     "Mitchel Bakker": 0.0,
     "Raoul Bellanova": 0.0,
-    "Sead Kolasinac": 0.0,
     "Odilon Kossounou": 0.0,
     "Ademola Lookman": 0.0
   },
