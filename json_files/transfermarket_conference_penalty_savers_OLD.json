@@ -1096,16 +1096,16 @@
   },
   "Aberdeen FC": {
     "Dimitar Mitov": [
-      true,
-      false,
-      false,
-      false,
-      false,
       false,
       true,
       false,
+      false,
+      false,
+      false,
+      false,
       true,
       false,
+      true,
       false
     ],
     "Nick Suman": [
@@ -1611,6 +1611,19 @@
       true,
       false
     ],
+    "Hemmo Riihimäki": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
     "Miilo Pitkänen": [
       false,
       false,
@@ -1680,6 +1693,19 @@
     ]
   },
   "Shelbourne FC": {
+    "Wessel Speel": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
     "Conor Walsh": [
       false,
       false,
@@ -1740,19 +1766,6 @@
       false,
       false,
       true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Wessel Speel": [
-      true,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
       false,
       false,
       false,
