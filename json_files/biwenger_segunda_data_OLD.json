@@ -15633,8 +15633,8 @@
         ]
       }
     },
-    "update": 1768276810,
-    "etag": 1894062658,
+    "update": 1768274525,
+    "etag": 2273237987,
     "scoreID": 1
   },
   "meta": {
@@ -17204,7 +17204,7 @@
             "kind": "SofaScore"
           }
         ],
-        "config": []
+        "config": {}
       },
       {
         "id": 41,
@@ -17248,7 +17248,7 @@
             "kind": "Average"
           }
         ],
-        "config": []
+        "config": {}
       },
       {
         "id": 59,
@@ -17273,7 +17273,7 @@
             "kind": "Average"
           }
         ],
-        "config": []
+        "config": {}
       }
     ]
   }
