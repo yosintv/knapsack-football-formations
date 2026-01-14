@@ -85,16 +85,18 @@
   },
   "Chelsea": {
     "Sanchez": 0.8,
-    "James": 0.8,
+    "James": 0.75,
     "Fofana": 0.8,
     "Chalobah": 0.8,
     "Cucurella": 0.8,
     "Fernández": 0.8,
     "Moises Caicedo": 0.8,
     "Neto": 0.8,
-    "Palmer": 0.8,
+    "Palmer": 0.75,
     "Garnacho": 0.8,
-    "Delap": 0.8
+    "Delap": 0.75,
+    "Gittens": 0.75,
+    "Gusto": 0.75
   },
   "Crystal Palace": {
     "Henderson": 0.8,
