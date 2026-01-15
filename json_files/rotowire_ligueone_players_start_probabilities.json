@@ -1,11 +1,12 @@
 {
   "Monaco": {
     "Folarin Balogun": 0.5,
-    "Vanderson": 0.5,
+    "Vanderson": 0.2,
     "Ansu Fati": 0.2,
     "Mamadou Coulibaly": 0.0,
     "Stanis Idumbo Muzambo": 0.0,
     "Thilo Kehrer": 0.0,
+    "Aladji Bamba": 0.0,
     "Pape Cabral": 0.0,
     "Lamine Camara": 0.0,
     "Krepin Diatta": 0.0,
@@ -18,6 +19,7 @@
     "Caio Henrique": 0.8,
     "Eric Dier": 0.8,
     "Wout Faes": 0.8,
+    "Kassoum Ouattara": 0.8,
     "Jordan Teze": 0.8,
     "Aleksandr Golovin": 0.8,
     "Denis Zakaria": 0.8,
@@ -25,10 +27,12 @@
     "Mika Biereth": 0.8
   },
   "Lorient": {
-    "Isaak Toure": 0.2,
-    "Darlene Yongwa": 0.2,
+    "Sambou Soumano": 0.2,
+    "Abdoulaye Faye": 0.0,
     "Panos Katseris": 0.0,
     "Aiyegun Tosin": 0.0,
+    "Isaak Toure": 0.0,
+    "Darlene Yongwa": 0.0,
     "Yvon Mvogo": 0.8,
     "Montassar Talbi": 0.8,
     "Igor Silva": 0.8,
@@ -39,7 +43,7 @@
     "Joel Mvuka": 0.8,
     "Pablo Pagis": 0.8,
     "Jean-Victor Makengo": 0.8,
-    "Sambou Soumano": 0.8
+    "Ahmadou Bamba Dieng": 0.8
   },
   "PSG": {
     "Achraf Hakimi": 0.0,
@@ -101,11 +105,11 @@
     "Rudy Matondo": 0.0,
     "Donovan Leon": 0.8,
     "Fredrik Oppegard": 0.8,
-    "Clement Akpa": 0.8,
     "Sinaly Diomande": 0.8,
+    "Clement Akpa": 0.8,
     "Lamine Sy": 0.8,
-    "Kevin Danois": 0.8,
     "Oussama El Azzouzi": 0.8,
+    "Kevin Danois": 0.8,
     "Assane Diousse": 0.8,
     "Danny Loader": 0.8,
     "Lassine Sinayoko": 0.8,

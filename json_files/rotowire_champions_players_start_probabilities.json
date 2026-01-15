@@ -90,15 +90,14 @@
   },
   "Ajax": {
     "Steven Berghuis": 0.2,
-    "Anton Gaaei": 0.2,
     "James McConnell": 0.2,
-    "Youri Regeer": 0.5,
     "Wout Weghorst": 0.2,
     "Vitezslav Jaros": 0.8,
     "Youri Baas": 0.8,
     "Josip Sutalo": 0.8,
     "Ko Itakura": 0.8,
     "Lucas Rosa": 0.8,
+    "Youri Regeer": 0.8,
     "Sean Steur": 0.8,
     "Davy Klaassen": 0.8,
     "Raul Moro": 0.8,
@@ -198,6 +197,7 @@
     "Folarin Balogun": 0.5,
     "Vanderson": 0.2,
     "Ansu Fati": 0.2,
+    "Aladji Bamba": 0.0,
     "Pape Cabral": 0.0,
     "Lamine Camara": 0.0,
     "Krepin Diatta": 0.0,
@@ -250,10 +250,10 @@
     "Malik Tillman": 0.8
   },
   "Inter": {
+    "Josep Martinez": 0.2,
     "Hakan Calhanoglu": 0.0,
     "Raffaele Di Gennaro": 0.0,
     "Denzel Dumfries": 0.0,
-    "Josep Martinez": 0.0,
     "Tomas Palacios": 0.0,
     "Yann Sommer": 0.8,
     "Manuel Akanji": 0.8,
@@ -300,12 +300,12 @@
     "Viktor Dadason": 0.8
   },
   "Napoli": {
+    "Billy Gilmour": 0.2,
+    "Alex Meret": 0.2,
     "David Neres": 0.5,
     "Frank Anguissa": 0.0,
     "Kevin De Bruyne": 0.0,
-    "Billy Gilmour": 0.0,
     "Romelu Lukaku": 0.0,
-    "Alex Meret": 0.0,
     "Vanja Milinkovic-Savic": 0.8,
     "Giovanni Di Lorenzo": 0.8,
     "Alessandro Buongiorno": 0.8,
@@ -467,6 +467,7 @@
     "Nick Woltemade": 0.8
   },
   "PSV Eindhoven": {
+    "Dennis Man": 0.5,
     "Myron Boadu": 0.0,
     "Alassane Plea": 0.0,
     "Ruben van Bommel": 0.0,
@@ -478,7 +479,6 @@
     "Ivan Perisic": 0.8,
     "Mauro Junior": 0.8,
     "Joey Veerman": 0.8,
-    "Dennis Man": 0.8,
     "Guus Til": 0.8,
     "Ismael Saibari": 0.8
   },
