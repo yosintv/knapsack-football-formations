@@ -1516,19 +1516,6 @@
     ]
   },
   "FC Viktoria Plzen": {
-    "Martin Jedlicka": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
     "Florian Wiegele": [
       false,
       false,
@@ -1537,6 +1524,19 @@
       false,
       false,
       true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Dominik Tapaj": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
       false,
       false,
       false,
@@ -1565,6 +1565,19 @@
       false,
       false,
       false,
+      false,
+      false
+    ],
+    "Martin Jedlicka": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
       false,
       false
     ]
