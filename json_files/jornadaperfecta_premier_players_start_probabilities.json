@@ -1,6 +1,6 @@
 {
-  "Fc Brentford": {},
-  "Manchester United": {},
+  "West Ham United": {},
+  "Fulham": {},
   "Afc Bournemouth": {
     "Evanilson": 0.8,
     "Tavernier": 0.8,
@@ -14,20 +14,20 @@
     "Á. Jiménez": 0.8,
     "Petrovic": 0.8
   },
-  "Arsenal": {},
-  "Chelsea": {},
-  "Leeds United": {},
-  "Newcastle": {},
-  "Manchester City": {},
-  "Fulham": {},
-  "Sunderland": {},
-  "Aston Villa": {},
-  "Liverpool": {},
-  "Tottenham Hotspur": {},
-  "Nottingham Forest": {},
-  "West Ham United": {},
-  "Wolverhampton": {},
   "Everton": {},
+  "Wolverhampton": {},
+  "Fc Brentford": {},
+  "Arsenal": {},
+  "Sunderland": {},
+  "Leeds United": {},
+  "Burnley": {},
+  "Tottenham Hotspur": {},
+  "Chelsea": {},
+  "Liverpool": {},
+  "Nottingham Forest": {},
+  "Aston Villa": {},
+  "Newcastle": {},
+  "Manchester United": {},
   "Brighton & Hove Albion": {
     "Welbeck": 0.8,
     "Mitoma": 0.8,
@@ -41,6 +41,6 @@
     "Veltman": 0.8,
     "Verbruggen": 0.8
   },
-  "Crystal Palace": {},
-  "Burnley": {}
+  "Manchester City": {},
+  "Crystal Palace": {}
 }
