@@ -1,4 +1,8 @@
 {
+  "Cd Castellon": {},
+  "Ceuta": {},
+  "Cádiz": {},
+  "Fc Andorra": {},
   "Eibar": {
     "J. Bautista": 0.8,
     "J. Corpas": 0.8,
@@ -12,13 +16,18 @@
     "Á. Rodríguez": 0.8,
     "J. Magunagoitia": 0.8
   },
-  "Racing": {},
-  "Almería": {},
-  "Málaga": {},
-  "Mirandes": {},
-  "Cultural Leonesa": {},
-  "Albacete": {},
+  "Leganés": {},
+  "Burgos Cf": {},
+  "Real Valladolid": {},
+  "Córdoba": {},
   "Sporting": {},
+  "Las Palmas": {},
+  "Mirandes": {},
+  "Almería": {},
+  "Cultural Leonesa": {},
+  "Real Sociedad B": {},
+  "Albacete": {},
+  "Racing": {},
   "Granada": {
     "S. Rodelas": 0.8,
     "J. Pascual": 0.7,
@@ -32,17 +41,8 @@
     "O. Naasei": 0.8,
     "L. Zidane": 0.8
   },
-  "Burgos Cf": {},
-  "Real Sociedad B": {},
-  "Ceuta": {},
-  "Leganés": {},
+  "Málaga": {},
   "Zaragoza": {},
-  "Córdoba": {},
   "Deportivo": {},
-  "Fc Andorra": {},
-  "Cádiz": {},
-  "Cd Castellon": {},
-  "Huesca": {},
-  "Las Palmas": {},
-  "Real Valladolid": {}
+  "Huesca": {}
 }
