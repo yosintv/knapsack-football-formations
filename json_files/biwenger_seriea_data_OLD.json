@@ -174,7 +174,7 @@
           "id": 4622,
           "name": "Round 21",
           "short": "R21",
-          "status": "active"
+          "status": "finished"
         },
         {
           "id": 4623,
@@ -285,191 +285,7 @@
         "slug": "2025-2026"
       }
     },
-    "activeEvents": [
-      {
-        "id": 4622,
-        "name": "Round 21",
-        "short": "R21",
-        "status": "active",
-        "end": 1768924800,
-        "type": "round",
-        "games": [
-          {
-            "id": 47550,
-            "date": 1768851900,
-            "status": "finished",
-            "home": {
-              "id": 140,
-              "name": "Lazio",
-              "slug": "lazio",
-              "score": 0
-            },
-            "away": {
-              "id": 703,
-              "name": "Como",
-              "slug": "como",
-              "score": 3
-            }
-          },
-          {
-            "id": 47551,
-            "date": 1768843800,
-            "status": "finished",
-            "home": {
-              "id": 640,
-              "name": "Cremonese",
-              "slug": "cremonese",
-              "score": 0
-            },
-            "away": {
-              "id": 282,
-              "name": "Verona",
-              "slug": "verona",
-              "score": 0
-            }
-          },
-          {
-            "id": 47549,
-            "date": 1768765500,
-            "status": "finished",
-            "home": {
-              "id": 149,
-              "name": "Milan",
-              "slug": "milan",
-              "score": 1
-            },
-            "away": {
-              "id": 470,
-              "name": "Lecce",
-              "slug": "lecce",
-              "score": 0
-            }
-          },
-          {
-            "id": 47546,
-            "date": 1768755600,
-            "status": "finished",
-            "home": {
-              "id": 143,
-              "name": "Torino",
-              "slug": "torino",
-              "score": 0
-            },
-            "away": {
-              "id": 150,
-              "name": "Roma",
-              "slug": "roma",
-              "score": 2
-            }
-          },
-          {
-            "id": 47553,
-            "date": 1768744800,
-            "status": "finished",
-            "home": {
-              "id": 137,
-              "name": "Bologna",
-              "slug": "bologna",
-              "score": 1
-            },
-            "away": {
-              "id": 132,
-              "name": "Fiorentina",
-              "slug": "fiorentina",
-              "score": 2
-            }
-          },
-          {
-            "id": 47548,
-            "date": 1768735800,
-            "status": "finished",
-            "home": {
-              "id": 415,
-              "name": "Parma Calcio",
-              "slug": "parma-calcio",
-              "score": 0
-            },
-            "away": {
-              "id": 142,
-              "name": "Genoa",
-              "slug": "genoa",
-              "score": 0
-            }
-          },
-          {
-            "id": 47552,
-            "date": 1768679100,
-            "status": "finished",
-            "home": {
-              "id": 134,
-              "name": "Cagliari",
-              "slug": "cagliari",
-              "score": 1
-            },
-            "away": {
-              "id": 151,
-              "name": "Juventus",
-              "slug": "juventus",
-              "score": 0
-            }
-          },
-          {
-            "id": 47547,
-            "date": 1768669200,
-            "status": "finished",
-            "home": {
-              "id": 138,
-              "name": "Napoli",
-              "slug": "napoli",
-              "score": 1
-            },
-            "away": {
-              "id": 146,
-              "name": "Sassuolo",
-              "slug": "sassuolo",
-              "score": 0
-            }
-          },
-          {
-            "id": 47544,
-            "date": 1768658400,
-            "status": "finished",
-            "home": {
-              "id": 141,
-              "name": "Udinese",
-              "slug": "udinese",
-              "score": 0
-            },
-            "away": {
-              "id": 145,
-              "name": "Inter",
-              "slug": "inter",
-              "score": 1
-            }
-          },
-          {
-            "id": 47545,
-            "date": 1768592700,
-            "status": "finished",
-            "home": {
-              "id": 775,
-              "name": "Pisa",
-              "slug": "pisa",
-              "score": 1
-            },
-            "away": {
-              "id": 148,
-              "name": "Atalanta",
-              "slug": "atalanta",
-              "score": 1
-            }
-          }
-        ],
-        "pool": {
-          "id": 596085
-        }
-      }
-    ],
+    "activeEvents": [],
     "players": {
       "38524": {
         "id": 38524,
@@ -480,7 +296,7 @@
         "price": 490000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 7,
         "fitness": [
@@ -504,7 +320,7 @@
         "price": 310000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 6,
         "fitness": [
@@ -552,7 +368,7 @@
         "price": 1820000,
         "fantasyPrice": 25000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 8,
         "fitness": [
@@ -621,10 +437,10 @@
         "slug": "a-circati",
         "teamID": 415,
         "position": 2,
-        "price": 2760000,
+        "price": 2900000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": 290000,
+        "priceIncrement": 140000,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -669,7 +485,7 @@
         "slug": "a-douvikas",
         "teamID": 703,
         "position": 4,
-        "price": 3310000,
+        "price": 3270000,
         "fantasyPrice": 13000000,
         "status": "unknown",
         "priceIncrement": -40000,
@@ -696,7 +512,7 @@
         "price": 2410000,
         "fantasyPrice": 29000000,
         "status": "unknown",
-        "priceIncrement": 60000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 11,
         "fitness": [
@@ -741,10 +557,10 @@
         "slug": "a-marcandalli",
         "teamID": 142,
         "position": 2,
-        "price": 200000,
+        "price": 240000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 40000,
         "playedHome": 7,
         "playedAway": 8,
         "fitness": [
@@ -885,10 +701,10 @@
         "slug": "a-zambo-anguissa",
         "teamID": 138,
         "position": 3,
-        "price": 5370000,
+        "price": 5410000,
         "fantasyPrice": 43000000,
         "status": "unknown",
-        "priceIncrement": -110000,
+        "priceIncrement": 40000,
         "playedHome": 5,
         "playedAway": 6,
         "fitness": [
@@ -909,10 +725,10 @@
         "slug": "a-zanoli",
         "teamID": 141,
         "position": 3,
-        "price": 1090000,
+        "price": 1080000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -10000,
         "playedHome": 10,
         "playedAway": 8,
         "fitness": [
@@ -967,7 +783,7 @@
           4,
           null,
           null,
-          null,
+          1,
           1
         ],
         "points": 18,
@@ -981,10 +797,10 @@
         "slug": "acerbi",
         "teamID": 145,
         "position": 2,
-        "price": 2290000,
+        "price": 2270000,
         "fantasyPrice": 16000000,
         "status": "unknown",
-        "priceIncrement": 120000,
+        "priceIncrement": -20000,
         "playedHome": 7,
         "playedAway": 6,
         "fitness": [
@@ -1008,7 +824,7 @@
         "price": 330000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 7,
         "fitness": [
@@ -1029,10 +845,10 @@
         "slug": "adam-obert",
         "teamID": 134,
         "position": 2,
-        "price": 1170000,
+        "price": 1180000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 10000,
         "playedHome": 9,
         "playedAway": 10,
         "fitness": [
@@ -1056,7 +872,7 @@
         "price": 4470000,
         "fantasyPrice": 66000000,
         "status": "unknown",
-        "priceIncrement": -90000,
+        "priceIncrement": 0,
         "playedHome": 6,
         "playedAway": 5,
         "fitness": [
@@ -1080,7 +896,7 @@
         "price": 1780000,
         "fantasyPrice": 10000000,
         "status": "ok",
-        "priceIncrement": -60000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -1101,10 +917,10 @@
         "slug": "adrien-rabiot",
         "teamID": 149,
         "position": 3,
-        "price": 5230000,
+        "price": 5290000,
         "fantasyPrice": 46000000,
         "status": "unknown",
-        "priceIncrement": 90000,
+        "priceIncrement": 60000,
         "playedHome": 7,
         "playedAway": 7,
         "fitness": [
@@ -1221,10 +1037,10 @@
         "slug": "alberto-paleari",
         "teamID": 143,
         "position": 1,
-        "price": 1020000,
+        "price": 1040000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": 40000,
+        "priceIncrement": 20000,
         "playedHome": 7,
         "playedAway": 5,
         "fitness": [
@@ -1371,10 +1187,10 @@
         "playedAway": 4,
         "fitness": [
           null,
-          3,
           null,
           null,
-          null
+          null,
+          3
         ],
         "points": 16,
         "pointsHome": 6,
@@ -1387,7 +1203,7 @@
         "slug": "alex-valle",
         "teamID": 703,
         "position": 2,
-        "price": 1310000,
+        "price": 1300000,
         "fantasyPrice": 11000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -1435,7 +1251,7 @@
         "slug": "alieu-fadera",
         "teamID": 146,
         "position": 4,
-        "price": 1330000,
+        "price": 1320000,
         "fantasyPrice": 16000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -1462,7 +1278,7 @@
         "price": 260000,
         "fantasyPrice": 8000000,
         "status": "ok",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 3,
         "playedAway": 3,
         "fitness": [
@@ -1531,10 +1347,10 @@
         "slug": "amir-rrahmani",
         "teamID": 138,
         "position": 2,
-        "price": 3400000,
+        "price": 3420000,
         "fantasyPrice": 29000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 20000,
         "playedHome": 7,
         "playedAway": 7,
         "fitness": [
@@ -1555,10 +1371,10 @@
         "slug": "andrea-cambiaso",
         "teamID": 151,
         "position": 2,
-        "price": 4440000,
+        "price": 4400000,
         "fantasyPrice": 25000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -40000,
         "playedHome": 9,
         "playedAway": 10,
         "fitness": [
@@ -1603,10 +1419,10 @@
         "slug": "ange-yoan-bonny",
         "teamID": 145,
         "position": 4,
-        "price": 2490000,
+        "price": 2530000,
         "fantasyPrice": 30000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": 40000,
         "playedHome": 9,
         "playedAway": 7,
         "fitness": [
@@ -1675,10 +1491,10 @@
         "slug": "antoine-bernede",
         "teamID": 282,
         "position": 3,
-        "price": 1380000,
+        "price": 1390000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 10000,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -1699,10 +1515,10 @@
         "slug": "antonino-gallo",
         "teamID": 470,
         "position": 2,
-        "price": 1390000,
+        "price": 1380000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": -10000,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -1750,7 +1566,7 @@
         "price": 1070000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 7,
         "fitness": [
@@ -1771,10 +1587,10 @@
         "slug": "ardon-jashari",
         "teamID": 149,
         "position": 3,
-        "price": 770000,
+        "price": 790000,
         "fantasyPrice": 28000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 20000,
         "playedHome": 3,
         "playedAway": 2,
         "fitness": [
@@ -1798,7 +1614,7 @@
         "price": 3040000,
         "fantasyPrice": 19000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 11,
         "fitness": [
@@ -1819,10 +1635,10 @@
         "slug": "artem-dovbyk",
         "teamID": 150,
         "position": 4,
-        "price": 1270000,
+        "price": 1260000,
         "fantasyPrice": 38000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": -10000,
         "playedHome": 6,
         "playedAway": 7,
         "fitness": [
@@ -1843,7 +1659,7 @@
         "slug": "arthur-atta",
         "teamID": 141,
         "position": 3,
-        "price": 2570000,
+        "price": 2550000,
         "fantasyPrice": 8000000,
         "status": "unknown",
         "priceIncrement": -20000,
@@ -1915,10 +1731,10 @@
         "slug": "audero",
         "teamID": 640,
         "position": 1,
-        "price": 1970000,
+        "price": 2250000,
         "fantasyPrice": 10000000,
         "status": "ok",
-        "priceIncrement": -10000,
+        "priceIncrement": 280000,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -1947,10 +1763,10 @@
         "playedAway": 3,
         "fitness": [
           null,
-          1,
           null,
           2,
-          null
+          null,
+          0
         ],
         "points": 17,
         "pointsHome": 8,
@@ -1963,10 +1779,10 @@
         "slug": "b-norton-cuffy",
         "teamID": 142,
         "position": 2,
-        "price": 1830000,
+        "price": 1810000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -20000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -2038,7 +1854,7 @@
         "price": 10560000,
         "fantasyPrice": 54000000,
         "status": "unknown",
-        "priceIncrement": -100000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -2107,7 +1923,7 @@
         "slug": "ben-godfrey",
         "teamID": 148,
         "position": 2,
-        "price": 1270000,
+        "price": 1260000,
         "fantasyPrice": 14000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -2140,9 +1956,9 @@
         "fitness": [
           3,
           null,
-          null,
           2,
-          null
+          null,
+          0
         ],
         "points": 8,
         "pointsHome": 5,
@@ -2155,10 +1971,10 @@
         "slug": "berardi-d",
         "teamID": 146,
         "position": 4,
-        "price": 3730000,
+        "price": 3680000,
         "fantasyPrice": 22000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": -50000,
         "playedHome": 6,
         "playedAway": 5,
         "fitness": [
@@ -2227,7 +2043,7 @@
         "slug": "billy-gilmour",
         "teamID": 138,
         "position": 3,
-        "price": 1010000,
+        "price": 1000000,
         "fantasyPrice": 20000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -2275,10 +2091,10 @@
         "slug": "bonazzoli-f",
         "teamID": 640,
         "position": 4,
-        "price": 2600000,
+        "price": 2580000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -20000,
         "playedHome": 7,
         "playedAway": 11,
         "fitness": [
@@ -2323,10 +2139,10 @@
         "slug": "boulaye-dia",
         "teamID": 140,
         "position": 4,
-        "price": 1120000,
+        "price": 1110000,
         "fantasyPrice": 31000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -10000,
         "playedHome": 6,
         "playedAway": 7,
         "fitness": [
@@ -2347,10 +2163,10 @@
         "slug": "bremer",
         "teamID": 151,
         "position": 2,
-        "price": 3140000,
+        "price": 3160000,
         "fantasyPrice": 23000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 20000,
         "playedHome": 6,
         "playedAway": 5,
         "fitness": [
@@ -2371,7 +2187,7 @@
         "slug": "brenner",
         "teamID": 141,
         "position": 4,
-        "price": 1330000,
+        "price": 1320000,
         "fantasyPrice": 13000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -2420,7 +2236,7 @@
         "price": 9560000,
         "fantasyPrice": 45000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -2468,7 +2284,7 @@
         "price": 700000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 7,
         "fitness": [
@@ -2516,7 +2332,7 @@
         "price": 160000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 2,
         "playedAway": 2,
         "fitness": [
@@ -2537,10 +2353,10 @@
         "slug": "c-nkunku",
         "teamID": 149,
         "position": 4,
-        "price": 3000000,
+        "price": 2980000,
         "fantasyPrice": 36000000,
         "status": "unknown",
-        "priceIncrement": 160000,
+        "priceIncrement": -20000,
         "playedHome": 7,
         "playedAway": 8,
         "fitness": [
@@ -2588,7 +2404,7 @@
         "price": 12300000,
         "fantasyPrice": 68000000,
         "status": "unknown",
-        "priceIncrement": 30000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 8,
         "fitness": [
@@ -2633,10 +2449,10 @@
         "slug": "calhanoglu",
         "teamID": 145,
         "position": 3,
-        "price": 10320000,
+        "price": 10270000,
         "fantasyPrice": 49000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -50000,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -2684,7 +2500,7 @@
         "price": 950000,
         "fantasyPrice": 7000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -2708,7 +2524,7 @@
         "price": 2240000,
         "fantasyPrice": 22000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -2753,10 +2569,10 @@
         "slug": "cataldi",
         "teamID": 140,
         "position": 3,
-        "price": 1760000,
+        "price": 1750000,
         "fantasyPrice": 16000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -10000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -2828,7 +2644,7 @@
         "price": 1210000,
         "fantasyPrice": 17000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -2849,7 +2665,7 @@
         "slug": "che-adams",
         "teamID": 143,
         "position": 4,
-        "price": 2260000,
+        "price": 2240000,
         "fantasyPrice": 28000000,
         "status": "unknown",
         "priceIncrement": -20000,
@@ -2881,10 +2697,10 @@
         "playedAway": 7,
         "fitness": [
           null,
-          4,
           1,
           10,
-          null
+          null,
+          5
         ],
         "points": 44,
         "pointsHome": 20,
@@ -2948,7 +2764,7 @@
         "price": 410000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 0,
         "playedAway": 0,
         "fitness": [
@@ -2996,7 +2812,7 @@
         "price": 3390000,
         "fantasyPrice": 24000000,
         "status": "unknown",
-        "priceIncrement": -50000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 11,
         "fitness": [
@@ -3164,7 +2980,7 @@
         "price": 740000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": 40000,
+        "priceIncrement": 0,
         "playedHome": 4,
         "playedAway": 3,
         "fitness": [
@@ -3406,8 +3222,8 @@
           0,
           null,
           null,
-          1,
-          2
+          null,
+          1
         ],
         "points": 12,
         "pointsHome": 4,
@@ -3423,7 +3239,7 @@
         "price": 830000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -3444,10 +3260,10 @@
         "slug": "david-de-gea",
         "teamID": 132,
         "position": 1,
-        "price": 2860000,
+        "price": 2920000,
         "fantasyPrice": 20000000,
         "status": "unknown",
-        "priceIncrement": 180000,
+        "priceIncrement": 60000,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -3503,7 +3319,7 @@
           null,
           null,
           null,
-          null
+          3
         ],
         "points": 3,
         "pointsHome": 3,
@@ -3543,7 +3359,7 @@
         "price": 4190000,
         "fantasyPrice": 7000000,
         "status": "ok",
-        "priceIncrement": -60000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -3564,10 +3380,10 @@
         "slug": "de-roon",
         "teamID": 148,
         "position": 3,
-        "price": 3620000,
+        "price": 3730000,
         "fantasyPrice": 34000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 110000,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -3591,7 +3407,7 @@
         "price": 190000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 2,
         "playedAway": 5,
         "fitness": [
@@ -3684,7 +3500,7 @@
         "slug": "denzel-dumfries",
         "teamID": 145,
         "position": 3,
-        "price": 2160000,
+        "price": 2140000,
         "fantasyPrice": 44000000,
         "status": "unknown",
         "priceIncrement": -20000,
@@ -3756,18 +3572,18 @@
         "slug": "diego-carlos",
         "teamID": 703,
         "position": 2,
-        "price": 1700000,
+        "price": 1690000,
         "fantasyPrice": 19000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -10000,
         "playedHome": 7,
         "playedAway": 8,
         "fitness": [
           5,
-          1,
           4,
           null,
-          null
+          null,
+          0
         ],
         "points": 60,
         "pointsHome": 29,
@@ -3800,10 +3616,10 @@
         "slug": "dimarco",
         "teamID": 145,
         "position": 3,
-        "price": 8020000,
+        "price": 8030000,
         "fantasyPrice": 55000000,
         "status": "unknown",
-        "priceIncrement": -70000,
+        "priceIncrement": 10000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -3824,10 +3640,10 @@
         "slug": "djimsiti",
         "teamID": 148,
         "position": 2,
-        "price": 2810000,
+        "price": 2780000,
         "fantasyPrice": 22000000,
         "status": "unknown",
-        "priceIncrement": -80000,
+        "priceIncrement": -30000,
         "playedHome": 10,
         "playedAway": 8,
         "fitness": [
@@ -3872,10 +3688,10 @@
         "slug": "donyell-malen",
         "teamID": 150,
         "position": 4,
-        "price": 3520000,
+        "price": 3680000,
         "fantasyPrice": 22000000,
         "status": "unknown",
-        "priceIncrement": 110000,
+        "priceIncrement": 160000,
         "playedHome": 0,
         "playedAway": 1,
         "fitness": [
@@ -3895,7 +3711,7 @@
         "price": 2610000,
         "fantasyPrice": 51000000,
         "status": "unknown",
-        "priceIncrement": -100000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 6,
         "fitness": [
@@ -3916,10 +3732,10 @@
         "slug": "dybala",
         "teamID": 150,
         "position": 4,
-        "price": 3570000,
+        "price": 4090000,
         "fantasyPrice": 31000000,
         "status": "unknown",
-        "priceIncrement": 180000,
+        "priceIncrement": 520000,
         "playedHome": 7,
         "playedAway": 9,
         "fitness": [
@@ -4159,7 +3975,7 @@
         "price": 890000,
         "fantasyPrice": 30000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": 0,
         "playedHome": 5,
         "playedAway": 5,
         "fitness": [
@@ -4203,7 +4019,7 @@
         "slug": "eivind-helland",
         "teamID": 137,
         "position": 2,
-        "price": 1600000,
+        "price": 1590000,
         "fantasyPrice": 14000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -4268,7 +4084,7 @@
         "price": 2800000,
         "fantasyPrice": 17000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -4313,10 +4129,10 @@
         "slug": "eljif-elmas",
         "teamID": 138,
         "position": 3,
-        "price": 1040000,
+        "price": 1070000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": 50000,
+        "priceIncrement": 30000,
         "playedHome": 8,
         "playedAway": 10,
         "fitness": [
@@ -4364,7 +4180,7 @@
         "price": 2110000,
         "fantasyPrice": 13000000,
         "status": "ok",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 8,
         "fitness": [
@@ -4385,7 +4201,7 @@
         "slug": "emil-holm",
         "teamID": 137,
         "position": 2,
-        "price": 1520000,
+        "price": 1510000,
         "fantasyPrice": 14000000,
         "status": "ok",
         "priceIncrement": -10000,
@@ -4412,7 +4228,7 @@
         "price": 220000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 0,
         "playedHome": 4,
         "playedAway": 3,
         "fitness": [
@@ -4433,10 +4249,10 @@
         "slug": "enrico-delprato",
         "teamID": 415,
         "position": 2,
-        "price": 2330000,
+        "price": 2310000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -20000,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -4484,7 +4300,7 @@
         "price": 2180000,
         "fantasyPrice": 25000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 7,
         "fitness": [
@@ -4508,7 +4324,7 @@
         "price": 2540000,
         "fantasyPrice": 28000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -4553,7 +4369,7 @@
         "slug": "f-conceicao",
         "teamID": 151,
         "position": 4,
-        "price": 5120000,
+        "price": 5060000,
         "fantasyPrice": 30000000,
         "status": "unknown",
         "priceIncrement": -60000,
@@ -4721,10 +4537,10 @@
         "slug": "f-ravaglia",
         "teamID": 137,
         "position": 1,
-        "price": 2160000,
+        "price": 2170000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 10000,
         "playedHome": 5,
         "playedAway": 6,
         "fitness": [
@@ -4745,7 +4561,7 @@
         "slug": "f-terracciano",
         "teamID": 640,
         "position": 3,
-        "price": 2770000,
+        "price": 2740000,
         "fantasyPrice": 10000000,
         "status": "unknown",
         "priceIncrement": -30000,
@@ -4772,7 +4588,7 @@
         "price": 2520000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": 100000,
+        "priceIncrement": 0,
         "playedHome": 5,
         "playedAway": 8,
         "fitness": [
@@ -4793,10 +4609,10 @@
         "slug": "fabio-miretti",
         "teamID": 151,
         "position": 3,
-        "price": 2130000,
+        "price": 2120000,
         "fantasyPrice": 19000000,
         "status": "unknown",
-        "priceIncrement": 80000,
+        "priceIncrement": -10000,
         "playedHome": 3,
         "playedAway": 6,
         "fitness": [
@@ -4889,7 +4705,7 @@
         "slug": "federico-gatti",
         "teamID": 151,
         "position": 2,
-        "price": 1220000,
+        "price": 1210000,
         "fantasyPrice": 23000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -4913,10 +4729,10 @@
         "slug": "fikayo-tomori",
         "teamID": 149,
         "position": 2,
-        "price": 5330000,
+        "price": 5300000,
         "fantasyPrice": 22000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -30000,
         "playedHome": 10,
         "playedAway": 8,
         "fitness": [
@@ -4937,7 +4753,7 @@
         "slug": "filip-kostic",
         "teamID": 151,
         "position": 3,
-        "price": 1340000,
+        "price": 1330000,
         "fantasyPrice": 19000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -4969,7 +4785,7 @@
         "playedAway": 1,
         "fitness": [
           null,
-          8,
+          null,
           null,
           null,
           null
@@ -4994,9 +4810,9 @@
         "fitness": [
           null,
           null,
-          null,
           2,
-          1
+          1,
+          3
         ],
         "points": 36,
         "pointsHome": 24,
@@ -5108,7 +4924,7 @@
         "price": 1160000,
         "fantasyPrice": 31000000,
         "status": "ok",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 6,
         "playedAway": 8,
         "fitness": [
@@ -5204,7 +5020,7 @@
         "price": 730000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -5228,7 +5044,7 @@
         "price": 4900000,
         "fantasyPrice": 31000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -5249,10 +5065,10 @@
         "slug": "g-fabbian",
         "teamID": 137,
         "position": 3,
-        "price": 750000,
+        "price": 790000,
         "fantasyPrice": 16000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 40000,
         "playedHome": 6,
         "playedAway": 8,
         "fitness": [
@@ -5273,10 +5089,10 @@
         "slug": "g-gaetano",
         "teamID": 134,
         "position": 3,
-        "price": 2370000,
+        "price": 2410000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 40000,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -5297,10 +5113,10 @@
         "slug": "g-maripan",
         "teamID": 143,
         "position": 2,
-        "price": 2810000,
+        "price": 2780000,
         "fantasyPrice": 16000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -30000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -5324,7 +5140,7 @@
         "price": 580000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -50000,
+        "priceIncrement": 0,
         "playedHome": 6,
         "playedAway": 5,
         "fitness": [
@@ -5369,10 +5185,10 @@
         "slug": "g-raspadori",
         "teamID": 148,
         "position": 4,
-        "price": 3170000,
+        "price": 3310000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": 50000,
+        "priceIncrement": 140000,
         "playedHome": 0,
         "playedAway": 1,
         "fitness": [
@@ -5461,10 +5277,10 @@
         "slug": "gagliardini",
         "teamID": 282,
         "position": 3,
-        "price": 1040000,
+        "price": 1170000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 130000,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -5509,7 +5325,7 @@
         "slug": "gift-orban",
         "teamID": 282,
         "position": 4,
-        "price": 920000,
+        "price": 1010000,
         "fantasyPrice": 15000000,
         "status": "unknown",
         "priceIncrement": 90000,
@@ -5560,7 +5376,7 @@
         "price": 2510000,
         "fantasyPrice": 22000000,
         "status": "unknown",
-        "priceIncrement": 300000,
+        "priceIncrement": 0,
         "playedHome": 5,
         "playedAway": 3,
         "fitness": [
@@ -5581,10 +5397,10 @@
         "slug": "giovane",
         "teamID": 282,
         "position": 4,
-        "price": 1880000,
+        "price": 1860000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": -20000,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -5677,10 +5493,10 @@
         "slug": "gosens",
         "teamID": 132,
         "position": 2,
-        "price": 2470000,
+        "price": 2460000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": -10000,
         "playedHome": 6,
         "playedAway": 8,
         "fitness": [
@@ -5704,7 +5520,7 @@
         "price": 470000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 8,
         "fitness": [
@@ -5725,10 +5541,10 @@
         "slug": "gustav-isaksen",
         "teamID": 140,
         "position": 4,
-        "price": 1880000,
+        "price": 1860000,
         "fantasyPrice": 31000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": -20000,
         "playedHome": 8,
         "playedAway": 7,
         "fitness": [
@@ -5752,7 +5568,7 @@
         "price": 490000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 7,
         "fitness": [
@@ -5773,10 +5589,10 @@
         "slug": "h-mkhitaryan",
         "teamID": 145,
         "position": 3,
-        "price": 2070000,
+        "price": 2090000,
         "fantasyPrice": 23000000,
         "status": "unknown",
-        "priceIncrement": 50000,
+        "priceIncrement": 20000,
         "playedHome": 7,
         "playedAway": 8,
         "fitness": [
@@ -5941,10 +5757,10 @@
         "slug": "honest-ahanor",
         "teamID": 148,
         "position": 2,
-        "price": 770000,
+        "price": 860000,
         "fantasyPrice": 7000000,
         "status": "unknown",
-        "priceIncrement": 120000,
+        "priceIncrement": 90000,
         "playedHome": 7,
         "playedAway": 5,
         "fitness": [
@@ -6021,8 +5837,8 @@
         "playedAway": 2,
         "fitness": [
           null,
-          null,
           3,
+          null,
           null,
           null
         ],
@@ -6085,10 +5901,10 @@
         "slug": "idrissa-toure",
         "teamID": 775,
         "position": 3,
-        "price": 1350000,
+        "price": 1340000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -10000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -6136,15 +5952,15 @@
         "price": 960000,
         "fantasyPrice": 27000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 2,
         "playedAway": 3,
         "fitness": [
           null,
           3,
-          3,
           1,
-          null
+          null,
+          0
         ],
         "points": 8,
         "pointsHome": 1,
@@ -6166,8 +5982,6 @@
         "fitness": [
           null,
           null,
-          null,
-          null,
           null
         ],
         "points": 0,
@@ -6184,7 +5998,7 @@
         "price": 1620000,
         "fantasyPrice": 23000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -6229,10 +6043,10 @@
         "slug": "ismael-kone",
         "teamID": 146,
         "position": 3,
-        "price": 4370000,
+        "price": 4320000,
         "fantasyPrice": 17000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -50000,
         "playedHome": 10,
         "playedAway": 8,
         "fitness": [
@@ -6349,10 +6163,10 @@
         "slug": "j-ekkelenkamp",
         "teamID": 141,
         "position": 3,
-        "price": 1770000,
+        "price": 1760000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": -10000,
         "playedHome": 9,
         "playedAway": 8,
         "fitness": [
@@ -6373,10 +6187,10 @@
         "slug": "j-karlstrom",
         "teamID": 141,
         "position": 3,
-        "price": 2140000,
+        "price": 2130000,
         "fantasyPrice": 16000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": -10000,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -6400,7 +6214,7 @@
         "price": 1960000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -6495,10 +6309,10 @@
         "playedAway": 9,
         "fitness": [
           8,
+          1,
           null,
           7,
-          5,
-          13
+          5
         ],
         "points": 118,
         "pointsHome": 51,
@@ -6535,10 +6349,10 @@
         "slug": "jamie-vardy",
         "teamID": 640,
         "position": 4,
-        "price": 3250000,
+        "price": 3270000,
         "fantasyPrice": 20000000,
         "status": "unknown",
-        "priceIncrement": -100000,
+        "priceIncrement": 20000,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -6559,10 +6373,10 @@
         "slug": "jamil-siebert",
         "teamID": 470,
         "position": 2,
-        "price": 180000,
+        "price": 190000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 10000,
         "playedHome": 1,
         "playedAway": 3,
         "fitness": [
@@ -6586,7 +6400,7 @@
         "price": 470000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 5,
         "playedAway": 5,
         "fitness": [
@@ -6607,10 +6421,10 @@
         "slug": "jari-vandeputte",
         "teamID": 640,
         "position": 3,
-        "price": 2690000,
+        "price": 2660000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": -30000,
         "playedHome": 9,
         "playedAway": 11,
         "fitness": [
@@ -6682,7 +6496,7 @@
         "price": 580000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 4,
         "playedAway": 6,
         "fitness": [
@@ -6703,7 +6517,7 @@
         "slug": "jean-butez",
         "teamID": 703,
         "position": 1,
-        "price": 4650000,
+        "price": 4590000,
         "fantasyPrice": 13000000,
         "status": "unknown",
         "priceIncrement": -60000,
@@ -6775,10 +6589,10 @@
         "slug": "jens-odgaard",
         "teamID": 137,
         "position": 4,
-        "price": 1200000,
+        "price": 1190000,
         "fantasyPrice": 23000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -10000,
         "playedHome": 7,
         "playedAway": 9,
         "fitness": [
@@ -6826,7 +6640,7 @@
         "price": 2530000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -6847,10 +6661,10 @@
         "slug": "jhon-lucumi",
         "teamID": 137,
         "position": 2,
-        "price": 2240000,
+        "price": 2220000,
         "fantasyPrice": 20000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": -20000,
         "playedHome": 8,
         "playedAway": 7,
         "fitness": [
@@ -6895,10 +6709,10 @@
         "slug": "johan-vasquez",
         "teamID": 142,
         "position": 2,
-        "price": 1650000,
+        "price": 1640000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -10000,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -6966,7 +6780,7 @@
         "price": 3750000,
         "fantasyPrice": 68000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 11,
         "fitness": [
@@ -6987,10 +6801,10 @@
         "slug": "jonathan-rowe",
         "teamID": 137,
         "position": 4,
-        "price": 440000,
+        "price": 450000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 10000,
         "playedHome": 5,
         "playedAway": 7,
         "fitness": [
@@ -7086,7 +6900,7 @@
         "price": 720000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -7116,8 +6930,6 @@
         "fitness": [
           null,
           null,
-          null,
-          null,
           null
         ],
         "points": 0,
@@ -7134,7 +6946,7 @@
         "price": 420000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 4,
         "playedAway": 4,
         "fitness": [
@@ -7163,10 +6975,10 @@
         "playedAway": 8,
         "fitness": [
           4,
-          null,
           4,
           null,
-          6
+          6,
+          3
         ],
         "points": 52,
         "pointsHome": 20,
@@ -7179,10 +6991,10 @@
         "slug": "juan-miranda",
         "teamID": 137,
         "position": 2,
-        "price": 3560000,
+        "price": 3530000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -30000,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -7206,7 +7018,7 @@
         "price": 150000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 3,
         "playedAway": 3,
         "fitness": [
@@ -7299,7 +7111,7 @@
         "slug": "k-sulemana",
         "teamID": 148,
         "position": 4,
-        "price": 1280000,
+        "price": 1270000,
         "fantasyPrice": 13000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -7326,7 +7138,7 @@
         "price": 740000,
         "fantasyPrice": 17000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -7419,10 +7231,10 @@
         "slug": "kean",
         "teamID": 132,
         "position": 4,
-        "price": 4260000,
+        "price": 4210000,
         "fantasyPrice": 46000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -50000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -7446,7 +7258,7 @@
         "price": 3750000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -7494,7 +7306,7 @@
         "price": 3040000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 0,
         "playedHome": 1,
         "playedAway": 1,
         "fitness": [
@@ -7512,10 +7324,10 @@
         "slug": "kevin-de-bruyne",
         "teamID": 138,
         "position": 3,
-        "price": 5200000,
+        "price": 5140000,
         "fantasyPrice": 40000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -60000,
         "playedHome": 4,
         "playedAway": 4,
         "fitness": [
@@ -7536,7 +7348,7 @@
         "slug": "kialonda-gaspar",
         "teamID": 470,
         "position": 2,
-        "price": 1530000,
+        "price": 1520000,
         "fantasyPrice": 15000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -7587,7 +7399,7 @@
         "price": 660000,
         "fantasyPrice": 16000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 5,
         "fitness": [
@@ -7608,10 +7420,10 @@
         "slug": "kristjan-asllani",
         "teamID": 143,
         "position": 3,
-        "price": 1130000,
+        "price": 1120000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": -50000,
+        "priceIncrement": -10000,
         "playedHome": 8,
         "playedAway": 7,
         "fitness": [
@@ -7755,7 +7567,7 @@
         "price": 490000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -7803,7 +7615,7 @@
         "price": 1240000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -7824,7 +7636,7 @@
         "slug": "lazar-samardzic",
         "teamID": 148,
         "position": 3,
-        "price": 1480000,
+        "price": 1470000,
         "fantasyPrice": 22000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -7883,7 +7695,7 @@
           null,
           null,
           null,
-          0
+          null
         ],
         "points": 0,
         "pointsHome": 0,
@@ -7920,10 +7732,10 @@
         "slug": "leo-ostigard",
         "teamID": 142,
         "position": 2,
-        "price": 4770000,
+        "price": 4820000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 50000,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -7968,10 +7780,10 @@
         "slug": "leris",
         "teamID": 775,
         "position": 4,
-        "price": 2630000,
+        "price": 2610000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -20000,
         "playedHome": 11,
         "playedAway": 8,
         "fitness": [
@@ -8108,7 +7920,7 @@
         "slug": "lois-openda",
         "teamID": 151,
         "position": 4,
-        "price": 2090000,
+        "price": 2070000,
         "fantasyPrice": 45000000,
         "status": "unknown",
         "priceIncrement": -20000,
@@ -8135,7 +7947,7 @@
         "price": 950000,
         "fantasyPrice": 7000000,
         "status": "ok",
-        "priceIncrement": 10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 3,
         "fitness": [
@@ -8156,10 +7968,10 @@
         "slug": "lorenzo-colombo",
         "teamID": 142,
         "position": 4,
-        "price": 2940000,
+        "price": 3380000,
         "fantasyPrice": 17000000,
         "status": "unknown",
-        "priceIncrement": 380000,
+        "priceIncrement": 440000,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -8309,8 +8121,8 @@
         "fitness": [
           null,
           null,
-          null,
           6,
+          null,
           null
         ],
         "points": 10,
@@ -8372,7 +8184,7 @@
         "slug": "luca-ranieri",
         "teamID": 132,
         "position": 2,
-        "price": 2010000,
+        "price": 1990000,
         "fantasyPrice": 20000000,
         "status": "unknown",
         "priceIncrement": -20000,
@@ -8396,22 +8208,22 @@
         "slug": "lucas-da-cunha",
         "teamID": 703,
         "position": 3,
-        "price": 3300000,
+        "price": 3260000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": -50000,
+        "priceIncrement": -40000,
         "playedHome": 9,
         "playedAway": 10,
         "fitness": [
-          6,
+          7,
           2,
           1,
           5,
           14
         ],
-        "points": 88,
+        "points": 89,
         "pointsHome": 49,
-        "pointsAway": 39,
+        "pointsAway": 40,
         "pointsLastSeason": 210
       },
       "37588": {
@@ -8420,10 +8232,10 @@
         "slug": "luis-henrique",
         "teamID": 145,
         "position": 4,
-        "price": 1460000,
+        "price": 1470000,
         "fantasyPrice": 26000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 10000,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -8447,7 +8259,7 @@
         "price": 13340000,
         "fantasyPrice": 20000000,
         "status": "unknown",
-        "priceIncrement": 30000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -8519,7 +8331,7 @@
         "price": 3060000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -8543,7 +8355,7 @@
         "price": 510000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": 0,
         "playedHome": 6,
         "playedAway": 4,
         "fitness": [
@@ -8591,7 +8403,7 @@
         "price": 2030000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 7,
         "fitness": [
@@ -8687,7 +8499,7 @@
         "price": 2010000,
         "fantasyPrice": 29000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -8711,7 +8523,7 @@
         "price": 1120000,
         "fantasyPrice": 14000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -8759,7 +8571,7 @@
         "price": 620000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 8,
         "fitness": [
@@ -8831,7 +8643,7 @@
         "price": 2880000,
         "fantasyPrice": 14000000,
         "status": "unknown",
-        "priceIncrement": 290000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -8879,7 +8691,7 @@
         "price": 2810000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -8900,10 +8712,10 @@
         "slug": "maduka-okoye",
         "teamID": 141,
         "position": 1,
-        "price": 1060000,
+        "price": 1200000,
         "fantasyPrice": 14000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 140000,
         "playedHome": 7,
         "playedAway": 6,
         "fitness": [
@@ -8972,10 +8784,10 @@
         "slug": "mandela-keita",
         "teamID": 415,
         "position": 3,
-        "price": 1980000,
+        "price": 1970000,
         "fantasyPrice": 16000000,
         "status": "unknown",
-        "priceIncrement": 90000,
+        "priceIncrement": -10000,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -8996,10 +8808,10 @@
         "slug": "mandragora",
         "teamID": 132,
         "position": 3,
-        "price": 5410000,
+        "price": 5510000,
         "fantasyPrice": 23000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 100000,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -9020,18 +8832,17 @@
         "slug": "manor-solomon",
         "teamID": 132,
         "position": 4,
-        "price": 2520000,
+        "price": 2500000,
         "fantasyPrice": 19000000,
         "status": "unknown",
-        "priceIncrement": -80000,
+        "priceIncrement": -20000,
         "playedHome": 2,
         "playedAway": 2,
         "fitness": [
           4,
           4,
           3,
-          3,
-          null
+          3
         ],
         "points": 14,
         "pointsHome": 7,
@@ -9047,7 +8858,7 @@
         "price": 4580000,
         "fantasyPrice": 30000000,
         "status": "unknown",
-        "priceIncrement": 60000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -9086,30 +8897,6 @@
         "pointsAway": 49,
         "pointsLastSeason": null
       },
-      "24476": {
-        "id": 24476,
-        "name": "Manuel De Luca",
-        "slug": "manuel-de-luca",
-        "teamID": null,
-        "position": 4,
-        "price": 230000,
-        "fantasyPrice": 8000000,
-        "status": "ok",
-        "priceIncrement": 0,
-        "playedHome": 1,
-        "playedAway": 1,
-        "fitness": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
-        "points": 9,
-        "pointsHome": 7,
-        "pointsAway": 2,
-        "pointsLastSeason": null
-      },
       "34615": {
         "id": 34615,
         "name": "Marco Palestra",
@@ -9143,7 +8930,7 @@
         "price": 410000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 6,
         "fitness": [
@@ -9164,10 +8951,10 @@
         "slug": "marcus-thuram",
         "teamID": 145,
         "position": 4,
-        "price": 8570000,
+        "price": 8610000,
         "fantasyPrice": 64000000,
         "status": "unknown",
-        "priceIncrement": 60000,
+        "priceIncrement": 40000,
         "playedHome": 9,
         "playedAway": 6,
         "fitness": [
@@ -9196,7 +8983,7 @@
         "playedAway": 3,
         "fitness": [
           null,
-          7,
+          null,
           null,
           null,
           null
@@ -9236,10 +9023,10 @@
         "slug": "mario-gila",
         "teamID": 140,
         "position": 2,
-        "price": 5300000,
+        "price": 5320000,
         "fantasyPrice": 20000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 20000,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -9308,10 +9095,10 @@
         "slug": "martin-baturina",
         "teamID": 703,
         "position": 3,
-        "price": 1160000,
+        "price": 1370000,
         "fantasyPrice": 33000000,
         "status": "unknown",
-        "priceIncrement": 190000,
+        "priceIncrement": 210000,
         "playedHome": 5,
         "playedAway": 8,
         "fitness": [
@@ -9623,7 +9410,7 @@
         "price": 3360000,
         "fantasyPrice": 18000000,
         "status": "ok",
-        "priceIncrement": -70000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -9654,8 +9441,8 @@
           null,
           null,
           null,
-          2,
-          null
+          null,
+          2
         ],
         "points": 2,
         "pointsHome": 2,
@@ -9695,7 +9482,7 @@
         "price": 940000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 11,
         "fitness": [
@@ -9716,10 +9503,10 @@
         "slug": "matteo-tramoni",
         "teamID": 775,
         "position": 3,
-        "price": 1320000,
+        "price": 1310000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": -10000,
         "playedHome": 11,
         "playedAway": 8,
         "fitness": [
@@ -9843,15 +9630,15 @@
         "playedHome": 9,
         "playedAway": 10,
         "fitness": [
-          6,
-          3,
+          5,
           3,
           12,
-          3
+          3,
+          5
         ],
-        "points": 102,
+        "points": 101,
         "pointsHome": 34,
-        "pointsAway": 68,
+        "pointsAway": 67,
         "pointsLastSeason": 114
       },
       "35726": {
@@ -9908,10 +9695,10 @@
         "slug": "mbala-nzola",
         "teamID": 775,
         "position": 4,
-        "price": 1240000,
+        "price": 1230000,
         "fantasyPrice": 19000000,
         "status": "ok",
-        "priceIncrement": -50000,
+        "priceIncrement": -10000,
         "playedHome": 9,
         "playedAway": 7,
         "fitness": [
@@ -9935,7 +9722,7 @@
         "price": 3750000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 6,
         "fitness": [
@@ -9983,7 +9770,7 @@
         "price": 890000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -10076,10 +9863,10 @@
         "slug": "mike-maignan",
         "teamID": 149,
         "position": 1,
-        "price": 3760000,
+        "price": 3730000,
         "fantasyPrice": 31000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": -30000,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -10223,15 +10010,15 @@
         "price": 330000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 7,
         "fitness": [
           null,
-          3,
           1,
           2,
-          4
+          4,
+          5
         ],
         "points": 42,
         "pointsHome": 24,
@@ -10244,7 +10031,7 @@
         "slug": "morata",
         "teamID": 703,
         "position": 4,
-        "price": 1450000,
+        "price": 1440000,
         "fantasyPrice": 31000000,
         "status": "ok",
         "priceIncrement": -10000,
@@ -10316,10 +10103,10 @@
         "slug": "n-cambiaghi",
         "teamID": 137,
         "position": 4,
-        "price": 3700000,
+        "price": 3720000,
         "fantasyPrice": 12000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 20000,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -10372,10 +10159,10 @@
         "playedAway": 7,
         "fitness": [
           null,
-          1,
           3,
           1,
-          null
+          null,
+          3
         ],
         "points": 29,
         "pointsHome": 5,
@@ -10415,15 +10202,15 @@
         "price": 850000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
           3,
+          4,
           3,
           4,
-          5,
-          4
+          5
         ],
         "points": 66,
         "pointsHome": 37,
@@ -10532,10 +10319,10 @@
         "slug": "niclas-fullkrug",
         "teamID": 149,
         "position": 4,
-        "price": 2660000,
+        "price": 2730000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": 30000,
+        "priceIncrement": 70000,
         "playedHome": 2,
         "playedAway": 3,
         "fitness": [
@@ -10564,10 +10351,10 @@
         "playedAway": 11,
         "fitness": [
           21,
+          6,
           3,
           3,
-          3,
-          17
+          3
         ],
         "points": 181,
         "pointsHome": 96,
@@ -10583,7 +10370,7 @@
         "price": 2010000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -10628,10 +10415,10 @@
         "slug": "nicola-zalewski",
         "teamID": 148,
         "position": 3,
-        "price": 2790000,
+        "price": 2760000,
         "fantasyPrice": 19000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": -30000,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -10655,7 +10442,7 @@
         "price": 640000,
         "fantasyPrice": 20000000,
         "status": "unknown",
-        "priceIncrement": -50000,
+        "priceIncrement": 0,
         "playedHome": 3,
         "playedAway": 1,
         "fitness": [
@@ -10708,9 +10495,9 @@
         "playedAway": 8,
         "fitness": [
           2,
-          4,
           2,
           1,
+          2,
           2
         ],
         "points": 35,
@@ -10799,7 +10586,7 @@
         "price": 4530000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -10820,10 +10607,10 @@
         "slug": "nicolo-rovella",
         "teamID": 140,
         "position": 3,
-        "price": 1380000,
+        "price": 1390000,
         "fantasyPrice": 31000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 10000,
         "playedHome": 3,
         "playedAway": 3,
         "fitness": [
@@ -10871,7 +10658,7 @@
         "price": 270000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 4,
         "playedAway": 3,
         "fitness": [
@@ -10967,7 +10754,7 @@
         "price": 2390000,
         "fantasyPrice": 36000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -11036,10 +10823,10 @@
         "slug": "nikola-vlasic",
         "teamID": 143,
         "position": 3,
-        "price": 4710000,
+        "price": 4670000,
         "fantasyPrice": 23000000,
         "status": "unknown",
-        "priceIncrement": 100000,
+        "priceIncrement": -40000,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -11060,10 +10847,10 @@
         "slug": "noa-lang",
         "teamID": 138,
         "position": 4,
-        "price": 2930000,
+        "price": 2970000,
         "fantasyPrice": 50000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 40000,
         "playedHome": 8,
         "playedAway": 10,
         "fitness": [
@@ -11237,9 +11024,9 @@
         "fitness": [
           null,
           null,
-          3,
           null,
-          0
+          3,
+          null
         ],
         "points": 3,
         "pointsHome": 3,
@@ -11255,7 +11042,7 @@
         "price": 690000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -11276,7 +11063,7 @@
         "slug": "omri-gandelman",
         "teamID": 470,
         "position": 3,
-        "price": 1660000,
+        "price": 1650000,
         "fantasyPrice": 15000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -11298,10 +11085,10 @@
         "slug": "orsolini",
         "teamID": 137,
         "position": 4,
-        "price": 6220000,
+        "price": 6260000,
         "fantasyPrice": 36000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 40000,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -11329,6 +11116,9 @@
         "playedHome": 0,
         "playedAway": 0,
         "fitness": [
+          null,
+          null,
+          null,
           null,
           null
         ],
@@ -11487,10 +11277,10 @@
         "slug": "pasalic",
         "teamID": 148,
         "position": 3,
-        "price": 3770000,
+        "price": 3760000,
         "fantasyPrice": 24000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -10000,
         "playedHome": 10,
         "playedAway": 8,
         "fitness": [
@@ -11535,10 +11325,10 @@
         "slug": "patrizio-masini",
         "teamID": 142,
         "position": 3,
-        "price": 1450000,
+        "price": 1440000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": -10000,
         "playedHome": 9,
         "playedAway": 10,
         "fitness": [
@@ -11607,7 +11397,7 @@
         "slug": "pellegrini",
         "teamID": 150,
         "position": 3,
-        "price": 2440000,
+        "price": 2420000,
         "fantasyPrice": 25000000,
         "status": "unknown",
         "priceIncrement": -20000,
@@ -11679,7 +11469,7 @@
         "slug": "petar-ratkov",
         "teamID": 140,
         "position": 4,
-        "price": 1160000,
+        "price": 1150000,
         "fantasyPrice": 12000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -11700,10 +11490,10 @@
         "slug": "petar-sucic",
         "teamID": 145,
         "position": 3,
-        "price": 2070000,
+        "price": 2050000,
         "fantasyPrice": 19000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -20000,
         "playedHome": 11,
         "playedAway": 8,
         "fitness": [
@@ -11775,7 +11565,7 @@
         "price": 3440000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -11799,7 +11589,7 @@
         "price": 1120000,
         "fantasyPrice": 14000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 8,
         "fitness": [
@@ -11820,7 +11610,7 @@
         "slug": "pinamonti",
         "teamID": 146,
         "position": 4,
-        "price": 2970000,
+        "price": 2940000,
         "fantasyPrice": 28000000,
         "status": "unknown",
         "priceIncrement": -30000,
@@ -11871,7 +11661,7 @@
         "price": 3960000,
         "fantasyPrice": 32000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 11,
         "fitness": [
@@ -11991,7 +11781,7 @@
         "price": 1480000,
         "fantasyPrice": 19000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 10,
         "fitness": [
@@ -12012,10 +11802,10 @@
         "slug": "r-malinovskyi",
         "teamID": 142,
         "position": 3,
-        "price": 2060000,
+        "price": 2050000,
         "fantasyPrice": 13000000,
         "status": "ok",
-        "priceIncrement": 110000,
+        "priceIncrement": -10000,
         "playedHome": 9,
         "playedAway": 10,
         "fitness": [
@@ -12084,10 +11874,10 @@
         "slug": "rafik-belghali",
         "teamID": 282,
         "position": 2,
-        "price": 1110000,
+        "price": 1100000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": -10000,
         "playedHome": 7,
         "playedAway": 8,
         "fitness": [
@@ -12108,10 +11898,10 @@
         "slug": "rafiu-durosinmi",
         "teamID": 775,
         "position": 4,
-        "price": 3220000,
+        "price": 3250000,
         "fantasyPrice": 22000000,
         "status": "unknown",
-        "priceIncrement": 60000,
+        "priceIncrement": 30000,
         "playedHome": 1,
         "playedAway": 0,
         "fitness": [
@@ -12129,7 +11919,7 @@
         "slug": "raoul-bellanova",
         "teamID": 148,
         "position": 3,
-        "price": 1150000,
+        "price": 1140000,
         "fantasyPrice": 33000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -12153,10 +11943,10 @@
         "slug": "rasmus-hojlund",
         "teamID": 138,
         "position": 4,
-        "price": 6640000,
+        "price": 6560000,
         "fantasyPrice": 50000000,
         "status": "ok",
-        "priceIncrement": -120000,
+        "priceIncrement": -80000,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -12228,7 +12018,7 @@
         "price": 1030000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 7,
         "fitness": [
@@ -12297,10 +12087,10 @@
         "slug": "robinio-vaz",
         "teamID": 150,
         "position": 4,
-        "price": 420000,
+        "price": 450000,
         "fantasyPrice": 8000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 30000,
         "playedHome": 0,
         "playedAway": 1,
         "fitness": [
@@ -12365,10 +12155,10 @@
         "slug": "romagnoli-a",
         "teamID": 140,
         "position": 2,
-        "price": 3080000,
+        "price": 3120000,
         "fantasyPrice": 20000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 40000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -12392,7 +12182,7 @@
         "price": 2400000,
         "fantasyPrice": 46000000,
         "status": "ok",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 0,
         "playedAway": 0,
         "fitness": [
@@ -12481,10 +12271,10 @@
         "slug": "s-britschgi",
         "teamID": 415,
         "position": 2,
-        "price": 500000,
+        "price": 520000,
         "fantasyPrice": 7000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 20000,
         "playedHome": 10,
         "playedAway": 7,
         "fitness": [
@@ -12505,10 +12295,10 @@
         "slug": "s-canestrelli",
         "teamID": 775,
         "position": 2,
-        "price": 1440000,
+        "price": 1430000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -10000,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -12553,10 +12343,10 @@
         "slug": "s-gimenez",
         "teamID": 149,
         "position": 4,
-        "price": 1180000,
+        "price": 1170000,
         "fantasyPrice": 34000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -10000,
         "playedHome": 5,
         "playedAway": 4,
         "fitness": [
@@ -12601,10 +12391,10 @@
         "slug": "s-lobotka",
         "teamID": 138,
         "position": 3,
-        "price": 3420000,
+        "price": 3470000,
         "fantasyPrice": 37000000,
         "status": "unknown",
-        "priceIncrement": 90000,
+        "priceIncrement": 50000,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -12657,10 +12447,10 @@
         "playedAway": 9,
         "fitness": [
           3,
-          -2,
           1,
           1,
-          2
+          2,
+          3
         ],
         "points": 36,
         "pointsHome": 23,
@@ -12729,9 +12519,6 @@
         "playedAway": 0,
         "fitness": [
           null,
-          null,
-          null,
-          null,
           null
         ],
         "points": 0,
@@ -12745,10 +12532,10 @@
         "slug": "sam-beukema",
         "teamID": 138,
         "position": 2,
-        "price": 750000,
+        "price": 760000,
         "fantasyPrice": 25000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 10000,
         "playedHome": 6,
         "playedAway": 5,
         "fitness": [
@@ -12793,10 +12580,10 @@
         "slug": "samuele-angori",
         "teamID": 775,
         "position": 2,
-        "price": 1540000,
+        "price": 1530000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": -10000,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -12817,10 +12604,10 @@
         "slug": "samuele-ricci",
         "teamID": 149,
         "position": 3,
-        "price": 2020000,
+        "price": 2220000,
         "fantasyPrice": 31000000,
         "status": "unknown",
-        "priceIncrement": 70000,
+        "priceIncrement": 200000,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -12865,10 +12652,10 @@
         "slug": "santiago-castro",
         "teamID": 137,
         "position": 4,
-        "price": 2650000,
+        "price": 2780000,
         "fantasyPrice": 31000000,
         "status": "unknown",
-        "priceIncrement": 160000,
+        "priceIncrement": 130000,
         "playedHome": 8,
         "playedAway": 11,
         "fitness": [
@@ -12892,7 +12679,7 @@
         "price": 4310000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": -50000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -12913,10 +12700,10 @@
         "slug": "scamacca",
         "teamID": 148,
         "position": 4,
-        "price": 3990000,
+        "price": 3940000,
         "fantasyPrice": 26000000,
         "status": "unknown",
-        "priceIncrement": -80000,
+        "priceIncrement": -50000,
         "playedHome": 7,
         "playedAway": 7,
         "fitness": [
@@ -12940,7 +12727,7 @@
         "price": 9630000,
         "fantasyPrice": 56000000,
         "status": "unknown",
-        "priceIncrement": 20000,
+        "priceIncrement": 0,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -13012,7 +12799,7 @@
         "price": 290000,
         "fantasyPrice": 7000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 3,
         "playedAway": 4,
         "fitness": [
@@ -13033,10 +12820,10 @@
         "slug": "semih-kilicsoy",
         "teamID": 134,
         "position": 4,
-        "price": 1250000,
+        "price": 1240000,
         "fantasyPrice": 17000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": -10000,
         "playedHome": 6,
         "playedAway": 6,
         "fitness": [
@@ -13060,14 +12847,14 @@
         "price": 630000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": 0,
         "playedHome": 4,
         "playedAway": 4,
         "fitness": [
           4,
-          2,
           null,
           2,
+          null,
           null
         ],
         "points": 20,
@@ -13156,7 +12943,7 @@
         "price": 2950000,
         "fantasyPrice": 10000000,
         "status": "unknown",
-        "priceIncrement": -70000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 9,
         "fitness": [
@@ -13228,7 +13015,7 @@
         "price": 1090000,
         "fantasyPrice": 14000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 5,
         "playedAway": 5,
         "fitness": [
@@ -13252,7 +13039,7 @@
         "price": 3090000,
         "fantasyPrice": 15000000,
         "status": "unknown",
-        "priceIncrement": 30000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 8,
         "fitness": [
@@ -13304,15 +13091,15 @@
         "playedHome": 6,
         "playedAway": 8,
         "fitness": [
-          2,
+          3,
+          null,
           3,
           3,
-          0,
-          null
+          0
         ],
-        "points": 48,
+        "points": 49,
         "pointsHome": 27,
-        "pointsAway": 21,
+        "pointsAway": 22,
         "pointsLastSeason": 72
       },
       "16825": {
@@ -13321,10 +13108,10 @@
         "slug": "stefano-moreo",
         "teamID": 775,
         "position": 4,
-        "price": 1200000,
+        "price": 1300000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 100000,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -13393,7 +13180,7 @@
         "slug": "suat-serdar",
         "teamID": 282,
         "position": 3,
-        "price": 1430000,
+        "price": 1420000,
         "fantasyPrice": 12000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -13420,7 +13207,7 @@
         "price": 310000,
         "fantasyPrice": 15000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 4,
         "playedAway": 6,
         "fitness": [
@@ -13450,9 +13237,9 @@
         "fitness": [
           null,
           null,
-          null,
           3,
-          4
+          4,
+          2
         ],
         "points": 15,
         "pointsHome": 10,
@@ -13468,7 +13255,7 @@
         "price": 2120000,
         "fantasyPrice": 41000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 11,
         "fitness": [
@@ -13537,10 +13324,10 @@
         "slug": "t-muharemovic",
         "teamID": 146,
         "position": 2,
-        "price": 2690000,
+        "price": 2980000,
         "fantasyPrice": 9000000,
         "status": "unknown",
-        "priceIncrement": -10000,
+        "priceIncrement": 290000,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -13660,7 +13447,7 @@
         "price": 4600000,
         "fantasyPrice": 7000000,
         "status": "unknown",
-        "priceIncrement": -70000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -13729,7 +13516,7 @@
         "slug": "toma-basic",
         "teamID": 140,
         "position": 3,
-        "price": 1400000,
+        "price": 1390000,
         "fantasyPrice": 8000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -13828,7 +13615,7 @@
         "price": 440000,
         "fantasyPrice": 7000000,
         "status": "ok",
-        "priceIncrement": -10000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 7,
         "fitness": [
@@ -13873,10 +13660,10 @@
         "slug": "torbjorn-heggem",
         "teamID": 137,
         "position": 2,
-        "price": 1140000,
+        "price": 1130000,
         "fantasyPrice": 11000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": -10000,
         "playedHome": 8,
         "playedAway": 10,
         "fitness": [
@@ -13905,10 +13692,10 @@
         "playedAway": 8,
         "fitness": [
           null,
-          -1,
           1,
           4,
-          1
+          1,
+          3
         ],
         "points": 44,
         "pointsHome": 26,
@@ -14044,7 +13831,7 @@
         "price": 590000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 0,
         "playedHome": 5,
         "playedAway": 7,
         "fitness": [
@@ -14116,7 +13903,7 @@
         "price": 3180000,
         "fantasyPrice": 16000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -14140,7 +13927,7 @@
         "price": 2340000,
         "fantasyPrice": 17000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 11,
         "playedAway": 10,
         "fitness": [
@@ -14209,10 +13996,10 @@
         "slug": "wesley",
         "teamID": 150,
         "position": 2,
-        "price": 5790000,
+        "price": 5800000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": 10000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -14233,10 +14020,10 @@
         "slug": "weston-mckennie",
         "teamID": 151,
         "position": 3,
-        "price": 4090000,
+        "price": 4040000,
         "fantasyPrice": 30000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -50000,
         "playedHome": 10,
         "playedAway": 10,
         "fitness": [
@@ -14284,7 +14071,7 @@
         "price": 1980000,
         "fantasyPrice": 19000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 4,
         "playedAway": 6,
         "fitness": [
@@ -14327,10 +14114,10 @@
         "slug": "yann-sommer",
         "teamID": 145,
         "position": 1,
-        "price": 3170000,
+        "price": 3130000,
         "fantasyPrice": 20000000,
         "status": "unknown",
-        "priceIncrement": 150000,
+        "priceIncrement": -40000,
         "playedHome": 10,
         "playedAway": 9,
         "fitness": [
@@ -14402,7 +14189,7 @@
         "price": 940000,
         "fantasyPrice": 15000000,
         "status": "unknown",
-        "priceIncrement": 10000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 6,
         "fitness": [
@@ -14423,10 +14210,10 @@
         "slug": "ylber-ramadani",
         "teamID": 470,
         "position": 3,
-        "price": 1730000,
+        "price": 1720000,
         "fantasyPrice": 13000000,
         "status": "unknown",
-        "priceIncrement": 0,
+        "priceIncrement": -10000,
         "playedHome": 11,
         "playedAway": 9,
         "fitness": [
@@ -14471,7 +14258,7 @@
         "slug": "youssouf-fofana",
         "teamID": 149,
         "position": 3,
-        "price": 1760000,
+        "price": 1750000,
         "fantasyPrice": 33000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -14522,7 +14309,7 @@
         "price": 560000,
         "fantasyPrice": 21000000,
         "status": "unknown",
-        "priceIncrement": -40000,
+        "priceIncrement": 0,
         "playedHome": 7,
         "playedAway": 6,
         "fitness": [
@@ -14567,7 +14354,7 @@
         "slug": "zaccagni",
         "teamID": 140,
         "position": 4,
-        "price": 7730000,
+        "price": 7630000,
         "fantasyPrice": 50000000,
         "status": "unknown",
         "priceIncrement": -100000,
@@ -14618,7 +14405,7 @@
         "price": 910000,
         "fantasyPrice": 26000000,
         "status": "unknown",
-        "priceIncrement": -20000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 6,
         "fitness": [
@@ -14639,7 +14426,7 @@
         "slug": "zappacosta",
         "teamID": 148,
         "position": 3,
-        "price": 1410000,
+        "price": 1400000,
         "fantasyPrice": 20000000,
         "status": "unknown",
         "priceIncrement": -10000,
@@ -14690,7 +14477,7 @@
         "price": 2440000,
         "fantasyPrice": 18000000,
         "status": "unknown",
-        "priceIncrement": -60000,
+        "priceIncrement": 0,
         "playedHome": 8,
         "playedAway": 10,
         "fitness": [
@@ -14714,7 +14501,7 @@
         "price": 2930000,
         "fantasyPrice": 23000000,
         "status": "unknown",
-        "priceIncrement": 140000,
+        "priceIncrement": 0,
         "playedHome": 9,
         "playedAway": 9,
         "fitness": [
@@ -14738,7 +14525,7 @@
         "price": 970000,
         "fantasyPrice": 22000000,
         "status": "unknown",
-        "priceIncrement": -30000,
+        "priceIncrement": 0,
         "playedHome": 6,
         "playedAway": 5,
         "fitness": [
@@ -15220,8 +15007,8 @@
         ]
       }
     },
-    "update": 1768876230,
-    "etag": 2322586200,
+    "update": 1768952519,
+    "etag": 3150928258,
     "scoreID": 3
   },
   "meta": {
