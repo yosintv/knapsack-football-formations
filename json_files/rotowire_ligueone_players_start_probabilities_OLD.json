@@ -16,9 +16,7 @@
   },
   "PSG": {
     "Joao Neves": 0.2,
-    "Achraf Hakimi": 0.2,
     "Kang-In Lee": 0.2,
-    "Ibrahim Mbaye": 0.2,
     "Fabian Ruiz": 0.2,
     "Matvey Safonov": 0.2,
     "Quentin Ndjantou": 0.0,
@@ -108,14 +106,15 @@
   },
   "Marseille": {
     "Nayef Aguerd": 0.0,
+    "Emerson": 0.0,
     "Geronimo Rulli": 0.8,
     "Benjamin Pavard": 0.8,
     "Facundo Medina": 0.8,
     "Leonardo Balerdi": 0.8,
-    "Emerson": 0.8,
+    "Timothy Weah": 0.8,
     "Pierre-Emile Hojbjerg": 0.8,
     "Arthur Vermeeren": 0.8,
-    "Timothy Weah": 0.8,
+    "Amir Murillo": 0.8,
     "Mason Greenwood": 0.8,
     "Igor Paixao": 0.8,
     "Amine Gouiri": 0.8
@@ -155,19 +154,19 @@
     "Youssef El Arabi": 0.8
   },
   "Nice": {
-    "Melvin Bard": 0.5,
     "Hicham Boudaoui": 0.2,
-    "Sofiane Diop": 0.2,
     "Mohamed Abdelmonem": 0.0,
+    "Melvin Bard": 0.4,
     "Moise Bombito": 0.0,
+    "Sofiane Diop": 0.0,
     "Yehvann Diouf": 0.0,
     "Youssouf Ndayishimiye": 0.0,
     "Maxime Dupe": 0.8,
     "Kojo Peprah Oppong": 0.8,
     "Abdulai Juma Bah": 0.8,
     "Jonathan Clauss": 0.8,
-    "Tanguy Ndombele": 0.8,
     "Morgan Sanson": 0.8,
+    "Tanguy Ndombele": 0.8,
     "Everton": 0.8,
     "Isak Jansson": 0.8,
     "Tom Louchet": 0.8,
@@ -189,8 +188,9 @@
     "Gauthier Hein": 0.8
   },
   "Lyon": {
-    "Rachid Ghezzal": 0.2,
+    "Abner Vinicius": 0.0,
     "Malick Fofana": 0.0,
+    "Rachid Ghezzal": 0.0,
     "Moussa Niakhate": 0.0,
     "Ernest Nuamah": 0.0,
     "Dominik Greif": 0.8,
@@ -227,6 +227,7 @@
   "Angers": {
     "Himad Abdelli": 0.2,
     "Lilian Rao-Lisoa": 0.2,
+    "Amine Sbai": 0.5,
     "Herve Koffi": 0.8,
     "Jacques Ekomie": 0.8,
     "Jordan Lefort": 0.8,
@@ -234,7 +235,6 @@
     "Carlens Arcus": 0.8,
     "Haris Belkebla": 0.8,
     "Marius Courcoul": 0.8,
-    "Amine Sbai": 0.8,
     "Louis Mouton": 0.8,
     "Yassine Belkhdim": 0.8,
     "Prosper Peter": 0.8
