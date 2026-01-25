@@ -1,20 +1,18 @@
 {
-  "Cádiz": {},
-  "Albacete": {},
-  "Eibar": {
-    "J. Martón": 0.8,
-    "A. Madariaga": 0.8,
-    "J. Guruzeta": 0.8,
-    "S. Álvarez": 0.8,
-    "L. Olaetxea": 0.8,
-    "J. Corpas": 0.7,
-    "H. Arrillaga": 0.8,
-    "M. Moreno": 0.8,
-    "P. Nolaskoain": 0.7,
-    "S. Cubero": 0.8,
-    "J. Magunagoitia": 0.8
+  "Fc Andorra": {
+    "J. Cerdà": 0.8,
+    "Lautaro de León": 0.8,
+    "Y. Cabanzón": 0.8,
+    "Villahermosa": 0.8,
+    "E. Akman": 0.8,
+    "Á. Martín": 0.8,
+    "M. Vilà": 0.8,
+    "D. Alende": 0.8,
+    "G. Alonso": 0.8,
+    "T. Carrique": 0.7,
+    "Á. Yaakobishvili": 0.8
   },
-  "Real Sociedad B": {},
+  "Córdoba": {},
   "Cultural Leonesa": {
     "D. Collado": 0.8,
     "R. Sobrino": 0.8,
@@ -28,8 +26,9 @@
     "I. Calero": 0.8,
     "É. Badía": 0.8
   },
-  "Córdoba": {},
-  "Las Palmas": {},
+  "Mirandes": {},
+  "Granada": {},
+  "Albacete": {},
   "Ceuta": {
     "Konrad": 0.8,
     "M. Domènech": 0.8,
@@ -42,21 +41,6 @@
     "C. Hernández": 0.8,
     "A. Ahmed": 0.8,
     "G. Vallejo": 0.8
-  },
-  "Granada": {},
-  "Leganés": {},
-  "Deportivo": {
-    "Eddahchouri": 0.7,
-    "Y. Hernández": 0.7,
-    "Stoichkov": 0.8,
-    "L. Cruz": 0.8,
-    "M. Soriano": 0.8,
-    "J. Jurado": 0.8,
-    "Quagliata": 0.7,
-    "L. Noubi": 0.8,
-    "Loureiro": 0.8,
-    "A. Altimira": 0.8,
-    "Á. Fernández": 0.8
   },
   "Racing": {
     "M. Lozano": 0.8,
@@ -71,6 +55,24 @@
     "Á. Mantilla": 0.8,
     "J. Ezkieta": 0.8
   },
+  "Málaga": {},
+  "Leganés": {},
+  "Real Sociedad B": {},
+  "Burgos Cf": {},
+  "Real Valladolid": {},
+  "Almería": {
+    "L. Baptistão": 0.8,
+    "N. Melamed": 0.8,
+    "S. Arribas": 0.8,
+    "Embarba": 0.8,
+    "S. Dzodic": 0.7,
+    "Baba": 0.8,
+    "Á. Centelles": 0.8,
+    "Á. Muñoz": 0.7,
+    "N. Monte": 0.8,
+    "M. Luna": 0.8,
+    "A. Fernández": 0.8
+  },
   "Huesca": {
     "E. Rodríguez": 0.8,
     "Á. Pérez": 0.8,
@@ -84,35 +86,18 @@
     "T. Abad": 0.8,
     "D. Jiménez": 0.8
   },
-  "Málaga": {},
-  "Mirandes": {},
-  "Real Valladolid": {},
-  "Fc Andorra": {
-    "J. Cerdà": 0.8,
-    "Lautaro de León": 0.8,
-    "Y. Cabanzón": 0.8,
-    "Villahermosa": 0.8,
-    "E. Akman": 0.8,
-    "Á. Martín": 0.8,
-    "M. Vilà": 0.8,
-    "D. Alende": 0.8,
-    "G. Alonso": 0.8,
-    "T. Carrique": 0.7,
-    "Á. Yaakobishvili": 0.8
-  },
-  "Burgos Cf": {},
-  "Cd Castellon": {
-    "O. Camara": 0.8,
-    "Á. Calatrava": 0.8,
-    "P. Santiago": 0.8,
-    "D. Barri": 0.7,
-    "Gerenabarrena": 0.8,
-    "A. Mabil": 0.8,
-    "L. Alcázar": 0.7,
-    "A. Sienra": 0.8,
-    "Brignani": 0.8,
-    "J. Mellot": 0.7,
-    "R. Matthys": 0.8
+  "Eibar": {
+    "J. Martón": 0.8,
+    "A. Madariaga": 0.8,
+    "J. Guruzeta": 0.8,
+    "S. Álvarez": 0.8,
+    "L. Olaetxea": 0.8,
+    "J. Corpas": 0.7,
+    "H. Arrillaga": 0.8,
+    "M. Moreno": 0.8,
+    "P. Nolaskoain": 0.7,
+    "S. Cubero": 0.8,
+    "J. Magunagoitia": 0.8
   },
   "Zaragoza": {
     "K. Kodro": 0.8,
@@ -127,18 +112,33 @@
     "A. Gomes": 0.8,
     "E. Andrada": 0.8
   },
-  "Almería": {
-    "L. Baptistão": 0.8,
-    "N. Melamed": 0.8,
-    "S. Arribas": 0.8,
-    "Embarba": 0.8,
-    "S. Dzodic": 0.7,
-    "Baba": 0.8,
-    "Á. Centelles": 0.8,
-    "Á. Muñoz": 0.7,
-    "N. Monte": 0.8,
-    "M. Luna": 0.8,
-    "A. Fernández": 0.8
+  "Sporting": {},
+  "Cd Castellon": {
+    "O. Camara": 0.8,
+    "Á. Calatrava": 0.8,
+    "P. Santiago": 0.8,
+    "D. Barri": 0.7,
+    "Gerenabarrena": 0.8,
+    "A. Mabil": 0.8,
+    "L. Alcázar": 0.7,
+    "A. Sienra": 0.8,
+    "Brignani": 0.8,
+    "J. Mellot": 0.7,
+    "R. Matthys": 0.8
   },
-  "Sporting": {}
+  "Cádiz": {},
+  "Las Palmas": {},
+  "Deportivo": {
+    "Eddahchouri": 0.7,
+    "Y. Hernández": 0.7,
+    "Stoichkov": 0.8,
+    "L. Cruz": 0.8,
+    "M. Soriano": 0.8,
+    "J. Jurado": 0.8,
+    "Quagliata": 0.7,
+    "L. Noubi": 0.8,
+    "Loureiro": 0.8,
+    "A. Altimira": 0.8,
+    "Á. Fernández": 0.8
+  }
 }
