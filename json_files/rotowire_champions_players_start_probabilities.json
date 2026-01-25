@@ -1,5 +1,6 @@
 {
   "Napoli": {
+    "Pasquale Mazzocchi": 0.2,
     "Alex Meret": 0.2,
     "Vanja Milinkovic-Savic": 0.2,
     "Frank Anguissa": 0.0,
@@ -25,10 +26,10 @@
     "Dodi Lukebakio": 0.0
   },
   "Real Madrid": {
-    "Trent Alexander-Arnold": 0.0,
-    "Ferland Mendy": 0.0,
-    "Eder Militao": 0.0,
-    "Antonio Rudiger": 0.0
+    "Trent Alexander-Arnold": 0.2,
+    "Ferland Mendy": 0.2,
+    "Antonio Rudiger": 0.2,
+    "Eder Militao": 0.0
   },
   "Union SG": {
     "Ousseynou Niang": 0.2,
@@ -157,14 +158,14 @@
     "James Maddison": 0.0,
     "Guglielmo Vicario": 0.8,
     "Cristian Romero": 0.8,
-    "Kevin Danso": 0.8,
     "Micky van de Ven": 0.8,
+    "Kevin Danso": 0.8,
     "Djed Spence": 0.8,
     "Archie Gray": 0.8,
     "Yves Bissouma": 0.8,
     "Pedro Porro": 0.8,
-    "Xavi Simons": 0.8,
     "Wilson Odobert": 0.8,
+    "Xavi Simons": 0.8,
     "Dominic Solanke": 0.8
   },
   "Club Brugge": {
@@ -174,9 +175,20 @@
     "Dani van den Heuvel": 0.2
   },
   "Marseille": {
+    "Geoffrey Kondogbia": 0.2,
     "Benjamin Pavard": 0.0,
-    "Geoffrey Kondogbia": 0.0,
-    "Emerson": 0.0
+    "Emerson": 0.0,
+    "Geronimo Rulli": 0.8,
+    "Nayef Aguerd": 0.8,
+    "Leonardo Balerdi": 0.8,
+    "Facundo Medina": 0.8,
+    "Igor Paixao": 0.8,
+    "Quinten Timber": 0.8,
+    "Pierre-Emile Hojbjerg": 0.8,
+    "Timothy Weah": 0.8,
+    "Mason Greenwood": 0.8,
+    "Ethan Nwaneri": 0.8,
+    "Amine Gouiri": 0.8
   },
   "Borussia Dortmund": {
     "Marcel Sabitzer": 0.2,
