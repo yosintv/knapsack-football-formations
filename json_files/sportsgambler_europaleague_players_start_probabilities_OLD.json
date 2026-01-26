@@ -13,7 +13,19 @@
     "Borja Sainz": 0.8
   },
   "Rangers": {},
-  "Lille": {},
+  "Lille": {
+    "Berke Ozer": 0.8,
+    "Thomas Meunier": 0.8,
+    "Nathan Ngoy": 0.8,
+    "Alexsandro Ribeiro": 0.8,
+    "Romain Perraud": 0.8,
+    "Ayyoub Bouaddi": 0.8,
+    "Ngal'ayel Mukau": 0.8,
+    "Marius Broholm": 0.8,
+    "H. Arnar Haraldsson": 0.8,
+    "Félix Correia": 0.8,
+    "Olivier Giroud": 0.8
+  },
   "Freiburg": {
     "Noah Atubolu": 0.8,
     "Philipp Treu": 0.8,
@@ -105,7 +117,19 @@
     "Borja Iglesias": 0.8,
     "Ferran Jutglà": 0.8
   },
-  "Lyon": {},
+  "Lyon": {
+    "Remy Descamps": 0.8,
+    "Clinton Mata": 0.8,
+    "Ruben Kluivert": 0.8,
+    "Moussa Niakhate": 0.8,
+    "A. Maitland-Niles": 0.8,
+    "Khalis Merah": 0.8,
+    "Tyler Morton": 0.8,
+    "Tanner Tessmann": 0.8,
+    "Adam Karabec": 0.8,
+    "Pavel Sulc": 0.8,
+    "Afonso Moreira": 0.8
+  },
   "PAOK": {
     "Antonis Tsiftsis": 0.8,
     "Jonjoe Kenny": 0.8,
@@ -119,7 +143,19 @@
     "Taison": 0.8,
     "Georgios Giakoumakis": 0.8
   },
-  "Celtic": {},
+  "Celtic": {
+    "Kasper Schmeichel": 0.8,
+    "Colby Donovan": 0.8,
+    "Auston Trusty": 0.8,
+    "Liam Scales": 0.8,
+    "Kieran Tierney": 0.8,
+    "Arne Engels": 0.8,
+    "Callum McGregor": 0.8,
+    "Benjamin Nygren": 0.8,
+    "Hyun-jun Yang": 0.8,
+    "Daizen Maeda": 0.8,
+    "Sebastian Tounekti": 0.8
+  },
   "FC Utrecht": {
     "Michael Brouwer": 0.8,
     "Niklas Vesterlund": 0.8,
@@ -159,7 +195,19 @@
     "Christophe Kabongo": 0.8,
     "Prince Kwabena Adu": 0.8
   },
-  "FC Midtjylland": {},
+  "FC Midtjylland": {
+    "E. Rafn Ólafsson": 0.8,
+    "Han-beom Lee": 0.8,
+    "Martin Erlic": 0.8,
+    "Mads Bech Sørensen": 0.8,
+    "Victor Bak Jensen": 0.8,
+    "Denil Castillo": 0.8,
+    "V. Byskov Andreasen": 0.8,
+    "Pedro Bravo": 0.8,
+    "Aral Simsir": 0.8,
+    "Gue-sung Cho": 0.8,
+    "Júnior Brumado": 0.8
+  },
   "Dinamo Zagreb": {
     "Ivan Filipovic": 0.8,
     "Niko Galesic": 0.8,
@@ -186,7 +234,19 @@
     "Yves Erick Bile": 0.8,
     "Erick Marcus": 0.8
   },
-  "Nice": {},
+  "Nice": {
+    "Yehvann Diouf": 0.8,
+    "Jonathan Clauss": 0.8,
+    "Juma Bah": 0.8,
+    "Kojo Peprah Oppong": 0.8,
+    "Ali Abdi": 0.8,
+    "Salis Abdul Samed": 0.8,
+    "Tanguy NDombèlé": 0.8,
+    "Morgan Sanson": 0.8,
+    "Mohamed Ali Cho": 0.8,
+    "Kevin Carlos": 0.8,
+    "Tiago Gouveia": 0.8
+  },
   "Nottingham Forest": {
     "Matz Sels": 0.8,
     "Nicolò Savona": 0.8,
@@ -267,13 +327,13 @@
   },
   "Panathinaikos": {
     "Alban Lafont": 0.8,
-    "Davide Calabria": 0.8,
+    "Giannis Kotsiras": 0.8,
     "Erik Palmer-Brown": 0.8,
     "Sverrir Ingi Ingason": 0.8,
     "Ahmed Touba": 0.8,
     "Renato Sanches": 0.8,
     "G. Kyriakopoulos": 0.8,
-    "Pedro Chirivella": 0.8,
+    "Anass Zaroury": 0.8,
     "Anastasios Bakasetas": 0.8,
     "Facundo Pellistri": 0.8,
     "Vicente Taborda": 0.8
@@ -284,7 +344,7 @@
     "Jan Ziolkowski": 0.8,
     "Daniele Ghilardi": 0.8,
     "Devyne Rensch": 0.8,
-    "Manu Koné": 0.8,
+    "Bryan Cristante": 0.8,
     "Niccolò Pisilli": 0.8,
     "K. Tsimikas": 0.8,
     "Matias Soule": 0.8,
@@ -304,8 +364,32 @@
     "Mathis Suray": 0.8,
     "Victor Edvardsen": 0.8
   },
-  "Braga": {},
-  "Genk": {},
+  "Braga": {
+    "Lukas Hornicek": 0.8,
+    "Víctor Gómez": 0.8,
+    "Gustaf Lagerbielke": 0.8,
+    "Vitor Carvalho": 0.8,
+    "Diego Rodrigues": 0.8,
+    "Florian Grillitsch": 0.8,
+    "Jean-Baptiste Gorby": 0.8,
+    "Bright Arrey-Mbi": 0.8,
+    "Pau Victor Delgado": 0.8,
+    "Fran Navarro": 0.8,
+    "Ricardo Horta": 0.8
+  },
+  "Genk": {
+    "Tobias Lawal": 0.8,
+    "Zakaria El Ouahdi": 0.8,
+    "Mujaid Sadick": 0.8,
+    "Matte Smets": 0.8,
+    "Yaimar Medina": 0.8,
+    "K. Karetsas": 0.8,
+    "Bryan Heynen": 0.8,
+    "Daan Heymans": 0.8,
+    "Yira Sor": 0.8,
+    "Junya Ito": 0.8,
+    "Aaron Bibout": 0.8
+  },
   "Malmo FF": {
     "Melker Ellborg": 0.8,
     "Taha Abdi Ali": 0.8,
