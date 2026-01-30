@@ -1,11 +1,11 @@
 {
   "Lazio": {
     "Patric": 0.2,
+    "Alessio Romagnoli": 0.5,
     "Nicolo Rovella": 0.2,
     "Samuel Gigot": 0.0,
     "Ivan Provedel": 0.8,
     "Adam Marusic": 0.8,
-    "Alessio Romagnoli": 0.8,
     "Mario Gila": 0.8,
     "Manuel Lazzari": 0.8,
     "Danilo Cataldi": 0.8,
@@ -231,11 +231,11 @@
     "Alessio Zerbin": 0.8,
     "Jari Vandeputte": 0.8,
     "Romano Floriani Mussolini": 0.8,
-    "Jamie Vardy": 0.8,
-    "Federico Bonazzoli": 0.8
+    "Federico Bonazzoli": 0.8,
+    "Jamie Vardy": 0.8
   },
   "Inter": {
-    "Nicolo Barella": 0.5,
+    "Nicolo Barella": 0.0,
     "Hakan Calhanoglu": 0.0,
     "Denzel Dumfries": 0.0,
     "Yann Sommer": 0.8,
@@ -244,6 +244,7 @@
     "Yann Aurel Bisseck": 0.8,
     "Federico Dimarco": 0.8,
     "Piotr Zielinski": 0.8,
+    "Henrikh Mkhitaryan": 0.8,
     "Petar Sucic": 0.8,
     "Luis Henrique": 0.8,
     "Lautaro Martinez": 0.8,
