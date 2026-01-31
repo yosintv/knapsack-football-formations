@@ -40,129 +40,6 @@
       false
     ]
   },
-  "Aston Villa": {
-    "Emiliano Martínez": [
-      true,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Marco Bizot": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ]
-  },
-  "Porto": {
-    "Diogo Costa": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
-      true,
-      false,
-      false,
-      false
-    ],
-    "Cláudio Ramos": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "João Costa": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      true,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "AS Roma": {
-    "Mile Svilar": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
-    "Devis Vásquez": [
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Pierluigi Gollini": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      true,
-      false
-    ],
-    "Radoslaw Zelezny": [
-      true,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
-      false
-    ]
-  },
   "VfB Stuttgart": {
     "Alexander Nübel": [
       true,
@@ -364,6 +241,749 @@
       false,
       false,
       true
+    ]
+  },
+  "Celta de Vigo": {
+    "Ionuț Radu": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "Iván Villar": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Marc Vidal": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "KRC Genk": {
+    "Tobias Lawal": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "Hendrik Van Crombrugge": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "Lucca Brughmans": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Brent Stevens": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "Celtic FC": {
+    "Viljami Sinisalo": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Kasper Schmeichel": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Ross Doohan": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "PAOK Thessaloniki": {
+    "Jiri Pavlenka": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Luka Gugeshashvili": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Antonis Tsiftsis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Dimitrios Monastirlis": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "Red Star Belgrade": {
+    "Matheus": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Omri Glazer": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Ivan Gutesa": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "Savo Radanovic": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Vuk Draskic": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Ivan Guteša": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "Panathinaikos FC": {
+    "Alban Lafont": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Lucas Chaves": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Konstantinos Kotsaris": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Bartlomiej Dragowski": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "GNK Dinamo Zagreb": {
+    "Dominik Livakovic": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "Ivan Nevistic": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Ivan Filipovic": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Antonio Rajic": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Danijel Zagorac": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "FC Viktoria Plzen": {
+    "Florian Wiegele": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Dominik Tapaj": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Marian Tvrdon": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Matyas Silhavy": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Martin Jedlicka": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "Ludogorets Razgrad": {
+    "Hendrik Bonmann": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Sergio Padt": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Damyan Hristov": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "Ferencvárosi TC": {
+    "Dénes Dibusz": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "Ádám Varga": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Dániel Radnóti": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Dávid Gróf": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Gergő Szécsi": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "SK Brann": {
+    "Mathias Dyngeland": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Mathias Engevik Klausen": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Tom Bramel": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Martin Børsheim": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "Aston Villa": {
+    "Emiliano Martínez": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Marco Bizot": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "Porto": {
+    "Diogo Costa": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "Cláudio Ramos": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "João Costa": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "AS Roma": {
+    "Mile Svilar": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Devis Vásquez": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Pierluigi Gollini": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "Radoslaw Zelezny": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
     ]
   },
   "Olympique Lyon": {
@@ -610,47 +1230,6 @@
       false
     ]
   },
-  "Celta de Vigo": {
-    "Ionuț Radu": [
-      false,
-      true,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      true
-    ],
-    "Iván Villar": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Marc Vidal": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "SC Braga": {
     "Lukas Hornicek": [
       true,
@@ -688,101 +1267,6 @@
       false,
       false,
       true,
-      false,
-      false
-    ]
-  },
-  "KRC Genk": {
-    "Tobias Lawal": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false
-    ],
-    "Hendrik Van Crombrugge": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true
-    ],
-    "Lucca Brughmans": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Brent Stevens": [
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "Celtic FC": {
-    "Viljami Sinisalo": [
-      false,
-      false,
-      false,
-      true,
-      true,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
-    "Kasper Schmeichel": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Ross Doohan": [
-      true,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
       false,
       false
     ]
@@ -936,60 +1420,6 @@
       false
     ]
   },
-  "PAOK Thessaloniki": {
-    "Jiri Pavlenka": [
-      false,
-      true,
-      true,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Luka Gugeshashvili": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Antonis Tsiftsis": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Dimitrios Monastirlis": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "FC Utrecht": {
     "Vasilios Barkas": [
       false,
@@ -1027,140 +1457,6 @@
       false,
       false,
       true,
-      false,
-      false
-    ]
-  },
-  "Red Star Belgrade": {
-    "Matheus": [
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Omri Glazer": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Ivan Gutesa": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false
-    ],
-    "Savo Radanovic": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Vuk Draskic": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Ivan Guteša": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false
-    ]
-  },
-  "Panathinaikos FC": {
-    "Alban Lafont": [
-      true,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Lucas Chaves": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Konstantinos Kotsaris": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Bartlomiej Dragowski": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
       false,
       false
     ]
@@ -1286,127 +1582,6 @@
       true
     ]
   },
-  "GNK Dinamo Zagreb": {
-    "Ivan Nevistic": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
-    "Ivan Filipovic": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Antonio Rajic": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
-    "Danijel Zagorac": [
-      true,
-      false,
-      true,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true
-    ]
-  },
-  "FC Viktoria Plzen": {
-    "Florian Wiegele": [
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Dominik Tapaj": [
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Marian Tvrdon": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ],
-    "Matyas Silhavy": [
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Martin Jedlicka": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false
-    ]
-  },
   "SK Sturm Graz": {
     "Daniil Khudyakov": [
       false,
@@ -1459,114 +1634,6 @@
       true,
       false,
       false
-    ]
-  },
-  "Ludogorets Razgrad": {
-    "Hendrik Bonmann": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Sergio Padt": [
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Damyan Hristov": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "Ferencvárosi TC": {
-    "Dénes Dibusz": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true
-    ],
-    "Ádám Varga": [
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Dániel Radnóti": [
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Dávid Gróf": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Gergő Szécsi": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      true
     ]
   },
   "FCSB": {
@@ -1831,60 +1898,6 @@
       false,
       false,
       true,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "SK Brann": {
-    "Mathias Dyngeland": [
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Mathias Engevik Klausen": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Tom Bramel": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Martin Børsheim": [
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
       false,
       false,
       false,

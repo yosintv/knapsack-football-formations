@@ -13,19 +13,6 @@
       false,
       false
     ],
-    "Daniel Bachmann": [
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
     "Germán Parreño": [
       false,
       false,
@@ -41,6 +28,19 @@
     ],
     "Eric Puerto": [
       false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Daniel Bachmann": [
+      true,
       false,
       false,
       false,
@@ -413,34 +413,6 @@
       false
     ]
   },
-  "CD Castellón": {
-    "Romain Matthys": [
-      false,
-      false,
-      true,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Amir Abedzadeh": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
   "FC Andorra": {
     "Áron Yaakobishvili": [
       false,
@@ -475,6 +447,62 @@
       false,
       false,
       false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "CD Castellón": {
+    "Romain Matthys": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Amir Abedzadeh": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "CD Mirandés": {
+    "Igor Nikic": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Juanpa Palomares": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
       false,
       false,
       false,
@@ -538,62 +566,6 @@
       false
     ]
   },
-  "CD Mirandés": {
-    "Igor Nikic": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Juanpa Palomares": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      false
-    ]
-  },
-  "Albacete Balompié": {
-    "Raúl Lizoain": [
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false,
-      false
-    ],
-    "Diego Mariño": [
-      false,
-      false,
-      false,
-      false,
-      true,
-      false,
-      false,
-      false,
-      false,
-      true,
-      false
-    ]
-  },
   "SD Huesca": {
     "Juan Pérez": [
       true,
@@ -633,6 +605,34 @@
       false,
       false,
       true
+    ]
+  },
+  "Albacete Balompié": {
+    "Raúl Lizoain": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "Diego Mariño": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
     ]
   },
   "AD Ceuta FC": {
