@@ -3361,8 +3361,6 @@
         "fitness": [
           null,
           null,
-          null,
-          null,
           null
         ],
         "points": 0,
@@ -8199,11 +8197,7 @@
         "playedHome": 1,
         "playedAway": 0,
         "fitness": [
-          3,
-          null,
-          null,
-          null,
-          null
+          3
         ],
         "points": 3,
         "pointsHome": 3,
@@ -10812,8 +10806,6 @@
         "playedHome": 0,
         "playedAway": 0,
         "fitness": [
-          null,
-          null,
           null,
           null,
           null
@@ -15970,8 +15962,8 @@
         ]
       }
     },
-    "update": 1770008410,
-    "etag": 1351132040,
+    "update": 1770004605,
+    "etag": 1996228166,
     "scoreID": 3
   },
   "meta": {
