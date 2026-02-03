@@ -2412,14 +2412,14 @@
         "playedHome": 8,
         "playedAway": 11,
         "fitness": [
-          -1,
+          0,
           10,
           13,
           4,
           11
         ],
-        "points": 89,
-        "pointsHome": 43,
+        "points": 90,
+        "pointsHome": 44,
         "pointsAway": 46,
         "pointsLastSeason": null
       },
@@ -10812,6 +10812,7 @@
           null,
           null,
           null,
+          null,
           null
         ],
         "points": 0,
@@ -14320,14 +14321,14 @@
         "playedHome": 12,
         "playedAway": 12,
         "fitness": [
-          2,
+          3,
           -2,
           1,
           -1,
           5
         ],
-        "points": 79,
-        "pointsHome": 45,
+        "points": 80,
+        "pointsHome": 46,
         "pointsAway": 34,
         "pointsLastSeason": null
       },
@@ -15982,8 +15983,8 @@
         ]
       }
     },
-    "update": 1770094810,
-    "etag": 577225337,
+    "update": 1770088622,
+    "etag": 2401802001,
     "scoreID": 3
   },
   "meta": {

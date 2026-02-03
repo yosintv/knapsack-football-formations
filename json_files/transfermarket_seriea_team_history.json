@@ -65,13 +65,6 @@
       "Feyenoord U19",
       "Feyenoord U21"
     ],
-    "Tomás Palacios": [
-      "CS Independiente Rivadavia",
-      "CA Talleres II",
-      "AC Monza",
-      "CA Talleres",
-      "Inter"
-    ],
     "Francesco Acerbi": [
       "SS Lazio",
       "US Sassuolo",
@@ -214,6 +207,13 @@
       "Inter Under 18",
       "Inter Milan UEFA U19"
     ],
+    "Tomás Palacios": [
+      "CS Independiente Rivadavia",
+      "CA Talleres II",
+      "AC Monza",
+      "CA Talleres",
+      "Inter"
+    ],
     "Valentín Carboni": [
       "Inter Milan Primavera",
       "AC Monza",
@@ -277,26 +277,19 @@
       "Juventus FC",
       "Newcastle United"
     ],
-    "Daniele Rugani": [
-      "Juventus FC",
-      "FC Empoli",
-      "Ajax Amsterdam",
-      "Juventus Primavera",
-      "Empoli Primavera",
-      "Cagliari Calcio",
-      "Stade Rennais FC"
-    ],
     "Juan Cabal": [
       "Atlético Nacional",
       "Hellas Verona",
       "Juventus FC"
     ],
-    "Jonas Rouhi": [
-      "Juventus Primavera",
-      "Juventus Next Gen",
-      "Juventus FC UEFA U19",
-      "Juventus Under 17",
-      "Juventus FC"
+    "Emil Holm": [
+      "Bologna FC 1909",
+      "Sönderjyske Fodbold",
+      "IFK Göteborg",
+      "Atalanta BC",
+      "Spezia Calcio",
+      "IFK Göteborg U21",
+      "IFK Göteborg U19"
     ],
     "Manuel Locatelli": [
       "Juventus FC",
@@ -326,12 +319,6 @@
       "Genoa CFC",
       "Juventus Under 17",
       "Juventus FC UEFA U19"
-    ],
-    "João Mário": [
-      "Porto",
-      "FC Porto B",
-      "FC Porto Youth League",
-      "Juventus FC"
     ],
     "Andrea Cambiaso": [
       "Juventus FC",
@@ -374,6 +361,19 @@
       "FC Bayern Munich U17",
       "Juventus FC UEFA U19",
       "Bayern Munich UEFA U19"
+    ],
+    "Jérémie Boga": [
+      "US Sassuolo",
+      "OGC Nice",
+      "Atalanta BC",
+      "Chelsea FC U21",
+      "Birmingham City",
+      "Stade Rennais FC",
+      "Granada CF",
+      "Chelsea FC UEFA U19",
+      "Chelsea FC U18",
+      "Chelsea",
+      "Stade Rennais FC B"
     ],
     "Francisco Conceição": [
       "Porto",
@@ -420,6 +420,28 @@
       "Bayer Leverkusen",
       "Bayer 04 Leverkusen II (- 2014)",
       "Ajax Amsterdam U21"
+    ],
+    "Daniele Rugani": [
+      "Juventus FC",
+      "FC Empoli",
+      "Ajax Amsterdam",
+      "Juventus Primavera",
+      "Empoli Primavera",
+      "Cagliari Calcio",
+      "Stade Rennais FC"
+    ],
+    "Jonas Rouhi": [
+      "Juventus Primavera",
+      "Juventus Next Gen",
+      "Juventus FC UEFA U19",
+      "Juventus Under 17",
+      "Juventus FC"
+    ],
+    "João Mário": [
+      "Porto",
+      "FC Porto B",
+      "FC Porto Youth League",
+      "Juventus FC"
     ]
   },
   "AC Milan": {
@@ -623,269 +645,6 @@
       "PSG"
     ]
   },
-  "Atalanta BC": {
-    "Marco Carnesecchi": [
-      "Atalanta BC",
-      "US Cremonese",
-      "Atalanta Primavera",
-      "FC Trapani 1905",
-      "Cesena Under 17",
-      "Cesena Primavera"
-    ],
-    "Marco Sportiello": [
-      "Atalanta BC",
-      "ACF Fiorentina",
-      "AC Carpi",
-      "US Poggibonsi",
-      "Frosinone Calcio",
-      "AC Milan",
-      "Atalanta Primavera"
-    ],
-    "Francesco Rossi": [
-      "Atalanta Primavera",
-      "AC Cuneo 1905 Olmo",
-      "AC Prato",
-      "Lupa Roma FC",
-      "Teramo Calcio 1913",
-      "Atalanta BC",
-      "FC Lumezzane",
-      "Pavia Calcio 1911"
-    ],
-    "Isak Hien": [
-      "Atalanta BC",
-      "Vasalunds IF",
-      "Hellas Verona",
-      "Djurgårdens IF",
-      "Vasalunds IF U19"
-    ],
-    "Giorgio Scalvini": [
-      "Atalanta BC",
-      "Atalanta Primavera",
-      "Atalanta BC U17",
-      "Atalanta Under 18"
-    ],
-    "Honest Ahanor": [
-      "Atalanta BC",
-      "Genoa Under 17",
-      "Genoa U20",
-      "Genoa CFC",
-      "Genoa Under 18"
-    ],
-    "Odilon Kossounou": [
-      "Bayer Leverkusen",
-      "Club Brugge KV",
-      "Atalanta BC",
-      "Hammarby IF",
-      "Hammarby IF U21 (- 2018)",
-      "Club Brugge UEFA U19"
-    ],
-    "Sead Kolasinac": [
-      "FC Schalke 04",
-      "Arsenal FC",
-      "Atalanta BC",
-      "Olympique Marseille",
-      "FC Schalke 04 U19",
-      "Karlsruher SC U17",
-      "TSG 1899 Hoffenheim U17",
-      "VfB Stuttgart U19",
-      "FC Schalke 04 II"
-    ],
-    "Berat Djimsiti": [
-      "Atalanta BC",
-      "FC Zürich",
-      "FC Zürich U21",
-      "US Avellino 1912",
-      "Benevento Calcio",
-      "FC Zürich U18 (-2023)"
-    ],
-    "Marten de Roon": [
-      "Atalanta BC",
-      "SC Heerenveen",
-      "Sparta Rotterdam",
-      "Middlesbrough FC",
-      "SC Heerenveen U21"
-    ],
-    "Éderson": [
-      "Atalanta BC",
-      "Fortaleza Esporte Clube",
-      "Cruzeiro Esporte Clube",
-      "Sport Club Corinthians Paulista",
-      "US Salernitana 1919"
-    ],
-    "Yunus Musah": [
-      "Valencia CF",
-      "AC Milan",
-      "Arsenal FC U18",
-      "Atalanta BC",
-      "Valencia Mestalla",
-      "Valencia CF UEFA U19"
-    ],
-    "Mario Pašalić": [
-      "Atalanta BC",
-      "HNK Hajduk Split",
-      "Elche CF",
-      "Spartak Moscow",
-      "AS Monaco",
-      "AC Milan"
-    ],
-    "Raoul Bellanova": [
-      "AC Milan Primavera",
-      "Atalanta BC",
-      "Torino FC",
-      "Milan Under 17",
-      "Cagliari Calcio",
-      "Delfino Pescara 1936",
-      "Inter",
-      "FC Girondins Bordeaux",
-      "Atalanta Primavera",
-      "AC Milan"
-    ],
-    "Davide Zappacosta": [
-      "Atalanta BC",
-      "US Avellino 1912",
-      "Torino FC",
-      "Chelsea",
-      "Genoa CFC",
-      "Atalanta Primavera",
-      "SSD Isola Liri",
-      "AS Roma"
-    ],
-    "Nicola Zalewski": [
-      "AS Roma",
-      "Roma U20",
-      "Roma Under 17",
-      "Atalanta BC",
-      "Inter",
-      "Roma Under 18"
-    ],
-    "Mitchel Bakker": [
-      "Bayer Leverkusen",
-      "PSG",
-      "Ajax Amsterdam U21",
-      "LOSC Lille",
-      "Ajax Amsterdam U19",
-      "Atalanta BC",
-      "Ajax Amsterdam U17",
-      "Ajax Amsterdam UEFA U19",
-      "Ajax Amsterdam",
-      "Atalanta Primavera",
-      "Ajax U18"
-    ],
-    "Lorenzo Bernasconi": [
-      "Atalanta U23",
-      "Atalanta Primavera",
-      "Cremonese Primavera",
-      "Atalanta BC",
-      "Cremonese Under 17",
-      "Atalanta BC UEFA U19",
-      "Atalanta Under 18",
-      "US Cremonese"
-    ],
-    "Charles De Ketelaere": [
-      "Atalanta BC",
-      "Club Brugge KV",
-      "AC Milan",
-      "Club Brugge UEFA U19",
-      "Club Bruges U19"
-    ],
-    "Lazar Samardžić": [
-      "Udinese Calcio",
-      "Atalanta BC",
-      "Hertha BSC U17",
-      "Hertha BSC U19",
-      "RB Leipzig",
-      "Hertha BSC II",
-      "Hertha BSC"
-    ],
-    "Daniel Maldini": [
-      "AC Milan Primavera",
-      "AC Monza",
-      "Milan Under 17",
-      "AC Milan",
-      "Atalanta BC",
-      "Spezia Calcio",
-      "FC Empoli"
-    ],
-    "Kamaldeen Sulemana": [
-      "Southampton FC",
-      "Stade Rennais FC",
-      "FC Nordsjaelland",
-      "Atalanta BC",
-      "Stade Rennais FC B"
-    ],
-    "Ademola Lookman": [
-      "Atalanta BC",
-      "Charlton Athletic",
-      "Everton FC",
-      "Leicester City",
-      "Fulham FC",
-      "RB Leipzig",
-      "Everton FC U21"
-    ],
-    "Giacomo Raspadori": [
-      "SSC Napoli",
-      "US Sassuolo",
-      "Sassuolo Primavera",
-      "Sassuolo Under 17",
-      "Atlético de Madrid",
-      "Atalanta BC"
-    ],
-    "Gianluca Scamacca": [
-      "Atalanta BC",
-      "US Sassuolo",
-      "Ascoli Calcio",
-      "Genoa CFC",
-      "West Ham United",
-      "Sassuolo Primavera",
-      "PSV Eindhoven U19",
-      "US Cremonese",
-      "PEC Zwolle",
-      "PSV Eindhoven U21",
-      "PSV Eindhoven UEFA U19",
-      "PEC Zwolle U21",
-      "PSV Eindhoven U17"
-    ],
-    "Nikola Krstović": [
-      "FK Zeta Golubovac",
-      "US Lecce",
-      "DAC Dunajska Streda",
-      "Red Star Belgrade",
-      "Atalanta BC",
-      "Graficar Belgrad",
-      "Red Star Belgrade U19"
-    ],
-    "Ben Godfrey": [
-      "Everton FC",
-      "Norwich City",
-      "Shrewsbury Town",
-      "Norwich City U21",
-      "York City",
-      "Ipswich Town",
-      "Atalanta BC",
-      "Sheffield United",
-      "Norwich City U18",
-      "Sheffield United U21",
-      "Everton FC U21"
-    ],
-    "Mario Pasalić": [
-      "Atalanta BC",
-      "HNK Hajduk Split",
-      "Elche CF",
-      "Spartak Moscow",
-      "AS Monaco",
-      "AC Milan"
-    ],
-    "Marco Brescianini": [
-      "AC Milan Primavera",
-      "Atalanta BC",
-      "Frosinone Calcio",
-      "Cosenza Calcio",
-      "Virtus Entella",
-      "Milan Under 17",
-      "AC Monza",
-      "AC Milan"
-    ]
-  },
   "SSC Napoli": {
     "Vanja Milinković-Savić": [
       "Torino FC",
@@ -946,14 +705,6 @@
       "RNK Split",
       "Hellas Verona",
       "NK Lokomotiva Zagreb"
-    ],
-    "Luca Marianucci": [
-      "Pro Sesto 1913",
-      "Empoli Primavera",
-      "FC Empoli",
-      "Empoli Under 18",
-      "Empoli Under 17",
-      "SSC Napoli"
     ],
     "Juan Jesus": [
       "Inter",
@@ -1060,6 +811,14 @@
       "Napoli Under 17",
       "SSC Napoli"
     ],
+    "Alisson Santos": [
+      "Esporte Clube Vitória",
+      "Sporting CP",
+      "Figueirense Futebol Clube",
+      "UD Leiria",
+      "Clube Náutico Capibaribe",
+      "EC Vitória U20"
+    ],
     "David Neres": [
       "Ajax Amsterdam",
       "SL Benfica",
@@ -1101,6 +860,14 @@
       "Sport Club Corinthians Paulista",
       "Hellas Verona",
       "SC Corinthians U20",
+      "SSC Napoli"
+    ],
+    "Luca Marianucci": [
+      "Pro Sesto 1913",
+      "Empoli Primavera",
+      "FC Empoli",
+      "Empoli Under 18",
+      "Empoli Under 17",
       "SSC Napoli"
     ],
     "Giuseppe Ambrosino": [
@@ -1206,8 +973,8 @@
       "Hellas Verona",
       "Hellas Verona Primavera",
       "Fiorentina Under 17",
-      "Fiorentina Under 18",
       "AS Roma",
+      "Fiorentina Under 18",
       "Fiorentina Primavera"
     ],
     "Jan Ziolkowski": [
@@ -1267,11 +1034,6 @@
       "Ajax Amsterdam U21",
       "Ajax Amsterdam UEFA U19"
     ],
-    "Buba Sangaré": [
-      "Roma U20",
-      "Levante",
-      "AS Roma"
-    ],
     "Bryan Cristante": [
       "AS Roma",
       "Atalanta BC",
@@ -1307,6 +1069,14 @@
       "Roma U20",
       "US Sassuolo",
       "AS Roma UEFA U19"
+    ],
+    "Bryan Zaragoza": [
+      "Granada CF",
+      "Recreativo Granada",
+      "CA Osasuna",
+      "Celta de Vigo",
+      "Club Polideportivo El Ejido",
+      "Bayern Munich"
     ],
     "Stephan El Shaarawy": [
       "AS Roma",
@@ -1356,8 +1126,8 @@
       "Arsenal FC U21",
       "Arsenal FC U18",
       "Arsenal FC UEFA U19",
-      "Ajax Amsterdam U17",
       "AS Roma",
+      "Ajax Amsterdam U17",
       "Ajax U18"
     ],
     "Artem Dovbyk": [
@@ -1380,6 +1150,11 @@
       "FC Sochaux-Montbéliard B",
       "AS Roma"
     ],
+    "Buba Sangaré": [
+      "Roma U20",
+      "Levante",
+      "AS Roma"
+    ],
     "Edoardo Bove": [
       "AS Roma",
       "Roma U20",
@@ -1398,6 +1173,270 @@
       "Aston Villa",
       "KRC Genk",
       "AS Roma"
+    ]
+  },
+  "Atalanta BC": {
+    "Marco Carnesecchi": [
+      "Atalanta BC",
+      "US Cremonese",
+      "Atalanta Primavera",
+      "FC Trapani 1905",
+      "Cesena Under 17",
+      "Cesena Primavera"
+    ],
+    "Marco Sportiello": [
+      "Atalanta BC",
+      "ACF Fiorentina",
+      "AC Carpi",
+      "US Poggibonsi",
+      "Frosinone Calcio",
+      "AC Milan",
+      "Atalanta Primavera"
+    ],
+    "Francesco Rossi": [
+      "Atalanta Primavera",
+      "AC Cuneo 1905 Olmo",
+      "AC Prato",
+      "Lupa Roma FC",
+      "Teramo Calcio 1913",
+      "Atalanta BC",
+      "FC Lumezzane",
+      "Pavia Calcio 1911"
+    ],
+    "Isak Hien": [
+      "Atalanta BC",
+      "Vasalunds IF",
+      "Hellas Verona",
+      "Djurgårdens IF",
+      "Vasalunds IF U19"
+    ],
+    "Giorgio Scalvini": [
+      "Atalanta BC",
+      "Atalanta Primavera",
+      "Atalanta BC U17",
+      "Atalanta Under 18"
+    ],
+    "Honest Ahanor": [
+      "Atalanta BC",
+      "Genoa Under 17",
+      "Genoa U20",
+      "Genoa CFC",
+      "Genoa Under 18"
+    ],
+    "Odilon Kossounou": [
+      "Bayer Leverkusen",
+      "Club Brugge KV",
+      "Atalanta BC",
+      "Hammarby IF",
+      "Hammarby IF U21 (- 2018)",
+      "Club Brugge UEFA U19"
+    ],
+    "Sead Kolasinac": [
+      "FC Schalke 04",
+      "Arsenal FC",
+      "Atalanta BC",
+      "Olympique Marseille",
+      "FC Schalke 04 U19",
+      "Karlsruher SC U17",
+      "TSG 1899 Hoffenheim U17",
+      "VfB Stuttgart U19",
+      "FC Schalke 04 II"
+    ],
+    "Berat Djimsiti": [
+      "Atalanta BC",
+      "FC Zürich",
+      "FC Zürich U21",
+      "US Avellino 1912",
+      "Benevento Calcio",
+      "FC Zürich U18 (-2023)"
+    ],
+    "Marten de Roon": [
+      "Atalanta BC",
+      "SC Heerenveen",
+      "Sparta Rotterdam",
+      "Middlesbrough FC",
+      "SC Heerenveen U21"
+    ],
+    "Éderson": [
+      "Atalanta BC",
+      "Fortaleza Esporte Clube",
+      "Cruzeiro Esporte Clube",
+      "Sport Club Corinthians Paulista",
+      "US Salernitana 1919"
+    ],
+    "Yunus Musah": [
+      "Valencia CF",
+      "AC Milan",
+      "Atalanta BC",
+      "Arsenal FC U18",
+      "Valencia Mestalla",
+      "Valencia CF UEFA U19"
+    ],
+    "Mario Pašalić": [
+      "Atalanta BC",
+      "HNK Hajduk Split",
+      "Elche CF",
+      "Spartak Moscow",
+      "AS Monaco",
+      "AC Milan"
+    ],
+    "Raoul Bellanova": [
+      "AC Milan Primavera",
+      "Atalanta BC",
+      "Torino FC",
+      "Milan Under 17",
+      "Cagliari Calcio",
+      "Delfino Pescara 1936",
+      "Inter",
+      "FC Girondins Bordeaux",
+      "Atalanta Primavera",
+      "AC Milan"
+    ],
+    "Davide Zappacosta": [
+      "Atalanta BC",
+      "US Avellino 1912",
+      "Torino FC",
+      "Chelsea",
+      "Genoa CFC",
+      "Atalanta Primavera",
+      "SSD Isola Liri",
+      "AS Roma"
+    ],
+    "Nicola Zalewski": [
+      "AS Roma",
+      "Roma U20",
+      "Roma Under 17",
+      "Atalanta BC",
+      "Inter",
+      "Roma Under 18"
+    ],
+    "Mitchel Bakker": [
+      "Bayer Leverkusen",
+      "PSG",
+      "Ajax Amsterdam U21",
+      "LOSC Lille",
+      "Ajax Amsterdam U19",
+      "Atalanta BC",
+      "Ajax Amsterdam U17",
+      "Ajax Amsterdam UEFA U19",
+      "Ajax Amsterdam",
+      "Atalanta Primavera",
+      "Atalanta U23",
+      "Ajax U18"
+    ],
+    "Lorenzo Bernasconi": [
+      "Atalanta U23",
+      "Atalanta Primavera",
+      "Cremonese Primavera",
+      "Atalanta BC",
+      "Cremonese Under 17",
+      "Atalanta BC UEFA U19",
+      "Atalanta Under 18",
+      "US Cremonese"
+    ],
+    "Charles De Ketelaere": [
+      "Atalanta BC",
+      "Club Brugge KV",
+      "AC Milan",
+      "Club Brugge UEFA U19",
+      "Club Bruges U19"
+    ],
+    "Lazar Samardžić": [
+      "Udinese Calcio",
+      "Atalanta BC",
+      "Hertha BSC U17",
+      "Hertha BSC U19",
+      "RB Leipzig",
+      "Hertha BSC II",
+      "Hertha BSC"
+    ],
+    "Kamaldeen Sulemana": [
+      "Southampton FC",
+      "Stade Rennais FC",
+      "FC Nordsjaelland",
+      "Atalanta BC",
+      "Stade Rennais FC B"
+    ],
+    "Giacomo Raspadori": [
+      "SSC Napoli",
+      "US Sassuolo",
+      "Sassuolo Primavera",
+      "Sassuolo Under 17",
+      "Atlético de Madrid",
+      "Atalanta BC"
+    ],
+    "Gianluca Scamacca": [
+      "Atalanta BC",
+      "US Sassuolo",
+      "Ascoli Calcio",
+      "Genoa CFC",
+      "West Ham United",
+      "Sassuolo Primavera",
+      "PSV Eindhoven U19",
+      "US Cremonese",
+      "PEC Zwolle",
+      "PSV Eindhoven U21",
+      "PSV Eindhoven UEFA U19",
+      "PEC Zwolle U21",
+      "PSV Eindhoven U17"
+    ],
+    "Nikola Krstović": [
+      "FK Zeta Golubovac",
+      "US Lecce",
+      "DAC Dunajska Streda",
+      "Red Star Belgrade",
+      "Atalanta BC",
+      "Graficar Belgrad",
+      "Red Star Belgrade U19"
+    ],
+    "Daniel Maldini": [
+      "AC Milan Primavera",
+      "AC Monza",
+      "Milan Under 17",
+      "AC Milan",
+      "Atalanta BC",
+      "Spezia Calcio",
+      "FC Empoli"
+    ],
+    "Ademola Lookman": [
+      "Atalanta BC",
+      "Charlton Athletic",
+      "Everton FC",
+      "Leicester City",
+      "Fulham FC",
+      "RB Leipzig",
+      "Everton FC U21"
+    ],
+    "Ben Godfrey": [
+      "Everton FC",
+      "Norwich City",
+      "Shrewsbury Town",
+      "Norwich City U21",
+      "York City",
+      "Ipswich Town",
+      "Atalanta BC",
+      "Sheffield United",
+      "Norwich City U18",
+      "Sheffield United U21",
+      "Everton FC U21"
+    ],
+    "Mario Pasalić": [
+      "Atalanta BC",
+      "HNK Hajduk Split",
+      "Elche CF",
+      "Spartak Moscow",
+      "AS Monaco",
+      "AC Milan"
+    ],
+    "Marco Brescianini": [
+      "AC Milan Primavera",
+      "Atalanta BC",
+      "Frosinone Calcio",
+      "Cosenza Calcio",
+      "Virtus Entella",
+      "Milan Under 17",
+      "AC Monza",
+      "AC Milan"
     ]
   },
   "Como 1907": {
@@ -1441,8 +1480,8 @@
       "Cagliari Calcio"
     ],
     "Jacobo Ramón": [
-      "Real Madrid Castilla",
       "Como 1907",
+      "Real Madrid Castilla",
       "Real Madrid UEFA U19",
       "Real Madrid"
     ],
@@ -1499,8 +1538,8 @@
     ],
     "Ignace Van der Brempt": [
       "Club Brugge KV",
-      "RB Salzburg",
       "Como 1907",
+      "RB Salzburg",
       "Hamburger SV",
       "Club NXT",
       "Club Brugge UEFA U19",
@@ -1509,8 +1548,8 @@
     "Mërgim Vojvoda": [
       "Torino FC",
       "Royal Excel Mouscron (-2022)",
-      "Standard Liège",
       "Como 1907",
+      "Standard Liège",
       "FC Carl Zeiss Jena",
       "Sint-Truidense VV"
     ],
@@ -1548,6 +1587,10 @@
       "FC Barcelona",
       "FC Barcelona Atlètic",
       "Como 1907"
+    ],
+    "Adrian Lahdo": [
+      "Hammarby IF",
+      "Hammarby TFF"
     ],
     "Nico Paz": [
       "Como 1907",
@@ -1607,8 +1650,8 @@
       "Real Madrid Castilla",
       "Chelsea",
       "AC Milan",
-      "Galatasaray",
-      "Como 1907"
+      "Como 1907",
+      "Galatasaray"
     ],
     "Alberto Cerri": [
       "Cagliari Calcio",
@@ -1784,15 +1827,6 @@
       "Olympiacos Piraeus",
       "SK Sturm Graz II"
     ],
-    "Emil Holm": [
-      "Bologna FC 1909",
-      "Sönderjyske Fodbold",
-      "IFK Göteborg",
-      "Atalanta BC",
-      "Spezia Calcio",
-      "IFK Göteborg U21",
-      "IFK Göteborg U19"
-    ],
     "Nadir Zortea": [
       "Atalanta Primavera",
       "US Cremonese",
@@ -1855,6 +1889,12 @@
       "FC Winterthur U18",
       "FC Winterthur U21",
       "Grasshopper Club Zürich U18"
+    ],
+    "João Mário": [
+      "Porto",
+      "FC Porto B",
+      "FC Porto Youth League",
+      "Juventus FC"
     ],
     "Jens Odgaard": [
       "Bologna FC 1909",
@@ -1921,6 +1961,15 @@
       "FC Emmen U19",
       "FC Emmen",
       "FC Groningen"
+    ],
+    "Emil Holm": [
+      "Bologna FC 1909",
+      "Sönderjyske Fodbold",
+      "IFK Göteborg",
+      "Atalanta BC",
+      "Spezia Calcio",
+      "IFK Göteborg U21",
+      "IFK Göteborg U19"
     ],
     "Ciro Immobile": [
       "SS Lazio",
@@ -1991,8 +2040,8 @@
       "Fiorentina Under 18"
     ],
     "Marin Pongracic": [
-      "RB Salzburg",
       "ACF Fiorentina",
+      "RB Salzburg",
       "US Lecce",
       "Borussia Dortmund",
       "VfL Wolfsburg",
@@ -2016,6 +2065,15 @@
       "Fiorentina Under 17",
       "Fiorentina Under 18",
       "ACF Fiorentina"
+    ],
+    "Daniele Rugani": [
+      "Juventus FC",
+      "FC Empoli",
+      "Ajax Amsterdam",
+      "Juventus Primavera",
+      "Empoli Primavera",
+      "Cagliari Calcio",
+      "Stade Rennais FC"
     ],
     "Eman Kospo": [
       "FC Barcelona UEFA U19",
@@ -2046,6 +2104,12 @@
       "FC Empoli",
       "US Avellino 1912",
       "Benevento Primavera"
+    ],
+    "Luis Balbo": [
+      "Fiorentina Primavera",
+      "ACF Fiorentina",
+      "Fiorentina Under 18",
+      "FC Famalicão UEFA U19"
     ],
     "Dodô": [
       "ACF Fiorentina",
@@ -2102,19 +2166,6 @@
       "ACF Fiorentina",
       "AC Milan"
     ],
-    "Hans Caviglia": [
-      "Juventus Primavera",
-      "Venezia FC",
-      "AC Perugia Calcio",
-      "Juventus Under 17",
-      "FC Südtirol",
-      "ACF Fiorentina",
-      "Juventus Next Gen",
-      "Juventus FC",
-      "US Salernitana 1919",
-      "Juventus FC UEFA U19",
-      "Parma Calcio 1913"
-    ],
     "Cher Ndour": [
       "SL Benfica B",
       "ACF Fiorentina",
@@ -2154,8 +2205,8 @@
       "Everton FC",
       "New York City FC",
       "Middlesbrough FC",
-      "Middlesbrough FC U21",
       "ACF Fiorentina",
+      "Middlesbrough FC U21",
       "Everton FC U21",
       "Leeds United U21"
     ],
@@ -2165,8 +2216,8 @@
       "Leeds United",
       "Fulham FC",
       "Villarreal CF",
-      "Tottenham Hotspur",
-      "ACF Fiorentina"
+      "ACF Fiorentina",
+      "Tottenham Hotspur"
     ],
     "Albert Gudmundsson": [
       "AZ Alkmaar",
@@ -2195,8 +2246,8 @@
       "Cagliari Calcio",
       "Atalanta Primavera",
       "US Lecce",
-      "Spezia Calcio",
       "ACF Fiorentina",
+      "Spezia Calcio",
       "FC Empoli",
       "Atalanta BC",
       "Atalanta BC U17",
@@ -2214,6 +2265,19 @@
       "AC Prato",
       "FC Empoli",
       "Fiorentina Primavera"
+    ],
+    "Hans Caviglia": [
+      "Juventus Primavera",
+      "Venezia FC",
+      "AC Perugia Calcio",
+      "Juventus Under 17",
+      "FC Südtirol",
+      "ACF Fiorentina",
+      "Juventus Next Gen",
+      "Juventus FC",
+      "US Salernitana 1919",
+      "Juventus FC UEFA U19",
+      "Parma Calcio 1913"
     ],
     "Mattia Viti": [
       "FC Empoli",
@@ -2293,12 +2357,6 @@
     ]
   },
   "SS Lazio": {
-    "Christos Mandas": [
-      "SS Lazio",
-      "Atromitos Athens",
-      "OFI Crete FC",
-      "Atromitos Athens U19"
-    ],
     "Ivan Provedel": [
       "SS Lazio",
       "Spezia Calcio",
@@ -2311,6 +2369,15 @@
       "SS Juve Stabia",
       "Udinese Primavera",
       "Chievo Verona"
+    ],
+    "Edoardo Motta": [
+      "Reggiana Primavera",
+      "AC Reggiana 1919",
+      "Alessandria Under 17",
+      "Monza Primavera",
+      "Monza Under 18",
+      "SS Lazio",
+      "Alessandria Primavera"
     ],
     "Alessio Furlanetto": [
       "Lazio U20",
@@ -2426,15 +2493,20 @@
       "NK Rudes",
       "US Salernitana 1919"
     ],
-    "Matías Vecino": [
-      "SS Lazio",
-      "Inter",
-      "ACF Fiorentina",
+    "Daniel Maldini": [
+      "AC Milan Primavera",
+      "AC Monza",
+      "Milan Under 17",
+      "AC Milan",
+      "Atalanta BC",
+      "Spezia Calcio",
       "FC Empoli",
-      "Central Español FC",
-      "Club Nacional",
-      "Cagliari Calcio",
-      "Inter Milan Primavera"
+      "SS Lazio"
+    ],
+    "Adrian Przyborek": [
+      "Pogon Szczecin",
+      "Pogon Szczecin U19",
+      "Pogon Szczecin II"
     ],
     "Fisayo Dele-Bashiru": [
       "Sheffield Wednesday",
@@ -2496,6 +2568,22 @@
       "FK TSC Backa Topola",
       "FK TSC Backa Topola U19",
       "SS Lazio"
+    ],
+    "Christos Mandas": [
+      "SS Lazio",
+      "Atromitos Athens",
+      "OFI Crete FC",
+      "Atromitos Athens U19"
+    ],
+    "Matías Vecino": [
+      "SS Lazio",
+      "Inter",
+      "ACF Fiorentina",
+      "FC Empoli",
+      "Central Español FC",
+      "Club Nacional",
+      "Cagliari Calcio",
+      "Inter Milan Primavera"
     ],
     "Dimitrije Kamenovic": [
       "FK Cukaricki",
@@ -2610,15 +2698,6 @@
       "US Sassuolo",
       "FC Metz B"
     ],
-    "Cas Odenthal": [
-      "NEC Nijmegen",
-      "Como 1907",
-      "NEC Nijmegen U19",
-      "US Sassuolo",
-      "FC Utrecht U19",
-      "FC Utrecht U17",
-      "NEC Nijmegen U21"
-    ],
     "Filippo Romagna": [
       "Juventus Primavera",
       "US Sassuolo",
@@ -2631,12 +2710,29 @@
       "Novara Primavera",
       "Juventus FC"
     ],
+    "Pedro Felipe": [
+      "Juventus Next Gen",
+      "SE Palmeiras São Paulo U20",
+      "EC Vitória U20",
+      "Juventus FC"
+    ],
     "Josh Doig": [
       "Hibernian FC",
       "US Sassuolo",
       "Hellas Verona",
       "Queen's Park FC",
       "Hibernian FC B"
+    ],
+    "Ulisses Garcia": [
+      "BSC Young Boys",
+      "Olympique Marseille",
+      "Grasshopper Club Zürich U21",
+      "Grasshopper Club Zürich U18",
+      "SV Werder Bremen",
+      "SV Werder Bremen II",
+      "BSC Young Boys U21",
+      "Grasshopper Club Zurich",
+      "1.FC Nuremberg"
     ],
     "Edoardo Pieragnolo": [
       "Sassuolo Primavera",
@@ -2663,12 +2759,6 @@
       "AC Le Havre B",
       "US Sassuolo",
       "Leicester City"
-    ],
-    "Yeferson Paz": [
-      "AC Perugia Calcio",
-      "Sassuolo Primavera",
-      "Internacional de Palmira",
-      "US Sassuolo"
     ],
     "Daniel Boloca": [
       "Frosinone Calcio",
@@ -2734,6 +2824,12 @@
       "AS Roma",
       "Roma Under 17"
     ],
+    "Darryl Bakola": [
+      "Olympique Marseille U19",
+      "Olympique Marseille",
+      "Olympique de Marseille B",
+      "Olympique Marseille UEFA U19"
+    ],
     "Armand Laurienté": [
       "US Sassuolo",
       "FC Lorient",
@@ -2753,18 +2849,6 @@
       "US Sassuolo",
       "Sassuolo Primavera"
     ],
-    "Nicholas Pierini": [
-      "Venezia FC",
-      "Sassuolo Primavera",
-      "US Sassuolo",
-      "Cesena FC",
-      "Spezia Calcio",
-      "Parma Under 17",
-      "Cosenza Calcio",
-      "Ascoli Calcio",
-      "Modena FC",
-      "Parma Primavera"
-    ],
     "Andrea Pinamonti": [
       "US Sassuolo",
       "Genoa CFC",
@@ -2775,13 +2859,18 @@
       "Inter",
       "Inter Milan UEFA U19"
     ],
-    "Laurs Skjellerup": [
-      "Hobro IK",
-      "Randers FC U19",
-      "IFK Göteborg",
-      "Randers FC Reserves",
-      "US Sassuolo",
-      "Randers FC"
+    "M'Bala Nzola": [
+      "Spezia Calcio",
+      "FC Trapani 1905",
+      "ACF Fiorentina",
+      "Virtus Francavilla Calcio",
+      "RC Lens",
+      "Pisa Sporting Club",
+      "AC Carpi",
+      "Académica Coimbra",
+      "RC Lens B",
+      "Sertanense FC",
+      "Carpi Primavera"
     ],
     "Luca Moro": [
       "US Sassuolo",
@@ -2794,6 +2883,41 @@
       "Torino Primavera",
       "Calcio Padova",
       "Catania FC"
+    ],
+    "Cas Odenthal": [
+      "NEC Nijmegen",
+      "Como 1907",
+      "NEC Nijmegen U19",
+      "US Sassuolo",
+      "FC Utrecht U19",
+      "FC Utrecht U17",
+      "NEC Nijmegen U21"
+    ],
+    "Yeferson Paz": [
+      "AC Perugia Calcio",
+      "Sassuolo Primavera",
+      "Internacional de Palmira",
+      "US Sassuolo"
+    ],
+    "Nicholas Pierini": [
+      "Venezia FC",
+      "Sassuolo Primavera",
+      "US Sassuolo",
+      "Cesena FC",
+      "Spezia Calcio",
+      "Parma Under 17",
+      "Cosenza Calcio",
+      "Ascoli Calcio",
+      "Modena FC",
+      "Parma Primavera"
+    ],
+    "Laurs Skjellerup": [
+      "Hobro IK",
+      "Randers FC U19",
+      "IFK Göteborg",
+      "Randers FC Reserves",
+      "US Sassuolo",
+      "Randers FC"
     ],
     "Walid Cheddira": [
       "ACD Sangiustese",
@@ -2817,274 +2941,6 @@
       "Stade Rennais FC",
       "Chelsea FC U21",
       "US Sassuolo"
-    ]
-  },
-  "Udinese Calcio": {
-    "Maduka Okoye": [
-      "Udinese Calcio",
-      "Sparta Rotterdam",
-      "Fortuna Düsseldorf II",
-      "Fortuna Düsseldorf U19",
-      "Watford FC",
-      "Sparta Rotterdam U21",
-      "Fortuna Düsseldorf",
-      "Bayer 04 Leverkusen U19",
-      "Bayer 04 Leverkusen U17",
-      "Bayer 04 Leverkusen UEFA U19"
-    ],
-    "Răzvan Sava": [
-      "CFR Cluj",
-      "Torino Primavera",
-      "Udinese Calcio",
-      "Juventus Under 17",
-      "Lecce Primavera",
-      "Pro Sesto 1913",
-      "Pescara Primavera",
-      "Torino FC",
-      "US Lecce",
-      "Juventus Primavera"
-    ],
-    "Alessandro Nunziante": [
-      "Benevento Calcio",
-      "Benevento Primavera",
-      "Benevento Under 17",
-      "Udinese Calcio"
-    ],
-    "Daniele Padelli": [
-      "Torino FC",
-      "AS Pizzighettone",
-      "Udinese Calcio",
-      "US Avellino 1912",
-      "Inter",
-      "Pisa Sporting Club",
-      "SSC Bari",
-      "FC Crotone",
-      "Liverpool FC",
-      "UC Sampdoria"
-    ],
-    "Oumar Solet": [
-      "RB Salzburg",
-      "Udinese Calcio",
-      "Olympique Lyon B",
-      "Stade Lavallois",
-      "Stade Laval B",
-      "Olympique Lyon UEFA U19",
-      "Olympique Lyon",
-      "Olympique Lyon U19"
-    ],
-    "Thomas Kristensen": [
-      "Udinese Calcio",
-      "Aarhus GF",
-      "Aarhus GF U19",
-      "Aarhus GF Reserves"
-    ],
-    "Nicolò Bertola": [
-      "Spezia Calcio",
-      "Spezia Primavera",
-      "Aquila Montevarchi 1902",
-      "Udinese Calcio",
-      "Spezia Under 17"
-    ],
-    "Saba Goglichidze": [
-      "FC Empoli",
-      "Torpedo Kutaisi",
-      "Udinese Calcio",
-      "Empoli Primavera"
-    ],
-    "Christian Kabasele": [
-      "Watford FC",
-      "KRC Genk",
-      "KAS Eupen",
-      "Udinese Calcio",
-      "Ludogorets Razgrad",
-      "KV Mechelen"
-    ],
-    "Jordan Zemura": [
-      "Udinese Calcio",
-      "AFC Bournemouth",
-      "Charlton Athletic U18",
-      "Charlton Athletic"
-    ],
-    "Hassane Kamara": [
-      "Udinese Calcio",
-      "Stade Reims",
-      "OGC Nice",
-      "Watford FC",
-      "Stade Reims B",
-      "LB Châteauroux",
-      "US Créteil-Lusitanos"
-    ],
-    "Alessandro Zanoli": [
-      "Napoli Primavera",
-      "FC Legnago Salus",
-      "Genoa CFC",
-      "UC Sampdoria",
-      "SSC Napoli",
-      "Carpi Under 17",
-      "Udinese Calcio",
-      "US Salernitana 1919",
-      "Carpi Primavera",
-      "SSC Napoli UEFA U19",
-      "AC Carpi"
-    ],
-    "Kingsley Ehizibue": [
-      "PEC Zwolle",
-      "Udinese Calcio",
-      "1.FC Köln",
-      "PEC Zwolle U21",
-      "PEC Zwolle U19",
-      "Udinese Primavera"
-    ],
-    "Rui Modesto": [
-      "FC Honka",
-      "AIK",
-      "Vitória de Setúbal FC U23",
-      "Udinese Calcio",
-      "FC Honka II"
-    ],
-    "Jesper Karlström": [
-      "Djurgårdens IF",
-      "Lech Poznan",
-      "Udinese Calcio",
-      "IF Brommapojkarna",
-      "IF Brommapojkarna U19",
-      "Djurgårdens IF U21",
-      "IF Brommapojkarna U21"
-    ],
-    "Abdoulaye Camara": [
-      "Montpellier HSC U19",
-      "Montpellier HSC B",
-      "Udinese Primavera",
-      "Udinese Calcio",
-      "Montpellier HSC"
-    ],
-    "Arthur Atta": [
-      "Udinese Calcio",
-      "FC Metz",
-      "FC Metz B",
-      "FC Metz U19"
-    ],
-    "Lennon Miller": [
-      "Motherwell FC",
-      "Udinese Calcio"
-    ],
-    "Jurgen Ekkelenkamp": [
-      "Royal Antwerp FC",
-      "Udinese Calcio",
-      "Ajax Amsterdam U21",
-      "Ajax Amsterdam",
-      "Ajax Amsterdam U17",
-      "Ajax Amsterdam U19",
-      "Hertha BSC",
-      "Ajax Amsterdam UEFA U19",
-      "Ajax U18"
-    ],
-    "Sandi Lovrić": [
-      "Udinese Calcio",
-      "FC Lugano",
-      "SK Sturm Graz",
-      "SK Sturm Graz II",
-      "AKA Steiermark - Sturm Graz U18"
-    ],
-    "Jakub Piotrowski": [
-      "Ludogorets Razgrad",
-      "Fortuna Düsseldorf",
-      "Pogon Szczecin",
-      "Udinese Calcio",
-      "KRC Genk",
-      "Stomil Olsztyn",
-      "Pogon Szczecin U19",
-      "Pogon Szczecin II",
-      "SK Beveren",
-      "Ludogorets Razgrad II",
-      "Fortuna Düsseldorf II"
-    ],
-    "Oier Zarraga": [
-      "Athletic",
-      "Udinese Calcio",
-      "Bilbao Athletic"
-    ],
-    "Juan Arizala": [
-      "Independiente Medellín",
-      "Udinese Calcio"
-    ],
-    "Nicolò Zaniolo": [
-      "AS Roma",
-      "Aston Villa",
-      "Inter Milan Primavera",
-      "Atalanta BC",
-      "Virtus Entella Primavera",
-      "Fiorentina Under 17",
-      "Udinese Calcio",
-      "Galatasaray",
-      "ACF Fiorentina",
-      "Virtus Entella",
-      "Inter Milan UEFA U19",
-      "Inter"
-    ],
-    "Idrissa Gueye": [
-      "FC Metz",
-      "Udinese Calcio",
-      "AS Académie Génération Foot"
-    ],
-    "Keinan Davis": [
-      "Aston Villa",
-      "Udinese Calcio",
-      "Aston Villa U21",
-      "Watford FC",
-      "Nottingham Forest"
-    ],
-    "Adam Buksa": [
-      "New England Revolution",
-      "Pogon Szczecin",
-      "FC Midtjylland",
-      "Antalyaspor",
-      "Zaglebie Lubin",
-      "Lechia Gdansk",
-      "Udinese Calcio",
-      "Novara Primavera",
-      "RC Lens",
-      "Zaglebie Lubin II",
-      "RC Lens B"
-    ],
-    "Brenner": [
-      "FC Cincinnati",
-      "São Paulo Futebol Clube",
-      "Udinese Calcio",
-      "Fluminense Football Club"
-    ],
-    "Vakoun Bayo": [
-      "Watford FC",
-      "FC Toulouse",
-      "DAC Dunajska Streda",
-      "Royal Charleroi SC",
-      "Celtic FC",
-      "Etoile Sportive du Sahel",
-      "Udinese Calcio",
-      "KAA Gent"
-    ],
-    "Damián Pizarro": [
-      "CSD Colo-Colo",
-      "Udinese Primavera",
-      "Udinese Calcio",
-      "Le Havre AC"
-    ],
-    "Matteo Palma": [
-      "Udinese Primavera",
-      "Udinese Calcio"
-    ],
-    "Iker Bravo": [
-      "Udinese Calcio",
-      "Real Madrid Castilla",
-      "Bayer 04 Leverkusen U19",
-      "Real Madrid UEFA U19",
-      "Bayer 04 Leverkusen U17",
-      "Bayer Leverkusen"
-    ],
-    "David Pejičić": [
-      "Udinese Primavera",
-      "Udinese Under 17",
-      "Udinese Calcio"
     ]
   },
   "Parma Calcio 1913": {
@@ -3145,6 +3001,21 @@
       "Frosinone Calcio",
       "US Lecce"
     ],
+    "Franco Carboni": [
+      "Inter Milan Primavera",
+      "Ternana Calcio",
+      "FC Empoli",
+      "Cagliari Calcio",
+      "Inter Under 18",
+      "Venezia FC",
+      "Inter Milan UEFA U19",
+      "AC Monza",
+      "Inter Under 17",
+      "Inter",
+      "Parma Calcio 1913",
+      "CA River Plate",
+      "Catania FC"
+    ],
     "Sascha Britschgi": [
       "FC Luzern U19",
       "Team FC Luzern-SC Kriens U18",
@@ -3190,6 +3061,19 @@
       "FC Midtjylland Reserves",
       "Hamarkameratene"
     ],
+    "Hans Caviglia": [
+      "Juventus Primavera",
+      "Venezia FC",
+      "AC Perugia Calcio",
+      "Juventus Under 17",
+      "FC Südtirol",
+      "ACF Fiorentina",
+      "Juventus Next Gen",
+      "Juventus FC",
+      "US Salernitana 1919",
+      "Juventus FC UEFA U19",
+      "Parma Calcio 1913"
+    ],
     "Christian Ordóñez": [
       "CA Vélez Sarsfield",
       "Parma Calcio 1913",
@@ -3218,8 +3102,8 @@
     "Jacob Ondrejka": [
       "IF Elfsborg",
       "Royal Antwerp FC",
-      "Landskrona BoIS",
-      "Parma Calcio 1913"
+      "Parma Calcio 1913",
+      "Landskrona BoIS"
     ],
     "Adrian Benedyczak": [
       "Parma Calcio 1913",
@@ -3227,6 +3111,15 @@
       "Pogon Szczecin II",
       "Pogon Szczecin U19",
       "Chrobry Glogow"
+    ],
+    "Gabriel Strefezza": [
+      "US Lecce",
+      "SPAL",
+      "Como 1907",
+      "SS Juve Stabia",
+      "SPAL Primavera",
+      "US Cremonese",
+      "Olympiacos Piraeus"
     ],
     "Pontus Almqvist": [
       "Parma Calcio 1913",
@@ -3255,6 +3148,14 @@
       "NK Hrvatski Dragovoljac",
       "HNK Orijent Rijeka",
       "Parma Calcio 1913"
+    ],
+    "Nesta Elphege": [
+      "Chamois Niortais FC (- 2025)",
+      "Grenoble Foot 38",
+      "FC Chamois Niort B",
+      "Sporting Club Sétois",
+      "Parma Calcio 1913",
+      "Tours FC (- 2025)"
     ],
     "Patrick Cutrone": [
       "Como 1907",
@@ -3335,6 +3236,610 @@
       "Ascoli Calcio",
       "Reggina 1914",
       "FC Nantes U19"
+    ]
+  },
+  "Udinese Calcio": {
+    "Maduka Okoye": [
+      "Udinese Calcio",
+      "Sparta Rotterdam",
+      "Fortuna Düsseldorf II",
+      "Fortuna Düsseldorf U19",
+      "Watford FC",
+      "Sparta Rotterdam U21",
+      "Fortuna Düsseldorf",
+      "Bayer 04 Leverkusen U19",
+      "Bayer 04 Leverkusen U17",
+      "Bayer 04 Leverkusen UEFA U19"
+    ],
+    "Răzvan Sava": [
+      "CFR Cluj",
+      "Torino Primavera",
+      "Udinese Calcio",
+      "Juventus Under 17",
+      "Lecce Primavera",
+      "Pro Sesto 1913",
+      "Pescara Primavera",
+      "Torino FC",
+      "US Lecce",
+      "Juventus Primavera"
+    ],
+    "Alessandro Nunziante": [
+      "Benevento Calcio",
+      "Benevento Primavera",
+      "Benevento Under 17",
+      "Udinese Calcio"
+    ],
+    "Daniele Padelli": [
+      "Torino FC",
+      "AS Pizzighettone",
+      "Udinese Calcio",
+      "US Avellino 1912",
+      "Inter",
+      "Pisa Sporting Club",
+      "SSC Bari",
+      "FC Crotone",
+      "Liverpool FC",
+      "UC Sampdoria"
+    ],
+    "Oumar Solet": [
+      "RB Salzburg",
+      "Udinese Calcio",
+      "Olympique Lyon B",
+      "Stade Lavallois",
+      "Stade Laval B",
+      "Olympique Lyon UEFA U19",
+      "Olympique Lyon",
+      "Olympique Lyon U19"
+    ],
+    "Thomas Kristensen": [
+      "Udinese Calcio",
+      "Aarhus GF",
+      "Aarhus GF U19",
+      "Aarhus GF Reserves"
+    ],
+    "Nicolò Bertola": [
+      "Spezia Calcio",
+      "Spezia Primavera",
+      "Aquila Montevarchi 1902",
+      "Udinese Calcio",
+      "Spezia Under 17"
+    ],
+    "Branimir Mlacic": [
+      "HNK Hajduk Split",
+      "HNK Hajduk Split U19"
+    ],
+    "Christian Kabasele": [
+      "Watford FC",
+      "KRC Genk",
+      "KAS Eupen",
+      "Udinese Calcio",
+      "Ludogorets Razgrad",
+      "KV Mechelen"
+    ],
+    "Jordan Zemura": [
+      "Udinese Calcio",
+      "AFC Bournemouth",
+      "Charlton Athletic U18",
+      "Charlton Athletic"
+    ],
+    "Hassane Kamara": [
+      "Udinese Calcio",
+      "Stade Reims",
+      "OGC Nice",
+      "Watford FC",
+      "Stade Reims B",
+      "LB Châteauroux",
+      "US Créteil-Lusitanos"
+    ],
+    "Alessandro Zanoli": [
+      "Napoli Primavera",
+      "FC Legnago Salus",
+      "Genoa CFC",
+      "UC Sampdoria",
+      "SSC Napoli",
+      "Carpi Under 17",
+      "Udinese Calcio",
+      "US Salernitana 1919",
+      "Carpi Primavera",
+      "SSC Napoli UEFA U19",
+      "AC Carpi"
+    ],
+    "Kingsley Ehizibue": [
+      "PEC Zwolle",
+      "Udinese Calcio",
+      "1.FC Köln",
+      "PEC Zwolle U21",
+      "PEC Zwolle U19",
+      "Udinese Primavera"
+    ],
+    "Jesper Karlström": [
+      "Djurgårdens IF",
+      "Lech Poznan",
+      "Udinese Calcio",
+      "IF Brommapojkarna",
+      "IF Brommapojkarna U19",
+      "Djurgårdens IF U21",
+      "IF Brommapojkarna U21"
+    ],
+    "Abdoulaye Camara": [
+      "Montpellier HSC U19",
+      "Montpellier HSC B",
+      "Udinese Primavera",
+      "Udinese Calcio",
+      "Montpellier HSC"
+    ],
+    "Arthur Atta": [
+      "Udinese Calcio",
+      "FC Metz",
+      "FC Metz B",
+      "FC Metz U19"
+    ],
+    "Lennon Miller": [
+      "Motherwell FC",
+      "Udinese Calcio"
+    ],
+    "Jurgen Ekkelenkamp": [
+      "Royal Antwerp FC",
+      "Udinese Calcio",
+      "Ajax Amsterdam U21",
+      "Ajax Amsterdam",
+      "Ajax Amsterdam U17",
+      "Ajax Amsterdam U19",
+      "Hertha BSC",
+      "Ajax Amsterdam UEFA U19",
+      "Ajax U18"
+    ],
+    "Jakub Piotrowski": [
+      "Ludogorets Razgrad",
+      "Fortuna Düsseldorf",
+      "Pogon Szczecin",
+      "Udinese Calcio",
+      "KRC Genk",
+      "Stomil Olsztyn",
+      "Pogon Szczecin U19",
+      "Pogon Szczecin II",
+      "SK Beveren",
+      "Ludogorets Razgrad II",
+      "Fortuna Düsseldorf II"
+    ],
+    "Oier Zarraga": [
+      "Athletic",
+      "Udinese Calcio",
+      "Bilbao Athletic"
+    ],
+    "Juan Arizala": [
+      "Independiente Medellín",
+      "Udinese Calcio"
+    ],
+    "Nicolò Zaniolo": [
+      "AS Roma",
+      "Aston Villa",
+      "Inter Milan Primavera",
+      "Atalanta BC",
+      "Virtus Entella Primavera",
+      "Fiorentina Under 17",
+      "Udinese Calcio",
+      "Galatasaray",
+      "ACF Fiorentina",
+      "Virtus Entella",
+      "Inter Milan UEFA U19",
+      "Inter"
+    ],
+    "Idrissa Gueye": [
+      "FC Metz",
+      "Udinese Calcio",
+      "AS Académie Génération Foot"
+    ],
+    "Keinan Davis": [
+      "Aston Villa",
+      "Udinese Calcio",
+      "Aston Villa U21",
+      "Watford FC",
+      "Nottingham Forest"
+    ],
+    "Adam Buksa": [
+      "New England Revolution",
+      "Pogon Szczecin",
+      "FC Midtjylland",
+      "Antalyaspor",
+      "Zaglebie Lubin",
+      "Lechia Gdansk",
+      "Udinese Calcio",
+      "Novara Primavera",
+      "RC Lens",
+      "Zaglebie Lubin II",
+      "RC Lens B"
+    ],
+    "Vakoun Bayo": [
+      "Watford FC",
+      "FC Toulouse",
+      "DAC Dunajska Streda",
+      "Royal Charleroi SC",
+      "Celtic FC",
+      "Etoile Sportive du Sahel",
+      "Udinese Calcio",
+      "KAA Gent"
+    ],
+    "Saba Goglichidze": [
+      "FC Empoli",
+      "Torpedo Kutaisi",
+      "Udinese Calcio",
+      "Empoli Primavera"
+    ],
+    "Rui Modesto": [
+      "FC Honka",
+      "AIK",
+      "Vitória de Setúbal FC U23",
+      "Udinese Calcio",
+      "FC Honka II"
+    ],
+    "Sandi Lovrić": [
+      "Udinese Calcio",
+      "FC Lugano",
+      "SK Sturm Graz",
+      "SK Sturm Graz II",
+      "AKA Steiermark - Sturm Graz U18"
+    ],
+    "Brenner": [
+      "FC Cincinnati",
+      "São Paulo Futebol Clube",
+      "Udinese Calcio",
+      "Fluminense Football Club"
+    ],
+    "Damián Pizarro": [
+      "CSD Colo-Colo",
+      "Udinese Primavera",
+      "Udinese Calcio",
+      "Le Havre AC"
+    ],
+    "Matteo Palma": [
+      "Udinese Primavera",
+      "Udinese Calcio"
+    ],
+    "Iker Bravo": [
+      "Udinese Calcio",
+      "Real Madrid Castilla",
+      "Bayer 04 Leverkusen U19",
+      "Real Madrid UEFA U19",
+      "Bayer 04 Leverkusen U17",
+      "Bayer Leverkusen"
+    ],
+    "David Pejičić": [
+      "Udinese Primavera",
+      "Udinese Under 17",
+      "Udinese Calcio"
+    ]
+  },
+  "Torino FC": {
+    "Franco Israel": [
+      "Juventus Next Gen",
+      "Sporting CP",
+      "Juventus Primavera",
+      "Torino FC",
+      "Club Nacional U19",
+      "Juventus FC"
+    ],
+    "Alberto Paleari": [
+      "Benevento Calcio",
+      "AS Cittadella",
+      "AS Giana Erminio",
+      "AC Ponte San Pietro",
+      "Virtusvecomp Verona",
+      "Torino FC",
+      "Tritium Calcio 1908",
+      "Genoa CFC",
+      "Mantova 1911",
+      "AC Milan Primavera"
+    ],
+    "Saúl Coco": [
+      "UD Las Palmas",
+      "Torino FC",
+      "Las Palmas Atlético",
+      "UA Horta"
+    ],
+    "Luca Marianucci": [
+      "Pro Sesto 1913",
+      "Empoli Primavera",
+      "FC Empoli",
+      "Empoli Under 18",
+      "Empoli Under 17",
+      "SSC Napoli",
+      "Torino FC"
+    ],
+    "Ardian Ismajli": [
+      "FC Empoli",
+      "HNK Hajduk Split",
+      "Spezia Calcio",
+      "Torino FC",
+      "HNK Hajduk Split II",
+      "FC Prishtina"
+    ],
+    "Guillermo Maripán": [
+      "AS Monaco",
+      "CD Universidad Católica",
+      "Torino FC",
+      "Alavés"
+    ],
+    "Enzo Ebosse": [
+      "RC Lens B",
+      "Angers SCO",
+      "Udinese Calcio",
+      "Le Mans FC",
+      "Jagiellonia Bialystok",
+      "RC Lens",
+      "Hellas Verona",
+      "Le Mans FC B",
+      "RC Lens U19",
+      "Udinese Primavera"
+    ],
+    "Saba Sazonov": [
+      "Dynamo Moscow",
+      "Zenit 2 St. Petersburg",
+      "Torino FC",
+      "Zenit St. Petersburg II",
+      "Dynamo 2 Moscow",
+      "Akademia Zenit St. Petersburg U17",
+      "Zenit St. Petersburg",
+      "FC Empoli"
+    ],
+    "Perr Schuurs": [
+      "Ajax Amsterdam",
+      "Fortuna Sittard",
+      "Torino FC",
+      "Ajax Amsterdam U21",
+      "Fortuna Sittard U21",
+      "Fortuna Sittard U19"
+    ],
+    "Niels Nkounkou": [
+      "Eintracht Frankfurt",
+      "Olympique de Marseille B",
+      "Standard Liège",
+      "AS Saint-Étienne",
+      "Cardiff City",
+      "Torino FC",
+      "Everton FC",
+      "Everton FC U21",
+      "Olympique Marseille"
+    ],
+    "Rafa Obrador": [
+      "Real Madrid Castilla",
+      "Deportivo de La Coruña",
+      "Real Madrid UEFA U19",
+      "Torino FC",
+      "SL Benfica B",
+      "RCD Mallorca",
+      "SL Benfica"
+    ],
+    "Cristiano Biraghi": [
+      "ACF Fiorentina",
+      "Inter Milan Primavera",
+      "Inter",
+      "Delfino Pescara 1936",
+      "AS Cittadella",
+      "Granada CF",
+      "Torino FC",
+      "Catania FC",
+      "Chievo Verona",
+      "SS Juve Stabia"
+    ],
+    "Valentino Lazaro": [
+      "RB Salzburg",
+      "Torino FC",
+      "Hertha BSC",
+      "SL Benfica",
+      "Borussia Mönchengladbach",
+      "AKA Red Bull Salzburg U18",
+      "Newcastle United",
+      "Inter",
+      "FC Liefering",
+      "AKA Red Bull Salzburg U16",
+      "Hertha BSC II"
+    ],
+    "Marcus Pedersen": [
+      "Feyenoord Rotterdam",
+      "Torino FC",
+      "Molde FK",
+      "US Sassuolo",
+      "Tromsø IL",
+      "Tromsø IL II"
+    ],
+    "Matteo Prati": [
+      "Cagliari Calcio",
+      "Ravenna FC",
+      "SPAL",
+      "Torino FC"
+    ],
+    "Adrien Tamèze": [
+      "Hellas Verona",
+      "OGC Nice",
+      "Torino FC",
+      "Valenciennes FC",
+      "AS Nancy-Lorraine B",
+      "Atalanta BC",
+      "Valenciennes FC B",
+      "OGC Nice B",
+      "AS Nancy-Lorraine"
+    ],
+    "Cesare Casadei": [
+      "Inter Milan Primavera",
+      "Torino FC",
+      "Leicester City",
+      "Inter Under 17",
+      "Chelsea",
+      "Reading FC",
+      "Chelsea FC U21",
+      "Inter Under 18",
+      "Inter Milan UEFA U19",
+      "Inter"
+    ],
+    "Ivan Ilić": [
+      "Hellas Verona",
+      "Torino FC",
+      "NAC Breda",
+      "FK Zemun",
+      "Red Star Belgrade"
+    ],
+    "Gvidas Gineitis": [
+      "Torino FC",
+      "Torino Primavera",
+      "SPAL U17",
+      "SPAL Primavera",
+      "Torino Under 18",
+      "SPAL Under 18"
+    ],
+    "Emirhan İlkhan": [
+      "Basaksehir FK",
+      "Besiktas JK U19",
+      "Torino FC",
+      "Besiktas JK",
+      "UC Sampdoria",
+      "Besiktas JK UEFA U19"
+    ],
+    "Aaron Ciammaglichella": [
+      "Torino Primavera",
+      "Torino Under 18",
+      "Ternana Calcio",
+      "Torino Under 17",
+      "Torino FC",
+      "SS Juve Stabia"
+    ],
+    "Nikola Vlašić": [
+      "Torino FC",
+      "HNK Hajduk Split",
+      "CSKA Moscow",
+      "West Ham United",
+      "Everton FC",
+      "Everton FC U21"
+    ],
+    "Tino Anjorin": [
+      "Chelsea FC U21",
+      "Chelsea FC U18",
+      "FC Empoli",
+      "Huddersfield Town",
+      "Portsmouth FC",
+      "Torino FC",
+      "Chelsea FC UEFA U19",
+      "Lokomotiv Moscow",
+      "Chelsea"
+    ],
+    "Sergiu Perciun": [
+      "Torino Primavera",
+      "Torino Under 18",
+      "Torino Under 17",
+      "Torino FC"
+    ],
+    "Alieu Njie": [
+      "Torino Primavera",
+      "Torino FC",
+      "Torino Under 17",
+      "Torino Under 18"
+    ],
+    "Zakaria Aboukhlal": [
+      "AZ Alkmaar",
+      "FC Toulouse",
+      "PSV Eindhoven U19",
+      "PSV Eindhoven U21",
+      "AZ Alkmaar U21",
+      "Willem II Tilburg U19",
+      "Torino FC",
+      "PSV Eindhoven UEFA U19",
+      "PSV Eindhoven"
+    ],
+    "Zanos Savva": [
+      "Torino Primavera",
+      "Torino Under 18",
+      "Olympiakos Nicosia",
+      "Torino FC"
+    ],
+    "Ché Adams": [
+      "Southampton FC",
+      "Birmingham City",
+      "Torino FC",
+      "Sheffield United",
+      "Southampton FC U21"
+    ],
+    "Giovanni Simeone": [
+      "SSC Napoli",
+      "ACF Fiorentina",
+      "Cagliari Calcio",
+      "Genoa CFC",
+      "CA Banfield",
+      "Hellas Verona",
+      "CA River Plate",
+      "Torino FC"
+    ],
+    "Sandro Kulenović": [
+      "GNK Dinamo Zagreb",
+      "NK Lokomotiva Zagreb",
+      "HNK Rijeka",
+      "Legia Warszawa",
+      "Legia Warsaw II",
+      "Juventus Primavera",
+      "Legia Warsaw UEFA U19",
+      "Juventus FC UEFA U19",
+      "Torino FC",
+      "GNK Dinamo Zagreb II"
+    ],
+    "Duván Zapata": [
+      "Atalanta BC",
+      "Udinese Calcio",
+      "Torino FC",
+      "SSC Napoli",
+      "Club Estudiantes de La Plata",
+      "CD América de Cali",
+      "UC Sampdoria",
+      "Udinese Primavera"
+    ],
+    "Tchoca": [
+      "SC Corinthians U20",
+      "Sport Club Corinthians Paulista",
+      "Ceará Sporting Club"
+    ],
+    "Adam Masina": [
+      "Bologna FC 1909",
+      "Watford FC",
+      "Torino FC",
+      "Bologna Primavera",
+      "Udinese Calcio",
+      "AC Giacomense"
+    ],
+    "Ali Dembélé": [
+      "Torino Primavera",
+      "ESTAC Troyes U19",
+      "Torino FC",
+      "Venezia FC",
+      "ESTAC Troyes B"
+    ],
+    "Kristjan Asllani": [
+      "Inter",
+      "Empoli Primavera",
+      "FC Empoli",
+      "Empoli Under 17",
+      "Torino FC",
+      "FC Empoli UEFA U19"
+    ],
+    "Cyril Ngonge": [
+      "FC Groningen",
+      "Hellas Verona",
+      "SSC Napoli",
+      "Torino FC",
+      "PSV Eindhoven U21",
+      "RKC Waalwijk",
+      "Club Brugge KV",
+      "Club Brugge UEFA U19",
+      "Club NXT",
+      "Club Bruges U19",
+      "FC Groningen U21",
+      "PSV Eindhoven"
+    ],
+    "Mihai Popa": [
+      "FC Voluntari",
+      "Astra Giurgiu (- 2024)",
+      "CFR Cluj",
+      "Unirea Constanta (2016 - 2023)",
+      "FC Rapid 1923",
+      "Torino FC",
+      "FCV Farul U18"
     ]
   },
   "Genoa CFC": {
@@ -3495,14 +4000,11 @@
       "Spezia Calcio",
       "SPAL"
     ],
-    "Morten Thorsby": [
-      "SC Heerenveen",
-      "UC Sampdoria",
-      "Genoa CFC",
-      "1.FC Union Berlin",
-      "SC Heerenveen U21",
-      "Stabæk Fotball",
-      "Stabæk Fotball Youth"
+    "Amorim": [
+      "Athletic",
+      "FC Alverca",
+      "Fortaleza EC U20",
+      "Fortaleza Esporte Clube"
     ],
     "Tommaso Baldanzi": [
       "AS Roma",
@@ -3510,15 +4012,6 @@
       "FC Empoli",
       "Empoli Under 17",
       "FC Empoli UEFA U19"
-    ],
-    "Albert Grønbæk": [
-      "FK Bodø/Glimt",
-      "Aarhus GF",
-      "Aarhus GF U19",
-      "Stade Rennais FC",
-      "Aarhus GF Reserves",
-      "Genoa CFC",
-      "Southampton FC"
     ],
     "Ruslan Malinovskyi": [
       "Atalanta BC",
@@ -3529,14 +4022,6 @@
       "Olympique Marseille",
       "FC Sevastopol (- 2014)",
       "FС Sevastopol-2 (- 2014)"
-    ],
-    "Hugo Cuenca": [
-      "AC Milan Primavera",
-      "Milan Futuro",
-      "AC Milan UEFA U19",
-      "Milan Under 18",
-      "Genoa CFC",
-      "AC Milan"
     ],
     "Maxwel Cornet": [
       "Olympique Lyon",
@@ -3574,9 +4059,9 @@
       "FC Empoli",
       "SPAL",
       "US Lecce",
+      "Genoa CFC",
       "AC Monza",
       "Milan Under 17",
-      "Genoa CFC",
       "AC Milan Primavera",
       "US Cremonese",
       "AC Milan"
@@ -3591,6 +4076,32 @@
       "Leeds United",
       "FC Südtirol",
       "Chievo Verona"
+    ],
+    "Morten Thorsby": [
+      "SC Heerenveen",
+      "UC Sampdoria",
+      "Genoa CFC",
+      "1.FC Union Berlin",
+      "SC Heerenveen U21",
+      "Stabæk Fotball",
+      "Stabæk Fotball Youth"
+    ],
+    "Albert Grønbæk": [
+      "FK Bodø/Glimt",
+      "Aarhus GF",
+      "Aarhus GF U19",
+      "Stade Rennais FC",
+      "Aarhus GF Reserves",
+      "Genoa CFC",
+      "Southampton FC"
+    ],
+    "Hugo Cuenca": [
+      "AC Milan Primavera",
+      "Milan Futuro",
+      "AC Milan UEFA U19",
+      "Milan Under 18",
+      "Genoa CFC",
+      "AC Milan"
     ],
     "Nicolae Stanciu": [
       "FCSB",
@@ -3627,290 +4138,6 @@
       "Inter Milan UEFA U19",
       "Olympique Marseille",
       "Inter Under 17"
-    ]
-  },
-  "Torino FC": {
-    "Franco Israel": [
-      "Juventus Next Gen",
-      "Sporting CP",
-      "Juventus Primavera",
-      "Torino FC",
-      "Club Nacional U19",
-      "Juventus FC"
-    ],
-    "Alberto Paleari": [
-      "Benevento Calcio",
-      "AS Cittadella",
-      "AS Giana Erminio",
-      "AC Ponte San Pietro",
-      "Virtusvecomp Verona",
-      "Torino FC",
-      "Tritium Calcio 1908",
-      "Genoa CFC",
-      "Mantova 1911",
-      "AC Milan Primavera"
-    ],
-    "Saúl Coco": [
-      "UD Las Palmas",
-      "Torino FC",
-      "Las Palmas Atlético",
-      "UA Horta"
-    ],
-    "Ardian Ismajli": [
-      "FC Empoli",
-      "HNK Hajduk Split",
-      "Spezia Calcio",
-      "Torino FC",
-      "HNK Hajduk Split II",
-      "FC Prishtina"
-    ],
-    "Guillermo Maripán": [
-      "AS Monaco",
-      "CD Universidad Católica",
-      "Torino FC",
-      "Alavés"
-    ],
-    "Tchoca": [
-      "SC Corinthians U20",
-      "Sport Club Corinthians Paulista",
-      "Ceará Sporting Club"
-    ],
-    "Adam Masina": [
-      "Bologna FC 1909",
-      "Watford FC",
-      "Torino FC",
-      "Bologna Primavera",
-      "Udinese Calcio",
-      "AC Giacomense"
-    ],
-    "Saba Sazonov": [
-      "Dynamo Moscow",
-      "Zenit 2 St. Petersburg",
-      "Torino FC",
-      "Zenit St. Petersburg II",
-      "Dynamo 2 Moscow",
-      "Akademia Zenit St. Petersburg U17",
-      "Zenit St. Petersburg",
-      "FC Empoli"
-    ],
-    "Perr Schuurs": [
-      "Ajax Amsterdam",
-      "Fortuna Sittard",
-      "Torino FC",
-      "Ajax Amsterdam U21",
-      "Fortuna Sittard U21",
-      "Fortuna Sittard U19"
-    ],
-    "Niels Nkounkou": [
-      "Eintracht Frankfurt",
-      "Olympique de Marseille B",
-      "Standard Liège",
-      "AS Saint-Étienne",
-      "Cardiff City",
-      "Torino FC",
-      "Everton FC",
-      "Everton FC U21",
-      "Olympique Marseille"
-    ],
-    "Rafa Obrador": [
-      "Real Madrid Castilla",
-      "Deportivo de La Coruña",
-      "Real Madrid UEFA U19",
-      "SL Benfica B",
-      "RCD Mallorca",
-      "SL Benfica",
-      "Torino FC"
-    ],
-    "Cristiano Biraghi": [
-      "ACF Fiorentina",
-      "Inter Milan Primavera",
-      "Inter",
-      "Delfino Pescara 1936",
-      "AS Cittadella",
-      "Granada CF",
-      "Torino FC",
-      "Catania FC",
-      "Chievo Verona",
-      "SS Juve Stabia"
-    ],
-    "Valentino Lazaro": [
-      "RB Salzburg",
-      "Torino FC",
-      "Hertha BSC",
-      "SL Benfica",
-      "Borussia Mönchengladbach",
-      "AKA Red Bull Salzburg U18",
-      "Newcastle United",
-      "Inter",
-      "FC Liefering",
-      "AKA Red Bull Salzburg U16",
-      "Hertha BSC II"
-    ],
-    "Marcus Pedersen": [
-      "Feyenoord Rotterdam",
-      "Torino FC",
-      "Molde FK",
-      "US Sassuolo",
-      "Tromsø IL",
-      "Tromsø IL II"
-    ],
-    "Ali Dembélé": [
-      "Torino Primavera",
-      "ESTAC Troyes U19",
-      "Torino FC",
-      "Venezia FC",
-      "ESTAC Troyes B"
-    ],
-    "Kristjan Asllani": [
-      "Inter",
-      "Empoli Primavera",
-      "FC Empoli",
-      "Empoli Under 17",
-      "Torino FC",
-      "FC Empoli UEFA U19"
-    ],
-    "Adrien Tamèze": [
-      "Hellas Verona",
-      "OGC Nice",
-      "Torino FC",
-      "Valenciennes FC",
-      "AS Nancy-Lorraine B",
-      "Atalanta BC",
-      "OGC Nice B",
-      "AS Nancy-Lorraine"
-    ],
-    "Cesare Casadei": [
-      "Inter Milan Primavera",
-      "Torino FC",
-      "Leicester City",
-      "Inter Under 17",
-      "Chelsea",
-      "Reading FC",
-      "Chelsea FC U21",
-      "Inter Under 18",
-      "Inter Milan UEFA U19",
-      "Inter"
-    ],
-    "Ivan Ilić": [
-      "Hellas Verona",
-      "Torino FC",
-      "NAC Breda",
-      "FK Zemun",
-      "Red Star Belgrade"
-    ],
-    "Gvidas Gineitis": [
-      "Torino FC",
-      "Torino Primavera",
-      "SPAL U17",
-      "SPAL Primavera",
-      "Torino Under 18",
-      "SPAL Under 18"
-    ],
-    "Emirhan İlkhan": [
-      "Basaksehir FK",
-      "Besiktas JK U19",
-      "Torino FC",
-      "Besiktas JK",
-      "UC Sampdoria",
-      "Besiktas JK UEFA U19"
-    ],
-    "Nikola Vlašić": [
-      "Torino FC",
-      "HNK Hajduk Split",
-      "CSKA Moscow",
-      "West Ham United",
-      "Everton FC",
-      "Everton FC U21"
-    ],
-    "Tino Anjorin": [
-      "Chelsea FC U21",
-      "Chelsea FC U18",
-      "FC Empoli",
-      "Huddersfield Town",
-      "Portsmouth FC",
-      "Torino FC",
-      "Chelsea FC UEFA U19",
-      "Lokomotiv Moscow",
-      "Chelsea"
-    ],
-    "Sergiu Perciun": [
-      "Torino Primavera",
-      "Torino Under 18",
-      "Torino Under 17",
-      "Torino FC"
-    ],
-    "Alieu Njie": [
-      "Torino Primavera",
-      "Torino FC",
-      "Torino Under 17",
-      "Torino Under 18"
-    ],
-    "Zakaria Aboukhlal": [
-      "AZ Alkmaar",
-      "FC Toulouse",
-      "PSV Eindhoven U19",
-      "PSV Eindhoven U21",
-      "AZ Alkmaar U21",
-      "Willem II Tilburg U19",
-      "Torino FC",
-      "PSV Eindhoven UEFA U19",
-      "PSV Eindhoven"
-    ],
-    "Cyril Ngonge": [
-      "FC Groningen",
-      "Hellas Verona",
-      "SSC Napoli",
-      "Torino FC",
-      "PSV Eindhoven U21",
-      "RKC Waalwijk",
-      "Club Brugge KV",
-      "Club Brugge UEFA U19",
-      "Club NXT",
-      "Club Bruges U19",
-      "FC Groningen U21",
-      "PSV Eindhoven"
-    ],
-    "Zanos Savva": [
-      "Torino Primavera",
-      "Torino Under 18",
-      "Olympiakos Nicosia",
-      "Torino FC"
-    ],
-    "Ché Adams": [
-      "Southampton FC",
-      "Birmingham City",
-      "Torino FC",
-      "Sheffield United",
-      "Southampton FC U21"
-    ],
-    "Giovanni Simeone": [
-      "SSC Napoli",
-      "ACF Fiorentina",
-      "Cagliari Calcio",
-      "Genoa CFC",
-      "CA Banfield",
-      "Hellas Verona",
-      "CA River Plate",
-      "Torino FC"
-    ],
-    "Duván Zapata": [
-      "Atalanta BC",
-      "Udinese Calcio",
-      "Torino FC",
-      "SSC Napoli",
-      "Club Estudiantes de La Plata",
-      "CD América de Cali",
-      "UC Sampdoria",
-      "Udinese Primavera"
-    ],
-    "Mihai Popa": [
-      "FC Voluntari",
-      "Astra Giurgiu (- 2024)",
-      "CFR Cluj",
-      "Unirea Constanta (2016 - 2023)",
-      "FC Rapid 1923",
-      "Torino FC",
-      "FCV Farul U18"
     ]
   },
   "Cagliari Calcio": {
@@ -3956,17 +4183,6 @@
       "CA Peñarol",
       "Cagliari Calcio"
     ],
-    "Sebastiano Luperto": [
-      "FC Empoli",
-      "Napoli Primavera",
-      "Cagliari Calcio",
-      "FC Pro Vercelli 1892",
-      "SSC Napoli",
-      "FC Crotone",
-      "SSC Napoli UEFA U19",
-      "US Lecce",
-      "Lecce Primavera"
-    ],
     "Adam Obert": [
       "Cagliari Calcio",
       "Sampdoria Primavera",
@@ -3992,11 +4208,6 @@
       "AD Fafe",
       "SC Braga B"
     ],
-    "Nicola Pintus": [
-      "Cagliari Primavera",
-      "Cagliari Under 17",
-      "Cagliari Calcio"
-    ],
     "Riyad Idrissi": [
       "Cagliari Primavera",
       "Modena FC",
@@ -4019,21 +4230,14 @@
       "Inter Milan UEFA U19",
       "Inter"
     ],
-    "Alessandro Di Pardo": [
-      "Juventus Next Gen",
-      "Cagliari Calcio",
-      "Juventus Primavera",
-      "Modena FC",
-      "SPAL Primavera",
-      "LR Vicenza",
-      "Cosenza Calcio",
-      "Juventus FC",
-      "Juventus FC UEFA U19"
-    ],
-    "Matteo Prati": [
-      "Cagliari Calcio",
-      "Ravenna FC",
-      "SPAL"
+    "Othniël Raterink": [
+      "De Graafschap Doetinchem",
+      "Bayer 04 Leverkusen U19",
+      "De Graafschap Doetinchem U21",
+      "De Graafschap U18",
+      "De Graafschap U17",
+      "Bayer 04 Leverkusen UEFA U19",
+      "Bayer Leverkusen"
     ],
     "Ibrahim Sulemana": [
       "Cagliari Calcio",
@@ -4095,14 +4299,6 @@
       "SSC Napoli",
       "SSC Napoli UEFA U19"
     ],
-    "Nicolò Cavuoti": [
-      "Cagliari Primavera",
-      "Feralpisalò",
-      "Olbia Calcio 1905",
-      "ASD Vastese Calcio 1902",
-      "Cagliari Calcio",
-      "Cagliari Under 17"
-    ],
     "Mattia Felici": [
       "Feralpisalò",
       "Palermo FC",
@@ -4110,6 +4306,11 @@
       "US Triestina",
       "Lecce Primavera",
       "US Lecce"
+    ],
+    "Agustín Albarracín": [
+      "Montevideo Wanderers",
+      "CA Boston River",
+      "Cagliari Calcio"
     ],
     "Sebastiano Esposito": [
       "Inter Under 17",
@@ -4131,12 +4332,6 @@
       "Cagliari Calcio",
       "Besiktas JK UEFA U19",
       "Besiktas JK Reserve"
-    ],
-    "Zito Luvumbo": [
-      "Cagliari Calcio",
-      "Cagliari Primavera",
-      "Como 1907",
-      "CD 1º de Agosto"
     ],
     "Gennaro Borrelli": [
       "Brescia Calcio (- 2025)",
@@ -4172,6 +4367,52 @@
       "SSC Napoli",
       "SS Juve Stabia",
       "Rappresentativa Serie D"
+    ],
+    "Sebastiano Luperto": [
+      "FC Empoli",
+      "Napoli Primavera",
+      "Cagliari Calcio",
+      "FC Pro Vercelli 1892",
+      "SSC Napoli",
+      "FC Crotone",
+      "SSC Napoli UEFA U19",
+      "US Lecce",
+      "Lecce Primavera"
+    ],
+    "Nicola Pintus": [
+      "Cagliari Primavera",
+      "Cagliari Under 17",
+      "Cagliari Calcio"
+    ],
+    "Alessandro Di Pardo": [
+      "Juventus Next Gen",
+      "Cagliari Calcio",
+      "Juventus Primavera",
+      "Modena FC",
+      "SPAL Primavera",
+      "LR Vicenza",
+      "Cosenza Calcio",
+      "Juventus FC",
+      "Juventus FC UEFA U19"
+    ],
+    "Matteo Prati": [
+      "Cagliari Calcio",
+      "Ravenna FC",
+      "SPAL"
+    ],
+    "Nicolò Cavuoti": [
+      "Cagliari Primavera",
+      "Feralpisalò",
+      "Olbia Calcio 1905",
+      "ASD Vastese Calcio 1902",
+      "Cagliari Calcio",
+      "Cagliari Under 17"
+    ],
+    "Zito Luvumbo": [
+      "Cagliari Calcio",
+      "Cagliari Primavera",
+      "Como 1907",
+      "CD 1º de Agosto"
     ],
     "Marko Rog": [
       "GNK Dinamo Zagreb",
@@ -4234,17 +4475,6 @@
       "Como 1907",
       "FC Empoli"
     ],
-    "Giovanni Bonfanti": [
-      "Pisa Sporting Club",
-      "Sampdoria Primavera",
-      "US Città di Pontedera",
-      "Atalanta U23",
-      "Atalanta Under 18",
-      "Atalanta BC U17",
-      "Atalanta BC",
-      "Atalanta Primavera",
-      "UC Sampdoria"
-    ],
     "Rosen Bozhinov": [
       "Royal Antwerp FC",
       "CSKA 1948",
@@ -4268,11 +4498,6 @@
       "Getafe CF",
       "Pisa Sporting Club",
       "Valencia Mestalla"
-    ],
-    "Mateus Lusuardi": [
-      "Frosinone Calcio",
-      "Frosinone Primavera",
-      "Pisa Sporting Club"
     ],
     "Arturo Calabresi": [
       "Pisa Sporting Club",
@@ -4302,6 +4527,18 @@
       "FC Zürich U18 (-2023)",
       "FC Zürich",
       "Pisa Sporting Club"
+    ],
+    "Samuel Iling-Junior": [
+      "Juventus Primavera",
+      "Juventus FC",
+      "West Bromwich Albion",
+      "Middlesbrough FC",
+      "Bologna FC 1909",
+      "Juventus Next Gen",
+      "Chelsea FC U18",
+      "Juventus FC UEFA U19",
+      "Chelsea FC UEFA U19",
+      "Aston Villa"
     ],
     "Marius Marin": [
       "Pisa Sporting Club",
@@ -4407,17 +4644,13 @@
       "AZ Alkmaar U21",
       "Pisa Sporting Club"
     ],
-    "Stefano Moreo": [
-      "Pisa Sporting Club",
-      "Brescia Calcio (- 2025)",
-      "Venezia FC",
-      "FC Empoli",
-      "Palermo FC",
-      "SC Caronnese",
-      "Virtus Entella",
-      "Teramo Calcio 1913",
-      "Varese Juniores",
-      "Virtus Entella Primavera"
+    "Riccardo Bassanini": [
+      "Piacenza Calcio 1919",
+      "Pisa Primavera",
+      "US Città di Pontedera",
+      "Rappresentativa Serie D",
+      "AS Giana Erminio",
+      "Pisa Sporting Club"
     ],
     "Mehdi Léris": [
       "UC Sampdoria",
@@ -4437,6 +4670,61 @@
       "Pisa Sporting Club",
       "FC Viktoria Plzen B"
     ],
+    "Henrik Meister": [
+      "Pisa Sporting Club",
+      "BK Fremad Amager",
+      "Sarpsborg 08 FF",
+      "FA 2000",
+      "Stade Rennais FC",
+      "Sarpsborg 08 FF II",
+      "AC Amager Academy U19"
+    ],
+    "Filip Stojilkovic": [
+      "FC Sion",
+      "FC Aarau",
+      "FC Zürich U18 (-2023)",
+      "OFK Beograd",
+      "SV Darmstadt 98",
+      "FC Wil 1900",
+      "TSG 1899 Hoffenheim U19",
+      "Cracovia",
+      "FC Zürich U21",
+      "1.FC Kaiserslautern",
+      "TSG 1899 Hoffenheim UEFA U19",
+      "FC Sion U21",
+      "TSG 1899 Hoffenheim II",
+      "1.FC Kaiserslautern II",
+      "Pisa Sporting Club",
+      "FC Zürich U17"
+    ],
+    "Stefano Moreo": [
+      "Pisa Sporting Club",
+      "Brescia Calcio (- 2025)",
+      "Venezia FC",
+      "FC Empoli",
+      "Palermo FC",
+      "SC Caronnese",
+      "Virtus Entella",
+      "Teramo Calcio 1913",
+      "Varese Juniores",
+      "Virtus Entella Primavera"
+    ],
+    "Giovanni Bonfanti": [
+      "Pisa Sporting Club",
+      "Sampdoria Primavera",
+      "US Città di Pontedera",
+      "Atalanta U23",
+      "Atalanta Under 18",
+      "Atalanta BC U17",
+      "Atalanta BC",
+      "Atalanta Primavera",
+      "UC Sampdoria"
+    ],
+    "Mateus Lusuardi": [
+      "Frosinone Calcio",
+      "Frosinone Primavera",
+      "Pisa Sporting Club"
+    ],
     "M'Bala Nzola": [
       "Spezia Calcio",
       "FC Trapani 1905",
@@ -4449,15 +4737,6 @@
       "RC Lens B",
       "Sertanense FC",
       "Carpi Primavera"
-    ],
-    "Henrik Meister": [
-      "Pisa Sporting Club",
-      "BK Fremad Amager",
-      "Sarpsborg 08 FF",
-      "FA 2000",
-      "Stade Rennais FC",
-      "Sarpsborg 08 FF II",
-      "AC Amager Academy U19"
     ],
     "Louis Buffon": [
       "Pisa Primavera",
@@ -4535,7 +4814,8 @@
     "Tiago Gabriel": [
       "US Lecce",
       "CF Estrela Amadora U23",
-      "CF Estrela Amadora"
+      "CF Estrela Amadora",
+      "CF Estrela Amadora B"
     ],
     "Jamil Siebert": [
       "Fortuna Düsseldorf",
@@ -4587,12 +4867,6 @@
       "Gil Vicente FC",
       "FC Porto Youth League"
     ],
-    "Christ-Owen Kouassi": [
-      "Stade Laval B",
-      "Stade Lavallois",
-      "Stade Laval U19",
-      "US Lecce"
-    ],
     "Ylber Ramadani": [
       "Vejle Boldklub",
       "US Lecce",
@@ -4601,15 +4875,6 @@
       "MTK Budapest",
       "FC Drita",
       "Vejle Boldklub Reserves"
-    ],
-    "Balthazar Pierret": [
-      "Quevilly - Rouen Métropole",
-      "US Boulogne",
-      "US Lecce",
-      "FC Dinamo 1948",
-      "OGC Nice B",
-      "US Boulogne B",
-      "OGC Nice"
     ],
     "Sadik Fofana": [
       "Grazer AK 1902",
@@ -4645,7 +4910,8 @@
       "SC Bastia",
       "Rangers FC",
       "Cercle Brugge",
-      "Angers SCO B"
+      "Angers SCO B",
+      "SC Bastia B"
     ],
     "Thórir Jóhann Helgason": [
       "US Lecce",
@@ -4659,21 +4925,6 @@
       "US Lecce",
       "Girona",
       "Girona FC B"
-    ],
-    "Mohamed Kaba": [
-      "Valenciennes FC",
-      "US Lecce",
-      "Valenciennes FC B",
-      "Valenciennes FC U19"
-    ],
-    "Youssef Maleh": [
-      "Venezia FC",
-      "FC Empoli",
-      "Cesena Primavera",
-      "ACF Fiorentina",
-      "Ravenna FC",
-      "US Lecce",
-      "Cesena FC"
     ],
     "Omri Gandelman": [
       "Maccabi Netanya",
@@ -4704,15 +4955,6 @@
       "Arsenal Tula",
       "ZESCO United FC",
       "Arsenal Tula II"
-    ],
-    "Tete Morente": [
-      "Elche CF",
-      "US Lecce",
-      "Gimnàstic de Tarragona",
-      "CD Lugo",
-      "CD Atlético Baleares",
-      "Málaga CF",
-      "Atlético de Madrid UEFA U19"
     ],
     "Santiago Pierotti": [
       "CA Colón",
@@ -4747,9 +4989,48 @@
       "Espanyol",
       "US Sassuolo",
       "SS Arezzo",
+      "US Lecce",
       "Calcio Lecco 1912",
-      "SSC Napoli",
+      "SSC Napoli"
+    ],
+    "Christ-Owen Kouassi": [
+      "Stade Laval B",
+      "Stade Lavallois",
+      "Stade Laval U19",
       "US Lecce"
+    ],
+    "Balthazar Pierret": [
+      "Quevilly - Rouen Métropole",
+      "US Boulogne",
+      "US Lecce",
+      "FC Dinamo 1948",
+      "OGC Nice B",
+      "US Boulogne B",
+      "OGC Nice"
+    ],
+    "Mohamed Kaba": [
+      "Valenciennes FC",
+      "US Lecce",
+      "Valenciennes FC B",
+      "Valenciennes FC U19"
+    ],
+    "Youssef Maleh": [
+      "Venezia FC",
+      "FC Empoli",
+      "Cesena Primavera",
+      "ACF Fiorentina",
+      "Ravenna FC",
+      "US Lecce",
+      "Cesena FC"
+    ],
+    "Tete Morente": [
+      "Elche CF",
+      "US Lecce",
+      "Gimnàstic de Tarragona",
+      "CD Lugo",
+      "CD Atlético Baleares",
+      "Málaga CF",
+      "Atlético de Madrid UEFA U19"
     ],
     "Frédéric Guilbert": [
       "SM Caen",
@@ -4851,6 +5132,9 @@
       "Mantova 1911",
       "Hellas Verona"
     ],
+    "Arthur Borghi": [
+      "SC Corinthians U20"
+    ],
     "Victor Nelsson": [
       "Galatasaray",
       "FC Nordsjaelland",
@@ -4885,17 +5169,13 @@
       "Hellas Verona",
       "Hellas Verona Primavera"
     ],
-    "Enzo Ebosse": [
-      "RC Lens B",
-      "Angers SCO",
-      "Udinese Calcio",
-      "Le Mans FC",
-      "Jagiellonia Bialystok",
-      "RC Lens",
-      "Hellas Verona",
-      "Le Mans FC B",
-      "RC Lens U19",
-      "Udinese Primavera"
+    "Andrias Edmundsson": [
+      "Wisla Plock",
+      "Chojniczanka Chojnice",
+      "Sunderland AFC U18",
+      "B68 Toftir",
+      "Sunderland AFC U21",
+      "Águilas FC"
     ],
     "Martin Frese": [
       "FC Nordsjaelland",
@@ -4947,9 +5227,9 @@
       "Vitória Guimarães SC B",
       "Besiktas JK",
       "Vitória Guimarães SC",
+      "Hellas Verona",
       "Rio Ave FC",
-      "AS Monaco",
-      "Hellas Verona"
+      "AS Monaco"
     ],
     "Cheikh Niasse": [
       "BSC Young Boys",
@@ -4959,6 +5239,14 @@
       "LOSC Lille",
       "LOSC Lille UEFA U19",
       "LOSC Lille U19"
+    ],
+    "Sandi Lovrić": [
+      "Udinese Calcio",
+      "FC Lugano",
+      "SK Sturm Graz",
+      "SK Sturm Graz II",
+      "AKA Steiermark - Sturm Graz U18",
+      "Hellas Verona"
     ],
     "Suat Serdar": [
       "FC Schalke 04",
@@ -5012,23 +5300,11 @@
       "FC Groningen U19",
       "FC Groningen U21"
     ],
-    "Grigoris Kastanos": [
-      "US Salernitana 1919",
-      "Juventus Primavera",
-      "Hellas Verona",
-      "Delfino Pescara 1936",
-      "Frosinone Calcio",
-      "Juventus Next Gen",
-      "Juventus FC UEFA U19",
-      "Juventus Under 17",
-      "Zulte Waregem",
-      "Juventus FC"
-    ],
     "Gift Orban": [
       "KAA Gent",
       "Stabæk Fotball",
-      "Olympique Lyon",
       "Hellas Verona",
+      "Olympique Lyon",
       "TSG 1899 Hoffenheim",
       "Stabæk Fotball II"
     ],
@@ -5040,6 +5316,13 @@
       "Olympique Lyon",
       "VfL Wolfsburg",
       "Malmö FF U21"
+    ],
+    "Kieron Bowie": [
+      "Northampton Town",
+      "Hibernian FC",
+      "Raith Rovers FC",
+      "Fulham FC U18",
+      "Fulham FC U21"
     ],
     "Daniel Mosquera": [
       "Hellas Verona",
@@ -5059,6 +5342,30 @@
       "Sassuolo Primavera",
       "Sassuolo Under 18",
       "Hellas Verona"
+    ],
+    "Enzo Ebosse": [
+      "RC Lens B",
+      "Angers SCO",
+      "Udinese Calcio",
+      "Le Mans FC",
+      "Jagiellonia Bialystok",
+      "RC Lens",
+      "Hellas Verona",
+      "Le Mans FC B",
+      "RC Lens U19",
+      "Udinese Primavera"
+    ],
+    "Grigoris Kastanos": [
+      "US Salernitana 1919",
+      "Juventus Primavera",
+      "Hellas Verona",
+      "Delfino Pescara 1936",
+      "Frosinone Calcio",
+      "Juventus Next Gen",
+      "Juventus FC UEFA U19",
+      "Juventus Under 17",
+      "Zulte Waregem",
+      "Juventus FC"
     ],
     "Unai Núñez": [
       "Athletic",
@@ -5122,6 +5429,24 @@
       "US Cremonese",
       "FC Barcelona"
     ],
+    "Filippo Terracciano": [
+      "Hellas Verona Primavera",
+      "Hellas Verona",
+      "AC Milan",
+      "US Cremonese",
+      "Hellas Under 17"
+    ],
+    "Sebastiano Luperto": [
+      "FC Empoli",
+      "Napoli Primavera",
+      "Cagliari Calcio",
+      "FC Pro Vercelli 1892",
+      "SSC Napoli",
+      "FC Crotone",
+      "SSC Napoli UEFA U19",
+      "US Lecce",
+      "Lecce Primavera"
+    ],
     "Federico Baschirotto": [
       "US Lecce",
       "US Viterbese 1908",
@@ -5129,8 +5454,8 @@
       "ASD Carpaneto Chero",
       "Ascoli Calcio",
       "FC Legnago Salus",
-      "AC Cuneo 1905 Olmo",
       "US Cremonese",
+      "AC Cuneo 1905 Olmo",
       "Forlì FC",
       "Cremonese Primavera"
     ],
@@ -5173,13 +5498,6 @@
       "US Cremonese",
       "US Lecce",
       "Genoa CFC"
-    ],
-    "Filippo Terracciano": [
-      "Hellas Verona Primavera",
-      "Hellas Verona",
-      "AC Milan",
-      "US Cremonese",
-      "Hellas Under 17"
     ],
     "Tommaso Barbieri": [
       "Juventus Next Gen",
@@ -5236,6 +5554,15 @@
       "KSV Roeselare (-2020)",
       "KAA Gent"
     ],
+    "Morten Thorsby": [
+      "SC Heerenveen",
+      "UC Sampdoria",
+      "Genoa CFC",
+      "1.FC Union Berlin",
+      "SC Heerenveen U21",
+      "Stabæk Fotball",
+      "Stabæk Fotball Youth"
+    ],
     "Michele Collocolo": [
       "US Cremonese",
       "Ascoli Calcio",
@@ -5243,6 +5570,16 @@
       "FC Francavilla 1931",
       "Cesena FC",
       "Cosenza Calcio"
+    ],
+    "Youssef Maleh": [
+      "Venezia FC",
+      "FC Empoli",
+      "Cesena Primavera",
+      "ACF Fiorentina",
+      "Ravenna FC",
+      "US Lecce",
+      "US Cremonese",
+      "Cesena FC"
     ],
     "Alessio Zerbin": [
       "Napoli Primavera",
@@ -5252,30 +5589,10 @@
       "SSC Napoli",
       "Cesena FC",
       "ASDC Gozzano",
-      "Venezia FC",
       "US Cremonese",
+      "Venezia FC",
       "AC Monza",
       "SSC Napoli UEFA U19"
-    ],
-    "Franco Vázquez": [
-      "Sevilla FC",
-      "Palermo FC",
-      "US Cremonese",
-      "Club Atlético Belgrano",
-      "Parma Calcio 1913",
-      "Rayo Vallecano",
-      "Palermo Primavera"
-    ],
-    "Dennis Johnsen": [
-      "Venezia FC",
-      "US Cremonese",
-      "Ajax Amsterdam U21",
-      "SC Heerenveen U19",
-      "PEC Zwolle",
-      "SC Heerenveen",
-      "SC Heerenveen U21",
-      "Ajax Amsterdam",
-      "PEC Zwolle U21"
     ],
     "Faris Moumbagna": [
       "FK Bodø/Glimt",
@@ -5324,11 +5641,45 @@
       "Torino FC",
       "USD Lavagnese 1919"
     ],
+    "Milan Djuric": [
+      "Cesena FC",
+      "US Salernitana 1919",
+      "Hellas Verona",
+      "FC Crotone",
+      "AC Monza",
+      "Bristol City",
+      "US Cremonese",
+      "Parma Calcio 1913",
+      "Ascoli Calcio",
+      "AS Cittadella",
+      "FC Trapani 1905",
+      "Cesena Primavera"
+    ],
     "Jamie Vardy": [
       "Leicester City",
       "Fleetwood Town",
       "US Cremonese",
       "FC Halifax Town"
+    ],
+    "Franco Vázquez": [
+      "Sevilla FC",
+      "Palermo FC",
+      "US Cremonese",
+      "Club Atlético Belgrano",
+      "Parma Calcio 1913",
+      "Rayo Vallecano",
+      "Palermo Primavera"
+    ],
+    "Dennis Johnsen": [
+      "Venezia FC",
+      "US Cremonese",
+      "Ajax Amsterdam U21",
+      "SC Heerenveen U19",
+      "PEC Zwolle",
+      "SC Heerenveen",
+      "SC Heerenveen U21",
+      "Ajax Amsterdam",
+      "PEC Zwolle U21"
     ],
     "Mattia Valoti": [
       "SPAL",

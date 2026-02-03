@@ -11,19 +11,6 @@
       "Deportivo de La Coruña",
       "CA Osasuna"
     ],
-    "Daniel Bachmann": [
-      "Watford FC",
-      "Stoke City U21",
-      "Kilmarnock FC",
-      "Wrexham AFC",
-      "Bury FC",
-      "AKA Austria Wien U18",
-      "Ross County FC",
-      "Stoke City",
-      "Deportivo de La Coruña",
-      "Young Violets Austria Wien",
-      "AKA Steiermark - Sturm Graz U16"
-    ],
     "Germán Parreño": [
       "UD Ibiza",
       "Deportivo de La Coruña",
@@ -76,8 +63,8 @@
       "Real Valladolid CF",
       "Real Murcia CF",
       "Granada CF",
-      "Real Murcia Imperial",
       "Deportivo de La Coruña",
+      "Real Murcia Imperial",
       "FC Schalke 04",
       "FC Schalke 04 II"
     ],
@@ -116,6 +103,14 @@
       "Espanyol",
       "Deportivo de La Coruña"
     ],
+    "Riki Rodríguez": [
+      "Albacete Balompié",
+      "UP Langreo",
+      "Burgos CF",
+      "Real Oviedo Vetusta",
+      "Real Oviedo",
+      "Racing Santander"
+    ],
     "Diego Villares": [
       "Deportivo de La Coruña",
       "RC Deportivo Fabril"
@@ -127,12 +122,6 @@
       "Arsenal FC U18",
       "Arsenal FC U21",
       "Arsenal FC"
-    ],
-    "Rubén López": [
-      "FC Barcelona Atlètic",
-      "Deportivo de La Coruña",
-      "RC Deportivo Fabril",
-      "Deportivo de La Coruña UEFA U19"
     ],
     "José Ángel Jurado": [
       "Deportivo de La Coruña",
@@ -172,13 +161,6 @@
       "FC Barcelona Atlètic",
       "Deportivo de La Coruña",
       "Sevilla FC"
-    ],
-    "Diego Gómez": [
-      "CD Arenteiro",
-      "FC Cartagena",
-      "Deportivo de La Coruña",
-      "RC Deportivo Fabril",
-      "Deportivo de La Coruña UEFA U19"
     ],
     "Stoichkov": [
       "SD Eibar",
@@ -221,6 +203,445 @@
       "Elche Ilicitano",
       "UD Almería",
       "UD Las Palmas"
+    ],
+    "Daniel Bachmann": [
+      "Watford FC",
+      "Stoke City U21",
+      "Kilmarnock FC",
+      "Wrexham AFC",
+      "Bury FC",
+      "AKA Austria Wien U18",
+      "Ross County FC",
+      "Stoke City",
+      "Deportivo de La Coruña",
+      "Young Violets Austria Wien",
+      "AKA Steiermark - Sturm Graz U16"
+    ],
+    "Rubén López": [
+      "FC Barcelona Atlètic",
+      "Deportivo de La Coruña",
+      "RC Deportivo Fabril",
+      "Deportivo de La Coruña UEFA U19"
+    ],
+    "Diego Gómez": [
+      "CD Arenteiro",
+      "FC Cartagena",
+      "Deportivo de La Coruña",
+      "RC Deportivo Fabril",
+      "Deportivo de La Coruña UEFA U19"
+    ]
+  },
+  "UD Almería": {
+    "Fernando Martínez": [
+      "UD Almería",
+      "Real Murcia CF",
+      "UCAM Murcia CF",
+      "Sangonera Atlético CF  (- 2010)"
+    ],
+    "Bruno Iribarne": [
+      "UD Almería B",
+      "UD Almería",
+      "Real Madrid Castilla"
+    ],
+    "Andrés Fernández": [
+      "SD Huesca",
+      "CA Osasuna",
+      "CA Osasuna Promesas",
+      "Levante",
+      "Villarreal CF",
+      "Granada CF",
+      "UD Almería",
+      "Porto"
+    ],
+    "Federico Bonini": [
+      "AS Gubbio 1910",
+      "Virtus Entella",
+      "US Catanzaro",
+      "Virtus Entella Under 17",
+      "UD Almería",
+      "Bologna Primavera",
+      "Virtus Entella Primavera",
+      "Bologna FC 1909"
+    ],
+    "Rodrigo Ely": [
+      "Alavés",
+      "Grêmio Foot-Ball Porto Alegrense",
+      "UD Almería",
+      "Varese Calcio",
+      "US Avellino 1912",
+      "AC Milan Primavera",
+      "Reggina 1914",
+      "AC Milan"
+    ],
+    "Chumi": [
+      "UD Almería",
+      "FC Barcelona Atlètic",
+      "FC Barcelona UEFA U19",
+      "FC Barcelona"
+    ],
+    "Nélson Monte": [
+      "Rio Ave FC",
+      "Málaga CF",
+      "GD Chaves",
+      "UD Almería",
+      "SC Dnipro-1 ( - 2024)"
+    ],
+    "Álex Muñoz": [
+      "CD Tenerife",
+      "Hércules CF",
+      "Levante",
+      "Sevilla Atlético",
+      "UD Las Palmas",
+      "UD Almería",
+      "Real Zaragoza",
+      "Sevilla FC"
+    ],
+    "Álex Centelles": [
+      "UD Almería",
+      "Valencia Mestalla",
+      "FC Famalicão",
+      "Valencia CF"
+    ],
+    "Daijiro Chirino": [
+      "CD Castellón",
+      "PEC Zwolle",
+      "UD Almería",
+      "PEC Zwolle U21",
+      "PEC Zwolle U17",
+      "PEC Zwolle U19"
+    ],
+    "Marcos Luna": [
+      "Real Zaragoza",
+      "UD Almería",
+      "Real Unión Club",
+      "RZ Deportivo Aragón"
+    ],
+    "Dion Lopy": [
+      "UD Almería",
+      "Stade Reims",
+      "Stade Reims B"
+    ],
+    "André Horta": [
+      "SC Braga",
+      "Vitória Setúbal FC",
+      "Olympiacos Piraeus",
+      "SL Benfica",
+      "Los Ángeles FC",
+      "UD Almería"
+    ],
+    "Arnau Puigmal": [
+      "UD Almería",
+      "Manchester United U18",
+      "Manchester United U21",
+      "Elche CF",
+      "Manchester United UEFA U19",
+      "Manchester United"
+    ],
+    "Iddrisu Baba": [
+      "RCD Mallorca",
+      "UD Almería",
+      "Barakaldo CF",
+      "RCD Mallorca B"
+    ],
+    "Stefan Dzodic": [
+      "UD Almería",
+      "Montpellier HSC U19",
+      "Montpellier HSC",
+      "Montpellier HSC B"
+    ],
+    "Gui Guedes": [
+      "UD Almería",
+      "FC Porto B",
+      "Vitória de Guimarães SC U23 (- 2022)",
+      "CD Lugo",
+      "Vitória Guimarães SC B",
+      "Vitória Guimarães SC"
+    ],
+    "Sergio Arribas": [
+      "UD Almería",
+      "Real Madrid Castilla",
+      "Real Madrid",
+      "Real Madrid UEFA U19"
+    ],
+    "Nico Melamed": [
+      "Espanyol",
+      "UD Almería",
+      "RCD Espanyol B"
+    ],
+    "Jon Morcillo": [
+      "Albacete Balompié",
+      "Athletic",
+      "Bilbao Athletic",
+      "SD Amorebieta",
+      "Real Valladolid CF",
+      "UD Almería"
+    ],
+    "Patrick Soko": [
+      "SD Huesca",
+      "Racing Santander",
+      "UD Ibiza",
+      "CF Atlante",
+      "Atlas Guadalajara U19",
+      "UD Almería",
+      "Atlas Guadalajara",
+      "Mineros de Zacatecas",
+      "Cibao FC"
+    ],
+    "Adrián Embarba": [
+      "Rayo Vallecano",
+      "Espanyol",
+      "UD Almería"
+    ],
+    "Thalys": [
+      "SE Palmeiras São Paulo U20",
+      "UD Almería",
+      "Sociedade Esportiva Palmeiras"
+    ],
+    "Miguel de la Fuente": [
+      "CD Leganés",
+      "Real Valladolid Promesas",
+      "Alavés",
+      "Real Valladolid CF",
+      "UD Almería"
+    ],
+    "Léo Baptistão": [
+      "UD Almería",
+      "Espanyol",
+      "Rayo Vallecano",
+      "Wuhan Yangtze (2009 - 2023)",
+      "Santos FC",
+      "Villarreal CF",
+      "Betis",
+      "Rayo Vallecano B",
+      "Atlético de Madrid"
+    ],
+    "Ibrahima Koné": [
+      "FK Haugesund",
+      "FC Lorient",
+      "Sarpsborg 08 FF",
+      "Al-Okhdood Club",
+      "UD Almería",
+      "Adana Demirspor"
+    ],
+    "Aridane Hernández": [
+      "CA Osasuna",
+      "Cádiz CF",
+      "CD Eldense",
+      "Rayo Vallecano",
+      "Real Valladolid Promesas",
+      "AD Ceuta FC",
+      "Alavés",
+      "UD Almería",
+      "Real Valladolid CF"
+    ],
+    "Marko Perovic": [
+      "FK Jezero",
+      "UD Almería",
+      "UD Almería B",
+      "Buducnost Podgorica"
+    ],
+    "Lucas Robertone": [
+      "UD Almería",
+      "CA Vélez Sarsfield",
+      "CA Vélez Sarsfield II"
+    ],
+    "Selvi Clua": [
+      "UD Almería",
+      "Girona",
+      "FC Girona UEFA U19"
+    ],
+    "Luís Maximiano": [
+      "UD Almería",
+      "Sporting CP",
+      "Granada CF",
+      "Sporting Lissabon UEFA U19",
+      "SS Lazio",
+      "Sporting CP B",
+      "Sporting CP U23"
+    ],
+    "Lázaro": [
+      "CR Flamengo",
+      "UD Almería",
+      "Sociedade Esportiva Palmeiras",
+      "CR Flamengo U20"
+    ]
+  },
+  "Racing Santander": {
+    "Jokin Ezkieta": [
+      "Racing Santander",
+      "CE Sabadell FC",
+      "Bilbao Athletic",
+      "FC Barcelona Atlètic",
+      "Athletic",
+      "FC Barcelona"
+    ],
+    "Simon Eriksson": [
+      "FC Stockholm Internazionale",
+      "IF Elfsborg",
+      "Dalkurd FF",
+      "Racing Santander"
+    ],
+    "Facundo González": [
+      "Valencia Mestalla",
+      "UC Sampdoria",
+      "Racing Santander",
+      "Feyenoord Rotterdam"
+    ],
+    "Javi Castro": [
+      "AD Alcorcón",
+      "Racing Santander",
+      "RC Celta Fortuna",
+      "AD Alcorcón B",
+      "Celta de Vigo"
+    ],
+    "Manu Hernando": [
+      "Racing Santander",
+      "CD Tondela",
+      "Real Madrid Castilla",
+      "SD Amorebieta",
+      "SD Ponferradina",
+      "Real Madrid UEFA U19",
+      "Real Madrid"
+    ],
+    "Pablo Ramón": [
+      "Real Madrid Castilla",
+      "CD Mirandés",
+      "Racing Santander",
+      "Real Madrid UEFA U19",
+      "RCD Mallorca",
+      "RCD Mallorca B",
+      "Real Madrid",
+      "Espanyol"
+    ],
+    "Jorge Salinas": [
+      "Racing Santander",
+      "Rayo Cantabria"
+    ],
+    "Mario García": [
+      "Racing Santander",
+      "Rayo Cantabria"
+    ],
+    "Álvaro Mantilla": [
+      "Racing Santander",
+      "CD Laredo"
+    ],
+    "Damián Rodríguez": [
+      "RC Celta Fortuna",
+      "Celta de Vigo",
+      "Racing Santander"
+    ],
+    "Maguette Gueye": [
+      "FK Partizani",
+      "Racing Santander",
+      "FK Partizani U21"
+    ],
+    "Gustavo Puerta": [
+      "Hull City",
+      "Bogotá FC",
+      "Racing Santander",
+      "Bayer Leverkusen",
+      "1.FC Nuremberg"
+    ],
+    "Aritz Aldasoro": [
+      "Racing Santander",
+      "Real Sociedad B"
+    ],
+    "Íñigo Sainz-Maza": [
+      "Racing Santander",
+      "Rayo Cantabria"
+    ],
+    "Sergio Martínez": [
+      "Racing Santander",
+      "Rayo Cantabria"
+    ],
+    "Peio Canales": [
+      "Bilbao Athletic",
+      "Racing Santander",
+      "Athletic",
+      "CD Basconia"
+    ],
+    "Iñigo Vicente": [
+      "Racing Santander",
+      "Bilbao Athletic",
+      "CD Mirandés",
+      "Athletic Bilbao UEFA U19",
+      "Athletic"
+    ],
+    "Marco Sangalli": [
+      "Real Oviedo",
+      "Racing Santander",
+      "Real Sociedad B",
+      "CD Mirandés",
+      "AD Alcorcón",
+      "Alavés",
+      "Real Sociedad"
+    ],
+    "Andrés Martín": [
+      "Rayo Vallecano",
+      "Racing Santander",
+      "Córdoba CF",
+      "Córdoba CF B",
+      "CD Tenerife"
+    ],
+    "Suleiman Camara": [
+      "UD Ibiza",
+      "Racing Santander",
+      "Girona FC B",
+      "Girona"
+    ],
+    "Asier Villalibre": [
+      "Athletic",
+      "Bilbao Athletic",
+      "Alavés",
+      "Racing Santander",
+      "Real Valladolid CF",
+      "Lorca FC (- 2022)",
+      "CD Numancia",
+      "Athletic Bilbao UEFA U19"
+    ],
+    "Juan Carlos Arana": [
+      "Racing Santander",
+      "Villarreal CF B",
+      "SD Eibar",
+      "Villarreal CF"
+    ],
+    "Giorgi Guliashvili": [
+      "Iberia 1999 Tbilisi",
+      "FK Sarajevo",
+      "FK Velez Mostar",
+      "FC Saburtalo UEFA U19",
+      "Racing Santander"
+    ],
+    "Manex Lozano": [
+      "CD Basconia",
+      "Athletic Bilbao UEFA U19",
+      "Racing Santander",
+      "Bilbao Athletic"
+    ],
+    "Clément Michelin": [
+      "FC Girondins Bordeaux",
+      "RC Lens",
+      "Racing Santander",
+      "Toulouse FC B",
+      "AEK Athens",
+      "FC Toulouse",
+      "AC Ajaccio",
+      "AC Ajaccio B"
+    ],
+    "Plamen Andreev": [
+      "Levski Sofia",
+      "Feyenoord U21",
+      "Racing Santander",
+      "Feyenoord Rotterdam"
+    ],
+    "Yeray Cabanzón": [
+      "SD Ponferradina",
+      "Racing Santander",
+      "Rayo Cantabria"
+    ],
+    "Jeremy Arévalo": [
+      "Rayo Cantabria",
+      "Racing Santander"
     ]
   },
   "UD Las Palmas": {
@@ -395,22 +816,14 @@
       "Elche CF",
       "Sevilla FC"
     ],
-    "Milos Lukovic": [
-      "FK IMT Belgrad",
-      "FK IMT Belgrad U19",
-      "UD Las Palmas",
-      "SC Heerenveen",
-      "RC Strasbourg Alsace",
-      "Racing Strasbourg B"
-    ],
     "Iker Bravo": [
       "Udinese Calcio",
       "Real Madrid Castilla",
       "Bayer 04 Leverkusen U19",
       "Real Madrid UEFA U19",
+      "UD Las Palmas",
       "Bayer 04 Leverkusen U17",
-      "Bayer Leverkusen",
-      "UD Las Palmas"
+      "Bayer Leverkusen"
     ],
     "Taisei Miyashiro": [
       "Vissel Kobe",
@@ -431,6 +844,14 @@
       "SD Huesca",
       "Sevilla FC",
       "Everton FC"
+    ],
+    "Milos Lukovic": [
+      "FK IMT Belgrad",
+      "FK IMT Belgrad U19",
+      "UD Las Palmas",
+      "SC Heerenveen",
+      "RC Strasbourg Alsace",
+      "Racing Strasbourg B"
     ],
     "Marc Cardona": [
       "UD Las Palmas",
@@ -474,409 +895,6 @@
       "Dijon FCO",
       "KRC Genk U19",
       "FC Midtjylland Reserves"
-    ]
-  },
-  "Racing Santander": {
-    "Jokin Ezkieta": [
-      "Racing Santander",
-      "CE Sabadell FC",
-      "Bilbao Athletic",
-      "FC Barcelona Atlètic",
-      "Athletic",
-      "FC Barcelona"
-    ],
-    "Simon Eriksson": [
-      "FC Stockholm Internazionale",
-      "IF Elfsborg",
-      "Dalkurd FF",
-      "Racing Santander"
-    ],
-    "Facundo González": [
-      "Valencia Mestalla",
-      "UC Sampdoria",
-      "Racing Santander",
-      "Feyenoord Rotterdam"
-    ],
-    "Javi Castro": [
-      "AD Alcorcón",
-      "Racing Santander",
-      "RC Celta Fortuna",
-      "AD Alcorcón B",
-      "Celta de Vigo"
-    ],
-    "Manu Hernando": [
-      "Racing Santander",
-      "CD Tondela",
-      "Real Madrid Castilla",
-      "SD Amorebieta",
-      "SD Ponferradina",
-      "Real Madrid UEFA U19",
-      "Real Madrid"
-    ],
-    "Pablo Ramón": [
-      "Real Madrid Castilla",
-      "CD Mirandés",
-      "Racing Santander",
-      "Real Madrid UEFA U19",
-      "RCD Mallorca",
-      "RCD Mallorca B",
-      "Real Madrid",
-      "Espanyol"
-    ],
-    "Jorge Salinas": [
-      "Rayo Cantabria",
-      "Racing Santander"
-    ],
-    "Mario García": [
-      "Racing Santander",
-      "Rayo Cantabria"
-    ],
-    "Clément Michelin": [
-      "FC Girondins Bordeaux",
-      "RC Lens",
-      "Racing Santander",
-      "Toulouse FC B",
-      "AEK Athens",
-      "FC Toulouse",
-      "AC Ajaccio",
-      "AC Ajaccio B"
-    ],
-    "Álvaro Mantilla": [
-      "Racing Santander",
-      "CD Laredo"
-    ],
-    "Damián Rodríguez": [
-      "RC Celta Fortuna",
-      "Celta de Vigo",
-      "Racing Santander"
-    ],
-    "Maguette Gueye": [
-      "FK Partizani",
-      "Racing Santander",
-      "FK Partizani U21"
-    ],
-    "Gustavo Puerta": [
-      "Hull City",
-      "Bogotá FC",
-      "Racing Santander",
-      "Bayer Leverkusen",
-      "1.FC Nuremberg"
-    ],
-    "Aritz Aldasoro": [
-      "Racing Santander",
-      "Real Sociedad B"
-    ],
-    "Íñigo Sainz-Maza": [
-      "Racing Santander",
-      "Rayo Cantabria"
-    ],
-    "Sergio Martínez": [
-      "Racing Santander",
-      "Rayo Cantabria"
-    ],
-    "Peio Canales": [
-      "Bilbao Athletic",
-      "Racing Santander",
-      "Athletic",
-      "CD Basconia"
-    ],
-    "Iñigo Vicente": [
-      "Racing Santander",
-      "Bilbao Athletic",
-      "CD Mirandés",
-      "Athletic Bilbao UEFA U19",
-      "Athletic"
-    ],
-    "Marco Sangalli": [
-      "Real Oviedo",
-      "Racing Santander",
-      "Real Sociedad B",
-      "CD Mirandés",
-      "AD Alcorcón",
-      "Alavés",
-      "Real Sociedad"
-    ],
-    "Andrés Martín": [
-      "Rayo Vallecano",
-      "Racing Santander",
-      "Córdoba CF",
-      "Córdoba CF B",
-      "CD Tenerife"
-    ],
-    "Suleiman Camara": [
-      "UD Ibiza",
-      "Racing Santander",
-      "Girona FC B",
-      "Girona"
-    ],
-    "Asier Villalibre": [
-      "Athletic",
-      "Bilbao Athletic",
-      "Alavés",
-      "Racing Santander",
-      "Real Valladolid CF",
-      "Lorca FC (- 2022)",
-      "CD Numancia",
-      "Athletic Bilbao UEFA U19"
-    ],
-    "Juan Carlos Arana": [
-      "Racing Santander",
-      "Villarreal CF B",
-      "SD Eibar",
-      "Villarreal CF"
-    ],
-    "Giorgi Guliashvili": [
-      "Iberia 1999 Tbilisi",
-      "FK Sarajevo",
-      "FK Velez Mostar",
-      "FC Saburtalo UEFA U19",
-      "Racing Santander"
-    ],
-    "Manex Lozano": [
-      "CD Basconia",
-      "Athletic Bilbao UEFA U19",
-      "Racing Santander",
-      "Bilbao Athletic"
-    ],
-    "Plamen Andreev": [
-      "Levski Sofia",
-      "Feyenoord U21",
-      "Racing Santander",
-      "Feyenoord Rotterdam"
-    ],
-    "Yeray Cabanzón": [
-      "SD Ponferradina",
-      "Racing Santander",
-      "Rayo Cantabria"
-    ],
-    "Jeremy Arévalo": [
-      "Rayo Cantabria",
-      "Racing Santander"
-    ]
-  },
-  "UD Almería": {
-    "Fernando Martínez": [
-      "UD Almería",
-      "Real Murcia CF",
-      "UCAM Murcia CF",
-      "Sangonera Atlético CF  (- 2010)"
-    ],
-    "Bruno Iribarne": [
-      "UD Almería B",
-      "UD Almería",
-      "Real Madrid Castilla"
-    ],
-    "Andrés Fernández": [
-      "SD Huesca",
-      "CA Osasuna",
-      "CA Osasuna Promesas",
-      "Levante",
-      "Villarreal CF",
-      "Granada CF",
-      "UD Almería",
-      "Porto"
-    ],
-    "Federico Bonini": [
-      "AS Gubbio 1910",
-      "Virtus Entella",
-      "US Catanzaro",
-      "Virtus Entella Under 17",
-      "UD Almería",
-      "Bologna Primavera",
-      "Virtus Entella Primavera",
-      "Bologna FC 1909"
-    ],
-    "Chumi": [
-      "UD Almería",
-      "FC Barcelona Atlètic",
-      "FC Barcelona UEFA U19",
-      "FC Barcelona"
-    ],
-    "Nélson Monte": [
-      "Rio Ave FC",
-      "Málaga CF",
-      "GD Chaves",
-      "UD Almería",
-      "SC Dnipro-1 ( - 2024)"
-    ],
-    "Aridane Hernández": [
-      "CA Osasuna",
-      "Cádiz CF",
-      "CD Eldense",
-      "Rayo Vallecano",
-      "Real Valladolid Promesas",
-      "AD Ceuta FC",
-      "Alavés",
-      "UD Almería",
-      "Real Valladolid CF"
-    ],
-    "Álex Muñoz": [
-      "CD Tenerife",
-      "Hércules CF",
-      "Levante",
-      "Sevilla Atlético",
-      "UD Las Palmas",
-      "UD Almería",
-      "Real Zaragoza",
-      "Sevilla FC"
-    ],
-    "Álex Centelles": [
-      "UD Almería",
-      "Valencia Mestalla",
-      "FC Famalicão",
-      "Valencia CF"
-    ],
-    "Daijiro Chirino": [
-      "CD Castellón",
-      "PEC Zwolle",
-      "UD Almería",
-      "PEC Zwolle U21",
-      "PEC Zwolle U17",
-      "PEC Zwolle U19"
-    ],
-    "Marcos Luna": [
-      "Real Zaragoza",
-      "Real Unión Club",
-      "UD Almería",
-      "RZ Deportivo Aragón"
-    ],
-    "Dion Lopy": [
-      "UD Almería",
-      "Stade Reims",
-      "Stade Reims B"
-    ],
-    "André Horta": [
-      "SC Braga",
-      "Vitória Setúbal FC",
-      "Olympiacos Piraeus",
-      "SL Benfica",
-      "Los Ángeles FC",
-      "UD Almería"
-    ],
-    "Arnau Puigmal": [
-      "UD Almería",
-      "Manchester United U18",
-      "Manchester United U21",
-      "Elche CF",
-      "Manchester United UEFA U19",
-      "Manchester United"
-    ],
-    "Iddrisu Baba": [
-      "RCD Mallorca",
-      "UD Almería",
-      "Barakaldo CF",
-      "RCD Mallorca B"
-    ],
-    "Stefan Dzodic": [
-      "UD Almería",
-      "Montpellier HSC U19",
-      "Montpellier HSC",
-      "Montpellier HSC B"
-    ],
-    "Gui Guedes": [
-      "UD Almería",
-      "FC Porto B",
-      "Vitória de Guimarães SC U23 (- 2022)",
-      "CD Lugo",
-      "Vitória Guimarães SC B",
-      "Vitória Guimarães SC"
-    ],
-    "Sergio Arribas": [
-      "UD Almería",
-      "Real Madrid Castilla",
-      "Real Madrid",
-      "Real Madrid UEFA U19"
-    ],
-    "Nico Melamed": [
-      "Espanyol",
-      "UD Almería",
-      "RCD Espanyol B"
-    ],
-    "Jon Morcillo": [
-      "Albacete Balompié",
-      "Athletic",
-      "Bilbao Athletic",
-      "SD Amorebieta",
-      "Real Valladolid CF",
-      "UD Almería"
-    ],
-    "Marko Perovic": [
-      "FK Jezero",
-      "UD Almería",
-      "UD Almería B",
-      "Buducnost Podgorica"
-    ],
-    "Patrick Soko": [
-      "SD Huesca",
-      "Racing Santander",
-      "UD Ibiza",
-      "CF Atlante",
-      "Atlas Guadalajara U19",
-      "UD Almería",
-      "Atlas Guadalajara",
-      "Mineros de Zacatecas",
-      "Cibao FC"
-    ],
-    "Adrián Embarba": [
-      "Rayo Vallecano",
-      "Espanyol",
-      "UD Almería"
-    ],
-    "Thalys": [
-      "SE Palmeiras São Paulo U20",
-      "UD Almería",
-      "Sociedade Esportiva Palmeiras"
-    ],
-    "Miguel de la Fuente": [
-      "CD Leganés",
-      "Real Valladolid Promesas",
-      "Alavés",
-      "Real Valladolid CF",
-      "UD Almería"
-    ],
-    "Léo Baptistão": [
-      "UD Almería",
-      "Espanyol",
-      "Rayo Vallecano",
-      "Wuhan Yangtze (2009 - 2023)",
-      "Santos FC",
-      "Villarreal CF",
-      "Betis",
-      "Rayo Vallecano B",
-      "Atlético de Madrid"
-    ],
-    "Ibrahima Koné": [
-      "FK Haugesund",
-      "FC Lorient",
-      "Sarpsborg 08 FF",
-      "Al-Okhdood Club",
-      "UD Almería",
-      "Adana Demirspor"
-    ],
-    "Lucas Robertone": [
-      "UD Almería",
-      "CA Vélez Sarsfield",
-      "CA Vélez Sarsfield II"
-    ],
-    "Selvi Clua": [
-      "UD Almería",
-      "Girona",
-      "FC Girona UEFA U19"
-    ],
-    "Luís Maximiano": [
-      "UD Almería",
-      "Sporting CP",
-      "Granada CF",
-      "Sporting Lissabon UEFA U19",
-      "SS Lazio",
-      "Sporting CP B",
-      "Sporting CP U23"
-    ],
-    "Lázaro": [
-      "CR Flamengo",
-      "UD Almería",
-      "Sociedade Esportiva Palmeiras",
-      "CR Flamengo U20"
     ]
   },
   "Real Valladolid CF": {
@@ -924,10 +942,30 @@
       "Borussia Dortmund",
       "Deportivo de La Coruña"
     ],
+    "Carlos Clerc": [
+      "CA Osasuna",
+      "Levante",
+      "Elche CF",
+      "RCD Espanyol B",
+      "Girona",
+      "CE Sabadell FC",
+      "Espanyol",
+      "Real Valladolid CF"
+    ],
     "Iván Garriel": [
       "RC Celta Fortuna",
       "Real Valladolid Promesas",
       "Real Valladolid CF"
+    ],
+    "Clément Michelin": [
+      "FC Girondins Bordeaux",
+      "RC Lens",
+      "Racing Santander",
+      "Toulouse FC B",
+      "AEK Athens",
+      "FC Toulouse",
+      "AC Ajaccio",
+      "AC Ajaccio B"
     ],
     "Iván Alejo": [
       "Cádiz CF",
@@ -1002,8 +1040,8 @@
     ],
     "Peter Federico": [
       "Real Madrid Castilla",
-      "Getafe CF",
       "Real Valladolid CF",
+      "Getafe CF",
       "Valencia CF",
       "Real Madrid UEFA U19",
       "Real Madrid"
@@ -1012,7 +1050,8 @@
       "Danubio FC",
       "Uruguay Montevideo FC",
       "Central Español FC",
-      "Club Nacional U19"
+      "Club Nacional U19",
+      "Real Valladolid CF"
     ],
     "Amath Ndiaye": [
       "RCD Mallorca",
@@ -1049,6 +1088,7 @@
       "RB Leipzig U19",
       "Vitesse Arnhem",
       "Standard de Liège 16 FC",
+      "Real Valladolid CF",
       "Young Violets Austria Wien"
     ],
     "Marcos de Sousa": [
@@ -1124,6 +1164,11 @@
       "Sporting",
       "Sporting Atlético"
     ],
+    "Andrés Cuenca": [
+      "FC Barcelona Atlètic",
+      "FC Barcelona UEFA U19",
+      "FC Barcelona"
+    ],
     "Eric Curbelo": [
       "UD Las Palmas",
       "Las Palmas Atlético",
@@ -1149,8 +1194,8 @@
       "Real Valladolid Promesas",
       "Recreativo Granada",
       "Girona",
-      "Real Valladolid CF",
       "Sporting",
+      "Real Valladolid CF",
       "SC Braga B",
       "CSKA Sofia"
     ],
@@ -1301,11 +1346,275 @@
       "Sporting"
     ]
   },
+  "Real Zaragoza": {
+    "Esteban Andrada": [
+      "CF Monterrey",
+      "CA Boca Juniors",
+      "CA Lanús",
+      "Arsenal FC",
+      "Real Zaragoza",
+      "CA Lanús II",
+      "CF Monterrey U19"
+    ],
+    "Adrián Rodríguez": [
+      "Deportivo Alavés B",
+      "Real Zaragoza",
+      "Alavés",
+      "Real Madrid UEFA U19",
+      "Albacete Balompié"
+    ],
+    "Jawad El Yamiq": [
+      "Real Valladolid CF",
+      "Olympique Khouribga",
+      "Al-Wehda FC",
+      "Raja Club Athletic",
+      "AC Perugia Calcio",
+      "Real Zaragoza",
+      "Genoa CFC",
+      "Al-Najma SC"
+    ],
+    "Pablo Insua": [
+      "Sporting",
+      "CD Leganés",
+      "SD Huesca",
+      "Deportivo de La Coruña",
+      "RC Deportivo Fabril",
+      "Real Zaragoza",
+      "Granada CF",
+      "FC Schalke 04"
+    ],
+    "Tachi": [
+      "CD Mirandés",
+      "Atlético Madrileño",
+      "Alavés",
+      "Wisla Kraków",
+      "Real Zaragoza",
+      "Atlético de Madrid UEFA U19",
+      "CF Fuenlabrada",
+      "Atlético de Madrid"
+    ],
+    "Yussif Saidu": [
+      "Real Zaragoza",
+      "RZ Deportivo Aragón"
+    ],
+    "Aleksandar Radovanovic": [
+      "KV Kortrijk",
+      "FK Spartak Subotica",
+      "RC Lens",
+      "UD Almería",
+      "FK Macva Sabac",
+      "OFK Beograd",
+      "Real Zaragoza",
+      "FK Vojvodina Novi Sad",
+      "Austin FC",
+      "RC Lens B"
+    ],
+    "Ale Gomes": [
+      "Real Zaragoza",
+      "RZ Deportivo Aragón"
+    ],
+    "Juan Larios": [
+      "Manchester City U18",
+      "Manchester City U21",
+      "Southampton FC U21",
+      "Cultural Leonesa",
+      "Southampton FC",
+      "Manchester City UEFA U19"
+    ],
+    "Dani Tasende": [
+      "Villarreal CF B",
+      "Real Zaragoza",
+      "Villarreal CF"
+    ],
+    "Carlos Pomares": [
+      "Lorca FC (- 2022)",
+      "Real Oviedo",
+      "CD Tenerife",
+      "Barakaldo CF",
+      "CF Huracán Moncada",
+      "Extremadura UD (- 2022)",
+      "AD Alcorcón",
+      "Real Zaragoza",
+      "Sheffield United U18"
+    ],
+    "Martín Aguirregabiria": [
+      "Alavés",
+      "FC Famalicão",
+      "FC Cartagena",
+      "Real Zaragoza"
+    ],
+    "Juan Sebastián": [
+      "RZ Deportivo Aragón",
+      "AD Alcorcón",
+      "Real Zaragoza",
+      "Real Zaragoza UEFA U19"
+    ],
+    "Paul Akouokou": [
+      "Betis",
+      "Ekenäs IF",
+      "Hapoel Rishon leZion",
+      "Olympique Lyon",
+      "Beitar Jerusalem",
+      "Real Zaragoza",
+      "Betis Deportivo Balompié"
+    ],
+    "Francho Serrano": [
+      "Real Zaragoza",
+      "Real Zaragoza UEFA U19",
+      "RZ Deportivo Aragón"
+    ],
+    "Keidi Bare": [
+      "Espanyol",
+      "Málaga CF",
+      "Real Zaragoza",
+      "Atlético Madrileño",
+      "Atlético Malagueño",
+      "Atlético de Madrid UEFA U19",
+      "Atlético de Madrid",
+      "FK Apolonia"
+    ],
+    "Raúl Guti": [
+      "Elche CF",
+      "Real Zaragoza",
+      "RZ Deportivo Aragón"
+    ],
+    "Toni Moya": [
+      "Real Zaragoza",
+      "Atlético Madrileño",
+      "Alavés",
+      "Atlético de Madrid UEFA U19",
+      "Atlético de Madrid"
+    ],
+    "Mawuli Mensah": [
+      "Betis Deportivo Balompié",
+      "Antequera CF",
+      "Betis"
+    ],
+    "Sebas Moyano": [
+      "Córdoba CF B",
+      "Real Oviedo",
+      "CD Lugo",
+      "CD Ebro",
+      "Valencia Mestalla",
+      "Córdoba CF",
+      "Real Zaragoza"
+    ],
+    "Nikola Cumic": [
+      "FK Metalac Gornji Milanovac",
+      "Rubin Kazan",
+      "FK Vojvodina Novi Sad",
+      "FK Radnicki Nis",
+      "Sporting",
+      "FC Luzern",
+      "GFK Sloboda Uzice",
+      "Olympiacos Piraeus"
+    ],
+    "Paulino de la Fuente": [
+      "Real Oviedo",
+      "Málaga CF",
+      "UD Logroñés",
+      "Pachuca",
+      "Deportivo Alavés B",
+      "Inter Milan Primavera",
+      "Real Zaragoza",
+      "Alavés",
+      "CF Pachuca U19",
+      "Inter Under 17"
+    ],
+    "Valery Fernández": [
+      "Girona",
+      "RCD Mallorca",
+      "Real Zaragoza",
+      "CF Peralada"
+    ],
+    "Rober González": [
+      "NEC Nijmegen",
+      "UD Las Palmas",
+      "Alavés",
+      "Betis Deportivo Balompié",
+      "Racing Santander",
+      "Betis",
+      "Real Zaragoza"
+    ],
+    "Mario Soberón": [
+      "CD Eldense",
+      "Real Zaragoza",
+      "SD Logroñés",
+      "Atlético Levante UD",
+      "SD Amorebieta",
+      "Real Valladolid Promesas",
+      "Racing Santander"
+    ],
+    "Dani Gómez": [
+      "Levante",
+      "Real Madrid Castilla",
+      "CD Tenerife",
+      "Real Zaragoza",
+      "Valencia CF",
+      "Real Madrid UEFA U19",
+      "Espanyol"
+    ],
+    "Willy Agada": [
+      "Hapoel Jerusalem",
+      "Sporting Kansas City",
+      "Hapoel Haifa",
+      "Real Salt Lake City",
+      "Real Zaragoza"
+    ],
+    "Kenan Kodro": [
+      "CA Osasuna",
+      "Videoton FC Fehérvár",
+      "Real Sociedad B",
+      "Gaziantep FK",
+      "Athletic",
+      "Real Zaragoza",
+      "Ferencvárosi TC",
+      "FC Copenhagen",
+      "Grasshopper Club Zurich",
+      "Real Valladolid CF",
+      "1.FSV Mainz 05",
+      "FC Copenhagen Reserves"
+    ],
+    "Sinan Bakış": [
+      "Heracles Almelo",
+      "Admira Wacker",
+      "Kayserispor",
+      "FC Andorra",
+      "Bursaspor",
+      "Real Zaragoza",
+      "Bayer 04 Leverkusen U19",
+      "Bonner SC U19",
+      "Górnik Zabrze",
+      "Bonner SC U17",
+      "Gornik Zabrze II",
+      "Bayer 04 Leverkusen II (- 2014)"
+    ],
+    "Marcos Cuenca": [
+      "RZ Deportivo Aragón",
+      "CD Brea",
+      "Real Zaragoza"
+    ],
+    "Pau Sans": [
+      "Real Zaragoza",
+      "RZ Deportivo Aragón"
+    ],
+    "Samed Bazdar": [
+      "FK Partizan Belgrade",
+      "Real Zaragoza",
+      "FK Partizan Belgrade U17",
+      "FK Partizan Belgrade U19"
+    ],
+    "Sebastian Kosa": [
+      "Spartak Trnava",
+      "Real Zaragoza",
+      "FC Nitra"
+    ]
+  },
   "Cádiz CF": {
     "Victor Aznar": [
       "Cádiz CF Mirandilla",
-      "Hellas Verona Primavera",
-      "Cádiz CF"
+      "Cádiz CF",
+      "Hellas Verona Primavera"
     ],
     "David Gil": [
       "Cádiz CF",
@@ -1347,12 +1656,11 @@
       "Cádiz CF",
       "FC Barcelona UEFA U19"
     ],
-    "Fali": [
-      "Cádiz CF",
-      "FC Barcelona Atlètic",
-      "CF Huracán Moncada",
-      "Gimnàstic de Tarragona",
-      "Atlético Levante UD"
+    "Sergio Arribas": [
+      "Betis Deportivo Balompié",
+      "SD Huesca",
+      "Betis",
+      "Burgos CF"
     ],
     "Mario Climent": [
       "Cádiz CF",
@@ -1491,6 +1799,13 @@
       "Atlético Levante UD",
       "Elche CF",
       "Valencia Mestalla"
+    ],
+    "Fali": [
+      "Cádiz CF",
+      "FC Barcelona Atlètic",
+      "CF Huracán Moncada",
+      "Gimnàstic de Tarragona",
+      "Atlético Levante UD"
     ],
     "Efe Ugiagbe": [
       "Cádiz CF",
@@ -1636,8 +1951,8 @@
       "RC Deportivo Fabril",
       "Racing Santander",
       "UB Conquense",
-      "Deportivo de La Coruña",
-      "CD Leganés"
+      "CD Leganés",
+      "Deportivo de La Coruña"
     ],
     "Juan Cruz": [
       "CD Leganés",
@@ -1652,13 +1967,6 @@
       "SL Benfica U23",
       "CD Leganés",
       "SL Benfica UEFA U19"
-    ],
-    "Benjamin Pauwels": [
-      "SC Cambuur Leeuwarden",
-      "Beerschot VA",
-      "CD Leganés",
-      "Jong KAA Gent",
-      "Beerschot VA U21"
     ],
     "Andrés Campos": [
       "Real Madrid Castilla",
@@ -1679,6 +1987,13 @@
       "Elche CF",
       "CD Leganés"
     ],
+    "Luis Asué": [
+      "Moreirense FC",
+      "SC Braga U23",
+      "SC Braga B",
+      "Shanghai Shenhua",
+      "CD Leganés"
+    ],
     "Diego García": [
       "CD Leganés",
       "CF Fuenlabrada",
@@ -1695,241 +2010,18 @@
       "Union Saint-Gilloise",
       "Villarreal CF"
     ],
+    "Benjamin Pauwels": [
+      "SC Cambuur Leeuwarden",
+      "Beerschot VA",
+      "CD Leganés",
+      "Jong KAA Gent",
+      "Beerschot VA U21"
+    ],
     "Miguel de la Fuente": [
       "CD Leganés",
       "Real Valladolid Promesas",
       "Alavés",
       "Real Valladolid CF"
-    ]
-  },
-  "Real Zaragoza": {
-    "Esteban Andrada": [
-      "CF Monterrey",
-      "CA Boca Juniors",
-      "CA Lanús",
-      "Arsenal FC",
-      "Real Zaragoza",
-      "CA Lanús II",
-      "CF Monterrey U19"
-    ],
-    "Adrián Rodríguez": [
-      "Deportivo Alavés B",
-      "Real Zaragoza",
-      "Alavés",
-      "Real Madrid UEFA U19",
-      "Albacete Balompié"
-    ],
-    "Pablo Insua": [
-      "Sporting",
-      "CD Leganés",
-      "SD Huesca",
-      "Deportivo de La Coruña",
-      "RC Deportivo Fabril",
-      "Real Zaragoza",
-      "Granada CF",
-      "FC Schalke 04"
-    ],
-    "Tachi": [
-      "CD Mirandés",
-      "Atlético Madrileño",
-      "Alavés",
-      "Wisla Kraków",
-      "Atlético de Madrid UEFA U19",
-      "Real Zaragoza",
-      "CF Fuenlabrada",
-      "Atlético de Madrid"
-    ],
-    "Yussif Saidu": [
-      "Real Zaragoza",
-      "RZ Deportivo Aragón"
-    ],
-    "Aleksandar Radovanovic": [
-      "KV Kortrijk",
-      "FK Spartak Subotica",
-      "RC Lens",
-      "UD Almería",
-      "FK Macva Sabac",
-      "OFK Beograd",
-      "Real Zaragoza",
-      "FK Vojvodina Novi Sad",
-      "Austin FC",
-      "RC Lens B"
-    ],
-    "Ale Gomes": [
-      "Real Zaragoza",
-      "RZ Deportivo Aragón"
-    ],
-    "Dani Tasende": [
-      "Villarreal CF B",
-      "Real Zaragoza",
-      "Villarreal CF"
-    ],
-    "Carlos Pomares": [
-      "Lorca FC (- 2022)",
-      "Real Oviedo",
-      "CD Tenerife",
-      "Barakaldo CF",
-      "CF Huracán Moncada",
-      "Extremadura UD (- 2022)",
-      "AD Alcorcón",
-      "Real Zaragoza",
-      "Sheffield United U18"
-    ],
-    "Martín Aguirregabiria": [
-      "Alavés",
-      "FC Famalicão",
-      "FC Cartagena",
-      "Real Zaragoza"
-    ],
-    "Juan Sebastián": [
-      "RZ Deportivo Aragón",
-      "AD Alcorcón",
-      "Real Zaragoza",
-      "Real Zaragoza UEFA U19"
-    ],
-    "Paul Akouokou": [
-      "Betis",
-      "Ekenäs IF",
-      "Hapoel Rishon leZion",
-      "Olympique Lyon",
-      "Beitar Jerusalem",
-      "Real Zaragoza",
-      "Betis Deportivo Balompié"
-    ],
-    "Francho Serrano": [
-      "Real Zaragoza",
-      "Real Zaragoza UEFA U19",
-      "RZ Deportivo Aragón"
-    ],
-    "Keidi Bare": [
-      "Espanyol",
-      "Málaga CF",
-      "Real Zaragoza",
-      "Atlético Madrileño",
-      "Atlético Malagueño",
-      "Atlético de Madrid UEFA U19",
-      "Atlético de Madrid",
-      "FK Apolonia"
-    ],
-    "Raúl Guti": [
-      "Elche CF",
-      "Real Zaragoza",
-      "RZ Deportivo Aragón"
-    ],
-    "Toni Moya": [
-      "Real Zaragoza",
-      "Atlético Madrileño",
-      "Alavés",
-      "Atlético de Madrid UEFA U19",
-      "Atlético de Madrid"
-    ],
-    "Sebas Moyano": [
-      "Córdoba CF B",
-      "Real Oviedo",
-      "CD Lugo",
-      "CD Ebro",
-      "Valencia Mestalla",
-      "Córdoba CF",
-      "Real Zaragoza"
-    ],
-    "Pau Sans": [
-      "Real Zaragoza",
-      "RZ Deportivo Aragón"
-    ],
-    "Paulino de la Fuente": [
-      "Real Oviedo",
-      "Málaga CF",
-      "UD Logroñés",
-      "Pachuca",
-      "Deportivo Alavés B",
-      "Inter Milan Primavera",
-      "Real Zaragoza",
-      "Alavés",
-      "CF Pachuca U19",
-      "Inter Under 17"
-    ],
-    "Valery Fernández": [
-      "Girona",
-      "RCD Mallorca",
-      "Real Zaragoza",
-      "CF Peralada"
-    ],
-    "Rober González": [
-      "NEC Nijmegen",
-      "UD Las Palmas",
-      "Alavés",
-      "Betis Deportivo Balompié",
-      "Racing Santander",
-      "Betis",
-      "Real Zaragoza"
-    ],
-    "Mario Soberón": [
-      "CD Eldense",
-      "Real Zaragoza",
-      "SD Logroñés",
-      "Atlético Levante UD",
-      "SD Amorebieta",
-      "Real Valladolid Promesas",
-      "Racing Santander"
-    ],
-    "Dani Gómez": [
-      "Levante",
-      "Real Madrid Castilla",
-      "CD Tenerife",
-      "Real Zaragoza",
-      "Valencia CF",
-      "Real Madrid UEFA U19",
-      "Espanyol"
-    ],
-    "Willy Agada": [
-      "Hapoel Jerusalem",
-      "Sporting Kansas City",
-      "Hapoel Haifa",
-      "Real Salt Lake City"
-    ],
-    "Kenan Kodro": [
-      "CA Osasuna",
-      "Videoton FC Fehérvár",
-      "Real Sociedad B",
-      "Gaziantep FK",
-      "Athletic",
-      "Ferencvárosi TC",
-      "Real Zaragoza",
-      "FC Copenhagen",
-      "Grasshopper Club Zurich",
-      "Real Valladolid CF",
-      "1.FSV Mainz 05",
-      "FC Copenhagen Reserves"
-    ],
-    "Sinan Bakış": [
-      "Heracles Almelo",
-      "Admira Wacker",
-      "Kayserispor",
-      "FC Andorra",
-      "Bursaspor",
-      "Real Zaragoza",
-      "Bayer 04 Leverkusen U19",
-      "Bonner SC U19",
-      "Górnik Zabrze",
-      "Bonner SC U17",
-      "Gornik Zabrze II",
-      "Bayer 04 Leverkusen II (- 2014)"
-    ],
-    "Marcos Cuenca": [
-      "RZ Deportivo Aragón",
-      "CD Brea",
-      "Real Zaragoza"
-    ],
-    "Samed Bazdar": [
-      "FK Partizan Belgrade",
-      "Real Zaragoza",
-      "FK Partizan Belgrade U17",
-      "FK Partizan Belgrade U19"
-    ],
-    "Sebastian Kosa": [
-      "Spartak Trnava",
-      "Real Zaragoza",
-      "FC Nitra"
     ]
   },
   "Granada CF": {
@@ -1953,6 +2045,19 @@
       "CD Tenerife",
       "CD Atlético Paso",
       "Girona"
+    ],
+    "Bambo Diaby": [
+      "Sheffield Wednesday",
+      "CF Peralada",
+      "Elche CF",
+      "Preston North End",
+      "Barnsley FC",
+      "KSC Lokeren (-2020)",
+      "Sampdoria Primavera",
+      "Mantova 1911",
+      "Girona",
+      "UE Cornellà",
+      "Granada CF"
     ],
     "Oscar Naasei": [
       "Granada CF",
@@ -2032,13 +2137,18 @@
       "Villarreal CF B",
       "Real Murcia Imperial"
     ],
+    "Izan González": [
+      "UE Cornellà",
+      "CE Europa",
+      "Granada CF"
+    ],
     "José Arnaiz": [
       "CD Leganés",
       "CA Osasuna",
       "Real Valladolid CF",
       "Real Valladolid Promesas",
-      "FC Barcelona Atlètic",
       "Granada CF",
+      "FC Barcelona Atlètic",
       "FC Barcelona"
     ],
     "Sergio Rodelas": [
@@ -2160,7 +2270,8 @@
     "Oier Luengo": [
       "SD Amorebieta",
       "Real Oviedo",
-      "Bilbao Athletic"
+      "Bilbao Athletic",
+      "Burgos CF"
     ],
     "Grego Sierra": [
       "Burgos CF",
@@ -2176,8 +2287,8 @@
     "Florian Miguel": [
       "Tours FC (- 2025)",
       "SD Huesca",
-      "Nîmes Olympique",
       "Burgos CF",
+      "Nîmes Olympique",
       "Oud-Heverlee Leuven",
       "Nîmes Olympique B",
       "FC Tours B"
@@ -2207,7 +2318,8 @@
       "CA Independiente",
       "Genoa CFC",
       "Clube de Regatas Vasco da Gama",
-      "US Cremonese"
+      "US Cremonese",
+      "Burgos CF"
     ],
     "Miguel Atienza": [
       "Burgos CF",
@@ -2260,6 +2372,14 @@
       "Sevilla FC UEFA U19",
       "Sevilla Atlético"
     ],
+    "Hugo Cuenca": [
+      "AC Milan Primavera",
+      "Milan Futuro",
+      "AC Milan UEFA U19",
+      "Milan Under 18",
+      "Genoa CFC",
+      "AC Milan"
+    ],
     "Iñigo Córdoba": [
       "Athletic",
       "Fortuna Sittard",
@@ -2277,13 +2397,6 @@
       "CD Numancia",
       "Sevilla FC",
       "Sevilla FC UEFA U19"
-    ],
-    "Iván Chapela": [
-      "CD Eldense",
-      "Cádiz CF Mirandilla",
-      "Unionistas CF",
-      "Cádiz CF",
-      "Burgos CF"
     ],
     "Víctor Mollejo": [
       "Real Zaragoza",
@@ -2328,6 +2441,13 @@
       "Manchester United U18",
       "Sevilla FC"
     ],
+    "Iván Chapela": [
+      "CD Eldense",
+      "Cádiz CF Mirandilla",
+      "Unionistas CF",
+      "Cádiz CF",
+      "Burgos CF"
+    ],
     "Aitor Córdoba": [
       "Burgos CF",
       "SD Leioa"
@@ -2349,6 +2469,222 @@
       "FK Mlada Boleslav B",
       "FK Mlada Boleslav",
       "RCD Mallorca B"
+    ]
+  },
+  "CD Mirandés": {
+    "Igor Nikic": [
+      "FK Decic Tuzi",
+      "Arsenal Tivat",
+      "FK Mladost Donja Gorica",
+      "CD Mirandés",
+      "FK Podgorica"
+    ],
+    "Juanpa Palomares": [
+      "Mérida AD",
+      "CD Mirandés",
+      "Atlético Sanluqueño CF",
+      "UDC Torredonjimeno"
+    ],
+    "Adrián Pica": [
+      "CD Guijuelo",
+      "Alavés",
+      "CD Mirandés",
+      "Deportivo Alavés B"
+    ],
+    "Jorge Cabello": [
+      "Levante",
+      "CD Mirandés",
+      "Atlético Levante UD"
+    ],
+    "Nikola Maras": [
+      "FK Rad",
+      "UD Almería",
+      "GD Chaves",
+      "Sporting",
+      "Alavés",
+      "Rayo Vallecano",
+      "Levante",
+      "CD Mirandés"
+    ],
+    "Juan Gutiérrez": [
+      "CD Mirandés",
+      "AD Ceuta FC",
+      "Rayo Cantabria",
+      "CD Ebro",
+      "Racing Santander"
+    ],
+    "Iker Córdoba": [
+      "Valencia Mestalla",
+      "CD Mirandés",
+      "Valencia CF"
+    ],
+    "Martín Pascual": [
+      "UD Ibiza",
+      "Atlético Madrileño",
+      "Rayo Vallecano",
+      "Villarreal CF B",
+      "CD Mirandés"
+    ],
+    "Sergio Postigo": [
+      "Levante",
+      "CD Leganés",
+      "CA Osasuna Promesas",
+      "Spezia Calcio",
+      "Getafe CF B",
+      "CD Mirandés",
+      "CA Osasuna",
+      "Getafe CF"
+    ],
+    "Fernando Medrano": [
+      "RC Celta Fortuna",
+      "CD Tenerife",
+      "Atlético Madrileño",
+      "CD Mirandés",
+      "Atlético de Madrid UEFA U19",
+      "Celta de Vigo"
+    ],
+    "Pablo Pérez": [
+      "Atlético Madrileño",
+      "Sevilla Atlético",
+      "CD Mirandés",
+      "Sevilla FC"
+    ],
+    "Hugo Novoa": [
+      "RB Leipzig",
+      "RB Leipzig U17",
+      "FC Basel 1893",
+      "CD Mirandés",
+      "RB Leipzig U19",
+      "Villarreal CF B",
+      "FC Utrecht",
+      "Alavés",
+      "RB Leipzig UEFA U19"
+    ],
+    "Thiago Helguera": [
+      "CD Mirandés",
+      "Club Nacional",
+      "SC Braga B",
+      "SC Braga",
+      "SC Braga UEFA U19",
+      "SC Braga U23"
+    ],
+    "Selvi Clua": [
+      "UD Almería",
+      "Girona",
+      "CD Mirandés",
+      "FC Girona UEFA U19"
+    ],
+    "Aarón Martin": [
+      "CD Tenerife",
+      "CD Mirandés"
+    ],
+    "Rafel Bauzà": [
+      "RCD Espanyol B",
+      "CD Mirandés",
+      "Espanyol"
+    ],
+    "Javi Hernández": [
+      "RCD Espanyol B",
+      "SD Huesca",
+      "CD Mirandés",
+      "Espanyol"
+    ],
+    "Diego Sia": [
+      "AC Milan Primavera",
+      "Milan Futuro",
+      "AC Milan UEFA U19",
+      "Milan Under 17",
+      "AC Milan"
+    ],
+    "Salim El Jebari": [
+      "Atlético Madrileño",
+      "Atlético de Madrid UEFA U19",
+      "CD Mirandés",
+      "FC Cartagena",
+      "Atlético de Madrid"
+    ],
+    "Pablo López": [
+      "Valencia Mestalla",
+      "CD Mirandés",
+      "Valencia CF"
+    ],
+    "Iker Varela": [
+      "Bilbao Athletic",
+      "CD Mirandés",
+      "CD Basconia",
+      "Athletic"
+    ],
+    "Toni Tamarit": [
+      "CD Mirandés",
+      "Villarreal CF B"
+    ],
+    "Ali Houary": [
+      "Elche Ilicitano",
+      "Elche CF",
+      "CD Mirandés"
+    ],
+    "Siren Diao": [
+      "Hellas Verona Primavera",
+      "Hellas Verona Under 18",
+      "Atalanta U23",
+      "Cesena FC",
+      "Granada CF",
+      "Hellas Under 17",
+      "Hellas Verona",
+      "Atalanta BC"
+    ],
+    "Carlos Fernández": [
+      "Sevilla Atlético",
+      "Real Sociedad",
+      "Granada CF",
+      "Cádiz CF",
+      "Deportivo de La Coruña",
+      "CD Mirandés",
+      "Sevilla FC"
+    ],
+    "Alberto Marí": [
+      "Real Zaragoza",
+      "Valencia Mestalla",
+      "Valencia CF",
+      "CD Mirandés",
+      "SD Eibar"
+    ],
+    "Ismael Barea": [
+      "Betis Deportivo Balompié",
+      "CD Mirandés"
+    ],
+    "Álex Suárez": [
+      "Real Oviedo Vetusta",
+      "Real Oviedo",
+      "CD Arenteiro",
+      "CD Mirandés"
+    ],
+    "Marino Illescas": [
+      "Algeciras CF",
+      "Burgos CF Promesas",
+      "CD Arenteiro",
+      "CD Mirandés",
+      "Deportivo Alavés B",
+      "Burgos CF",
+      "Écija Balompié"
+    ],
+    "Gonzalo Petit": [
+      "Club Nacional",
+      "CD Mirandés"
+    ],
+    "Etienne Eto'o": [
+      "Vitória de Guimarães SC U23 (- 2022)",
+      "CD Mirandés",
+      "Rayo Vallecano B",
+      "Rayo Vallecano",
+      "UD Poblense",
+      "CF Rayo Majadahonda"
+    ],
+    "Álex Cardero": [
+      "Real Oviedo Vetusta",
+      "Real Oviedo",
+      "CD Arenteiro",
+      "CD Mirandés"
     ]
   },
   "Málaga CF": {
@@ -2545,245 +2881,11 @@
       "Racing Ferrol",
       "UD San Sebastián de los Reyes",
       "Atlético Levante UD",
-      "Asteras Aktor",
       "Málaga CF",
+      "Asteras Aktor",
       "Córdoba CF",
       "UCAM Murcia CF",
       "Lleida CF"
-    ]
-  },
-  "CD Castellón": {
-    "Romain Matthys": [
-      "MVV Maastricht",
-      "RFC Lüttich",
-      "CD Castellón",
-      "RWDM Brussels",
-      "KAS Eupen"
-    ],
-    "Amir Abedzadeh": [
-      "CS Marítimo",
-      "SD Ponferradina",
-      "Orange County SC",
-      "CD Castellón",
-      "Rah Ahan Yazdan FC",
-      "FC Barreirense",
-      "Persepolis FC"
-    ],
-    "Fabrizio Brignani": [
-      "Olbia Calcio 1905",
-      "Mantova 1911",
-      "Bologna Primavera",
-      "Vis Pesaro 1898",
-      "Pisa Sporting Club",
-      "Cesena FC",
-      "CD Castellón",
-      "Cremonese Primavera",
-      "Bologna FC 1909",
-      "US Cremonese"
-    ],
-    "Agustín Sienra": [
-      "CA San Martín (San Juan)",
-      "CD Castellón",
-      "Defensa y Justicia",
-      "Club Deportivo Maldonado"
-    ],
-    "Alberto Jiménez": [
-      "CD Tenerife",
-      "CD Castellón",
-      "Valencia Mestalla",
-      "Albacete Balompié",
-      "Córdoba CF"
-    ],
-    "Lucas Alcázar": [
-      "Betis Deportivo Balompié",
-      "Penya Deportiva Santa Eulalia",
-      "CD Castellón",
-      "CF Talavera de la Reina",
-      "Real Madrid Castilla",
-      "Betis",
-      "Real Madrid UEFA U19"
-    ],
-    "Salva Ruiz": [
-      "CD Castellón",
-      "Valencia Mestalla",
-      "Deportivo de La Coruña",
-      "RCD Mallorca",
-      "CD Tenerife",
-      "Granada CF",
-      "Valencia CF"
-    ],
-    "Tincho Conde": [
-      "RC Celta Fortuna",
-      "CD Castellón",
-      "Celta de Vigo"
-    ],
-    "Jérémy Mellot": [
-      "CD Tenerife",
-      "Rodez AF",
-      "EA Guingamp",
-      "AS Saint-Étienne B",
-      "CD Castellón"
-    ],
-    "Ronaldo": [
-      "Calcio Padova",
-      "LR Vicenza",
-      "Novara FC",
-      "US Salernitana 1919",
-      "US Grosseto 1912",
-      "Mantova Primavera",
-      "FC Pro Vercelli 1892",
-      "US Catanzaro",
-      "Mantova 1911",
-      "CD Castellón",
-      "FC Empoli",
-      "Padova Primavera",
-      "Pro Vercelli Primavera",
-      "Grosseto Juniores"
-    ],
-    "Diego Barri": [
-      "Cultural Leonesa",
-      "Albacete Balompié",
-      "CD Castellón",
-      "CD Badajoz",
-      "NK Osijek",
-      "RC Celta Fortuna",
-      "Getafe CF B",
-      "Getafe CF"
-    ],
-    "Beñat Gerenabarrena": [
-      "Bilbao Athletic",
-      "CD Castellón"
-    ],
-    "Marc-Olivier Doué": [
-      "Royal Excelsior Virton",
-      "SD Ponferradina",
-      "PEC Zwolle U21",
-      "CD Castellón",
-      "CD Eldense",
-      "PEC Zwolle",
-      "PEC Zwolle U19",
-      "FC Girondins Bordeaux UEFA U19"
-    ],
-    "Álex Calatrava": [
-      "Atlético Madrileño",
-      "CD Castellón",
-      "UE Costa Brava (- 2022)",
-      "Atlético de Madrid"
-    ],
-    "Israel Suero": [
-      "SV 07 Elversberg",
-      "CD Castellón",
-      "TSV Eintracht Stadtallendorf",
-      "Rayo Vallecano B",
-      "CSC 03 Kassel",
-      "SV 07 Elversberg II"
-    ],
-    "Brian Cipenga": [
-      "Vilaverdense FC",
-      "FC Paços de Ferreira",
-      "CD Castellón",
-      "FC Famalicão U23",
-      "Anadia FC",
-      "SC Ideal"
-    ],
-    "Raúl Sánchez": [
-      "CD Castellón",
-      "CF Rayo Majadahonda",
-      "Burgos CF",
-      "Club Necaxa",
-      "UD Ibiza",
-      "AD Alcorcón"
-    ],
-    "Pablo Santiago": [
-      "Barakaldo CF",
-      "CD Castellón",
-      "SD Eibar B"
-    ],
-    "Awer Mabil": [
-      "FC Midtjylland",
-      "Adelaide United",
-      "CD Castellón",
-      "Grasshopper Club Zurich",
-      "Esbjerg fB",
-      "FC Paços de Ferreira",
-      "AC Sparta Prague",
-      "Kasimpasa",
-      "Cádiz CF",
-      "FC Midtjylland Reserves"
-    ],
-    "Serpeta": [
-      "Yeclano Deportivo",
-      "UD Almería B",
-      "CD Castellón",
-      "Atzeneta UE"
-    ],
-    "Douglas Aurélio": [
-      "Riga FC",
-      "CD Castellón",
-      "Estoril Praia U23",
-      "Pafos FC",
-      "B SAD U23 (-2022)",
-      "Sporting Lissabon UEFA U19",
-      "B SAD"
-    ],
-    "Tommaso De Nipoti": [
-      "Atalanta Primavera",
-      "Atalanta U23",
-      "Atalanta Under 18",
-      "CD Castellón",
-      "Atalanta BC U17",
-      "Atalanta BC UEFA U19",
-      "Atalanta BC"
-    ],
-    "Adam Jakobsen": [
-      "FC Fredericia",
-      "Vejle Boldklub",
-      "BK Frem",
-      "IF Brommapojkarna",
-      "Kolding IF",
-      "NK Celje",
-      "CD Castellón",
-      "Vejle Boldklub Reserves",
-      "Vejle Boldklub U19"
-    ],
-    "Ousmane Camara": [
-      "AJ Auxerre B",
-      "CD Castellón",
-      "AJ Auxerre",
-      "FC Annecy",
-      "AJ Auxerre U19"
-    ],
-    "Álvaro García": [
-      "CD Laredo",
-      "SD Logroñés",
-      "Arenas Club",
-      "UE Costa Brava (- 2022)",
-      "Mérida AD",
-      "CD Castellón"
-    ],
-    "Kenneth Mamah": [
-      "Göztepe",
-      "Varese Football Club",
-      "CD Castellón"
-    ],
-    "Nick Markanich": [
-      "Charleston Battery",
-      "CD Castellón",
-      "FC Cincinnati 2",
-      "FC Cincinnati"
-    ],
-    "Óscar Gil": [
-      "Bilbao Athletic",
-      "CD Castellón",
-      "Racing Santander",
-      "SD Amorebieta",
-      "Real Oviedo",
-      "CD Atlético Baleares",
-      "Athletic"
-    ],
-    "Michal Willmann": [
-      "Podbeskidzie Bielsko-Biala",
-      "CD Castellón"
     ]
   },
   "FC Andorra": {
@@ -2895,6 +2997,13 @@
       "EA Guingamp",
       "US Avranches B"
     ],
+    "Alberto Solís": [
+      "RC Celta Fortuna",
+      "Cultural Leonesa",
+      "Real Unión Club",
+      "FC Andorra",
+      "CD Arenteiro"
+    ],
     "Min-su Kim": [
       "FC Andorra",
       "Girona",
@@ -2942,15 +3051,6 @@
       "CD Mirandés",
       "Celta de Vigo"
     ],
-    "Marc Cardona": [
-      "UD Las Palmas",
-      "FC Barcelona Atlètic",
-      "CA Osasuna",
-      "Go Ahead Eagles",
-      "SD Eibar",
-      "RCD Mallorca",
-      "FC Barcelona"
-    ],
     "Manu Nieto": [
       "FC Andorra",
       "Cádiz CF Mirandilla",
@@ -2958,6 +3058,16 @@
       "Betis Deportivo Balompié",
       "Elche CF",
       "Cádiz CF"
+    ],
+    "Marc Cardona": [
+      "UD Las Palmas",
+      "FC Barcelona Atlètic",
+      "CA Osasuna",
+      "Go Ahead Eagles",
+      "SD Eibar",
+      "RCD Mallorca",
+      "FC Barcelona",
+      "FC Andorra"
     ],
     "Aitor Uzkudun": [
       "Arenas Club",
@@ -2980,359 +3090,238 @@
       "FC Andorra"
     ]
   },
-  "SD Eibar": {
-    "Jonmi Magunagoitia": [
-      "SD Amorebieta",
-      "SD Eibar",
-      "SD Eibar B",
-      "Zamora CF"
+  "CD Castellón": {
+    "Romain Matthys": [
+      "MVV Maastricht",
+      "RFC Lüttich",
+      "CD Castellón",
+      "RWDM Brussels",
+      "KAS Eupen"
     ],
-    "Luis López": [
-      "Real Madrid Castilla",
-      "CD Mirandés",
-      "Real Madrid UEFA U19",
-      "SD Eibar",
-      "Real Madrid"
+    "Amir Abedzadeh": [
+      "CS Marítimo",
+      "SD Ponferradina",
+      "Orange County SC",
+      "CD Castellón",
+      "Rah Ahan Yazdan FC",
+      "FC Barreirense",
+      "Persepolis FC"
     ],
-    "Marco Moreno": [
-      "Atlético Madrileño",
-      "SC Farense",
-      "SD Eibar",
-      "Atlético de Madrid UEFA U19",
-      "Atlético de Madrid"
+    "Fabrizio Brignani": [
+      "Olbia Calcio 1905",
+      "Mantova 1911",
+      "Bologna Primavera",
+      "Vis Pesaro 1898",
+      "Pisa Sporting Club",
+      "Cesena FC",
+      "CD Castellón",
+      "Cremonese Primavera",
+      "Bologna FC 1909",
+      "US Cremonese"
     ],
-    "Aritz Arambarri": [
-      "Real Sociedad B",
-      "SD Eibar",
-      "CD Leganés",
-      "Real Sociedad"
+    "Agustín Sienra": [
+      "CA San Martín (San Juan)",
+      "CD Castellón",
+      "Defensa y Justicia",
+      "Club Deportivo Maldonado"
     ],
-    "Jair Amador": [
-      "Real Zaragoza",
-      "SD Huesca",
-      "Maccabi Tel Aviv",
-      "Atlético Levante UD",
-      "CF Villanovense",
-      "SD Eibar"
-    ],
-    "Anaitz Arbilla": [
-      "SD Eibar",
-      "Hércules CF",
-      "Rayo Vallecano",
-      "Polideportivo Ejido (- 2012)",
-      "Espanyol",
-      "Barakaldo CF",
-      "UD Salamanca (- 2013)",
-      "Bilbao Athletic"
-    ],
-    "Leonardo Buta": [
-      "Gil Vicente FC",
-      "SC Braga U23",
-      "Udinese Primavera",
-      "SD Eibar",
-      "SC Braga B",
-      "Moreirense FC",
-      "SC Braga",
-      "Udinese Calcio"
-    ],
-    "Hodei Arrillaga": [
-      "SD Eibar"
-    ],
-    "Sergio Cubero": [
-      "SD Eibar",
-      "CF Fuenlabrada",
-      "Racing Ferrol",
-      "SD Logroñés",
-      "SD Eibar B"
-    ],
-    "Álvaro Rodríguez": [
-      "Albacete Balompié",
-      "Burgos CF",
-      "Real Murcia CF",
-      "SD Eibar",
-      "CF Rayo Majadahonda",
-      "Lorca FC (- 2022)"
-    ],
-    "Peru Nolaskoain": [
-      "SD Eibar",
-      "Bilbao Athletic",
-      "Deportivo de La Coruña",
-      "Athletic",
-      "SD Amorebieta"
-    ],
-    "Sergio Álvarez": [
-      "SD Eibar",
-      "Sporting",
-      "Sporting Atlético"
-    ],
-    "Aleix Garrido": [
-      "FC Barcelona Atlètic",
-      "SD Eibar",
-      "FC Barcelona UEFA U19",
-      "FC Barcelona"
-    ],
-    "Lander Olaetxea": [
-      "UD Logroñés",
-      "Albacete Balompié",
-      "Bilbao Athletic",
-      "Sporting",
-      "SD Amorebieta",
-      "Gernika Club",
-      "SD Eibar"
-    ],
-    "Ander Madariaga": [
-      "SD Eibar",
-      "SD Eibar B"
-    ],
-    "Magunacelaya": [
-      "Real Sociedad B",
-      "SD Eibar",
-      "Real Sociedad",
-      "Córdoba CF",
-      "Real Sociedad C"
-    ],
-    "Javi Martínez": [
-      "CA Osasuna Promesas",
-      "CA Osasuna",
-      "SD Huesca",
-      "SD Eibar",
-      "Albacete Balompié"
-    ],
-    "Toni Villa": [
-      "Real Valladolid CF",
-      "Real Valladolid Promesas",
-      "Cultural Leonesa",
-      "SD Eibar",
-      "Girona"
-    ],
-    "Adu Ares": [
-      "Bilbao Athletic",
-      "Real Zaragoza",
-      "Athletic",
-      "SD Eibar"
-    ],
-    "Xeber Alkain": [
-      "Real Sociedad B",
-      "Alavés",
-      "SD Eibar",
-      "Arenas Club"
-    ],
-    "Jon Guruzeta": [
-      "Bilbao Athletic",
-      "SD Eibar",
-      "Sestao River",
-      "CD Basconia"
-    ],
-    "José Corpas": [
-      "SD Eibar",
-      "UD Almería",
-      "Linares Deportivo",
-      "Marbella FC"
-    ],
-    "Jon Bautista": [
-      "SD Eibar",
-      "Real Sociedad",
-      "Real Sociedad B",
-      "KAS Eupen",
-      "CD Leganés",
-      "Real Sociedad UEFA U19"
-    ],
-    "Javi Martón": [
-      "Real Sociedad B",
-      "CD Covadonga",
-      "SD Eibar",
-      "CD Mirandés",
-      "Albacete Balompié",
-      "Athletic"
-    ]
-  },
-  "CD Mirandés": {
-    "Igor Nikic": [
-      "FK Decic Tuzi",
-      "Arsenal Tivat",
-      "FK Mladost Donja Gorica",
-      "CD Mirandés",
-      "FK Podgorica"
-    ],
-    "Juanpa Palomares": [
-      "Mérida AD",
-      "CD Mirandés",
-      "Atlético Sanluqueño CF",
-      "UDC Torredonjimeno"
-    ],
-    "Adrián Pica": [
-      "CD Guijuelo",
-      "Alavés",
-      "CD Mirandés",
-      "Deportivo Alavés B"
-    ],
-    "Jorge Cabello": [
-      "Levante",
-      "CD Mirandés",
-      "Atlético Levante UD"
-    ],
-    "Juan Gutiérrez": [
-      "CD Mirandés",
-      "AD Ceuta FC",
-      "Rayo Cantabria",
-      "CD Ebro",
-      "Racing Santander"
-    ],
-    "Iker Córdoba": [
-      "Valencia Mestalla",
-      "CD Mirandés",
-      "Valencia CF"
-    ],
-    "Martín Pascual": [
-      "UD Ibiza",
-      "Atlético Madrileño",
-      "Rayo Vallecano",
-      "Villarreal CF B",
-      "CD Mirandés"
-    ],
-    "Sergio Postigo": [
-      "Levante",
-      "CD Leganés",
-      "CA Osasuna Promesas",
-      "Spezia Calcio",
-      "Getafe CF B",
-      "CD Mirandés",
-      "CA Osasuna",
-      "Getafe CF"
-    ],
-    "Fernando Medrano": [
-      "RC Celta Fortuna",
+    "Alberto Jiménez": [
       "CD Tenerife",
-      "Atlético Madrileño",
-      "CD Mirandés",
-      "Atlético de Madrid UEFA U19",
+      "CD Castellón",
+      "Valencia Mestalla",
+      "Albacete Balompié",
+      "Córdoba CF"
+    ],
+    "Lucas Alcázar": [
+      "Betis Deportivo Balompié",
+      "Penya Deportiva Santa Eulalia",
+      "CD Castellón",
+      "CF Talavera de la Reina",
+      "Real Madrid Castilla",
+      "Betis",
+      "Real Madrid UEFA U19"
+    ],
+    "Tincho Conde": [
+      "RC Celta Fortuna",
+      "CD Castellón",
       "Celta de Vigo"
     ],
-    "Pablo Pérez": [
-      "Atlético Madrileño",
-      "Sevilla Atlético",
-      "CD Mirandés",
-      "Sevilla FC"
-    ],
-    "Hugo Novoa": [
-      "RB Leipzig",
-      "RB Leipzig U17",
-      "FC Basel 1893",
-      "CD Mirandés",
-      "RB Leipzig U19",
-      "Villarreal CF B",
-      "FC Utrecht",
-      "Alavés",
-      "RB Leipzig UEFA U19"
-    ],
-    "Thiago Helguera": [
-      "CD Mirandés",
-      "Club Nacional",
-      "SC Braga B",
-      "SC Braga",
-      "SC Braga UEFA U19",
-      "SC Braga U23"
-    ],
-    "Selvi Clua": [
-      "UD Almería",
-      "Girona",
-      "CD Mirandés",
-      "FC Girona UEFA U19"
-    ],
-    "Aarón Martin": [
-      "CD Tenerife",
-      "CD Mirandés"
-    ],
-    "Rafel Bauzà": [
-      "RCD Espanyol B",
-      "CD Mirandés",
-      "Espanyol"
-    ],
-    "Ismael Barea": [
-      "Betis Deportivo Balompié",
-      "CD Mirandés"
-    ],
-    "Javi Hernández": [
-      "RCD Espanyol B",
-      "SD Huesca",
-      "CD Mirandés",
-      "Espanyol"
-    ],
-    "Álex Suárez": [
-      "Real Oviedo Vetusta",
-      "Real Oviedo",
-      "CD Arenteiro",
-      "CD Mirandés"
-    ],
-    "Salim El Jebari": [
-      "Atlético Madrileño",
-      "Atlético de Madrid UEFA U19",
-      "CD Mirandés",
-      "FC Cartagena",
-      "Atlético de Madrid"
-    ],
-    "Iker Varela": [
-      "Bilbao Athletic",
-      "CD Mirandés",
-      "CD Basconia",
-      "Athletic"
-    ],
-    "Pablo López": [
+    "Salva Ruiz": [
+      "CD Castellón",
       "Valencia Mestalla",
-      "CD Mirandés",
+      "Deportivo de La Coruña",
+      "RCD Mallorca",
+      "CD Tenerife",
+      "Granada CF",
       "Valencia CF"
     ],
-    "Toni Tamarit": [
-      "CD Mirandés",
-      "Villarreal CF B"
+    "Jérémy Mellot": [
+      "CD Tenerife",
+      "Rodez AF",
+      "EA Guingamp",
+      "AS Saint-Étienne B",
+      "CD Castellón"
     ],
-    "Ali Houary": [
-      "Elche Ilicitano",
-      "Elche CF",
-      "CD Mirandés"
+    "Ronaldo": [
+      "Calcio Padova",
+      "LR Vicenza",
+      "Novara FC",
+      "US Salernitana 1919",
+      "US Grosseto 1912",
+      "Mantova Primavera",
+      "FC Pro Vercelli 1892",
+      "US Catanzaro",
+      "Mantova 1911",
+      "CD Castellón",
+      "FC Empoli",
+      "Padova Primavera",
+      "Pro Vercelli Primavera",
+      "Grosseto Juniores"
     ],
-    "Carlos Fernández": [
-      "Sevilla Atlético",
-      "Real Sociedad",
-      "Granada CF",
-      "Cádiz CF",
-      "Deportivo de La Coruña",
-      "CD Mirandés",
-      "Sevilla FC"
+    "Diego Barri": [
+      "Cultural Leonesa",
+      "Albacete Balompié",
+      "CD Castellón",
+      "CD Badajoz",
+      "NK Osijek",
+      "RC Celta Fortuna",
+      "Getafe CF B",
+      "Getafe CF"
     ],
-    "Alberto Marí": [
-      "Real Zaragoza",
-      "Valencia Mestalla",
-      "Valencia CF",
-      "CD Mirandés",
-      "SD Eibar"
+    "Beñat Gerenabarrena": [
+      "Bilbao Athletic",
+      "CD Castellón"
     ],
-    "Marino Illescas": [
-      "Algeciras CF",
-      "Burgos CF Promesas",
-      "CD Arenteiro",
-      "CD Mirandés",
-      "Deportivo Alavés B",
-      "Burgos CF",
-      "Écija Balompié"
+    "Marc-Olivier Doué": [
+      "Royal Excelsior Virton",
+      "SD Ponferradina",
+      "PEC Zwolle U21",
+      "CD Castellón",
+      "CD Eldense",
+      "PEC Zwolle",
+      "PEC Zwolle U19",
+      "FC Girondins Bordeaux UEFA U19"
     ],
-    "Gonzalo Petit": [
-      "Club Nacional",
-      "CD Mirandés"
+    "Álex Calatrava": [
+      "Atlético Madrileño",
+      "CD Castellón",
+      "UE Costa Brava (- 2022)",
+      "Atlético de Madrid"
     ],
-    "Etienne Eto'o": [
-      "Vitória de Guimarães SC U23 (- 2022)",
-      "CD Mirandés",
+    "Israel Suero": [
+      "SV 07 Elversberg",
+      "CD Castellón",
+      "TSV Eintracht Stadtallendorf",
       "Rayo Vallecano B",
-      "Rayo Vallecano",
-      "UD Poblense",
-      "CF Rayo Majadahonda"
+      "CSC 03 Kassel",
+      "SV 07 Elversberg II"
     ],
-    "Álex Cardero": [
-      "Real Oviedo Vetusta",
+    "Brian Cipenga": [
+      "Vilaverdense FC",
+      "CD Castellón",
+      "FC Paços de Ferreira",
+      "FC Famalicão U23",
+      "Anadia FC",
+      "SC Ideal"
+    ],
+    "Raúl Sánchez": [
+      "CD Castellón",
+      "CF Rayo Majadahonda",
+      "Burgos CF",
+      "Club Necaxa",
+      "UD Ibiza",
+      "AD Alcorcón"
+    ],
+    "Pablo Santiago": [
+      "Barakaldo CF",
+      "CD Castellón",
+      "SD Eibar B"
+    ],
+    "Awer Mabil": [
+      "FC Midtjylland",
+      "Adelaide United",
+      "CD Castellón",
+      "Grasshopper Club Zurich",
+      "Esbjerg fB",
+      "FC Paços de Ferreira",
+      "AC Sparta Prague",
+      "Kasimpasa",
+      "Cádiz CF",
+      "FC Midtjylland Reserves"
+    ],
+    "Douglas Aurélio": [
+      "Riga FC",
+      "CD Castellón",
+      "Estoril Praia U23",
+      "Pafos FC",
+      "B SAD U23 (-2022)",
+      "Sporting Lissabon UEFA U19",
+      "B SAD"
+    ],
+    "Tommaso De Nipoti": [
+      "Atalanta Primavera",
+      "Atalanta U23",
+      "Atalanta Under 18",
+      "CD Castellón",
+      "Atalanta BC U17",
+      "Atalanta BC UEFA U19",
+      "Atalanta BC"
+    ],
+    "Adam Jakobsen": [
+      "FC Fredericia",
+      "Vejle Boldklub",
+      "BK Frem",
+      "IF Brommapojkarna",
+      "Kolding IF",
+      "NK Celje",
+      "CD Castellón",
+      "Vejle Boldklub Reserves",
+      "Vejle Boldklub U19"
+    ],
+    "Ousmane Camara": [
+      "AJ Auxerre B",
+      "CD Castellón",
+      "AJ Auxerre",
+      "FC Annecy",
+      "AJ Auxerre U19"
+    ],
+    "Álvaro García": [
+      "CD Laredo",
+      "SD Logroñés",
+      "Arenas Club",
+      "UE Costa Brava (- 2022)",
+      "Mérida AD",
+      "CD Castellón"
+    ],
+    "Serpeta": [
+      "Yeclano Deportivo",
+      "UD Almería B",
+      "CD Castellón",
+      "Atzeneta UE"
+    ],
+    "Kenneth Mamah": [
+      "Göztepe",
+      "Varese Football Club",
+      "CD Castellón"
+    ],
+    "Nick Markanich": [
+      "Charleston Battery",
+      "CD Castellón",
+      "FC Cincinnati 2",
+      "FC Cincinnati"
+    ],
+    "Óscar Gil": [
+      "Bilbao Athletic",
+      "CD Castellón",
+      "Racing Santander",
+      "SD Amorebieta",
       "Real Oviedo",
-      "CD Arenteiro",
-      "CD Mirandés"
+      "CD Atlético Baleares",
+      "Athletic"
+    ],
+    "Michal Willmann": [
+      "Podbeskidzie Bielsko-Biala",
+      "CD Castellón"
     ]
   },
   "Córdoba CF": {
@@ -3449,9 +3438,10 @@
       "Córdoba CF",
       "Villarreal CF"
     ],
-    "Jan Salas": [
-      "RCD Mallorca B",
-      "RCD Mallorca",
+    "Mikel Goti": [
+      "Real Sociedad B",
+      "Bilbao Athletic",
+      "Real Sociedad",
       "Córdoba CF"
     ],
     "Dalisson de Almeida": [
@@ -3545,6 +3535,11 @@
       "Córdoba CF",
       "CyD Leonesa Júpiter Leonés B"
     ],
+    "Jan Salas": [
+      "RCD Mallorca B",
+      "RCD Mallorca",
+      "Córdoba CF"
+    ],
     "Carlos Isaac": [
       "Albacete Balompié",
       "Atlético Madrileño",
@@ -3555,234 +3550,170 @@
       "Atlético de Madrid"
     ]
   },
-  "Albacete Balompié": {
-    "Raúl Lizoain": [
-      "CD Mirandés",
-      "UD Las Palmas",
-      "Albacete Balompié",
-      "FC Cartagena",
-      "FC Andorra",
-      "AD Alcorcón"
+  "SD Eibar": {
+    "Jonmi Magunagoitia": [
+      "SD Amorebieta",
+      "SD Eibar",
+      "SD Eibar B",
+      "Zamora CF"
     ],
-    "Diego Mariño": [
-      "Sporting",
-      "Villarreal CF B",
-      "Levante",
-      "Real Valladolid CF",
-      "Granada CF",
-      "Albacete Balompié",
-      "Villarreal CF",
-      "UD Almería"
-    ],
-    "Jesús Vallejo": [
-      "Real Zaragoza",
-      "Granada CF",
-      "Real Madrid",
-      "Eintracht Frankfurt",
-      "Albacete Balompié",
-      "Wolverhampton"
-    ],
-    "Lluís López": [
-      "Real Zaragoza",
-      "RCD Espanyol B",
-      "Espanyol",
-      "Shandong Taishan",
-      "CD Tenerife"
-    ],
-    "Pepe Sánchez": [
-      "Recreativo Granada",
-      "UD Ibiza",
-      "Albacete Balompié",
-      "Granada CF",
-      "Deportivo de La Coruña",
-      "Real Jaén CF"
-    ],
-    "Javi Moreno": [
-      "CD Arenteiro",
-      "Albacete Balompié",
-      "Real Oviedo Vetusta",
-      "CD Llanes",
-      "Real Oviedo"
-    ],
-    "Jon García": [
-      "Racing Ferrol",
-      "Bilbao Athletic",
-      "SD Ponferradina",
-      "Albacete Balompié",
-      "Sestao River",
-      "Racing Santander",
-      "CD Lugo"
-    ],
-    "Carlos Neva": [
-      "Granada CF",
-      "Recreativo Granada",
-      "Albacete Balompié",
-      "Marbella FC"
-    ],
-    "Jonathan Gómez": [
-      "Real Sociedad B",
-      "CD Mirandés",
-      "Louisville City FC",
-      "Albacete Balompié",
-      "North Texas SC",
-      "PAOK Thessaloniki",
-      "Real Sociedad"
-    ],
-    "Lorenzo Aguado": [
+    "Luis López": [
       "Real Madrid Castilla",
-      "Albacete Balompié",
-      "CDA Navalcarnero",
-      "Real Madrid C",
+      "CD Mirandés",
+      "Real Madrid UEFA U19",
+      "SD Eibar",
       "Real Madrid"
     ],
-    "Fran Gámez": [
-      "Real Zaragoza",
-      "RCD Mallorca",
-      "Atlético Saguntino",
-      "CD Eldense",
-      "Albacete Balompié"
-    ],
-    "Edward Cedeño": [
-      "LD Alajuelense",
-      "SD Tarazona",
-      "Potros del Este",
-      "UD Las Palmas"
-    ],
-    "Riki Rodríguez": [
-      "Albacete Balompié",
-      "UP Langreo",
-      "Burgos CF",
-      "Real Oviedo Vetusta",
-      "Real Oviedo",
-      "Racing Santander"
-    ],
-    "Agus Medina": [
-      "Albacete Balompié",
-      "UE Cornellà",
-      "SD Ponferradina",
-      "RC Celta Fortuna",
-      "CE Sabadell FC",
-      "Birmingham City"
-    ],
-    "Antonio Pacheco": [
-      "Albacete Balompié",
-      "Villarreal CF B",
-      "Villarreal CF UEFA U19",
-      "FC Villarreal C",
-      "Villarreal CF"
-    ],
-    "Javi Villar": [
-      "Albacete Balompié",
-      "Unionistas CF",
-      "Real Madrid Castilla",
-      "Real Madrid UEFA U19"
-    ],
-    "Ale Meléndez": [
-      "Albacete Balompié",
-      "AD Ceuta FC",
-      "Mérida AD",
-      "Linares Deportivo",
-      "Real Oviedo Vetusta",
-      "CF Badalona",
-      "Betis Deportivo Balompié",
-      "Betis"
-    ],
-    "Capi": [
-      "Albacete Balompié",
-      "Atlético Albacete"
-    ],
-    "José Lazo": [
-      "UD Almería",
-      "Albacete Balompié",
-      "Recreativo Huelva",
-      "CD Lugo",
-      "Espanyol",
-      "Villarreal CF B",
-      "Real Madrid Castilla",
-      "Real Madrid UEFA U19",
-      "Real Madrid",
-      "Villarreal CF"
-    ],
-    "Antonio Puertas": [
-      "Granada CF",
-      "UD Almería",
+    "Marco Moreno": [
+      "Atlético Madrileño",
+      "SC Farense",
       "SD Eibar",
-      "UD Almería B",
-      "Recreativo Granada",
-      "Albacete Balompié",
-      "Polideportivo Ejido (- 2012)"
+      "Atlético de Madrid UEFA U19",
+      "Atlético de Madrid"
     ],
-    "Victor Valverde": [
-      "Som Maresme FC",
-      "Atlético Sanluqueño CF",
-      "Albacete Balompié",
-      "Villarreal CF B",
-      "UE Olot",
-      "Gimnàstic de Tarragona"
+    "Aritz Arambarri": [
+      "Real Sociedad B",
+      "SD Eibar",
+      "CD Leganés",
+      "Real Sociedad"
     ],
-    "Jefté Betancor": [
-      "Panserraikos",
-      "FCV Farul Constanta",
-      "CFR Cluj",
-      "FC Voluntari",
-      "SV Ried",
-      "Albacete Balompié",
-      "CD Eldense",
-      "Arandina CF",
-      "SK Vorwärts Steyr",
-      "Pafos FC",
-      "ATSV Stadl-Paura",
-      "SV Mattersburg (-2020)",
-      "Ontinyent CF (- 2019)",
+    "Jair Amador": [
+      "Real Zaragoza",
+      "SD Huesca",
+      "Maccabi Tel Aviv",
+      "Atlético Levante UD",
+      "CF Villanovense",
+      "SD Eibar"
+    ],
+    "Anaitz Arbilla": [
+      "SD Eibar",
       "Hércules CF",
-      "UD Las Palmas"
+      "Rayo Vallecano",
+      "Polideportivo Ejido (- 2012)",
+      "Espanyol",
+      "Barakaldo CF",
+      "UD Salamanca (- 2013)",
+      "Bilbao Athletic"
     ],
-    "Dani Escriche": [
-      "SD Huesca",
+    "Hodei Arrillaga": [
+      "SD Eibar"
+    ],
+    "Sergio Cubero": [
+      "SD Eibar",
+      "CF Fuenlabrada",
+      "Racing Ferrol",
+      "SD Logroñés",
+      "SD Eibar B"
+    ],
+    "Álvaro Rodríguez": [
       "Albacete Balompié",
-      "CD Lugo",
-      "FC Cartagena",
-      "Elche CF"
+      "Burgos CF",
+      "Real Murcia CF",
+      "SD Eibar",
+      "CF Rayo Majadahonda",
+      "Lorca FC (- 2022)"
     ],
-    "Samuel Gyabaa": [
-      "Real Oviedo",
+    "Peru Nolaskoain": [
+      "SD Eibar",
+      "Bilbao Athletic",
+      "Deportivo de La Coruña",
+      "Athletic",
+      "SD Amorebieta"
+    ],
+    "Sergio Álvarez": [
+      "SD Eibar",
+      "Sporting",
+      "Sporting Atlético"
+    ],
+    "Aleix Garrido": [
+      "FC Barcelona Atlètic",
+      "SD Eibar",
+      "FC Barcelona UEFA U19",
+      "FC Barcelona"
+    ],
+    "Lander Olaetxea": [
+      "UD Logroñés",
+      "Albacete Balompié",
+      "Bilbao Athletic",
+      "Sporting",
+      "SD Amorebieta",
+      "Gernika Club",
+      "SD Eibar"
+    ],
+    "Ander Madariaga": [
+      "SD Eibar",
+      "SD Eibar B"
+    ],
+    "Magunacelaya": [
+      "Real Sociedad B",
+      "SD Eibar",
+      "Real Sociedad",
+      "Córdoba CF",
+      "Real Sociedad C"
+    ],
+    "Javi Martínez": [
+      "CA Osasuna Promesas",
+      "CA Osasuna",
       "SD Huesca",
-      "CD Calahorra",
-      "Wydad AC",
-      "Casa Pia AC",
-      "Real Oviedo Vetusta",
-      "AD Ceuta FC",
+      "SD Eibar",
       "Albacete Balompié"
     ],
-    "Higinio Marín": [
-      "CD Numancia",
-      "Albacete Balompié",
+    "Toni Villa": [
+      "Real Valladolid CF",
       "Real Valladolid Promesas",
-      "Ludogorets Razgrad",
-      "Lorca FC (- 2022)",
-      "Górnik Zabrze",
-      "UCAM Murcia CF",
-      "Ludogorets Razgrad II",
-      "Real Murcia CF"
+      "Cultural Leonesa",
+      "SD Eibar",
+      "Girona"
     ],
-    "Jon Morcillo": [
-      "Albacete Balompié",
-      "Athletic",
+    "Adu Ares": [
       "Bilbao Athletic",
-      "SD Amorebieta",
-      "Real Valladolid CF"
+      "Real Zaragoza",
+      "Athletic",
+      "SD Eibar"
     ],
-    "José Carlos Lazo": [
+    "Xeber Alkain": [
+      "Real Sociedad B",
+      "Alavés",
+      "SD Eibar",
+      "Arenas Club"
+    ],
+    "Jon Guruzeta": [
+      "Bilbao Athletic",
+      "SD Eibar",
+      "Sestao River",
+      "CD Basconia"
+    ],
+    "José Corpas": [
+      "SD Eibar",
       "UD Almería",
-      "Recreativo Huelva",
-      "CD Lugo",
-      "Espanyol",
-      "Villarreal CF B",
+      "Linares Deportivo",
+      "Marbella FC"
+    ],
+    "Jon Bautista": [
+      "SD Eibar",
+      "Real Sociedad",
+      "Real Sociedad B",
+      "KAS Eupen",
+      "CD Leganés",
+      "Real Sociedad UEFA U19"
+    ],
+    "Javi Martón": [
+      "Real Sociedad B",
+      "SD Eibar",
+      "CD Covadonga",
+      "CD Mirandés",
       "Albacete Balompié",
-      "Real Madrid Castilla",
-      "Real Madrid UEFA U19",
-      "Real Madrid",
-      "Villarreal CF"
+      "Athletic"
+    ],
+    "Leonardo Buta": [
+      "Gil Vicente FC",
+      "SC Braga U23",
+      "Udinese Primavera",
+      "SD Eibar",
+      "SC Braga B",
+      "Moreirense FC",
+      "SC Braga",
+      "Udinese Calcio"
     ]
   },
   "SD Huesca": {
@@ -3805,6 +3736,14 @@
       "CD Mirandés",
       "Sevilla FC"
     ],
+    "Joaquín Fernández": [
+      "Real Valladolid CF",
+      "UD Almería B",
+      "UD Almería",
+      "Sporting Kansas City",
+      "Trabzonspor",
+      "SD Huesca"
+    ],
     "Álvaro Carrillo": [
       "Real Madrid Castilla",
       "SD Eibar",
@@ -3820,12 +3759,6 @@
       "Sint-Truidense VV",
       "Rayo Vallecano",
       "Atlético de Madrid"
-    ],
-    "Sergio Arribas": [
-      "Betis Deportivo Balompié",
-      "SD Huesca",
-      "Betis",
-      "Burgos CF"
     ],
     "Piña": [
       "CD Eldense",
@@ -3861,13 +3794,6 @@
       "Valencia CF",
       "CD Leganés"
     ],
-    "Ángel Pérez": [
-      "Utebo FC",
-      "Rayo Cantabria",
-      "SD Huesca",
-      "SD Huesca B",
-      "Racing Santander"
-    ],
     "Toni Abad": [
       "CD Eldense",
       "SD Huesca",
@@ -3875,10 +3801,14 @@
       "CD Alcoyano",
       "Cultural Leonesa"
     ],
-    "Iker Kortajarena": [
+    "Jaime Seoane": [
+      "Real Madrid Castilla",
       "SD Huesca",
-      "Real Sociedad B",
-      "Real Sociedad C"
+      "Real Oviedo",
+      "Getafe CF",
+      "CD Lugo",
+      "Real Madrid UEFA U19",
+      "Real Madrid"
     ],
     "Jesús Álvarez": [
       "UD Ibiza",
@@ -3905,10 +3835,10 @@
       "FC Cartagena",
       "Espanyol"
     ],
-    "Gustavo Albarracín": [
-      "CA Talleres II",
-      "CA Talleres",
-      "SD Huesca"
+    "Michael Agbekpornu": [
+      "Slaven Belupo Koprivnica",
+      "KF Egnatia",
+      "Dreams FC"
     ],
     "Daniel Luna": [
       "Deportivo Cali",
@@ -3968,9 +3898,11 @@
       "Elche Ilicitano",
       "Albacete Balompié"
     ],
-    "Willy Chatiliez": [
-      "SD Huesca",
-      "CF Badalona"
+    "Ignacio Laquintana": [
+      "CA Peñarol",
+      "Defensor Sporting Club",
+      "Red Bull Bragantino",
+      "Santos FC"
     ],
     "Enol Rodríguez": [
       "Real Oviedo Vetusta",
@@ -3980,13 +3912,6 @@
       "Marino Luanco",
       "Real Oviedo",
       "UD Logroñés"
-    ],
-    "Samuel Ntamack": [
-      "FC Annecy",
-      "KSC Lokeren",
-      "EA Guingamp B",
-      "SD Huesca",
-      "SO Romorantin"
     ],
     "Diego Aznar": [
       "Sestao River",
@@ -4003,8 +3928,8 @@
       "Avs Futebol",
       "Betis Deportivo Balompié",
       "UD Almería",
-      "UD Almería B",
-      "SD Huesca"
+      "SD Huesca",
+      "UD Almería B"
     ],
     "Sergi Enrich": [
       "SD Eibar",
@@ -4018,6 +3943,40 @@
       "AD Alcorcón",
       "RCD Mallorca"
     ],
+    "Sergio Arribas": [
+      "Betis Deportivo Balompié",
+      "SD Huesca",
+      "Betis",
+      "Burgos CF"
+    ],
+    "Ángel Pérez": [
+      "Utebo FC",
+      "Rayo Cantabria",
+      "SD Huesca",
+      "SD Huesca B",
+      "Racing Santander"
+    ],
+    "Iker Kortajarena": [
+      "SD Huesca",
+      "Real Sociedad B",
+      "Real Sociedad C"
+    ],
+    "Gustavo Albarracín": [
+      "CA Talleres II",
+      "CA Talleres",
+      "SD Huesca"
+    ],
+    "Willy Chatiliez": [
+      "SD Huesca",
+      "CF Badalona"
+    ],
+    "Samuel Ntamack": [
+      "FC Annecy",
+      "KSC Lokeren",
+      "EA Guingamp B",
+      "SD Huesca",
+      "SO Romorantin"
+    ],
     "Hugo Pérez": [
       "Villarreal CF B",
       "Deportivo Alavés B",
@@ -4029,6 +3988,509 @@
       "SD Huesca B",
       "SD Huesca",
       "AD Ceuta FC"
+    ]
+  },
+  "Cultural Leonesa": {
+    "Edgar Badia": [
+      "CF Reus Deportiu (-2020)",
+      "Elche CF",
+      "Cultural Leonesa",
+      "CD Tenerife",
+      "Real Zaragoza",
+      "RCD Espanyol B",
+      "Recreativo Granada",
+      "Espanyol"
+    ],
+    "Miguel Bañuz": [
+      "CD Alcoyano",
+      "Cultural Leonesa",
+      "UD San Sebastián de los Reyes",
+      "Villarreal CF B",
+      "FC Andorra",
+      "FC Barcelona Atlètic",
+      "Villarreal CF"
+    ],
+    "Arnau Rafús": [
+      "Real Valladolid Promesas",
+      "FC Barcelona UEFA U19",
+      "FC Barcelona Atlètic",
+      "Real Valladolid CF",
+      "Cultural Leonesa"
+    ],
+    "Tomás Ribeiro": [
+      "B SAD",
+      "Vitória Guimarães SC",
+      "Grasshopper Club Zurich",
+      "Cultural Leonesa",
+      "SC Farense",
+      "B SAD U23 (-2022)"
+    ],
+    "Matia Barzic": [
+      "Cultural Leonesa",
+      "CD Eldense",
+      "Elche CF",
+      "Elche Ilicitano"
+    ],
+    "Roger Hinojo": [
+      "RCD Espanyol B",
+      "Cultural Leonesa",
+      "Espanyol"
+    ],
+    "Peru Rodríguez": [
+      "Real Sociedad B",
+      "Real Sociedad C"
+    ],
+    "Rodri Suárez": [
+      "Cultural Leonesa",
+      "Real Avilés Industrial",
+      "CyD Leonesa Júpiter Leonés B"
+    ],
+    "Quique Fornos": [
+      "Racing Ferrol",
+      "Cultural Leonesa",
+      "RC Deportivo Fabril",
+      "Deportivo de La Coruña"
+    ],
+    "Eneko Satrústegui": [
+      "CD Castellón",
+      "Racing Santander",
+      "Lleida CF",
+      "Cultural Leonesa",
+      "CD Ebro",
+      "Real Murcia CF",
+      "CD Izarra",
+      "CA Osasuna Promesas",
+      "Wisla Kraków",
+      "CA Osasuna",
+      "CD Numancia"
+    ],
+    "Homam Al-Amin": [
+      "Al-Gharafa SC",
+      "Al-Duhail SC",
+      "KAS Eupen",
+      "Cultural Leonesa"
+    ],
+    "Iván Calero": [
+      "FC Cartagena",
+      "Derby County U21",
+      "Real Zaragoza",
+      "CD Numancia",
+      "Salamanca CF UDS",
+      "Atlético Madrileño",
+      "Málaga CF",
+      "Elche CF",
+      "Cultural Leonesa",
+      "AD Alcorcón",
+      "Sparta Rotterdam",
+      "Sparta Rotterdam U21",
+      "Burton Albion",
+      "Atlético de Madrid UEFA U19",
+      "Derby County",
+      "Atlético de Madrid"
+    ],
+    "Víctor García": [
+      "FC Porto B",
+      "Cultural Leonesa",
+      "AD Alcorcón",
+      "Vitória Guimarães SC",
+      "Deportivo La Guaira",
+      "CD Nacional",
+      "FC Famalicão",
+      "Porto",
+      "Moreirense FC"
+    ],
+    "Thiago Ojeda": [
+      "Villarreal CF B",
+      "CD Lugo",
+      "Cultural Leonesa",
+      "CA Vélez Sarsfield II",
+      "Villarreal CF"
+    ],
+    "Yayo González": [
+      "Real Oviedo Vetusta",
+      "CD Lugo",
+      "Cultural Leonesa",
+      "Real Oviedo"
+    ],
+    "Selu Diallo": [
+      "Deportivo Alavés B",
+      "Atlético Madrileño",
+      "Cultural Leonesa",
+      "Alavés"
+    ],
+    "Sergi Maestre": [
+      "CF Badalona",
+      "CD Badajoz",
+      "Cultural Leonesa",
+      "Real Murcia CF",
+      "Albacete Balompié",
+      "RZ Deportivo Aragón",
+      "CD Lugo",
+      "UE Cornellà",
+      "UE Olot",
+      "CE Sabadell FC"
+    ],
+    "Bicho": [
+      "Cultural Leonesa",
+      "San Fernando CD (-2025)",
+      "SD Compostela",
+      "Racing Ferrol",
+      "RC Deportivo Fabril",
+      "FC Barcelona Atlètic",
+      "Deportivo de La Coruña",
+      "CD Leganés"
+    ],
+    "Luis Chacón": [
+      "Cultural Leonesa",
+      "Racing Ferrol",
+      "CD Arenteiro",
+      "UD Somozas",
+      "Deportivo de La Coruña"
+    ],
+    "Diego Collado": [
+      "Villarreal CF B",
+      "Cultural Leonesa",
+      "CD Eldense",
+      "Gil Vicente FC",
+      "Villarreal CF"
+    ],
+    "Rafa Tresaco": [
+      "Zamora CF",
+      "Marbella FC",
+      "SD Huesca",
+      "Cultural Leonesa",
+      "Racing Santander",
+      "Algeciras CF",
+      "SD Huesca B"
+    ],
+    "Lucas Ribeiro": [
+      "Sundowns",
+      "SK Beveren",
+      "Cultural Leonesa",
+      "Royal Excel Mouscron (-2022)",
+      "RWDM Brussels",
+      "Royal Charleroi SC",
+      "Royal Excelsior Virton",
+      "Valenciennes FC"
+    ],
+    "Víctor Moreno": [
+      "Villarreal CF B",
+      "Cultural Leonesa"
+    ],
+    "Manu Justo": [
+      "Racing Ferrol",
+      "Cultural Leonesa",
+      "Racing Santander",
+      "Coruxo FC",
+      "RC Celta Fortuna",
+      "UCAM Murcia CF"
+    ],
+    "Rubén Sobrino": [
+      "Cádiz CF",
+      "Alavés",
+      "SD Ponferradina",
+      "Valencia CF",
+      "Real Madrid C (- 2015)",
+      "Real Madrid Castilla",
+      "Cultural Leonesa",
+      "Girona"
+    ],
+    "Jordi Mboula": [
+      "Racing Santander",
+      "RCD Mallorca",
+      "Gil Vicente FC",
+      "AS Monaco U21",
+      "Hellas Verona",
+      "GD Estoril Praia",
+      "Cultural Leonesa",
+      "AS Monaco",
+      "SD Huesca",
+      "FC Barcelona UEFA U19",
+      "Cercle Brugge",
+      "AS Monaco UEFA U19",
+      "FC Barcelona Atlètic"
+    ],
+    "Juan Larios": [
+      "Manchester City U18",
+      "Manchester City U21",
+      "Southampton FC U21",
+      "Cultural Leonesa",
+      "Southampton FC",
+      "Manchester City UEFA U19"
+    ],
+    "Agustín Pastoriza": [
+      "CD Arenteiro",
+      "Cultural Leonesa",
+      "Coruxo FC",
+      "Pontevedra CF",
+      "FC Inter Turku",
+      "Betis Deportivo Balompié",
+      "Ourense CF",
+      "Betis"
+    ],
+    "Paco Cortés": [
+      "Cultural Leonesa",
+      "Levante"
+    ],
+    "Nico Toca": [
+      "Gimnástica de Torrelavega",
+      "Cultural Leonesa"
+    ],
+    "Daniel Paraschiv": [
+      "FC Hermannstadt",
+      "Luceafarul Oradea",
+      "Real Oviedo",
+      "Viitorul Pandurii Targu Jiu (- 2024)",
+      "FC Voluntari",
+      "Cultural Leonesa"
+    ]
+  },
+  "Albacete Balompié": {
+    "Raúl Lizoain": [
+      "CD Mirandés",
+      "UD Las Palmas",
+      "Albacete Balompié",
+      "FC Cartagena",
+      "FC Andorra",
+      "AD Alcorcón"
+    ],
+    "Diego Mariño": [
+      "Sporting",
+      "Villarreal CF B",
+      "Levante",
+      "Real Valladolid CF",
+      "Granada CF",
+      "Albacete Balompié",
+      "Villarreal CF",
+      "UD Almería"
+    ],
+    "Jesús Vallejo": [
+      "Real Zaragoza",
+      "Granada CF",
+      "Real Madrid",
+      "Eintracht Frankfurt",
+      "Albacete Balompié",
+      "Wolverhampton"
+    ],
+    "Lluís López": [
+      "Real Zaragoza",
+      "RCD Espanyol B",
+      "Espanyol",
+      "Shandong Taishan",
+      "CD Tenerife"
+    ],
+    "Pepe Sánchez": [
+      "Recreativo Granada",
+      "UD Ibiza",
+      "Albacete Balompié",
+      "Granada CF",
+      "Deportivo de La Coruña",
+      "Real Jaén CF"
+    ],
+    "Javi Moreno": [
+      "CD Arenteiro",
+      "Albacete Balompié",
+      "Real Oviedo Vetusta",
+      "CD Llanes",
+      "Real Oviedo"
+    ],
+    "Carlos Neva": [
+      "Granada CF",
+      "Recreativo Granada",
+      "Albacete Balompié",
+      "Marbella FC"
+    ],
+    "Jonathan Gómez": [
+      "Real Sociedad B",
+      "CD Mirandés",
+      "Louisville City FC",
+      "Albacete Balompié",
+      "North Texas SC",
+      "PAOK Thessaloniki",
+      "Real Sociedad"
+    ],
+    "Lorenzo Aguado": [
+      "Real Madrid Castilla",
+      "Albacete Balompié",
+      "CDA Navalcarnero",
+      "Real Madrid C",
+      "Real Madrid"
+    ],
+    "Fran Gámez": [
+      "Real Zaragoza",
+      "RCD Mallorca",
+      "Atlético Saguntino",
+      "CD Eldense",
+      "Albacete Balompié"
+    ],
+    "Martín Fernández": [
+      "CA Boston River",
+      "Liverpool FC Montevideo",
+      "Club de Gimnasia y Esgrima La Plata",
+      "CA Newell's Old Boys"
+    ],
+    "Edward Cedeño": [
+      "LD Alajuelense",
+      "SD Tarazona",
+      "Potros del Este",
+      "UD Las Palmas"
+    ],
+    "Agus Medina": [
+      "Albacete Balompié",
+      "UE Cornellà",
+      "SD Ponferradina",
+      "RC Celta Fortuna",
+      "CE Sabadell FC",
+      "Birmingham City"
+    ],
+    "Antonio Pacheco": [
+      "Albacete Balompié",
+      "Villarreal CF B",
+      "Villarreal CF UEFA U19",
+      "FC Villarreal C",
+      "Villarreal CF"
+    ],
+    "Javi Villar": [
+      "Albacete Balompié",
+      "Unionistas CF",
+      "Real Madrid Castilla",
+      "Real Madrid UEFA U19"
+    ],
+    "Ale Meléndez": [
+      "Albacete Balompié",
+      "AD Ceuta FC",
+      "Mérida AD",
+      "Linares Deportivo",
+      "Real Oviedo Vetusta",
+      "CF Badalona",
+      "Betis Deportivo Balompié",
+      "Betis"
+    ],
+    "Víctor San Bartolomé": [
+      "Bilbao Athletic",
+      "RC Celta Fortuna",
+      "Real Unión Club",
+      "Barakaldo CF",
+      "Athletic"
+    ],
+    "Capi": [
+      "Albacete Balompié",
+      "Atlético Albacete"
+    ],
+    "José Lazo": [
+      "UD Almería",
+      "Albacete Balompié",
+      "Recreativo Huelva",
+      "CD Lugo",
+      "Espanyol",
+      "Villarreal CF B",
+      "Real Madrid Castilla",
+      "Real Madrid UEFA U19",
+      "Real Madrid",
+      "Villarreal CF"
+    ],
+    "Antonio Puertas": [
+      "Granada CF",
+      "UD Almería",
+      "SD Eibar",
+      "UD Almería B",
+      "Recreativo Granada",
+      "Albacete Balompié",
+      "Polideportivo Ejido (- 2012)"
+    ],
+    "Victor Valverde": [
+      "Som Maresme FC",
+      "Atlético Sanluqueño CF",
+      "Albacete Balompié",
+      "Villarreal CF B",
+      "UE Olot",
+      "Gimnàstic de Tarragona"
+    ],
+    "Jefté Betancor": [
+      "Panserraikos",
+      "FCV Farul Constanta",
+      "CFR Cluj",
+      "FC Voluntari",
+      "SV Ried",
+      "Albacete Balompié",
+      "CD Eldense",
+      "Arandina CF",
+      "SK Vorwärts Steyr",
+      "Pafos FC",
+      "ATSV Stadl-Paura",
+      "SV Mattersburg (-2020)",
+      "Ontinyent CF (- 2019)",
+      "Hércules CF",
+      "UD Las Palmas"
+    ],
+    "Samuel Gyabaa": [
+      "Real Oviedo",
+      "SD Huesca",
+      "CD Calahorra",
+      "Wydad AC",
+      "Casa Pia AC",
+      "Real Oviedo Vetusta",
+      "AD Ceuta FC",
+      "Albacete Balompié"
+    ],
+    "Higinio Marín": [
+      "CD Numancia",
+      "Albacete Balompié",
+      "Real Valladolid Promesas",
+      "Ludogorets Razgrad",
+      "Lorca FC (- 2022)",
+      "Górnik Zabrze",
+      "UCAM Murcia CF",
+      "Ludogorets Razgrad II",
+      "Real Murcia CF"
+    ],
+    "Álex Rubio": [
+      "Antequera CF",
+      "Real Murcia CF",
+      "Villarreal CF B"
+    ],
+    "Jon García": [
+      "Racing Ferrol",
+      "Bilbao Athletic",
+      "SD Ponferradina",
+      "Albacete Balompié",
+      "Sestao River",
+      "Racing Santander",
+      "CD Lugo"
+    ],
+    "Riki Rodríguez": [
+      "Albacete Balompié",
+      "UP Langreo",
+      "Burgos CF",
+      "Real Oviedo Vetusta",
+      "Real Oviedo",
+      "Racing Santander"
+    ],
+    "Dani Escriche": [
+      "SD Huesca",
+      "Albacete Balompié",
+      "CD Lugo",
+      "FC Cartagena",
+      "Elche CF"
+    ],
+    "Jon Morcillo": [
+      "Albacete Balompié",
+      "Athletic",
+      "Bilbao Athletic",
+      "SD Amorebieta",
+      "Real Valladolid CF"
+    ],
+    "José Carlos Lazo": [
+      "UD Almería",
+      "Recreativo Huelva",
+      "CD Lugo",
+      "Espanyol",
+      "Villarreal CF B",
+      "Albacete Balompié",
+      "Real Madrid Castilla",
+      "Real Madrid UEFA U19",
+      "Real Madrid",
+      "Villarreal CF"
     ]
   },
   "AD Ceuta FC": {
@@ -4233,6 +4695,16 @@
       "AD Ceuta FC",
       "Sevilla Atlético"
     ],
+    "Marc Domènech": [
+      "RCD Mallorca B",
+      "RCD Mallorca",
+      "AD Ceuta FC"
+    ],
+    "Marcos Fernández": [
+      "Betis Deportivo Balompié",
+      "AD Ceuta FC",
+      "Betis"
+    ],
     "Manu Vallejo": [
       "Valencia CF",
       "Cádiz CF",
@@ -4243,16 +4715,6 @@
       "Girona",
       "AD Ceuta FC",
       "Cádiz CF Mirandilla"
-    ],
-    "Marc Domènech": [
-      "RCD Mallorca B",
-      "RCD Mallorca",
-      "AD Ceuta FC"
-    ],
-    "Marcos Fernández": [
-      "Betis Deportivo Balompié",
-      "AD Ceuta FC",
-      "Betis"
     ],
     "Juanto Ortuño": [
       "CD Eldense",
@@ -4305,257 +4767,6 @@
       "Real Oviedo Vetusta"
     ]
   },
-  "Cultural Leonesa": {
-    "Edgar Badia": [
-      "CF Reus Deportiu (-2020)",
-      "Elche CF",
-      "CD Tenerife",
-      "Cultural Leonesa",
-      "Real Zaragoza",
-      "RCD Espanyol B",
-      "Recreativo Granada",
-      "Espanyol"
-    ],
-    "Miguel Bañuz": [
-      "CD Alcoyano",
-      "Cultural Leonesa",
-      "UD San Sebastián de los Reyes",
-      "Villarreal CF B",
-      "FC Andorra",
-      "FC Barcelona Atlètic",
-      "Villarreal CF"
-    ],
-    "Arnau Rafús": [
-      "Real Valladolid Promesas",
-      "FC Barcelona UEFA U19",
-      "FC Barcelona Atlètic",
-      "Real Valladolid CF",
-      "Cultural Leonesa"
-    ],
-    "Tomás Ribeiro": [
-      "B SAD",
-      "Vitória Guimarães SC",
-      "Grasshopper Club Zurich",
-      "Cultural Leonesa",
-      "SC Farense",
-      "B SAD U23 (-2022)"
-    ],
-    "Matia Barzic": [
-      "Cultural Leonesa",
-      "CD Eldense",
-      "Elche CF",
-      "Elche Ilicitano"
-    ],
-    "Roger Hinojo": [
-      "RCD Espanyol B",
-      "Cultural Leonesa",
-      "Espanyol"
-    ],
-    "Rodri Suárez": [
-      "Cultural Leonesa",
-      "Real Avilés Industrial",
-      "CyD Leonesa Júpiter Leonés B"
-    ],
-    "Quique Fornos": [
-      "Racing Ferrol",
-      "Cultural Leonesa",
-      "RC Deportivo Fabril",
-      "Deportivo de La Coruña"
-    ],
-    "Eneko Satrústegui": [
-      "CD Castellón",
-      "Racing Santander",
-      "Lleida CF",
-      "Cultural Leonesa",
-      "CD Ebro",
-      "Real Murcia CF",
-      "CD Izarra",
-      "CA Osasuna Promesas",
-      "Wisla Kraków",
-      "CA Osasuna",
-      "CD Numancia"
-    ],
-    "Homam Al-Amin": [
-      "Al-Gharafa SC",
-      "Al-Duhail SC",
-      "KAS Eupen",
-      "Cultural Leonesa"
-    ],
-    "Iván Calero": [
-      "FC Cartagena",
-      "Derby County U21",
-      "Real Zaragoza",
-      "CD Numancia",
-      "Salamanca CF UDS",
-      "Atlético Madrileño",
-      "Málaga CF",
-      "Elche CF",
-      "Cultural Leonesa",
-      "AD Alcorcón",
-      "Sparta Rotterdam",
-      "Sparta Rotterdam U21",
-      "Burton Albion",
-      "Atlético de Madrid UEFA U19",
-      "Derby County",
-      "Atlético de Madrid"
-    ],
-    "Víctor García": [
-      "FC Porto B",
-      "Cultural Leonesa",
-      "AD Alcorcón",
-      "Vitória Guimarães SC",
-      "Deportivo La Guaira",
-      "CD Nacional",
-      "FC Famalicão",
-      "Porto",
-      "Moreirense FC"
-    ],
-    "Thiago Ojeda": [
-      "Villarreal CF B",
-      "CD Lugo",
-      "Cultural Leonesa",
-      "CA Vélez Sarsfield II",
-      "Villarreal CF"
-    ],
-    "Yayo González": [
-      "Real Oviedo Vetusta",
-      "CD Lugo",
-      "Cultural Leonesa",
-      "Real Oviedo"
-    ],
-    "Selu Diallo": [
-      "Deportivo Alavés B",
-      "Atlético Madrileño",
-      "Cultural Leonesa",
-      "Alavés"
-    ],
-    "Sergi Maestre": [
-      "CF Badalona",
-      "CD Badajoz",
-      "Cultural Leonesa",
-      "Real Murcia CF",
-      "Albacete Balompié",
-      "RZ Deportivo Aragón",
-      "CD Lugo",
-      "UE Cornellà",
-      "UE Olot",
-      "CE Sabadell FC"
-    ],
-    "Bicho": [
-      "Cultural Leonesa",
-      "San Fernando CD (-2025)",
-      "SD Compostela",
-      "Racing Ferrol",
-      "RC Deportivo Fabril",
-      "FC Barcelona Atlètic",
-      "Deportivo de La Coruña",
-      "CD Leganés"
-    ],
-    "Luis Chacón": [
-      "Cultural Leonesa",
-      "Racing Ferrol",
-      "CD Arenteiro",
-      "UD Somozas",
-      "Deportivo de La Coruña"
-    ],
-    "Diego Collado": [
-      "Villarreal CF B",
-      "Cultural Leonesa",
-      "CD Eldense",
-      "Gil Vicente FC",
-      "Villarreal CF"
-    ],
-    "Rafa Tresaco": [
-      "Zamora CF",
-      "Marbella FC",
-      "SD Huesca",
-      "Cultural Leonesa",
-      "Racing Santander",
-      "Algeciras CF",
-      "SD Huesca B"
-    ],
-    "Lucas Ribeiro": [
-      "Sundowns",
-      "SK Beveren",
-      "Cultural Leonesa",
-      "Royal Excel Mouscron (-2022)",
-      "RWDM Brussels",
-      "Royal Charleroi SC",
-      "Royal Excelsior Virton",
-      "Valenciennes FC"
-    ],
-    "Víctor Moreno": [
-      "Villarreal CF B",
-      "Cultural Leonesa"
-    ],
-    "Manu Justo": [
-      "Racing Ferrol",
-      "Cultural Leonesa",
-      "Racing Santander",
-      "Coruxo FC",
-      "RC Celta Fortuna",
-      "UCAM Murcia CF"
-    ],
-    "Rubén Sobrino": [
-      "Cádiz CF",
-      "Alavés",
-      "SD Ponferradina",
-      "Valencia CF",
-      "Real Madrid C (- 2015)",
-      "Real Madrid Castilla",
-      "Girona",
-      "Cultural Leonesa"
-    ],
-    "Jordi Mboula": [
-      "Racing Santander",
-      "RCD Mallorca",
-      "Gil Vicente FC",
-      "AS Monaco U21",
-      "Hellas Verona",
-      "GD Estoril Praia",
-      "Cultural Leonesa",
-      "AS Monaco",
-      "SD Huesca",
-      "FC Barcelona UEFA U19",
-      "Cercle Brugge",
-      "AS Monaco UEFA U19",
-      "FC Barcelona Atlètic"
-    ],
-    "Juan Larios": [
-      "Manchester City U18",
-      "Manchester City U21",
-      "Southampton FC U21",
-      "Cultural Leonesa",
-      "Southampton FC",
-      "Manchester City UEFA U19"
-    ],
-    "Agustín Pastoriza": [
-      "CD Arenteiro",
-      "Cultural Leonesa",
-      "Coruxo FC",
-      "Pontevedra CF",
-      "FC Inter Turku",
-      "Betis Deportivo Balompié",
-      "Ourense CF",
-      "Betis"
-    ],
-    "Paco Cortés": [
-      "Cultural Leonesa",
-      "Levante"
-    ],
-    "Nico Toca": [
-      "Gimnástica de Torrelavega",
-      "Cultural Leonesa"
-    ],
-    "Daniel Paraschiv": [
-      "FC Hermannstadt",
-      "Luceafarul Oradea",
-      "Real Oviedo",
-      "Viitorul Pandurii Targu Jiu (- 2024)",
-      "FC Voluntari",
-      "Cultural Leonesa"
-    ]
-  },
   "Real Sociedad B": {
     "Aitor Fraga": [
       "Real Sociedad B",
@@ -4567,10 +4778,6 @@
       "Real Sociedad C",
       "San Fernando CD (-2025)",
       "Real Sociedad"
-    ],
-    "Peru Rodríguez": [
-      "Real Sociedad B",
-      "Real Sociedad C"
     ],
     "Luken Beitia": [
       "Real Sociedad B",
@@ -4681,16 +4888,20 @@
       "Real Sociedad C",
       "Real Sociedad"
     ],
-    "Sydney Osazuwa": [
-      "Real Sociedad B",
-      "CD Leganés",
-      "CD Leganés B"
-    ],
     "Ekain Orobengoa": [
       "Real Sociedad B",
       "Real Sociedad C",
       "Real Sociedad UEFA U19",
       "Real Sociedad"
+    ],
+    "Peru Rodríguez": [
+      "Real Sociedad B",
+      "Real Sociedad C"
+    ],
+    "Sydney Osazuwa": [
+      "Real Sociedad B",
+      "CD Leganés",
+      "CD Leganés B"
     ],
     "Ekain Díaz": [
       "Real Sociedad C",

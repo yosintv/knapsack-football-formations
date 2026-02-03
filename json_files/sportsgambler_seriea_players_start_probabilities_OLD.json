@@ -1,49 +1,23 @@
 {
-  "Udinese": {
-    "Maduka Okoye": 0.8,
-    "Oumar Solet": 0.8,
-    "Thomas Kristensen": 0.8,
-    "Nicolo Bertola": 0.8,
-    "Kingsley Ehizibue": 0.8,
-    "Lennon Miller": 0.8,
-    "Jesper Karlstroem": 0.8,
-    "Jordan Zemura": 0.8,
-    "Jurgen Ekkelenkamp": 0.8,
-    "Arthur Atta": 0.8,
-    "Keinan Davis": 0.8
-  },
-  "Roma": {
-    "Mile Svilar": 0.8,
-    "Gianluca Mancini": 0.8,
-    "Evan N'Dicka": 0.8,
-    "Daniele Ghilardi": 0.8,
-    "Mehmet Zeki Celik": 0.8,
-    "Bryan Cristante": 0.8,
-    "Neil El Aynaoui": 0.8,
-    "Wesley": 0.8,
-    "Lorenzo Pellegrini": 0.8,
-    "Matias Soule": 0.8,
-    "Donyell Malen": 0.8
-  },
   "Bologna": {
-    "Massimo Pessina": 0.8,
+    "Federico Ravaglia": 0.8,
     "Nadir Zortea": 0.8,
-    "Nicolo Casale": 0.8,
+    "Martin Vitik": 0.8,
     "T. Lysaker Heggem": 0.8,
     "C. Lykogiannis": 0.8,
-    "Remo Freuler": 0.8,
+    "Nikola Moro": 0.8,
     "Lewis Ferguson": 0.8,
     "Jonathan Rowe": 0.8,
-    "Jens Odgaard": 0.8,
+    "F. Bernardeschi": 0.8,
     "Benjamin Dominguez": 0.8,
-    "Ciro Immobile": 0.8
+    "Thijs Dallinga": 0.8
   },
   "AC Milan": {
     "Mike Maignan": 0.8,
     "Fikayo Tomori": 0.8,
     "Matteo Gabbia": 0.8,
     "Koni De Winter": 0.8,
-    "Alexis Saelemaekers": 0.8,
+    "Zachary Athekame": 0.8,
     "Samuele Ricci": 0.8,
     "Luka Modric": 0.8,
     "Adrien Rabiot": 0.8,
@@ -155,6 +129,19 @@
     "Walid Cheddira": 0.8,
     "Riccardo Sottil": 0.8
   },
+  "Udinese": {
+    "Maduka Okoye": 0.8,
+    "Oumar Solet": 0.8,
+    "Thomas Kristensen": 0.8,
+    "Nicolò Bertola": 0.8,
+    "Kingsley Ehizibue": 0.8,
+    "Lennon Miller": 0.8,
+    "Jesper Karlström": 0.8,
+    "Jurgen Ekkelenkamp": 0.8,
+    "Jordan Zemura": 0.8,
+    "Arthur Atta": 0.8,
+    "Idrissa Gueye": 0.8
+  },
   "Sassuolo": {
     "Arijanet Muric": 0.8,
     "S. Walukiewicz": 0.8,
@@ -233,11 +220,24 @@
     "Federico Bonazzoli": 0.8,
     "Jamie Vardy": 0.8
   },
+  "Roma": {
+    "Mile Svilar": 0.8,
+    "Gianluca Mancini": 0.8,
+    "Evan NDicka": 0.8,
+    "Mario Hermoso": 0.8,
+    "Zeki Celik": 0.8,
+    "Bryan Cristante": 0.8,
+    "Neil El Aynaoui": 0.8,
+    "Wesley": 0.8,
+    "Matias Soule": 0.8,
+    "Lorenzo Pellegrini": 0.8,
+    "Donyell Malen": 0.8
+  },
   "Cagliari": {
     "Elia Caprile": 0.8,
     "Zé Pedro": 0.8,
     "Yerry Mina": 0.8,
-    "Sebastiano Luperto": 0.8,
+    "Riyad Idrissi": 0.8,
     "Marco Palestra": 0.8,
     "Michel Adopo": 0.8,
     "Gianluca Gaetano": 0.8,

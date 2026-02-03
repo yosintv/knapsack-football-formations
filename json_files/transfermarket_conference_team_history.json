@@ -141,11 +141,6 @@
       "Broomhill FC (- 2025)",
       "Kilmarnock FC"
     ],
-    "Hindolo Mustapha": [
-      "Crystal Palace U18",
-      "Crystal Palace U21",
-      "1.FC Nuremberg II"
-    ],
     "Ismaïla Sarr": [
       "Watford FC",
       "Stade Rennais FC",
@@ -165,15 +160,12 @@
       "Crystal Palace",
       "Nottingham Forest U18"
     ],
-    "Jesurun Rak-Sakyi": [
-      "Charlton Athletic",
-      "Crystal Palace U21",
-      "Sheffield United",
-      "Crystal Palace U18",
-      "Caykur Rizespor",
-      "Crystal Palace",
-      "Chelsea FC U18",
-      "Brighton & Hove Albion U18"
+    "Evann Guessand": [
+      "OGC Nice",
+      "FC Nantes",
+      "FC Lausanne-Sport",
+      "OGC Nice B",
+      "Aston Villa"
     ],
     "Jean-Philippe Mateta": [
       "Crystal Palace",
@@ -183,6 +175,14 @@
       "Olympique Lyon B",
       "Olympique Lyon",
       "Crystal Palace U21"
+    ],
+    "Jørgen Strand Larsen": [
+      "Celta de Vigo",
+      "FC Groningen",
+      "Wolverhampton",
+      "Sarpsborg 08 FF",
+      "AC Milan Primavera",
+      "Sarpsborg 08 FF II"
     ],
     "Eddie Nketiah": [
       "Arsenal FC",
@@ -198,6 +198,21 @@
       "Crystal Palace",
       "Moralo CP",
       "Crystal Palace U21"
+    ],
+    "Hindolo Mustapha": [
+      "Crystal Palace U18",
+      "Crystal Palace U21",
+      "1.FC Nuremberg II"
+    ],
+    "Jesurun Rak-Sakyi": [
+      "Charlton Athletic",
+      "Crystal Palace U21",
+      "Sheffield United",
+      "Crystal Palace U18",
+      "Caykur Rizespor",
+      "Crystal Palace",
+      "Chelsea FC U18",
+      "Brighton & Hove Albion U18"
     ],
     "Marc Guéhi": [
       "Crystal Palace",
@@ -273,8 +288,8 @@
       "Fiorentina Under 18"
     ],
     "Marin Pongracic": [
-      "RB Salzburg",
       "ACF Fiorentina",
+      "RB Salzburg",
       "US Lecce",
       "Borussia Dortmund",
       "VfL Wolfsburg",
@@ -298,6 +313,15 @@
       "Fiorentina Under 17",
       "Fiorentina Under 18",
       "ACF Fiorentina"
+    ],
+    "Daniele Rugani": [
+      "Juventus FC",
+      "FC Empoli",
+      "Ajax Amsterdam",
+      "Juventus Primavera",
+      "Empoli Primavera",
+      "Cagliari Calcio",
+      "Stade Rennais FC"
     ],
     "Eman Kospo": [
       "FC Barcelona UEFA U19",
@@ -328,6 +352,12 @@
       "FC Empoli",
       "US Avellino 1912",
       "Benevento Primavera"
+    ],
+    "Luis Balbo": [
+      "Fiorentina Primavera",
+      "ACF Fiorentina",
+      "Fiorentina Under 18",
+      "FC Famalicão UEFA U19"
     ],
     "Dodô": [
       "ACF Fiorentina",
@@ -384,19 +414,6 @@
       "ACF Fiorentina",
       "AC Milan"
     ],
-    "Hans Caviglia": [
-      "Juventus Primavera",
-      "Venezia FC",
-      "AC Perugia Calcio",
-      "Juventus Under 17",
-      "FC Südtirol",
-      "ACF Fiorentina",
-      "Juventus Next Gen",
-      "Juventus FC",
-      "US Salernitana 1919",
-      "Juventus FC UEFA U19",
-      "Parma Calcio 1913"
-    ],
     "Cher Ndour": [
       "SL Benfica B",
       "ACF Fiorentina",
@@ -436,8 +453,8 @@
       "Everton FC",
       "New York City FC",
       "Middlesbrough FC",
-      "Middlesbrough FC U21",
       "ACF Fiorentina",
+      "Middlesbrough FC U21",
       "Everton FC U21",
       "Leeds United U21"
     ],
@@ -447,8 +464,8 @@
       "Leeds United",
       "Fulham FC",
       "Villarreal CF",
-      "Tottenham Hotspur",
-      "ACF Fiorentina"
+      "ACF Fiorentina",
+      "Tottenham Hotspur"
     ],
     "Albert Gudmundsson": [
       "AZ Alkmaar",
@@ -477,8 +494,8 @@
       "Cagliari Calcio",
       "Atalanta Primavera",
       "US Lecce",
-      "Spezia Calcio",
       "ACF Fiorentina",
+      "Spezia Calcio",
       "FC Empoli",
       "Atalanta BC",
       "Atalanta BC U17",
@@ -496,6 +513,19 @@
       "AC Prato",
       "FC Empoli",
       "Fiorentina Primavera"
+    ],
+    "Hans Caviglia": [
+      "Juventus Primavera",
+      "Venezia FC",
+      "AC Perugia Calcio",
+      "Juventus Under 17",
+      "FC Südtirol",
+      "ACF Fiorentina",
+      "Juventus Next Gen",
+      "Juventus FC",
+      "US Salernitana 1919",
+      "Juventus FC UEFA U19",
+      "Parma Calcio 1913"
     ],
     "Simon Sohm": [
       "Parma Calcio 1913",
@@ -618,6 +648,10 @@
       "FC Famalicão U23",
       "AZ Alkmaar U21",
       "SL Benfica UEFA U19"
+    ],
+    "Rion Ichihara": [
+      "RB Omiya Ardija",
+      "RB Omiya Ardija U18"
     ],
     "Maxim Dekker": [
       "AZ Alkmaar U21",
@@ -890,8 +924,8 @@
     ],
     "Lubomir Satka": [
       "Lech Poznan",
-      "DAC Dunajska Streda",
       "Samsunspor",
+      "DAC Dunajska Streda",
       "Newcastle United U21",
       "York City",
       "Newcastle United U18",
@@ -920,6 +954,11 @@
       "Erbaaspor",
       "Galatasaray UEFA U19",
       "Galatasaray"
+    ],
+    "Enes Albak": [
+      "Ankara Demirspor",
+      "Samsunspor U19",
+      "Samsunspor"
     ],
     "Joe Mendes": [
       "SC Braga",
@@ -977,13 +1016,6 @@
       "Genoa CFC",
       "Manchester City UEFA U19",
       "Olympique Marseille"
-    ],
-    "Eyüp Aydın": [
-      "FC Bayern Munich II",
-      "Galatasaray",
-      "FC Bayern Munich U17",
-      "Samsunspor",
-      "FC Bayern Munich U19"
     ],
     "Yalçın Kayan": [
       "Göztepe",
@@ -1085,6 +1117,13 @@
       "Samsunspor U19",
       "Samsunspor"
     ],
+    "Eyüp Aydın": [
+      "FC Bayern Munich II",
+      "Galatasaray",
+      "FC Bayern Munich U17",
+      "Samsunspor",
+      "FC Bayern Munich U19"
+    ],
     "Albert Posiadala": [
       "Molde FK",
       "Swit Nowy Dwor Mazowiecki",
@@ -1140,9 +1179,10 @@
       "Levski Sofia",
       "Feyenoord U21",
       "Racing Santander",
-      "Feyenoord Rotterdam"
+      "Feyenoord Rotterdam",
+      "Lech Poznan"
     ],
-    "Krzysztof Bąkowski": [
+    "Krzysztof Bakowski": [
       "Lech Poznan II",
       "Stal Rzeszow",
       "Lech Poznan U19",
@@ -1195,7 +1235,7 @@
       "Lech Poznan II",
       "Lech Poznan"
     ],
-    "Michał Gurgul": [
+    "Michal Gurgul": [
       "Lech Poznan",
       "Lech Poznan II",
       "Lech Poznan U19",
@@ -1226,18 +1266,6 @@
       "Lech Poznan II",
       "FC Augsburg II"
     ],
-    "Ian Hoffmann": [
-      "Moss FK",
-      "Karlsruher SC U19",
-      "Kristiansund BK",
-      "Karlsruher SC U17",
-      "Orange County SC",
-      "Houston Dynamo FC 2",
-      "Houston Dynamo FC",
-      "Lech Poznan II",
-      "Rio Grande Valley FC Toros",
-      "Lech Poznan"
-    ],
     "Antoni Kozubal": [
       "Lech Poznan",
       "GKS Katowice",
@@ -1258,7 +1286,7 @@
       "Bologna Under 17",
       "Bologna Under 18"
     ],
-    "Radosław Murawski": [
+    "Radoslaw Murawski": [
       "Lech Poznan",
       "Piast Gliwice",
       "Palermo FC",
@@ -1281,7 +1309,7 @@
       "Real Madrid UEFA U19",
       "Lech Poznan II"
     ],
-    "Filip Jagiełło": [
+    "Filip Jagiello": [
       "Zaglebie Lubin",
       "Brescia Calcio (- 2025)",
       "Lech Poznan",
@@ -1298,7 +1326,7 @@
       "Real Monarchs SLC",
       "Olympiacos Piraeus"
     ],
-    "Daniel Håkans": [
+    "Daniel Hakans": [
       "SJK Seinäjoki",
       "Vålerenga Fotball Elite",
       "SJK Seinäjoki II",
@@ -1324,7 +1352,7 @@
       "Lech Poznan II",
       "Lech Poznan UEFA U19"
     ],
-    "Patrik Wålemark": [
+    "Patrik Walemark": [
       "BK Häcken",
       "Feyenoord Rotterdam",
       "SC Heerenveen",
@@ -1373,6 +1401,68 @@
       "Lech Poznan",
       "Lech Poznan UEFA U19"
     ],
+    "Krzysztof Bąkowski": [
+      "Lech Poznan II",
+      "Stal Rzeszow",
+      "Lech Poznan U19",
+      "Stomil Olsztyn",
+      "Polonia Warsaw",
+      "Radomiak Radom",
+      "Lech Poznan",
+      "Lech Poznan UEFA U19"
+    ],
+    "Michał Gurgul": [
+      "Lech Poznan",
+      "Lech Poznan II",
+      "Lech Poznan U19",
+      "Lech Poznan UEFA U19"
+    ],
+    "Ian Hoffmann": [
+      "Moss FK",
+      "Karlsruher SC U19",
+      "Kristiansund BK",
+      "Karlsruher SC U17",
+      "Orange County SC",
+      "Houston Dynamo FC 2",
+      "Houston Dynamo FC",
+      "Lech Poznan II",
+      "Rio Grande Valley FC Toros",
+      "Lech Poznan"
+    ],
+    "Radosław Murawski": [
+      "Lech Poznan",
+      "Piast Gliwice",
+      "Palermo FC",
+      "Denizlispor",
+      "Lech Poznan II"
+    ],
+    "Filip Jagiełło": [
+      "Zaglebie Lubin",
+      "Brescia Calcio (- 2025)",
+      "Lech Poznan",
+      "Genoa CFC",
+      "Spezia Calcio",
+      "Zaglebie Lubin U19",
+      "Zaglebie Lubin II"
+    ],
+    "Daniel Håkans": [
+      "SJK Seinäjoki",
+      "Vålerenga Fotball Elite",
+      "SJK Seinäjoki II",
+      "Lech Poznan",
+      "Vaasa IFK",
+      "FK Jerv",
+      "Vaasa IFK U19",
+      "Lech Poznan II"
+    ],
+    "Patrik Wålemark": [
+      "BK Häcken",
+      "Feyenoord Rotterdam",
+      "SC Heerenveen",
+      "Lech Poznan",
+      "BK Häcken U21",
+      "Qviding FIF"
+    ],
     "Bartłomiej Barański": [
       "Ruch Chorzow",
       "Odra Wodzislaw Slaski",
@@ -1394,42 +1484,10 @@
       "Tromsø IL",
       "Real Sociedad"
     ],
-    "Krzysztof Bakowski": [
-      "Lech Poznan II",
-      "Stal Rzeszow",
-      "Lech Poznan U19",
-      "Stomil Olsztyn",
-      "Polonia Warsaw",
-      "Radomiak Radom",
-      "Lech Poznan",
-      "Lech Poznan UEFA U19"
-    ],
     "Wojciech Monka": [
       "Lech Poznan II",
       "Lech Poznan U19",
       "Lech Poznan"
-    ],
-    "Michal Gurgul": [
-      "Lech Poznan",
-      "Lech Poznan II",
-      "Lech Poznan U19",
-      "Lech Poznan UEFA U19"
-    ],
-    "Radoslaw Murawski": [
-      "Lech Poznan",
-      "Piast Gliwice",
-      "Palermo FC",
-      "Denizlispor",
-      "Lech Poznan II"
-    ],
-    "Filip Jagiello": [
-      "Zaglebie Lubin",
-      "Brescia Calcio (- 2025)",
-      "Lech Poznan",
-      "Genoa CFC",
-      "Spezia Calcio",
-      "Zaglebie Lubin U19",
-      "Zaglebie Lubin II"
     ],
     "Bartlomiej Baranski": [
       "Ruch Chorzow",
@@ -1617,8 +1675,8 @@
     "Samuele Vignato": [
       "AC Monza",
       "Chievo Primavera",
-      "Chievo Under 17",
       "HNK Rijeka",
+      "Chievo Under 17",
       "Chievo Verona",
       "Monza Primavera"
     ],
@@ -1786,16 +1844,16 @@
       "Stal Stalowa Wola",
       "Jagiellonia Bialystok"
     ],
-    "Jakub Rabiczko": [
-      "Jagiellonia Bialystok U19",
-      "Jagiellonia Bialystok II"
-    ],
     "Adrian Damasiewicz": [
       "Jagiellonia Bialystok II",
       "Jagiellonia Bialystok U19",
       "Jagiellonia Bialystok",
       "Raków Częstochowa II",
       "Podhale Nowy Targ"
+    ],
+    "Jakub Rabiczko": [
+      "Jagiellonia Bialystok U19",
+      "Jagiellonia Bialystok II"
     ],
     "Bernardo Vital": [
       "GD Estoril Praia",
@@ -1818,6 +1876,14 @@
       "FC Khimki (-2025)",
       "Jagiellonia Bialystok II",
       "NK Bravo"
+    ],
+    "Apostolos Konstantopoulos": [
+      "Beerschot VA",
+      "Panetolikos GFS",
+      "Panetolikos GFS U19",
+      "Raków Częstochowa",
+      "Beerschot VA U21",
+      "Jagiellonia Bialystok"
     ],
     "Yuki Kobayashi": [
       "Vissel Kobe",
@@ -1846,6 +1912,7 @@
       "CF Estrela Amadora",
       "Norwich City U21",
       "SL Benfica UEFA U19",
+      "Jagiellonia Bialystok",
       "Norwich City"
     ],
     "Álex Pozo": [
@@ -1892,18 +1959,6 @@
       "Jagiellonia Bialystok U19",
       "Jagiellonia Bialystok"
     ],
-    "AZ Jackson": [
-      "St. Louis CITY SC",
-      "Columbus Crew",
-      "Minnesota United FC 2",
-      "North Carolina FC",
-      "Jagiellonia Bialystok",
-      "St. Louis CITY SC 2",
-      "Blagnac FC",
-      "Minnesota United FC",
-      "Jagiellonia Bialystok II",
-      "Columbus Crew 2"
-    ],
     "Dawid Drachal": [
       "Raków Częstochowa",
       "Jagiellonia Bialystok",
@@ -1927,6 +1982,19 @@
       "UCAM Murcia CF",
       "Cádiz CF"
     ],
+    "Matías Nahuel": [
+      "Slask Wroclaw",
+      "Villarreal CF B",
+      "Real Oviedo",
+      "Villarreal CF",
+      "CD Tenerife",
+      "Maccabi Haifa",
+      "Betis",
+      "FC Barcelona Atlètic",
+      "Deportivo de La Coruña",
+      "Olympiacos Piraeus",
+      "Jagiellonia Bialystok"
+    ],
     "Kamil Jóźwiak": [
       "Lech Poznan",
       "Derby County",
@@ -1943,14 +2011,8 @@
       "Académica Coimbra",
       "Jagiellonia Bialystok"
     ],
-    "Louka Prip": [
-      "Hvidovre IF",
-      "AC Horsens",
-      "Aalborg BK",
-      "Konyaspor",
-      "Jagiellonia Bialystok",
-      "Aalborg BK Reserves",
-      "AC Horsens Reserves"
+    "Zachary Zalewski": [
+      "Jagiellonia Bialystok II"
     ],
     "Maciej Kuczyński": [
       "Jagiellonia Bialystok U19",
@@ -1972,7 +2034,8 @@
       "FK Partizan Belgrade",
       "Real Zaragoza",
       "FK Partizan Belgrade U17",
-      "FK Partizan Belgrade U19"
+      "FK Partizan Belgrade U19",
+      "Jagiellonia Bialystok"
     ],
     "Dimitris Rallis": [
       "sc Heerenveen U18",
@@ -1991,6 +2054,27 @@
       "Zulte Waregem",
       "Torino Under 17",
       "Jagiellonia Bialystok II"
+    ],
+    "AZ Jackson": [
+      "St. Louis CITY SC",
+      "Columbus Crew",
+      "Minnesota United FC 2",
+      "North Carolina FC",
+      "Jagiellonia Bialystok",
+      "St. Louis CITY SC 2",
+      "Blagnac FC",
+      "Minnesota United FC",
+      "Jagiellonia Bialystok II",
+      "Columbus Crew 2"
+    ],
+    "Louka Prip": [
+      "Hvidovre IF",
+      "AC Horsens",
+      "Aalborg BK",
+      "Konyaspor",
+      "Jagiellonia Bialystok",
+      "Aalborg BK Reserves",
+      "AC Horsens Reserves"
     ],
     "Cezary Polak": [
       "Kotwica Kolobrzeg",
@@ -2081,19 +2165,18 @@
       "FC Lausanne-Sport II",
       "BSC Young Boys U17"
     ],
-    "Bryan Okoh": [
-      "FC Liefering",
-      "FC Lausanne-Sport",
-      "AKA Red Bull Salzburg U18",
-      "Red Bull Salzburg UEFA U19",
-      "FC Lausanne-Sport U18",
-      "RB Salzburg"
-    ],
     "Kévin Mouanga": [
       "FC Annecy",
       "FC Lausanne-Sport",
       "Angers SCO B",
       "Angers SCO"
+    ],
+    "Dircssi Ngonzo": [
+      "FC Lausanne-Sport II",
+      "FC Lausanne-Sport U18",
+      "FC Stade Nyonnais",
+      "FC Lausanne-Sport U17",
+      "FC Lausanne-Sport"
     ],
     "Rodolfo Lippo": [
       "FC Lausanne-Sport II",
@@ -2119,7 +2202,8 @@
     ],
     "Theo Bergvall": [
       "Djurgårdens IF",
-      "IF Brommapojkarna"
+      "IF Brommapojkarna",
+      "FC Lausanne-Sport"
     ],
     "Hamza Abdallah": [
       "FC Lausanne-Sport II",
@@ -2249,6 +2333,14 @@
       "FC Stade Nyonnais",
       "FC Lausanne-Sport",
       "Racing Club Abidjan"
+    ],
+    "Bryan Okoh": [
+      "FC Liefering",
+      "FC Lausanne-Sport",
+      "AKA Red Bull Salzburg U18",
+      "Red Bull Salzburg UEFA U19",
+      "FC Lausanne-Sport U18",
+      "RB Salzburg"
     ],
     "Lorenzo Bittarelli": [
       "FC Lausanne-Sport II",
@@ -2390,12 +2482,14 @@
     "Péter Baráth": [
       "Debreceni VSC",
       "Raków Częstochowa",
-      "Ferencvárosi TC"
+      "Ferencvárosi TC",
+      "SK Sigma Olomouc"
     ],
     "Jakub Jezierski": [
       "Slask Wroclaw II",
       "Slask Wroclaw U19",
-      "Slask Wroclaw"
+      "Slask Wroclaw",
+      "SK Sigma Olomouc"
     ],
     "Tihomir Kostadinov": [
       "MFK Ruzomberok",
@@ -2466,7 +2560,8 @@
       "FK Zeleznicar Pancevo",
       "FK Čukarički U19",
       "FK Čukarički U17",
-      "FK Cukaricki"
+      "FK Cukaricki",
+      "SK Sigma Olomouc"
     ],
     "Fabijan Krivak": [
       "NK Lokomotiva Zagreb",
@@ -2494,6 +2589,7 @@
       "NK Celje",
       "NK Aluminij Kidricevo",
       "FC Mendrisio",
+      "SK Sigma Olomouc",
       "NK Tolmin"
     ],
     "Jachym Sip": [
@@ -2562,8 +2658,8 @@
       "FK Teplice",
       "FK Teplice B",
       "Ahly SC",
-      "SK Sigma Olomouc B",
-      "SK Sigma Olomouc"
+      "SK Sigma Olomouc",
+      "SK Sigma Olomouc B"
     ],
     "Yunusa Muritala": [
       "Hibernians FC",
@@ -2709,17 +2805,6 @@
       "Football Club Mantois",
       "Dijon FCO B"
     ],
-    "Filip Helander": [
-      "Malmö FF",
-      "Bologna FC 1909",
-      "Rangers FC",
-      "Hellas Verona",
-      "Odense Boldklub",
-      "Omonia Nicosia",
-      "BK Häcken",
-      "Malmö FF U19",
-      "Malmö FF U21"
-    ],
     "Saad Agouzoul": [
       "KACM Marrakech",
       "FC Sochaux-Montbéliard",
@@ -2747,12 +2832,29 @@
     "Christos Konstantinidis": [
       "Omonia Nicosia"
     ],
+    "Jure Balkovec": [
+      "NK Domzale",
+      "Alanyaspor",
+      "Fatih Karagümrük",
+      "FC Empoli",
+      "NK Radomlje",
+      "Hellas Verona",
+      "SSC Bari",
+      "NK Bela Krajina",
+      "NK Krka"
+    ],
     "Fotis Kitsos": [
       "Omonia Nicosia",
       "Volos NPS",
       "Olympiacos Piraeus B",
       "Olympiacos Piraeus U19",
       "Olympiacos Piraeus"
+    ],
+    "Andreas Christou": [
+      "Olympiakos Nicosia",
+      "MEAP Pera Choriou Nisou",
+      "Omonia Nikosia UEFA U19",
+      "Omonia Nicosia"
     ],
     "Alpha Diounkou": [
       "Omonia Nicosia",
@@ -2877,11 +2979,27 @@
       "Omonia Nicosia",
       "Fulham FC"
     ],
+    "Mihlali Mayambela": [
+      "Aris Limassol",
+      "SC Farense",
+      "Degerfors IF",
+      "Djurgårdens IF U21",
+      "Académica Coimbra",
+      "Djurgårdens IF",
+      "IK Brage",
+      "Bnei Yehuda Tel Aviv",
+      "Omonia Nicosia",
+      "All Stars FC",
+      "SC Farense U23"
+    ],
     "Evangelos Andreou": [
       "AEL Limassol",
       "Enosis Neon Paralimniou",
       "Omonia Nicosia",
       "Atlético Levante UD"
+    ],
+    "Chrysis Evangelou": [
+      "Omonia Nicosia"
     ],
     "Stevan Jovetić": [
       "ACF Fiorentina",
@@ -2898,8 +3016,8 @@
       "Ferencvárosi TC",
       "AEL Limassol",
       "Stoke City",
-      "SK Beveren",
       "Omonia Nicosia",
+      "SK Beveren",
       "Standard Liège",
       "Aarhus GF",
       "Stoke City U21",
@@ -2910,6 +3028,17 @@
       "Sassuolo Primavera",
       "Omonia Nikosia UEFA U19",
       "Sassuolo Under 18"
+    ],
+    "Filip Helander": [
+      "Malmö FF",
+      "Bologna FC 1909",
+      "Rangers FC",
+      "Hellas Verona",
+      "Odense Boldklub",
+      "Omonia Nicosia",
+      "BK Häcken",
+      "Malmö FF U19",
+      "Malmö FF U21"
     ],
     "Amine Khammas": [
       "Apollon Limassol",
@@ -3055,18 +3184,19 @@
       "NK Celje",
       "NK Radomlje"
     ],
+    "Darko Hrka": [
+      "ND Gorica",
+      "NK Krka",
+      "NK Nafta 1903",
+      "NK Celje"
+    ],
     "Ivan Calusic": [
       "NK Istra 1961",
       "NK Radomlje",
       "HNK Hajduk Split II",
       "NK Croatia Zmijavci",
       "HNK Hajduk Split",
-      "RNK Split"
-    ],
-    "Darko Hrka": [
-      "ND Gorica",
-      "NK Krka",
-      "NK Nafta 1903",
+      "RNK Split",
       "NK Celje"
     ],
     "Papa Daniel": [
@@ -3080,11 +3210,6 @@
       "Eyüpspor",
       "NK Drava Ptuj",
       "NK Krka"
-    ],
-    "Jakov Pranjic": [
-      "NK Jarun",
-      "HSK Zrinjski Mostar",
-      "NK Bjelovar"
     ],
     "Florjan Jevsenak": [
       "ND Dravinja Kostroj",
@@ -3102,6 +3227,12 @@
       "SD Formentera",
       "FC Crotone",
       "Crotone Primavera"
+    ],
+    "Jakov Pranjic": [
+      "NK Jarun",
+      "HSK Zrinjski Mostar",
+      "NK Bjelovar",
+      "NK Celje"
     ],
     "Rudi Pozeg Vancas": [
       "NK Celje",
@@ -3387,14 +3518,6 @@
       "Royal Excelsior Virton",
       "Angers SCO B"
     ],
-    "Alen Grgic": [
-      "NK Osijek",
-      "HNK Rijeka",
-      "Slaven Belupo Koprivnica",
-      "NK Sesvete",
-      "FC Noah Yerevan",
-      "Diósgyőri VTK"
-    ],
     "Virgile Pinson": [
       "FC Noah Yerevan",
       "FC Botosani",
@@ -3470,6 +3593,14 @@
       "Lorca FC (- 2022)",
       "Valencia Mestalla",
       "Associação Atlética Ponte Preta"
+    ],
+    "Alen Grgic": [
+      "NK Osijek",
+      "HNK Rijeka",
+      "Slaven Belupo Koprivnica",
+      "NK Sesvete",
+      "FC Noah Yerevan",
+      "Diósgyőri VTK"
     ],
     "Ognjen Cancarevic": [
       "Alashkert Yerevan FC",
@@ -3556,6 +3687,15 @@
       "Slaven Belupo Koprivnica",
       "RNK Split"
     ],
+    "Amir Durakovic": [
+      "HSK Zrinjski Mostar U19",
+      "FK Sloboda Tuzla U19",
+      "NK TOSK Tesanj",
+      "FK Sarajevo Academy U17",
+      "NK Bratstvo Gracanica",
+      "FK Sloboda Tuzla U17",
+      "HSK Zrinjski Mostar"
+    ],
     "Slobodan Jakovljevic": [
       "HSK Zrinjski Mostar",
       "RFK Novi Sad 1921",
@@ -3588,6 +3728,10 @@
       "Frosinone Primavera",
       "Frosinone Calcio",
       "Raków Częstochowa"
+    ],
+    "Toma Palic": [
+      "NK Dubrava Tim kabel",
+      "GNK Dinamo Zagreb II"
     ],
     "Marko Vranjkovic": [
       "NK Lokomotiva Zagreb",
@@ -3677,6 +3821,14 @@
       "HSK Zrinjski Mostar",
       "NK Istra 1961",
       "NK Rudes"
+    ],
+    "Antonio Ilic": [
+      "SK Sturm Graz II",
+      "AKA Steiermark - Sturm Graz U18",
+      "AKA Steiermark - Sturm Graz U16",
+      "NK Jarun",
+      "SK Sturm Graz UEFA U19",
+      "HNK Gorica"
     ],
     "Mario Cuze": [
       "HSK Zrinjski Mostar",
@@ -3942,8 +4094,8 @@
       "Hamburger SV II",
       "FC Energie Cottbus U19",
       "Tennis Borussia Berlin U17",
-      "SV Horn",
-      "FK Bylis"
+      "FK Bylis",
+      "SV Horn"
     ],
     "Ilir Mustafa": [
       "FC Malisheva",
@@ -4272,13 +4424,6 @@
       "Kuopion Palloseura U19",
       "Kuopion Palloseura"
     ],
-    "Samuli Miettinen": [
-      "Kuopion Palloseura",
-      "Sampdoria Primavera",
-      "SC KuFu-98",
-      "Kuopion Palloseura II",
-      "Kuopion Palloseura U19"
-    ],
     "Taneli Hämäläinen": [
       "Kuopion Palloseura",
       "SC KuFu-98",
@@ -4300,7 +4445,8 @@
       "Kuopion Palloseura U19"
     ],
     "Karl Ward": [
-      "Karlbergs BK"
+      "Karlbergs BK",
+      "Kuopion Palloseura"
     ],
     "Clinton Antwi": [
       "Kuopion Palloseura",
@@ -4324,17 +4470,20 @@
       "Bologna Primavera",
       "Lahden Reipas",
       "FC Bologna UEFA U19",
-      "FC Reipas Lahti U19"
+      "FC Reipas Lahti U19",
+      "Kuopion Palloseura"
     ],
     "Valentín Gasc": [
       "SJK Seinäjoki",
-      "SJK Seinäjoki II"
+      "SJK Seinäjoki II",
+      "Kuopion Palloseura"
     ],
     "Niilo Kujasalo": [
       "IFK Mariehamn",
       "HJK Klubi 04 Helsinki",
       "Kokkolan Pallo-Veikot",
-      "HJK Helsinki"
+      "HJK Helsinki",
+      "Kuopion Palloseura"
     ],
     "Jerry Voutilainen": [
       "Kuopion Palloseura",
@@ -4392,6 +4541,13 @@
     "Mohamed Toure": [
       "Kuopion Palloseura",
       "Turun Palloseura"
+    ],
+    "Samuli Miettinen": [
+      "Kuopion Palloseura",
+      "Sampdoria Primavera",
+      "SC KuFu-98",
+      "Kuopion Palloseura II",
+      "Kuopion Palloseura U19"
     ],
     "Paulo Ricardo": [
       "Kuopion Palloseura",
@@ -4557,21 +4713,19 @@
       "FC Copenhagen Reserves",
       "Racing Strasbourg B"
     ],
-    "Mamadou Sarr": [
-      "RC Strasbourg Alsace",
-      "Olympique Lyon B",
-      "Olympique Lyon U19",
-      "RWDM Brussels",
-      "Olympique Lyon",
-      "Chelsea",
-      "Racing Strasbourg B"
-    ],
     "Ismaël Doukouré": [
       "RC Strasbourg Alsace",
       "Valenciennes FC",
       "Racing Strasbourg B",
       "Valenciennes FC U19",
       "Valenciennes FC B"
+    ],
+    "Aarón Anselmino": [
+      "CA Boca Juniors",
+      "Borussia Dortmund",
+      "CA Boca Juniors II",
+      "Chelsea",
+      "Chelsea FC U21"
     ],
     "Lucas Høgsberg": [
       "FC Nordsjaelland U19",
@@ -4585,19 +4739,6 @@
       "Norwich City U21",
       "Norwich City U18",
       "Nottingham Forest"
-    ],
-    "Saïdou Sow": [
-      "AS Saint-Étienne",
-      "RC Strasbourg Alsace",
-      "FC Nantes",
-      "AS Saint-Étienne B",
-      "Racing Strasbourg B",
-      "AS Saint-Étienne U19"
-    ],
-    "Abakar Sylla": [
-      "RC Strasbourg Alsace",
-      "Club Brugge KV",
-      "Racing Strasbourg B"
     ],
     "Amadou Cissé": [
       "Racing Strasbourg B",
@@ -4622,6 +4763,15 @@
       "Stade Rennais FC B",
       "Stade Rennais FC UEFA U19"
     ],
+    "Junior Mwanga": [
+      "RC Strasbourg Alsace",
+      "FC Girondins Bordeaux",
+      "FC Girondins Bordeaux B",
+      "FC Nantes",
+      "Le Havre AC",
+      "FC Girondins Bordeaux U19",
+      "Racing Strasbourg B"
+    ],
     "Maxi Oyedele": [
       "Manchester United U18",
       "Legia Warszawa",
@@ -4637,12 +4787,6 @@
       "SL Benfica U23",
       "SL Benfica UEFA U19",
       "SL Benfica"
-    ],
-    "Rabby Nzingoula": [
-      "Montpellier HSC",
-      "Racing Strasbourg B",
-      "RC Strasbourg Alsace",
-      "Racing Strasbourg U19"
     ],
     "Valentín Barco": [
       "RC Strasbourg Alsace",
@@ -4689,11 +4833,6 @@
       "Ipswich Town",
       "Brighton & Hove Albion U21"
     ],
-    "Kendry Páez": [
-      "Independiente del Valle",
-      "RC Strasbourg Alsace",
-      "Independiente del Valle U20"
-    ],
     "Martial Godo": [
       "Wigan Athletic",
       "Fulham FC U21",
@@ -4706,8 +4845,8 @@
       "Racing Strasbourg B"
     ],
     "Samuel Amo-Ameyaw": [
-      "Southampton FC U21",
       "RC Strasbourg Alsace",
+      "Southampton FC U21",
       "Southampton FC",
       "Southampton FC U18",
       "Tottenham Hotspur U18"
@@ -4716,8 +4855,8 @@
       "USL Dunkerque",
       "Istres Football Club U19",
       "Marignane-Gignac-Côte-Bleue FC U19",
-      "Istres Football Club",
-      "RC Strasbourg Alsace"
+      "RC Strasbourg Alsace",
+      "Istres Football Club"
     ],
     "Emmanuel Emegha": [
       "RC Strasbourg Alsace",
@@ -4736,6 +4875,49 @@
       "Alavés",
       "Deportivo Alavés B",
       "CA River Plate"
+    ],
+    "David Fofana": [
+      "Molde FK",
+      "1.FC Union Berlin",
+      "Burnley FC",
+      "Fatih Karagümrük",
+      "Göztepe",
+      "Molde FK II",
+      "Chelsea",
+      "Chelsea FC U21"
+    ],
+    "Mamadou Sarr": [
+      "RC Strasbourg Alsace",
+      "Olympique Lyon B",
+      "Olympique Lyon U19",
+      "RWDM Brussels",
+      "Olympique Lyon",
+      "Chelsea",
+      "Racing Strasbourg B"
+    ],
+    "Saïdou Sow": [
+      "AS Saint-Étienne",
+      "RC Strasbourg Alsace",
+      "FC Nantes",
+      "AS Saint-Étienne B",
+      "Racing Strasbourg B",
+      "AS Saint-Étienne U19"
+    ],
+    "Abakar Sylla": [
+      "RC Strasbourg Alsace",
+      "Club Brugge KV",
+      "Racing Strasbourg B"
+    ],
+    "Rabby Nzingoula": [
+      "Montpellier HSC",
+      "Racing Strasbourg B",
+      "RC Strasbourg Alsace",
+      "Racing Strasbourg U19"
+    ],
+    "Kendry Páez": [
+      "Independiente del Valle",
+      "RC Strasbourg Alsace",
+      "Independiente del Valle U20"
     ],
     "Félix Lemaréchal": [
       "RC Strasbourg Alsace",
@@ -5193,13 +5375,17 @@
       "Holstein Kiel",
       "Korea University"
     ],
-    "Arnaud Nordin": [
-      "AS Saint-Étienne",
-      "Montpellier HSC",
-      "AS Saint-Étienne B",
-      "AS Nancy-Lorraine",
-      "1.FSV Mainz 05",
-      "AS Nancy-Lorraine B"
+    "Sheraldo Becker": [
+      "1.FC Union Berlin",
+      "ADO Den Haag",
+      "Real Sociedad",
+      "PEC Zwolle",
+      "Ajax Amsterdam U21",
+      "CA Osasuna",
+      "Ajax Amsterdam U19",
+      "Ajax Amsterdam UEFA U19",
+      "PEC Zwolle U21",
+      "ADO Den Haag U21"
     ],
     "Silas": [
       "VfB Stuttgart",
@@ -5262,6 +5448,14 @@
       "FC Ingolstadt 04 II",
       "1.FSV Mainz 05",
       "FC Ingolstadt 04"
+    ],
+    "Arnaud Nordin": [
+      "AS Saint-Étienne",
+      "Montpellier HSC",
+      "AS Saint-Étienne B",
+      "AS Nancy-Lorraine",
+      "1.FSV Mainz 05",
+      "AS Nancy-Lorraine B"
     ],
     "Ben Bobzien": [
       "SK Austria Klagenfurt",
@@ -5442,8 +5636,8 @@
       "FC Barcelona Atlètic",
       "FC Barcelona UEFA U19",
       "FC Barcelona",
-      "Villarreal CF B",
-      "Rayo Vallecano"
+      "Rayo Vallecano",
+      "Villarreal CF B"
     ],
     "Jorge de Frutos": [
       "Rayo Vallecano",
@@ -5511,15 +5705,6 @@
       "SK Slavia Prague UEFA U19",
       "FC Sellier & Bellot Vlasim"
     ],
-    "Vojtech Vorel": [
-      "SK Dynamo Ceske Budejovice",
-      "AC Sparta Prague B",
-      "FK Senica (- 2022)",
-      "FC Sellier & Bellot Vlasim",
-      "FK Pardubice",
-      "AC Sparta Prague",
-      "FK Caslav"
-    ],
     "Daniel Kerl": [
       "FC SILON Taborsko",
       "FC SILON Taborsko B",
@@ -5582,19 +5767,22 @@
       "SK Slavia Prague B",
       "FK Jablonec B"
     ],
-    "Pavel Kaderabek": [
-      "TSG 1899 Hoffenheim",
-      "AC Sparta Prague",
-      "AC Sparta Prague B",
-      "FK Viktoria Zizkov",
-      "TSG 1899 Hoffenheim II"
+    "Oliver Sonne": [
+      "Silkeborg IF",
+      "HB Köge",
+      "Burnley FC",
+      "FC Copenhagen U19",
+      "Silkeborg IF Reserves",
+      "FC Copenhagen Reserves",
+      "HB Köge U19",
+      "AC Sparta Prague"
     ],
     "Sivert Mannsverk": [
       "Molde FK",
       "Sogndal IL",
       "Ajax Amsterdam",
-      "Cardiff City",
       "AC Sparta Prague",
+      "Cardiff City",
       "Ajax Amsterdam U21",
       "Sogndal IL UEFA U19",
       "Sogndal IL II"
@@ -5627,7 +5815,8 @@
       "Berwick Rangers FC",
       "Falkirk FC",
       "West Ham United",
-      "Heart of Midlothian FC U20"
+      "Heart of Midlothian FC U20",
+      "AC Sparta Prague"
     ],
     "Magnus Kofod Andersen": [
       "FC Nordsjaelland",
@@ -5635,6 +5824,13 @@
       "FC Nordsjaelland U19",
       "AC Sparta Prague",
       "FC Nordsjaelland Reserves"
+    ],
+    "Pavel Kaderabek": [
+      "TSG 1899 Hoffenheim",
+      "AC Sparta Prague",
+      "AC Sparta Prague B",
+      "FK Viktoria Zizkov",
+      "TSG 1899 Hoffenheim II"
     ],
     "Matej Rynes": [
       "AC Sparta Prague",
@@ -5666,15 +5862,6 @@
       "US Sassuolo",
       "Parma Calcio 1913"
     ],
-    "Veljko Birmancevic": [
-      "AC Sparta Prague",
-      "FK Cukaricki",
-      "Malmö FF",
-      "FC Toulouse",
-      "FK Teleoptik Zemun",
-      "FK Rad",
-      "FK Partizan Belgrade"
-    ],
     "John Mercado": [
       "Avs Futebol",
       "AC Sparta Prague",
@@ -5702,6 +5889,7 @@
       "Riga FC",
       "FK Partizan Belgrade",
       "Club Sporting Cristal U20",
+      "AC Sparta Prague",
       "Riga FC II"
     ],
     "Roman Mokrovics": [
@@ -5738,6 +5926,24 @@
       "FC Slavoj Vysehrad",
       "FK Varnsdorf"
     ],
+    "Vojtech Vorel": [
+      "SK Dynamo Ceske Budejovice",
+      "AC Sparta Prague B",
+      "FK Senica (- 2022)",
+      "FC Sellier & Bellot Vlasim",
+      "FK Pardubice",
+      "AC Sparta Prague",
+      "FK Caslav"
+    ],
+    "Veljko Birmancevic": [
+      "AC Sparta Prague",
+      "FK Cukaricki",
+      "Malmö FF",
+      "FC Toulouse",
+      "FK Teleoptik Zemun",
+      "FK Rad",
+      "FK Partizan Belgrade"
+    ],
     "Lukas Sadilek": [
       "1.FC Slovacko",
       "AC Sparta Prague",
@@ -5767,221 +5973,6 @@
       "Grazer AK 1902",
       "AC Sparta Prague B",
       "FK Dukla Prague B"
-    ]
-  },
-  "Dynamo Kyiv": {
-    "Ruslan Neshcheret": [
-      "Dynamo Kyiv",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Valentyn Morgun": [
-      "Dynamo Kyiv",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Denys Ignatenko": [
-      "Dynamo Kyiv UEFA U19",
-      "Dynamo Kyiv"
-    ],
-    "Taras Mykhavko": [
-      "Dynamo Kyiv",
-      "PFC Lviv",
-      "Dynamo Kyiv U19"
-    ],
-    "Denys Popov": [
-      "Dynamo Kyiv",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Aliou Thiaré": [
-      "AS Nancy-Lorraine",
-      "AC Le Havre B",
-      "Dynamo Kyiv",
-      "Diambars de Saly FC",
-      "Le Havre AC"
-    ],
-    "Kristian Bilovar": [
-      "Dynamo Kyiv",
-      "AEL Limassol",
-      "Chornomorets Odesa",
-      "Dynamo Kyiv UEFA U19",
-      "Desna Chernigiv"
-    ],
-    "Vladyslav Zakharchenko": [
-      "Dynamo Kyiv U19",
-      "Dynamo Kyiv UEFA U19",
-      "Dynamo Kyiv"
-    ],
-    "Vladyslav Dubinchak": [
-      "Dynamo Kyiv",
-      "SC Dnipro-1 ( - 2024)",
-      "Arsenal Kyiv (-2019)",
-      "Karpaty Lviv (-2021)",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Kostyantyn Vivcharenko": [
-      "Dynamo Kyiv",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Oleksandr Tymchyk": [
-      "Dynamo Kyiv",
-      "Zorya Lugansk",
-      "PFC Stal Kamyanske (-2018)",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Oleksandr Karavaev": [
-      "Dynamo Kyiv",
-      "Zorya Lugansk",
-      "FC Sevastopol (- 2014)",
-      "Fenerbahce"
-    ],
-    "Volodymyr Brazhko": [
-      "Dynamo Kyiv",
-      "Zorya Lugansk",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Mykola Mykhaylenko": [
-      "Dynamo Kyiv",
-      "FC Oleksandriya",
-      "Chornomorets Odesa",
-      "Dynamo Kyiv UEFA U19",
-      "Zorya Lugansk"
-    ],
-    "Mykola Shaparenko": [
-      "Dynamo Kyiv",
-      "Dynamo Kyiv UEFA U19",
-      "FC Mariupol"
-    ],
-    "Oleksandr Pikhalyonok": [
-      "SC Dnipro-1 ( - 2024)",
-      "Dynamo Kyiv",
-      "FC Mariupol",
-      "Shakhtar Donetsk UEFA U19",
-      "Shakhtar Donetsk"
-    ],
-    "Oleksandr Yatsyk": [
-      "Zorya Lugansk",
-      "Dynamo Kyiv",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Valentyn Rubchynskyi": [
-      "SC Dnipro-1 ( - 2024)",
-      "Dynamo Kyiv",
-      "FC Nikopol (- 2022)",
-      "Dnipro Dnipropetrovsk (- 2020)"
-    ],
-    "Aleksandre Peikrishvili": [
-      "Dinamo Tbilisi II",
-      "Dynamo Kyiv U19",
-      "Dynamo Kyiv UEFA U19",
-      "Dinamo Tbilisi"
-    ],
-    "Vitaliy Buyalskyi": [
-      "Dynamo Kyiv",
-      "Goverla Uzhgorod (- 2016)"
-    ],
-    "Nazar Voloshyn": [
-      "Dynamo Kyiv",
-      "Kryvbas Kryvyi Rig",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Vladyslav Kabaev": [
-      "Zorya Lugansk",
-      "Dynamo Kyiv",
-      "Chornomorets Odesa",
-      "Chornomorets-2 Odesa"
-    ],
-    "Shola Ogundana": [
-      "CR Flamengo U20",
-      "Dynamo Kyiv",
-      "Alex Transfiguration Academy",
-      "CR Flamengo"
-    ],
-    "Bogdan Redushko": [
-      "Dynamo Kyiv U19",
-      "Dynamo Kyiv UEFA U19",
-      "Dynamo Kyiv"
-    ],
-    "Andriy Matkevych": [
-      "Dynamo Kyiv U19",
-      "Zorya Lugansk",
-      "Zorya Lugansk U19",
-      "Dynamo Kyiv"
-    ],
-    "Samba Diallo": [
-      "Hapoel Jerusalem",
-      "Dynamo Kyiv",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Andriy Yarmolenko": [
-      "Dynamo Kyiv",
-      "West Ham United",
-      "Dynamo-2 Kyiv",
-      "Al-Ain",
-      "Borussia Dortmund",
-      "Desna Chernigiv",
-      "West Ham United U21"
-    ],
-    "Vladyslav Gerych": [
-      "Dynamo Kyiv U19",
-      "Chornomorets Odesa",
-      "PFC Lviv",
-      "Dynamo Kyiv"
-    ],
-    "Eduardo Guerrero": [
-      "Maccabi Tel Aviv",
-      "Dynamo Kyiv",
-      "Zorya Lugansk",
-      "Beitar Tel Aviv",
-      "CD Universitario",
-      "Beitar Jerusalem",
-      "Hapoel Jerusalem",
-      "Maccabi Tel Aviv UEFA U19"
-    ],
-    "Vladislav Blănuță": [
-      "Pescara Primavera",
-      "FC U Craiova 1948",
-      "FC Universitatea Cluj",
-      "Dynamo Kyiv",
-      "Delfino Pescara 1936"
-    ],
-    "Matviy Ponomarenko": [
-      "Dynamo Kyiv U19",
-      "Dynamo Kyiv",
-      "Dynamo Kyiv UEFA U19"
-    ],
-    "Ángel Torres": [
-      "Central Coast Mariners",
-      "Balzan FC",
-      "FC Porto B",
-      "FC Alverca",
-      "FC Porto Youth League",
-      "Dynamo Kyiv"
-    ],
-    "Vasyl Burtnyk": [
-      "Revera 1908 Ivano-Frankivsk",
-      "Nyva Ternopil",
-      "Dynamo Kyiv"
-    ],
-    "Maksym Vasylets": [
-      "Zorya Lugansk U19",
-      "Zorya Lugansk",
-      "Dynamo Kyiv U19"
-    ],
-    "Maksym Bragaru": [
-      "Chornomorets Odesa",
-      "Dynamo Kyiv"
-    ],
-    "Eric Ramírez": [
-      "DAC Dunajska Streda",
-      "Atlético Nacional",
-      "MFK Karvina",
-      "Slovan Bratislava",
-      "MFK Karvina B",
-      "Dynamo Kyiv",
-      "Club Atlético Tigre",
-      "FK Senica (- 2022)",
-      "Sporting",
-      "Zamora FC",
-      "Estudiantes de Caracas SC"
     ]
   },
   "AEK Athens": {
@@ -6088,6 +6079,13 @@
       "Cardiff City",
       "Liverpool FC U21",
       "FK Kolubara Lazarevac"
+    ],
+    "Hakim Sahabo": [
+      "Standard Liège",
+      "LOSC Lille U19",
+      "Standard de Liège 16 FC",
+      "Beerschot VA",
+      "LOSC Lille B"
     ],
     "Jens Jönsson": [
       "Aarhus GF",
@@ -6266,6 +6264,225 @@
       "AEK Athens",
       "Sevilla FC",
       "Olympique Lyon"
+    ]
+  },
+  "Dynamo Kyiv": {
+    "Ruslan Neshcheret": [
+      "Dynamo Kyiv",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Valentyn Morgun": [
+      "Dynamo Kyiv",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Denys Ignatenko": [
+      "Dynamo Kyiv UEFA U19",
+      "Dynamo Kyiv"
+    ],
+    "Taras Mykhavko": [
+      "Dynamo Kyiv",
+      "PFC Lviv",
+      "Dynamo Kyiv U19"
+    ],
+    "Denys Popov": [
+      "Dynamo Kyiv",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Aliou Thiaré": [
+      "AS Nancy-Lorraine",
+      "AC Le Havre B",
+      "Dynamo Kyiv",
+      "Diambars de Saly FC",
+      "Le Havre AC"
+    ],
+    "Kristian Bilovar": [
+      "Dynamo Kyiv",
+      "AEL Limassol",
+      "Chornomorets Odesa",
+      "Dynamo Kyiv UEFA U19",
+      "Desna Chernigiv"
+    ],
+    "Vladyslav Zakharchenko": [
+      "Dynamo Kyiv U19",
+      "Dynamo Kyiv UEFA U19",
+      "Dynamo Kyiv"
+    ],
+    "Vladyslav Dubinchak": [
+      "Dynamo Kyiv",
+      "SC Dnipro-1 ( - 2024)",
+      "Arsenal Kyiv (-2019)",
+      "Karpaty Lviv (-2021)",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Kostyantyn Vivcharenko": [
+      "Dynamo Kyiv",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Oleksandr Tymchyk": [
+      "Dynamo Kyiv",
+      "Zorya Lugansk",
+      "PFC Stal Kamyanske (-2018)",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Oleksandr Karavaev": [
+      "Dynamo Kyiv",
+      "Zorya Lugansk",
+      "FC Sevastopol (- 2014)",
+      "Fenerbahce"
+    ],
+    "Volodymyr Brazhko": [
+      "Dynamo Kyiv",
+      "Zorya Lugansk",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Mykola Mykhaylenko": [
+      "Dynamo Kyiv",
+      "FC Oleksandriya",
+      "Chornomorets Odesa",
+      "Dynamo Kyiv UEFA U19",
+      "Zorya Lugansk"
+    ],
+    "Mykola Shaparenko": [
+      "Dynamo Kyiv",
+      "Dynamo Kyiv UEFA U19",
+      "FC Mariupol"
+    ],
+    "Oleksandr Pikhalyonok": [
+      "SC Dnipro-1 ( - 2024)",
+      "Dynamo Kyiv",
+      "FC Mariupol",
+      "Shakhtar Donetsk UEFA U19",
+      "Shakhtar Donetsk"
+    ],
+    "Oleksandr Yatsyk": [
+      "Zorya Lugansk",
+      "Dynamo Kyiv",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Valentyn Rubchynskyi": [
+      "SC Dnipro-1 ( - 2024)",
+      "Dynamo Kyiv",
+      "FC Nikopol (- 2022)",
+      "Dnipro Dnipropetrovsk (- 2020)"
+    ],
+    "Aleksandre Peikrishvili": [
+      "Dinamo Tbilisi II",
+      "Dynamo Kyiv U19",
+      "Dynamo Kyiv UEFA U19",
+      "Dinamo Tbilisi"
+    ],
+    "Vitaliy Buyalskyi": [
+      "Dynamo Kyiv",
+      "Goverla Uzhgorod (- 2016)"
+    ],
+    "Nazar Voloshyn": [
+      "Dynamo Kyiv",
+      "Kryvbas Kryvyi Rig",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Vladyslav Kabaev": [
+      "Zorya Lugansk",
+      "Dynamo Kyiv",
+      "Chornomorets Odesa",
+      "Chornomorets-2 Odesa"
+    ],
+    "Shola Ogundana": [
+      "CR Flamengo U20",
+      "Dynamo Kyiv",
+      "Alex Transfiguration Academy",
+      "CR Flamengo"
+    ],
+    "Bogdan Redushko": [
+      "Dynamo Kyiv U19",
+      "Dynamo Kyiv UEFA U19",
+      "Dynamo Kyiv"
+    ],
+    "Andriy Matkevych": [
+      "Dynamo Kyiv U19",
+      "Zorya Lugansk",
+      "Zorya Lugansk U19",
+      "Dynamo Kyiv"
+    ],
+    "Samba Diallo": [
+      "Hapoel Jerusalem",
+      "Dynamo Kyiv",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Andriy Yarmolenko": [
+      "Dynamo Kyiv",
+      "West Ham United",
+      "Dynamo-2 Kyiv",
+      "Al-Ain",
+      "Borussia Dortmund",
+      "Desna Chernigiv",
+      "West Ham United U21"
+    ],
+    "Vladyslav Gerych": [
+      "Dynamo Kyiv U19",
+      "Chornomorets Odesa",
+      "PFC Lviv",
+      "Dynamo Kyiv"
+    ],
+    "Kyrylo Pashko": [
+      "Dynamo Kyiv U19",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Eduardo Guerrero": [
+      "Maccabi Tel Aviv",
+      "Dynamo Kyiv",
+      "Zorya Lugansk",
+      "Beitar Tel Aviv",
+      "CD Universitario",
+      "Beitar Jerusalem",
+      "Hapoel Jerusalem",
+      "Maccabi Tel Aviv UEFA U19"
+    ],
+    "Vladislav Blănuță": [
+      "Pescara Primavera",
+      "FC U Craiova 1948",
+      "FC Universitatea Cluj",
+      "Dynamo Kyiv",
+      "Delfino Pescara 1936"
+    ],
+    "Matviy Ponomarenko": [
+      "Dynamo Kyiv U19",
+      "Dynamo Kyiv",
+      "Dynamo Kyiv UEFA U19"
+    ],
+    "Ángel Torres": [
+      "Central Coast Mariners",
+      "Balzan FC",
+      "FC Porto B",
+      "FC Alverca",
+      "FC Porto Youth League",
+      "Dynamo Kyiv"
+    ],
+    "Vasyl Burtnyk": [
+      "Revera 1908 Ivano-Frankivsk",
+      "Nyva Ternopil",
+      "Dynamo Kyiv"
+    ],
+    "Maksym Vasylets": [
+      "Zorya Lugansk U19",
+      "Zorya Lugansk",
+      "Dynamo Kyiv U19"
+    ],
+    "Maksym Bragaru": [
+      "Chornomorets Odesa",
+      "Dynamo Kyiv"
+    ],
+    "Eric Ramírez": [
+      "DAC Dunajska Streda",
+      "Atlético Nacional",
+      "MFK Karvina",
+      "Slovan Bratislava",
+      "MFK Karvina B",
+      "Dynamo Kyiv",
+      "Club Atlético Tigre",
+      "FK Senica (- 2022)",
+      "Sporting",
+      "Zamora FC",
+      "Estudiantes de Caracas SC"
     ]
   },
   "Rapid Vienna": {
@@ -6557,6 +6774,7 @@
       "Lechia Gdansk",
       "Palermo FC",
       "VfL Bochum",
+      "Raków Częstochowa",
       "Hellas Verona Primavera"
     ],
     "Bogdan Racovițan": [
@@ -6573,13 +6791,6 @@
       "Raków Częstochowa",
       "Legia Warsaw U19",
       "Legia Warszawa"
-    ],
-    "Apostolos Konstantopoulos": [
-      "Beerschot VA",
-      "Panetolikos GFS",
-      "Panetolikos GFS U19",
-      "Raków Częstochowa",
-      "Beerschot VA U21"
     ],
     "Zoran Arsenic": [
       "Raków Częstochowa",
@@ -6620,17 +6831,11 @@
       "Botev Plovdiv",
       "Botev Plovdiv II"
     ],
-    "Antoni Burkiewicz": [
-      "Podhale Nowy Targ",
-      "Polonia Bytom",
-      "Raków Częstochowa II",
-      "Rakow Czestochowa U19",
-      "Raków Częstochowa"
-    ],
-    "Mitja Ilenič": [
+    "Mitja Ilenic": [
       "New York City FC",
       "NK Domzale",
-      "NK Domzale UEFA U19"
+      "NK Domzale UEFA U19",
+      "Raków Częstochowa"
     ],
     "Fran Tudor": [
       "Raków Częstochowa",
@@ -6737,6 +6942,29 @@
       "AS Monaco U19",
       "CD Leganés"
     ],
+    "Isak Brusberg": [
+      "BK Häcken",
+      "Raków Częstochowa"
+    ],
+    "Apostolos Konstantopoulos": [
+      "Beerschot VA",
+      "Panetolikos GFS",
+      "Panetolikos GFS U19",
+      "Raków Częstochowa",
+      "Beerschot VA U21"
+    ],
+    "Antoni Burkiewicz": [
+      "Podhale Nowy Targ",
+      "Polonia Bytom",
+      "Raków Częstochowa II",
+      "Rakow Czestochowa U19",
+      "Raków Częstochowa"
+    ],
+    "Mitja Ilenič": [
+      "New York City FC",
+      "NK Domzale",
+      "NK Domzale UEFA U19"
+    ],
     "Imad Rondic": [
       "FC Slovan Liberec",
       "Widzew Lodz",
@@ -6749,9 +6977,6 @@
       "FK Mladost Doboj-Kakanj",
       "SK Slavia Prague U19",
       "FC Slovan Liberec B"
-    ],
-    "Isak Brusberg": [
-      "BK Häcken"
     ],
     "Muhamed Sahinovic": [
       "FK Sarajevo Academy U19",
@@ -6939,14 +7164,6 @@
       "Slask Wroclaw II",
       "Odense Boldklub Reserves"
     ],
-    "Filip Lichy": [
-      "Slovan Bratislava",
-      "MFK Ruzomberok",
-      "FK Dukla Prague",
-      "Slovan Bratislava B",
-      "Slovan Bratislava UEFA U19",
-      "FK Dukla Prague B"
-    ],
     "Marko Tolic": [
       "Slovan Bratislava",
       "GNK Dinamo Zagreb",
@@ -7034,6 +7251,14 @@
       "Arminia Bielefeld",
       "FC Basel 1893 U21"
     ],
+    "Filip Lichy": [
+      "Slovan Bratislava",
+      "MFK Ruzomberok",
+      "FK Dukla Prague",
+      "Slovan Bratislava B",
+      "Slovan Bratislava UEFA U19",
+      "FK Dukla Prague B"
+    ],
     "Kelvin Ofori": [
       "Spartak Trnava",
       "Fortuna Düsseldorf",
@@ -7068,7 +7293,8 @@
     "Otto Hindrich": [
       "CFR Cluj",
       "Kisvárda FC",
-      "ACS Stiinta Poli Timisoara"
+      "ACS Stiinta Poli Timisoara",
+      "Legia Warszawa"
     ],
     "Gabriel Kobylak": [
       "Puszcza Niepolomice",
@@ -7110,6 +7336,12 @@
       "Ural Yekaterinburg",
       "AEK Larnaca",
       "Legia Warsaw II"
+    ],
+    "Jan Leszczyński": [
+      "Legia Warsaw U19",
+      "Legia Warsaw II",
+      "Legia Warsaw UEFA U19",
+      "Legia Warszawa"
     ],
     "Artur Jędrzejczyk": [
       "Legia Warszawa",
@@ -7158,7 +7390,7 @@
       "NK Maribor U19",
       "GNK Dinamo Zagreb II"
     ],
-    "Paweł Wszołek": [
+    "Pawel Wszolek": [
       "Legia Warszawa",
       "Queens Park Rangers",
       "Polonia Warsaw",
@@ -7261,7 +7493,8 @@
       "Legia Warsaw U19",
       "Legia Warsaw II",
       "Legia Warsaw UEFA U19",
-      "MSK Zilina U19"
+      "MSK Zilina U19",
+      "Legia Warszawa"
     ],
     "Vahan Bichakhchyan": [
       "Pogon Szczecin",
@@ -7284,8 +7517,8 @@
       "Naestved Boldklub",
       "Watford FC",
       "FC Roskilde",
-      "Bröndby IF",
       "Legia Warszawa",
+      "Bröndby IF",
       "Kalmar FF",
       "Bröndby IF U19",
       "Randers FC U19",
@@ -7327,6 +7560,15 @@
       "Venezia FC",
       "Como 1907"
     ],
+    "Paweł Wszołek": [
+      "Legia Warszawa",
+      "Queens Park Rangers",
+      "Polonia Warsaw",
+      "UC Sampdoria",
+      "Hellas Verona",
+      "1.FC Union Berlin",
+      "Legia Warsaw II"
+    ],
     "Marcel Mendes-Dudziński": [
       "Legia Warsaw II",
       "Pogon Szczecin U19",
@@ -7367,15 +7609,6 @@
       "Zabkovia Zabki",
       "GKS Jastrzebie",
       "Korona Kielce"
-    ],
-    "Pawel Wszolek": [
-      "Legia Warszawa",
-      "Queens Park Rangers",
-      "Polonia Warsaw",
-      "UC Sampdoria",
-      "Hellas Verona",
-      "1.FC Union Berlin",
-      "Legia Warsaw II"
     ],
     "Damian Szymanski": [
       "AEK Athens",
@@ -7473,16 +7706,16 @@
     "Oleksandr Romanchuk": [
       "PFC Lviv",
       "Debreceni VSC",
-      "Kryvbas Kryvyi Rig",
-      "CS Universitatea Craiova"
+      "CS Universitatea Craiova",
+      "Kryvbas Kryvyi Rig"
     ],
     "Adrian Rus": [
       "Videoton FC Fehérvár",
       "Balmazújváros FC",
       "Pisa Sporting Club",
       "Pafos FC",
-      "Sepsi OSK Sf. Gheorghe",
-      "CS Universitatea Craiova"
+      "CS Universitatea Craiova",
+      "Sepsi OSK Sf. Gheorghe"
     ],
     "Juraj Badelj": [
       "CS Universitatea Craiova",
@@ -7528,8 +7761,8 @@
       "Sepsi OSK Sf. Gheorghe",
       "Academica Clinceni (2005 - 2022)",
       "ASC Daco-Getica Bukarest",
-      "FC Rapid 1923",
       "CS Universitatea Craiova",
+      "FC Rapid 1923",
       "FC Olt Slatina (- 2015)",
       "CFR Cluj"
     ],
@@ -7595,8 +7828,8 @@
       "Roda JC Kerkrade"
     ],
     "Luca Băsceanu": [
-      "FCV Farul Constanta",
       "CS Universitatea Craiova",
+      "FCV Farul Constanta",
       "FCV Farul U18",
       "FCV Farul UEFA U19"
     ],
@@ -7627,8 +7860,8 @@
       "CO Les Ulis Football",
       "US Avranches",
       "SC Aubagne Air Bel",
-      "Bourges Foot 18",
       "CS Universitatea Craiova",
+      "Bourges Foot 18",
       "Paris 13 Atletico",
       "Stade Lavallois",
       "Stade Laval B",
@@ -7692,6 +7925,7 @@
       "Vålerenga Fotball II",
       "Vålerenga Fotball Elite",
       "FC Groningen",
+      "Aberdeen FC",
       "Aarhus GF"
     ],
     "Nick Suman": [
@@ -7715,6 +7949,7 @@
       "FC Bayern Munich U17",
       "FC Bayern Munich U19",
       "Bayern Munich UEFA U19",
+      "Aberdeen FC",
       "Bayern Munich"
     ],
     "Kristers Tobers": [
@@ -7728,8 +7963,8 @@
     "Mats Knoester": [
       "Heracles Almelo",
       "Ferencvárosi TC",
-      "Feyenoord U19",
       "Aberdeen FC",
+      "Feyenoord U19",
       "Feyenoord U21",
       "Aarhus GF",
       "Heracles Almelo U21"
@@ -7772,6 +8007,15 @@
       "Dumbarton FC",
       "Aberdeen FC B"
     ],
+    "Afeez Aremu": [
+      "IK Start",
+      "FC St. Pauli",
+      "Akwa United",
+      "1.FC Kaiserslautern",
+      "Sharks FC Port Harcourt",
+      "Sunshine Stars",
+      "Rivers United FC"
+    ],
     "Ante Palaversa": [
       "Aberdeen FC",
       "KV Kortrijk",
@@ -7781,11 +8025,6 @@
       "ESTAC Troyes",
       "Getafe CF",
       "ESTAC Troyes B"
-    ],
-    "Dante Polvara": [
-      "Aberdeen FC",
-      "Charleston Battery",
-      "Georgetown Hoyas (Georgetown University)"
     ],
     "Sivert Heltne Nilsen": [
       "SK Brann",
@@ -7809,6 +8048,12 @@
       "Stjarnan Gardabaer",
       "Aberdeen FC"
     ],
+    "Dennis Geiger": [
+      "TSG 1899 Hoffenheim",
+      "TSG 1899 Hoffenheim U17",
+      "TSG 1899 Hoffenheim II",
+      "TSG 1899 Hoffenheim U19"
+    ],
     "Lyall Cameron": [
       "Dundee FC",
       "Peterhead FC",
@@ -7817,14 +8062,6 @@
       "Aberdeen FC",
       "Dundee FC Reserves"
     ],
-    "Leighton Clarkson": [
-      "Aberdeen FC",
-      "Liverpool FC U18",
-      "Liverpool FC U21",
-      "Liverpool FC UEFA U19",
-      "Blackburn Rovers",
-      "Liverpool FC"
-    ],
     "Stuart Armstrong": [
       "Southampton FC",
       "Dundee United FC",
@@ -7832,18 +8069,6 @@
       "Aberdeen FC",
       "Sheffield Wednesday",
       "Vancouver Whitecaps FC"
-    ],
-    "Adil Aouchiche": [
-      "AS Saint-Étienne",
-      "Sunderland AFC",
-      "Aberdeen FC",
-      "Paris Saint-Germain U19",
-      "FC Lorient",
-      "Portsmouth FC",
-      "Paris Saint-Germain UEFA U19",
-      "Sunderland AFC U21",
-      "PSG",
-      "FC Lorient B"
     ],
     "Topi Keskinen": [
       "Mikkelin Palloilijat",
@@ -7911,16 +8136,41 @@
       "AFC Wimbledon U18",
       "Reading FC U21"
     ],
+    "Peter Ambrose": [
+      "Újpest FC",
+      "Aberdeen FC",
+      "Balikesirspor"
+    ],
+    "Dante Polvara": [
+      "Aberdeen FC",
+      "Charleston Battery",
+      "Georgetown Hoyas (Georgetown University)"
+    ],
+    "Leighton Clarkson": [
+      "Aberdeen FC",
+      "Liverpool FC U18",
+      "Liverpool FC U21",
+      "Liverpool FC UEFA U19",
+      "Blackburn Rovers",
+      "Liverpool FC"
+    ],
+    "Adil Aouchiche": [
+      "AS Saint-Étienne",
+      "Sunderland AFC",
+      "Aberdeen FC",
+      "Paris Saint-Germain U19",
+      "FC Lorient",
+      "Portsmouth FC",
+      "Paris Saint-Germain UEFA U19",
+      "Sunderland AFC U21",
+      "PSG",
+      "FC Lorient B"
+    ],
     "Kusini Yengi": [
       "Portsmouth FC",
       "Adelaide United",
       "Western Sydney Wanderers",
       "Aberdeen FC"
-    ],
-    "Peter Ambrose": [
-      "Újpest FC",
-      "Aberdeen FC",
-      "Balikesirspor"
     ],
     "Jesper Karlsson": [
       "AZ Alkmaar",
@@ -7989,6 +8239,17 @@
       "BK Häcken",
       "HJK Helsinki UEFA U19"
     ],
+    "Filip Helander": [
+      "Malmö FF",
+      "Bologna FC 1909",
+      "Rangers FC",
+      "Hellas Verona",
+      "Odense Boldklub",
+      "Omonia Nicosia",
+      "BK Häcken",
+      "Malmö FF U19",
+      "Malmö FF U21"
+    ],
     "Johan Hammar": [
       "BK Häcken",
       "Örgryte IS",
@@ -8013,16 +8274,7 @@
       "Sandvikens IF",
       "Kalmar FF"
     ],
-    "Sigge Jansson": [
-      "BK Häcken",
-      "Tvååkers IF"
-    ],
     "Harry Hilvenius": [
-      "BK Häcken"
-    ],
-    "Johannes Engvall": [
-      "Norrby IF",
-      "Qviding FIF",
       "BK Häcken"
     ],
     "Adam Lundkvist": [
@@ -8041,10 +8293,6 @@
       "Standard Liège",
       "Juventus Primavera",
       "Odense Boldklub Reserves"
-    ],
-    "Charlie Axede": [
-      "Torslanda IK",
-      "BK Häcken"
     ],
     "Julius Lindberg": [
       "GAIS",
@@ -8086,18 +8334,6 @@
       "Inter Milan UEFA U19",
       "FC Utrecht"
     ],
-    "Samuel Leach Holm": [
-      "IF Brommapojkarna",
-      "BK Häcken",
-      "Sollentuna FK",
-      "Djurgårdens IF U19",
-      "Djurgårdens IF U21",
-      "Djurgårdens IF",
-      "Åtvidabergs FF",
-      "Västerås SK",
-      "Dalkurd FF",
-      "Västerås SK U21"
-    ],
     "Sanders Ngabo": [
       "Lyngby Boldklub",
       "AC Horsens",
@@ -8119,18 +8355,6 @@
       "Nyköbing FC",
       "Lyngby BK Reserves",
       "HB Köge"
-    ],
-    "Lasse Madsen": [
-      "Silkeborg IF U19",
-      "Aarhus GF U19",
-      "Silkeborg IF Reserves",
-      "BK Häcken",
-      "Aarhus GF Reserves"
-    ],
-    "Joel Hjalmar": [
-      "Norrby IF",
-      "Qviding FIF",
-      "BK Häcken"
     ],
     "Pontus Dahbo": [
       "BK Häcken"
@@ -8166,6 +8390,50 @@
       "Helsingborgs IF",
       "BK Häcken"
     ],
+    "Gustav Lindgren": [
+      "Degerfors IF",
+      "Peterborough United",
+      "Sollentuna FK",
+      "Karlbergs BK",
+      "FC Djursholm U19"
+    ],
+    "Sigge Jansson": [
+      "BK Häcken",
+      "Tvååkers IF"
+    ],
+    "Johannes Engvall": [
+      "Norrby IF",
+      "Qviding FIF",
+      "BK Häcken"
+    ],
+    "Charlie Axede": [
+      "Torslanda IK",
+      "BK Häcken"
+    ],
+    "Samuel Leach Holm": [
+      "IF Brommapojkarna",
+      "BK Häcken",
+      "Sollentuna FK",
+      "Djurgårdens IF U19",
+      "Djurgårdens IF U21",
+      "Djurgårdens IF",
+      "Åtvidabergs FF",
+      "Västerås SK",
+      "Dalkurd FF",
+      "Västerås SK U21"
+    ],
+    "Lasse Madsen": [
+      "Silkeborg IF U19",
+      "Aarhus GF U19",
+      "Silkeborg IF Reserves",
+      "BK Häcken",
+      "Aarhus GF Reserves"
+    ],
+    "Joel Hjalmar": [
+      "Norrby IF",
+      "Qviding FIF",
+      "BK Häcken"
+    ],
     "Isak Brusberg": [
       "BK Häcken"
     ],
@@ -8192,17 +8460,6 @@
       "FK Kiker Kraljevo U17",
       "BK Häcken",
       "Zeleznicar Pancevo"
-    ],
-    "Filip Helander": [
-      "Malmö FF",
-      "Bologna FC 1909",
-      "Rangers FC",
-      "Hellas Verona",
-      "Odense Boldklub",
-      "Omonia Nicosia",
-      "BK Häcken",
-      "Malmö FF U19",
-      "Malmö FF U21"
     ],
     "Simon Gustafson": [
       "BK Häcken",
@@ -8278,6 +8535,16 @@
       "Stade Reims",
       "Sunderland AFC U21"
     ],
+    "Yahav Gurfinkel": [
+      "Chengdu Rongcheng",
+      "Hapoel Hadera",
+      "Hapoel Tel Aviv",
+      "Hapoel Nof HaGalil",
+      "Hapoel Haifa",
+      "IFK Norrköping",
+      "Maccabi Haifa UEFA U19",
+      "Maccabi Haifa"
+    ],
     "Jairo Izquierdo": [
       "FC Cartagena",
       "Girona",
@@ -8288,13 +8555,6 @@
       "AEK Larnaca",
       "UD Melilla",
       "Elche CF"
-    ],
-    "Jérémie Gnali": [
-      "AEK Larnaca",
-      "SD Tarazona",
-      "FC Metz B",
-      "UD Melilla",
-      "FC Metz U19"
     ],
     "Ángel García": [
       "AEK Larnaca",
@@ -8373,6 +8633,24 @@
       "AEK Larnaca",
       "AEK Larnaca UEFA U19"
     ],
+    "Robert Mudrazija": [
+      "NK Lokomotiva Zagreb",
+      "NK Osijek",
+      "NK Zagreb",
+      "Slaven Belupo Koprivnica",
+      "FC Copenhagen",
+      "HNK Rijeka",
+      "NK Olimpija Ljubljana",
+      "FC Liefering",
+      "GNK Dinamo Zagreb",
+      "FC Copenhagen Reserves"
+    ],
+    "Álex Suárez": [
+      "Real Oviedo Vetusta",
+      "Real Oviedo",
+      "CD Arenteiro",
+      "CD Mirandés"
+    ],
     "Giorgos Naoum": [
       "AEK Larnaca",
       "APOEL Nicosia UEFA U19",
@@ -8438,6 +8716,13 @@
     "Christos Loukaidis": [
       "AEK Larnaca",
       "AEK Larnaca UEFA U19"
+    ],
+    "Jérémie Gnali": [
+      "AEK Larnaca",
+      "SD Tarazona",
+      "FC Metz B",
+      "UD Melilla",
+      "FC Metz U19"
     ],
     "Karol Angielski": [
       "Radomiak Radom",
@@ -8518,10 +8803,6 @@
       "Shamrock Rovers",
       "Wexford FC",
       "Galway United FC"
-    ],
-    "Cian Barrett": [
-      "Kerry Football Club",
-      "Shamrock Rovers"
     ],
     "Trevor Clarke": [
       "Shamrock Rovers",
@@ -8624,6 +8905,11 @@
     "Victor Ozhianvuna": [
       "Shamrock Rovers"
     ],
+    "Adam Brennan": [
+      "University College Dublin",
+      "University College Dublin UEFA U19",
+      "Shamrock Rovers"
+    ],
     "Jake Mulraney": [
       "St. Patrick's Athletic",
       "Inverness Caledonian Thistle FC",
@@ -8632,6 +8918,7 @@
       "Orlando City SC",
       "Dagenham & Redbridge FC",
       "Stevenage FC",
+      "Shamrock Rovers",
       "Orlando City B"
     ],
     "Max Kovalevskis": [
@@ -8682,6 +8969,10 @@
       "Shamrock Rovers"
     ],
     "Eric Koufie": [
+      "Shamrock Rovers"
+    ],
+    "Cian Barrett": [
+      "Kerry Football Club",
       "Shamrock Rovers"
     ],
     "Aaron McEneff": [
@@ -8768,7 +9059,8 @@
       "Hamrun Spartans",
       "Seongnam FC",
       "Doce Mel EC",
-      "Nacional Atlético Clube (PR)"
+      "Nacional Atlético Clube (PR)",
+      "Estrela do Norte FC"
     ],
     "Matías García": [
       "Floriana FC",
@@ -8822,6 +9114,13 @@
       "Birkirkara FC",
       "Hamrun Spartans",
       "Floriana FC"
+    ],
+    "Michele Carboni": [
+      "Cagliari Primavera",
+      "SEF Torres 1903",
+      "Ternana Calcio",
+      "Cagliari Under 17",
+      "Cagliari Calcio"
     ],
     "Mouad El Fanis": [
       "Hamrun Spartans",
@@ -8883,17 +9182,6 @@
       "FC Sochaux-Montbéliard B",
       "Stade de Reims U19"
     ],
-    "Saliou Thioune": [
-      "Cittadella Primavera",
-      "Cittadella Under 17",
-      "Hamrun Spartans",
-      "FC Paradiso",
-      "FC Locarno",
-      "Yverdon Sport FC",
-      "Yverdon Sport FC II",
-      "AS Cittadella",
-      "Parma Under 18"
-    ],
     "Damir Céter": [
       "Jaguares de Córdoba",
       "Olbia Calcio 1905",
@@ -8920,6 +9208,17 @@
       "Botev Vratsa",
       "Hamrun Spartans",
       "AC Rezzato"
+    ],
+    "Saliou Thioune": [
+      "Cittadella Primavera",
+      "Cittadella Under 17",
+      "Hamrun Spartans",
+      "FC Paradiso",
+      "FC Locarno",
+      "Yverdon Sport FC",
+      "Yverdon Sport FC II",
+      "AS Cittadella",
+      "Parma Under 18"
     ],
     "Daniel Letherby": [
       "Hamrun Spartans",
@@ -9081,11 +9380,6 @@
       "Shelbourne FC",
       "Shelbourne FC UEFA U19"
     ],
-    "James Roche": [
-      "Shelbourne FC",
-      "Shelbourne FC UEFA U19",
-      "Shamrock Rovers"
-    ],
     "James Norris": [
       "Liverpool FC U21",
       "Shelbourne FC",
@@ -9143,8 +9437,8 @@
       "University College Dublin"
     ],
     "Cillian Ryan": [
-      "Shelbourne FC UEFA U19",
-      "Shelbourne FC"
+      "Shelbourne FC",
+      "Shelbourne FC UEFA U19"
     ],
     "Harry Wood": [
       "Shelbourne FC",
@@ -9223,6 +9517,11 @@
       "Varzim SC",
       "Estoril Praia U23",
       "FC Alverca"
+    ],
+    "James Roche": [
+      "Shelbourne FC",
+      "Shelbourne FC UEFA U19",
+      "Shamrock Rovers"
     ],
     "Dan Ring": [
       "Shelbourne FC",
@@ -9348,6 +9647,10 @@
       "AZ Alkmaar U19",
       "IFK Värnamo"
     ],
+    "Tumi Fannar Gunnarsson": [
+      "Fylkir Reykjavík",
+      "Breidablik Kópavogur"
+    ],
     "Andri Rafn Yeoman": [
       "Breidablik Kópavogur"
     ],
@@ -9377,6 +9680,16 @@
       "Valur Reykjavík",
       "Újpest FC"
     ],
+    "Dagur Fjeldsted": [
+      "Breidablik Kópavogur",
+      "FH Hafnarfjördur",
+      "UMF Grindavík",
+      "HK Kópavogs"
+    ],
+    "Jónatan Gudni Arnarsson": [
+      "Fjölnir Reykjavík",
+      "IFK Norrköping"
+    ],
     "Kristófer Kristinsson": [
       "Breidablik Kópavogur",
       "PSV Eindhoven U21",
@@ -9389,6 +9702,10 @@
       "Sönderjyske Fodbold Reserves",
       "UMF Stjarnan Gardabaer UEFA U19",
       "Stjarnan Gardabaer"
+    ],
+    "Gabríel Aron Saevarsson": [
+      "Keflavík ÍF",
+      "ÍR Reykjavík"
     ],
     "Gudmundur Magnússon": [
       "Fram Reykjavík",
@@ -9504,6 +9821,15 @@
       "Écija Balompié",
       "Lincoln Red Imps FC Reserve"
     ],
+    "Julliani Eersteling": [
+      "FC Utrecht U21",
+      "Sparta Rotterdam U19",
+      "Go Ahead Eagles",
+      "Europa Point FC",
+      "AO Agia Napa",
+      "Sparta Rotterdam U21",
+      "Sparta Rotterdam U17"
+    ],
     "Rafa Muñoz": [
       "Lincoln Red Imps FC",
       "AS Gubbio 1910",
@@ -9545,16 +9871,6 @@
       "Lions Gibraltar FC",
       "Lincoln Red Imps FC II",
       "Lincoln Red Imps FC Reserve"
-    ],
-    "Borja Fernández": [
-      "RC Celta Fortuna",
-      "Algeciras CF",
-      "Asteras Aktor",
-      "Miedz Legnica",
-      "SD Ponferradina",
-      "CF Reus Deportiu (-2020)",
-      "Celta de Vigo",
-      "Lincoln Red Imps FC"
     ],
     "Mandi": [
       "Sporting",
@@ -9625,13 +9941,6 @@
       "CA Pulpileño",
       "CD Eldense",
       "Cádiz CF Mirandilla"
-    ],
-    "Boubacar Sidik Dabo": [
-      "B68 Toftir",
-      "EB/Streymur",
-      "Lincoln Red Imps FC",
-      "B68 Toftir II",
-      "EB/Streymur II"
     ],
     "Toni García": [
       "Europa FC",
@@ -9706,6 +10015,23 @@
       "Lincoln Red Imps FC U18",
       "Lincoln Red Imps FC",
       "Lincoln Red Imps FC UEFA U19"
+    ],
+    "Borja Fernández": [
+      "RC Celta Fortuna",
+      "Algeciras CF",
+      "Asteras Aktor",
+      "Miedz Legnica",
+      "SD Ponferradina",
+      "CF Reus Deportiu (-2020)",
+      "Celta de Vigo",
+      "Lincoln Red Imps FC"
+    ],
+    "Boubacar Sidik Dabo": [
+      "B68 Toftir",
+      "EB/Streymur",
+      "Lincoln Red Imps FC",
+      "B68 Toftir II",
+      "EB/Streymur II"
     ],
     "Lee Chipolina": [
       "Lincoln Red Imps FC Reserve",

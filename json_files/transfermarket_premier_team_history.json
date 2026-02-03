@@ -16,15 +16,6 @@
       "Manchester City",
       "Manchester City UEFA U19"
     ],
-    "Stefan Ortega": [
-      "Arminia Bielefeld",
-      "TSV 1860 Munich",
-      "Manchester City",
-      "Arminia Bielefeld U19",
-      "Arminia Bielefeld U17",
-      "Arminia Bielefeld II",
-      "TSV 1860 München II"
-    ],
     "Marcus Bettinelli": [
       "Fulham FC",
       "Middlesbrough FC",
@@ -54,8 +45,8 @@
       "Chelsea FC U18",
       "Chelsea FC U21",
       "Chelsea FC UEFA U19",
-      "Chelsea",
-      "Manchester City"
+      "Manchester City",
+      "Chelsea"
     ],
     "Abdukodir Khusanov": [
       "SKA-1938 Minsk",
@@ -100,8 +91,8 @@
       "Manchester City UEFA U19"
     ],
     "Matheus Nunes": [
-      "Sporting CP",
       "Manchester City",
+      "Sporting CP",
       "Wolverhampton",
       "Sporting CP U23",
       "GD Estoril Praia",
@@ -127,13 +118,6 @@
       "Valencia CF",
       "FC Barcelona UEFA U19"
     ],
-    "Kalvin Phillips": [
-      "Leeds United",
-      "Manchester City",
-      "Ipswich Town",
-      "West Ham United",
-      "Leeds United U21"
-    ],
     "Tijjani Reijnders": [
       "AZ Alkmaar",
       "AC Milan",
@@ -150,6 +134,13 @@
       "Manchester City",
       "GNK Dinamo Zagreb",
       "Inter Milan Primavera"
+    ],
+    "Sverre Nypan": [
+      "Rosenborg BK",
+      "Middlesbrough FC",
+      "Rosenborg BK II",
+      "Rosenborg BK UEFA U19",
+      "Middlesbrough FC U21"
     ],
     "Phil Foden": [
       "Manchester City",
@@ -191,12 +182,6 @@
       "Sunderland AFC",
       "Manchester City"
     ],
-    "Oscar Bobb": [
-      "Manchester City U21",
-      "Manchester City",
-      "Manchester City U18",
-      "Manchester City UEFA U19"
-    ],
     "Erling Haaland": [
       "Manchester City",
       "Borussia Dortmund",
@@ -215,6 +200,28 @@
       "VfB Stuttgart",
       "Wadi Degla FC",
       "VfL Wolfsburg U19"
+    ],
+    "Stefan Ortega": [
+      "Arminia Bielefeld",
+      "TSV 1860 Munich",
+      "Manchester City",
+      "Arminia Bielefeld U19",
+      "Arminia Bielefeld U17",
+      "Arminia Bielefeld II",
+      "TSV 1860 München II"
+    ],
+    "Kalvin Phillips": [
+      "Leeds United",
+      "Manchester City",
+      "Ipswich Town",
+      "West Ham United",
+      "Leeds United U21"
+    ],
+    "Oscar Bobb": [
+      "Manchester City U21",
+      "Manchester City",
+      "Manchester City U18",
+      "Manchester City UEFA U19"
     ],
     "Claudio Echeverri": [
       "CA River Plate",
@@ -477,6 +484,15 @@
       "AS Saint-Étienne B",
       "AS Saint-Étienne U19"
     ],
+    "Mamadou Sarr": [
+      "RC Strasbourg Alsace",
+      "Olympique Lyon B",
+      "Olympique Lyon U19",
+      "RWDM Brussels",
+      "Olympique Lyon",
+      "Chelsea",
+      "Racing Strasbourg B"
+    ],
     "Tosin Adarabioyo": [
       "Fulham FC",
       "Chelsea",
@@ -492,23 +508,6 @@
       "Chelsea",
       "AS Monaco U21",
       "AS Monaco UEFA U19"
-    ],
-    "Axel Disasi": [
-      "AS Monaco",
-      "Chelsea",
-      "Stade Reims",
-      "Stade Reims B",
-      "Paris FC B",
-      "Aston Villa",
-      "Paris FC",
-      "Chelsea FC U21"
-    ],
-    "Aarón Anselmino": [
-      "CA Boca Juniors",
-      "Borussia Dortmund",
-      "CA Boca Juniors II",
-      "Chelsea",
-      "Chelsea FC U21"
     ],
     "Marc Cucurella": [
       "Chelsea",
@@ -615,12 +614,6 @@
       "Borussia Dortmund UEFA U19",
       "Manchester City U18"
     ],
-    "Tyrique George": [
-      "Chelsea FC U18",
-      "Chelsea",
-      "Chelsea FC U21",
-      "Chelsea FC UEFA U19"
-    ],
     "Mykhaylo Mudryk": [
       "Chelsea",
       "Shakhtar Donetsk",
@@ -641,13 +634,6 @@
       "SC Braga",
       "Wolverhampton Wanderers U21",
       "SC Braga B"
-    ],
-    "Raheem Sterling": [
-      "Manchester City",
-      "Liverpool FC",
-      "Chelsea",
-      "Arsenal FC",
-      "Liverpool FC U21"
     ],
     "João Pedro": [
       "Watford FC",
@@ -673,6 +659,36 @@
       "FC Barcelona UEFA U19",
       "FC Barcelona",
       "Sunderland AFC"
+    ],
+    "Axel Disasi": [
+      "AS Monaco",
+      "Chelsea",
+      "Stade Reims",
+      "Stade Reims B",
+      "Paris FC B",
+      "Aston Villa",
+      "Paris FC",
+      "Chelsea FC U21"
+    ],
+    "Aarón Anselmino": [
+      "CA Boca Juniors",
+      "Borussia Dortmund",
+      "CA Boca Juniors II",
+      "Chelsea",
+      "Chelsea FC U21"
+    ],
+    "Tyrique George": [
+      "Chelsea FC U18",
+      "Chelsea",
+      "Chelsea FC U21",
+      "Chelsea FC UEFA U19"
+    ],
+    "Raheem Sterling": [
+      "Manchester City",
+      "Liverpool FC",
+      "Chelsea",
+      "Arsenal FC",
+      "Liverpool FC U21"
     ],
     "David Fofana": [
       "Molde FK",
@@ -716,6 +732,14 @@
       "Liverpool FC",
       "AFC Bournemouth",
       "Hartlepool United"
+    ],
+    "Harvey Davies": [
+      "Liverpool FC U21",
+      "Crewe Alexandra",
+      "Liverpool FC U18",
+      "Crawley Town",
+      "Liverpool FC UEFA U19",
+      "Liverpool FC"
     ],
     "Ibrahima Konaté": [
       "Liverpool FC",
@@ -847,8 +871,8 @@
       "AKA Red Bull Salzburg U18"
     ],
     "Cody Gakpo": [
-      "PSV Eindhoven",
       "Liverpool FC",
+      "PSV Eindhoven",
       "PSV Eindhoven U19",
       "PSV Eindhoven U21",
       "PSV Eindhoven UEFA U19",
@@ -1004,7 +1028,8 @@
     ],
     "Souza": [
       "Santos FC",
-      "Santos FC U20"
+      "Santos FC U20",
+      "Tottenham Hotspur"
     ],
     "Pedro Porro": [
       "Tottenham Hotspur",
@@ -1068,8 +1093,8 @@
     "Xavi Simons": [
       "RB Leipzig",
       "PSV Eindhoven",
-      "Paris Saint-Germain U19",
       "Tottenham Hotspur",
+      "Paris Saint-Germain U19",
       "Paris Saint-Germain UEFA U19",
       "PSG"
     ],
@@ -1286,14 +1311,6 @@
       "Porto",
       "Real Madrid Castilla"
     ],
-    "Toby Collyer": [
-      "Manchester United U21",
-      "Brighton & Hove Albion U18",
-      "Manchester United",
-      "West Bromwich Albion",
-      "Manchester United U18",
-      "Brighton & Hove Albion U21"
-    ],
     "Kobbie Mainoo": [
       "Manchester United",
       "Manchester United U18",
@@ -1375,6 +1392,14 @@
       "Arsenal FC UEFA U19",
       "Arsenal FC U21",
       "Manchester United UEFA U19"
+    ],
+    "Toby Collyer": [
+      "Manchester United U21",
+      "Brighton & Hove Albion U18",
+      "Manchester United",
+      "West Bromwich Albion",
+      "Manchester United U18",
+      "Brighton & Hove Albion U21"
     ],
     "Ethan Wheatley": [
       "Manchester United U18",
@@ -1614,8 +1639,8 @@
       "SV Werder Bremen",
       "VfB Stuttgart",
       "SV 07 Elversberg",
-      "SV Werder Bremen U17",
       "Newcastle United",
+      "SV Werder Bremen U17",
       "SV Werder Bremen U19",
       "SV Werder Bremen II"
     ],
@@ -1624,8 +1649,8 @@
       "FC Lorient",
       "LB Châteauroux",
       "AC Ajaccio",
-      "Stade Lavallois",
       "Newcastle United",
+      "Stade Lavallois",
       "Angers SCO B",
       "Angers SCO",
       "Stade Laval B"
@@ -1675,6 +1700,15 @@
       "Newcastle United",
       "Newcastle United U21"
     ],
+    "Stefan Ortega": [
+      "Arminia Bielefeld",
+      "TSV 1860 Munich",
+      "Manchester City",
+      "Arminia Bielefeld U19",
+      "Arminia Bielefeld U17",
+      "Arminia Bielefeld II",
+      "TSV 1860 München II"
+    ],
     "Angus Gunn": [
       "Norwich City",
       "Manchester City U21",
@@ -1682,10 +1716,10 @@
       "Stoke City",
       "Manchester City UEFA U19",
       "Norwich City U21",
+      "Nottingham Forest",
       "Stoke City U21",
       "Southampton FC U21",
-      "Manchester City",
-      "Nottingham Forest"
+      "Manchester City"
     ],
     "Murillo": [
       "Nottingham Forest",
@@ -1734,21 +1768,20 @@
       "Fulham FC",
       "Liverpool FC UEFA U19"
     ],
-    "Oleksandr Zinchenko": [
-      "Manchester City",
-      "Arsenal FC",
-      "FC Ufa",
-      "PSV Eindhoven",
-      "Nottingham Forest",
-      "PSV Eindhoven U21",
-      "Shakhtar Donetsk UEFA U19",
-      "FC Ufa II"
-    ],
     "Cuiabano": [
       "Botafogo de Futebol e Regatas",
       "Grêmio Foot-Ball Porto Alegrense",
       "Grêmio FBPA U20",
       "Nottingham Forest U21"
+    ],
+    "Luca Netz": [
+      "Borussia Mönchengladbach",
+      "Hertha BSC U17",
+      "Hertha BSC U19",
+      "Hertha BSC",
+      "Hertha BSC II",
+      "Borussia Mönchengladbach II",
+      "Hertha BSC UEFA U19"
     ],
     "Ola Aina": [
       "Torino FC",
@@ -1791,13 +1824,6 @@
       "Newcastle United U21",
       "Newcastle United U18",
       "Bristol Rovers"
-    ],
-    "Douglas Luiz": [
-      "Aston Villa",
-      "Girona",
-      "Clube de Regatas Vasco da Gama",
-      "Juventus FC",
-      "Nottingham Forest"
     ],
     "Nicolás Domínguez": [
       "Bologna FC 1909",
@@ -1874,7 +1900,8 @@
       "Ajax Amsterdam",
       "Ajax Amsterdam U21",
       "Torino Primavera",
-      "LR Vicenza"
+      "LR Vicenza",
+      "Nottingham Forest"
     ],
     "Igor Jesus": [
       "Shabab Al-Ahli Club",
@@ -1910,6 +1937,23 @@
       "WaiBOP United (2004 - 2016)",
       "Leicester City U21"
     ],
+    "Oleksandr Zinchenko": [
+      "Manchester City",
+      "Arsenal FC",
+      "FC Ufa",
+      "PSV Eindhoven",
+      "Nottingham Forest",
+      "PSV Eindhoven U21",
+      "Shakhtar Donetsk UEFA U19",
+      "FC Ufa II"
+    ],
+    "Douglas Luiz": [
+      "Aston Villa",
+      "Girona",
+      "Clube de Regatas Vasco da Gama",
+      "Juventus FC",
+      "Nottingham Forest"
+    ],
     "Arnaud Kalimuendo": [
       "Stade Rennais FC",
       "RC Lens",
@@ -1925,447 +1969,6 @@
       "Leixões SC",
       "SC Espinho",
       "Leixões SC U23"
-    ]
-  },
-  "Brighton & Hove Albion": {
-    "Bart Verbruggen": [
-      "Brighton & Hove Albion",
-      "RSC Anderlecht",
-      "NAC Breda U19",
-      "RSCA Futures",
-      "NAC Breda",
-      "NAC Breda U21"
-    ],
-    "Jason Steele": [
-      "Middlesbrough FC",
-      "Blackburn Rovers",
-      "Brighton & Hove Albion",
-      "Sunderland AFC",
-      "Northampton Town",
-      "Brighton & Hove Albion U21",
-      "Middlesbrough FC U21",
-      "Sunderland AFC U21"
-    ],
-    "Tom McGill": [
-      "Brighton & Hove Albion U21",
-      "Brighton & Hove Albion U18",
-      "Milton Keynes Dons",
-      "Crawley Town",
-      "Brighton & Hove Albion"
-    ],
-    "Jan Paul van Hecke": [
-      "Brighton & Hove Albion",
-      "Blackburn Rovers",
-      "SC Heerenveen",
-      "NAC Breda U19",
-      "NAC Breda",
-      "NAC Breda U21",
-      "Brighton & Hove Albion U21"
-    ],
-    "Olivier Boscagli": [
-      "PSV Eindhoven",
-      "OGC Nice B",
-      "OGC Nice",
-      "Nîmes Olympique",
-      "Brighton & Hove Albion"
-    ],
-    "Diego Coppola": [
-      "Hellas Verona",
-      "Hellas Verona Primavera",
-      "Hellas Under 17",
-      "Brighton & Hove Albion"
-    ],
-    "Adam Webster": [
-      "Brighton & Hove Albion",
-      "Portsmouth FC",
-      "Ipswich Town",
-      "Bristol City",
-      "Aldershot Town",
-      "Brighton & Hove Albion U21"
-    ],
-    "Lewis Dunk": [
-      "Brighton & Hove Albion",
-      "Bristol City"
-    ],
-    "Ferdi Kadıoğlu": [
-      "Fenerbahce",
-      "NEC Nijmegen",
-      "Brighton & Hove Albion",
-      "Fenerbahce U21",
-      "NEC Nijmegen U21",
-      "NEC Nijmegen U19",
-      "Fenerbahce U19"
-    ],
-    "Maxim De Cuyper": [
-      "Club Brugge KV",
-      "KVC Westerlo",
-      "Brighton & Hove Albion",
-      "Club NXT",
-      "Club Brugge UEFA U19",
-      "Club Bruges U19"
-    ],
-    "Joël Veltman": [
-      "Ajax Amsterdam",
-      "Brighton & Hove Albion",
-      "Ajax Amsterdam U21",
-      "Ajax Amsterdam U19"
-    ],
-    "Carlos Baleba": [
-      "Brighton & Hove Albion",
-      "LOSC Lille",
-      "LOSC Lille B"
-    ],
-    "Mats Wieffer": [
-      "Feyenoord Rotterdam",
-      "Excelsior Rotterdam",
-      "Brighton & Hove Albion",
-      "FC Twente Enschede U19",
-      "FC Twente Enschede U21",
-      "Twente Enschede FC"
-    ],
-    "Jack Hinshelwood": [
-      "Brighton & Hove Albion",
-      "Brighton & Hove Albion U18",
-      "Brighton & Hove Albion U21"
-    ],
-    "Yasin Ayari": [
-      "Brighton & Hove Albion",
-      "AIK",
-      "Blackburn Rovers",
-      "Coventry City",
-      "Blackburn Rovers U21",
-      "AIK U19"
-    ],
-    "Diego Gómez": [
-      "Club Libertad Asunción",
-      "Brighton & Hove Albion",
-      "Inter Miami",
-      "Brighton & Hove Albion U21"
-    ],
-    "Pascal Groß": [
-      "Brighton & Hove Albion",
-      "FC Ingolstadt 04",
-      "Borussia Dortmund",
-      "TSG 1899 Hoffenheim U19",
-      "Karlsruher SC",
-      "TSG 1899 Hoffenheim U17",
-      "TSG 1899 Hoffenheim II",
-      "Karlsruher SC II",
-      "TSG 1899 Hoffenheim",
-      "FC Ingolstadt 04 II"
-    ],
-    "James Milner": [
-      "Liverpool FC",
-      "Manchester City",
-      "Newcastle United",
-      "Aston Villa",
-      "Leeds United",
-      "Brighton & Hove Albion",
-      "Swindon Town"
-    ],
-    "Andrew Moran": [
-      "Brighton & Hove Albion U21",
-      "Blackburn Rovers",
-      "Stoke City",
-      "Brighton & Hove Albion U18",
-      "Los Ángeles FC",
-      "Brighton & Hove Albion",
-      "Bray Wanderers"
-    ],
-    "Kaoru Mitoma": [
-      "Brighton & Hove Albion",
-      "Kawasaki Frontale",
-      "Union Saint-Gilloise",
-      "Tsukuba University"
-    ],
-    "Tom Watson": [
-      "Sunderland AFC U18",
-      "Sunderland AFC U21",
-      "Sunderland AFC",
-      "Brighton & Hove Albion"
-    ],
-    "Jeremy Sarmiento": [
-      "Burnley FC",
-      "Ipswich Town",
-      "West Bromwich Albion",
-      "Brighton & Hove Albion",
-      "Brighton & Hove Albion U21",
-      "SL Benfica U23",
-      "US Cremonese",
-      "Charlton Athletic U18",
-      "SL Benfica UEFA U19"
-    ],
-    "Yankuba Minteh": [
-      "Brighton & Hove Albion",
-      "Feyenoord Rotterdam",
-      "Odense Boldklub",
-      "Odense Boldklub Reserves",
-      "Odense Boldklub U19"
-    ],
-    "Brajan Gruda": [
-      "Brighton & Hove Albion",
-      "1.FSV Mainz 05 U19",
-      "1.FSV Mainz 05",
-      "1.FSV Mainz 05 U17"
-    ],
-    "Solly March": [
-      "Brighton & Hove Albion",
-      "Brighton & Hove Albion U21"
-    ],
-    "Georginio Rutter": [
-      "Leeds United",
-      "TSG 1899 Hoffenheim",
-      "Brighton & Hove Albion",
-      "Stade Rennais FC B",
-      "TSG 1899 Hoffenheim II",
-      "Stade Rennais FC",
-      "Stade Rennais FC UEFA U19",
-      "Leeds United U21",
-      "Stade Rennais FC U19"
-    ],
-    "Charalampos Kostoulas": [
-      "Olympiacos Piraeus",
-      "Olympiacos Piraeus B",
-      "Olympiacos Piraeus U19",
-      "Brighton & Hove Albion",
-      "Olympiacos Piraeus UEFA U19",
-      "Brighton & Hove Albion U21"
-    ],
-    "Stefanos Tzimas": [
-      "PAOK Thessaloniki",
-      "1.FC Nuremberg",
-      "Brighton & Hove Albion",
-      "PAOK Thessaloniki U19",
-      "PAOK Thessaloniki B",
-      "Brighton & Hove Albion U21"
-    ],
-    "Danny Welbeck": [
-      "Brighton & Hove Albion",
-      "Manchester United",
-      "Arsenal FC",
-      "Sunderland AFC",
-      "Watford FC",
-      "Preston North End",
-      "Arsenal FC U21",
-      "Manchester United U21",
-      "Manchester United U18",
-      "Sunderland AFC U21"
-    ]
-  },
-  "Aston Villa": {
-    "Emiliano Martínez": [
-      "Aston Villa",
-      "Arsenal FC",
-      "Arsenal FC U21",
-      "Reading FC",
-      "Wolverhampton",
-      "Sheffield Wednesday",
-      "Rotherham United",
-      "Getafe CF",
-      "Oxford United"
-    ],
-    "Marco Bizot": [
-      "AZ Alkmaar",
-      "Stade Brestois 29",
-      "KRC Genk",
-      "FC Groningen",
-      "SC Cambuur Leeuwarden",
-      "Aston Villa",
-      "FC Groningen U21",
-      "Ajax Amsterdam U19"
-    ],
-    "Ezri Konsa": [
-      "Aston Villa",
-      "Charlton Athletic",
-      "Brentford FC"
-    ],
-    "Pau Torres": [
-      "Villarreal CF",
-      "Aston Villa",
-      "Villarreal CF B",
-      "Málaga CF",
-      "Villarreal CF UEFA U19"
-    ],
-    "Victor Lindelöf": [
-      "Manchester United",
-      "SL Benfica B",
-      "SL Benfica",
-      "Västerås SK",
-      "Aston Villa"
-    ],
-    "Tyrone Mings": [
-      "Aston Villa",
-      "Ipswich Town",
-      "AFC Bournemouth",
-      "Aston Villa U21"
-    ],
-    "Ian Maatsen": [
-      "Aston Villa",
-      "Coventry City",
-      "Burnley FC",
-      "Charlton Athletic",
-      "Chelsea FC U21",
-      "Borussia Dortmund",
-      "PSV Eindhoven U17",
-      "Chelsea",
-      "Chelsea FC U18",
-      "Chelsea FC UEFA U19"
-    ],
-    "Lucas Digne": [
-      "Aston Villa",
-      "Everton FC",
-      "LOSC Lille",
-      "FC Barcelona",
-      "PSG",
-      "AS Roma",
-      "LOSC Lille B"
-    ],
-    "Matty Cash": [
-      "Aston Villa",
-      "Nottingham Forest",
-      "Dagenham & Redbridge FC",
-      "Nottingham Forest U18"
-    ],
-    "Andrés García": [
-      "Levante",
-      "Aston Villa",
-      "Atlético Levante UD"
-    ],
-    "Amadou Onana": [
-      "Everton FC",
-      "Aston Villa",
-      "LOSC Lille",
-      "TSG 1899 Hoffenheim U19",
-      "Hamburger SV",
-      "TSG 1899 Hoffenheim U17",
-      "TSG 1899 Hoffenheim UEFA U19",
-      "TSG 1899 Hoffenheim II"
-    ],
-    "Boubacar Kamara": [
-      "Olympique Marseille",
-      "Aston Villa",
-      "Olympique de Marseille B",
-      "Olympique Marseille U19",
-      "Aston Villa U21"
-    ],
-    "Lamare Bogarde": [
-      "Aston Villa U21",
-      "Aston Villa",
-      "Bristol Rovers",
-      "Feyenoord U17",
-      "Aston Villa U18"
-    ],
-    "Youri Tielemans": [
-      "Leicester City",
-      "RSC Anderlecht",
-      "Aston Villa",
-      "AS Monaco"
-    ],
-    "John McGinn": [
-      "Aston Villa",
-      "Hibernian FC",
-      "St. Mirren FC"
-    ],
-    "Ross Barkley": [
-      "Everton FC",
-      "Chelsea",
-      "Aston Villa",
-      "Luton Town",
-      "OGC Nice",
-      "Everton FC U21",
-      "Sheffield Wednesday",
-      "Leeds United",
-      "Chelsea FC U21",
-      "Aston Villa U21"
-    ],
-    "Morgan Rogers": [
-      "Aston Villa",
-      "Middlesbrough FC",
-      "West Bromwich Albion U18",
-      "Lincoln City",
-      "Manchester City U21",
-      "Blackpool FC",
-      "AFC Bournemouth",
-      "West Bromwich Albion U21",
-      "Manchester City U18",
-      "Manchester City UEFA U19",
-      "West Bromwich Albion"
-    ],
-    "Harvey Elliott": [
-      "Liverpool FC",
-      "Blackburn Rovers",
-      "Fulham FC U18",
-      "Liverpool FC U21",
-      "Liverpool FC UEFA U19",
-      "Fulham FC U21",
-      "Aston Villa",
-      "Fulham FC"
-    ],
-    "Emiliano Buendía": [
-      "Aston Villa",
-      "Norwich City",
-      "Cultural Leonesa",
-      "Getafe CF",
-      "Getafe CF B",
-      "Bayer Leverkusen",
-      "Aston Villa U21"
-    ],
-    "Jadon Sancho": [
-      "Borussia Dortmund",
-      "Manchester United",
-      "Chelsea",
-      "Manchester City U18",
-      "Aston Villa",
-      "Manchester City U21",
-      "Manchester City UEFA U19",
-      "Borussia Dortmund UEFA U19",
-      "Borussia Dortmund II",
-      "Borussia Dortmund U19"
-    ],
-    "Evann Guessand": [
-      "OGC Nice",
-      "FC Nantes",
-      "FC Lausanne-Sport",
-      "OGC Nice B",
-      "Aston Villa"
-    ],
-    "Leon Bailey": [
-      "Bayer Leverkusen",
-      "Aston Villa",
-      "KRC Genk",
-      "AS Roma"
-    ],
-    "Alysson": [
-      "Grêmio Foot-Ball Porto Alegrense",
-      "Grêmio FBPA U20"
-    ],
-    "Ollie Watkins": [
-      "Aston Villa",
-      "Brentford FC",
-      "Exeter City"
-    ],
-    "Brian Madjo": [
-      "FC Metz U19",
-      "FC Metz",
-      "FC Metz B"
-    ],
-    "Jamaldeen Jimoh-Aloba": [
-      "Aston Villa U21",
-      "Aston Villa U18",
-      "Aston Villa UEFA U19",
-      "West Bromwich Albion U18",
-      "Aston Villa"
-    ],
-    "Donyell Malen": [
-      "Borussia Dortmund",
-      "PSV Eindhoven",
-      "Aston Villa",
-      "PSV Eindhoven U21",
-      "Arsenal FC U21",
-      "Arsenal FC U18",
-      "Arsenal FC UEFA U19",
-      "Ajax Amsterdam U17",
-      "Ajax U18"
     ]
   },
   "Crystal Palace": {
@@ -2510,11 +2113,6 @@
       "Broomhill FC (- 2025)",
       "Kilmarnock FC"
     ],
-    "Hindolo Mustapha": [
-      "Crystal Palace U18",
-      "Crystal Palace U21",
-      "1.FC Nuremberg II"
-    ],
     "Ismaïla Sarr": [
       "Watford FC",
       "Stade Rennais FC",
@@ -2534,15 +2132,12 @@
       "Crystal Palace",
       "Nottingham Forest U18"
     ],
-    "Jesurun Rak-Sakyi": [
-      "Charlton Athletic",
-      "Crystal Palace U21",
-      "Sheffield United",
-      "Crystal Palace U18",
-      "Caykur Rizespor",
-      "Crystal Palace",
-      "Chelsea FC U18",
-      "Brighton & Hove Albion U18"
+    "Evann Guessand": [
+      "OGC Nice",
+      "FC Nantes",
+      "FC Lausanne-Sport",
+      "OGC Nice B",
+      "Aston Villa"
     ],
     "Jean-Philippe Mateta": [
       "Crystal Palace",
@@ -2552,6 +2147,14 @@
       "Olympique Lyon B",
       "Olympique Lyon",
       "Crystal Palace U21"
+    ],
+    "Jørgen Strand Larsen": [
+      "Celta de Vigo",
+      "FC Groningen",
+      "Wolverhampton",
+      "Sarpsborg 08 FF",
+      "AC Milan Primavera",
+      "Sarpsborg 08 FF II"
     ],
     "Eddie Nketiah": [
       "Arsenal FC",
@@ -2567,6 +2170,21 @@
       "Crystal Palace",
       "Moralo CP",
       "Crystal Palace U21"
+    ],
+    "Hindolo Mustapha": [
+      "Crystal Palace U18",
+      "Crystal Palace U21",
+      "1.FC Nuremberg II"
+    ],
+    "Jesurun Rak-Sakyi": [
+      "Charlton Athletic",
+      "Crystal Palace U21",
+      "Sheffield United",
+      "Crystal Palace U18",
+      "Caykur Rizespor",
+      "Crystal Palace",
+      "Chelsea FC U18",
+      "Brighton & Hove Albion U18"
     ],
     "Marc Guéhi": [
       "Crystal Palace",
@@ -2607,251 +2225,485 @@
     ],
     "Zach Marsh": []
   },
-  "Brentford FC": {
-    "Caoimhín Kelleher": [
-      "Liverpool FC",
-      "Liverpool FC U21",
-      "Brentford FC",
-      "Liverpool FC U18"
+  "Aston Villa": {
+    "Emiliano Martínez": [
+      "Aston Villa",
+      "Arsenal FC",
+      "Arsenal FC U21",
+      "Reading FC",
+      "Wolverhampton",
+      "Sheffield Wednesday",
+      "Rotherham United",
+      "Getafe CF",
+      "Oxford United"
     ],
-    "Hákon Valdimarsson": [
-      "ÍF Grótta",
-      "IF Elfsborg",
-      "Brentford FC",
-      "FC Brentford U21"
+    "Marco Bizot": [
+      "AZ Alkmaar",
+      "Stade Brestois 29",
+      "KRC Genk",
+      "FC Groningen",
+      "SC Cambuur Leeuwarden",
+      "Aston Villa",
+      "FC Groningen U21",
+      "Ajax Amsterdam U19"
     ],
-    "Ellery Balcombe": [
-      "St. Mirren FC",
-      "Doncaster Rovers",
-      "Bromley FC",
-      "Motherwell FC",
-      "Crawley Town",
-      "Viborg FF",
-      "Bristol Rovers",
-      "Boreham Wood FC",
-      "Burton Albion",
+    "Ezri Konsa": [
+      "Aston Villa",
+      "Charlton Athletic",
       "Brentford FC"
     ],
-    "Nathan Collins": [
-      "Brentford FC",
-      "Stoke City",
-      "Wolverhampton",
-      "Stoke City U21",
+    "Pau Torres": [
+      "Villarreal CF",
+      "Aston Villa",
+      "Villarreal CF B",
+      "Málaga CF",
+      "Villarreal CF UEFA U19"
+    ],
+    "Victor Lindelöf": [
+      "Manchester United",
+      "SL Benfica B",
+      "SL Benfica",
+      "Västerås SK",
+      "Aston Villa"
+    ],
+    "Tyrone Mings": [
+      "Aston Villa",
+      "Ipswich Town",
+      "AFC Bournemouth",
+      "Aston Villa U21"
+    ],
+    "Ian Maatsen": [
+      "Aston Villa",
+      "Coventry City",
       "Burnley FC",
-      "Stoke City U18"
+      "Charlton Athletic",
+      "Chelsea FC U21",
+      "Borussia Dortmund",
+      "PSV Eindhoven U17",
+      "Chelsea",
+      "Chelsea FC U18",
+      "Chelsea FC UEFA U19"
     ],
-    "Sepp van den Berg": [
-      "Preston North End",
-      "Brentford FC",
-      "1.FSV Mainz 05",
+    "Lucas Digne": [
+      "Aston Villa",
+      "Everton FC",
+      "LOSC Lille",
+      "FC Barcelona",
+      "PSG",
+      "AS Roma",
+      "LOSC Lille B"
+    ],
+    "Matty Cash": [
+      "Aston Villa",
+      "Nottingham Forest",
+      "Dagenham & Redbridge FC",
+      "Nottingham Forest U18"
+    ],
+    "Andrés García": [
+      "Levante",
+      "Aston Villa",
+      "Atlético Levante UD"
+    ],
+    "Amadou Onana": [
+      "Everton FC",
+      "Aston Villa",
+      "LOSC Lille",
+      "TSG 1899 Hoffenheim U19",
+      "Hamburger SV",
+      "TSG 1899 Hoffenheim U17",
+      "TSG 1899 Hoffenheim UEFA U19",
+      "TSG 1899 Hoffenheim II"
+    ],
+    "Boubacar Kamara": [
+      "Olympique Marseille",
+      "Aston Villa",
+      "Olympique de Marseille B",
+      "Olympique Marseille U19",
+      "Aston Villa U21"
+    ],
+    "Lamare Bogarde": [
+      "Aston Villa",
+      "Aston Villa U21",
+      "Bristol Rovers",
+      "Feyenoord U17",
+      "Aston Villa U18"
+    ],
+    "Youri Tielemans": [
+      "Leicester City",
+      "RSC Anderlecht",
+      "Aston Villa",
+      "AS Monaco"
+    ],
+    "Douglas Luiz": [
+      "Aston Villa",
+      "Girona",
+      "Clube de Regatas Vasco da Gama",
+      "Juventus FC",
+      "Nottingham Forest"
+    ],
+    "John McGinn": [
+      "Aston Villa",
+      "Hibernian FC",
+      "St. Mirren FC"
+    ],
+    "Ross Barkley": [
+      "Everton FC",
+      "Chelsea",
+      "Aston Villa",
+      "Luton Town",
+      "OGC Nice",
+      "Everton FC U21",
+      "Sheffield Wednesday",
+      "Leeds United",
+      "Chelsea FC U21",
+      "Aston Villa U21"
+    ],
+    "Morgan Rogers": [
+      "Aston Villa",
+      "Middlesbrough FC",
+      "West Bromwich Albion U18",
+      "Lincoln City",
+      "Manchester City U21",
+      "Blackpool FC",
+      "AFC Bournemouth",
+      "West Bromwich Albion U21",
+      "Manchester City U18",
+      "Manchester City UEFA U19",
+      "West Bromwich Albion"
+    ],
+    "Harvey Elliott": [
+      "Liverpool FC",
+      "Blackburn Rovers",
+      "Fulham FC U18",
       "Liverpool FC U21",
-      "PEC Zwolle",
-      "PEC Zwolle U19",
-      "FC Schalke 04",
+      "Aston Villa",
       "Liverpool FC UEFA U19",
-      "Liverpool FC",
-      "PEC Zwolle U21",
-      "FC Schalke 04 II",
-      "1.FSV Mainz 05 II"
+      "Fulham FC U21",
+      "Fulham FC"
     ],
-    "Kristoffer Ajer": [
-      "Celtic FC",
-      "Brentford FC",
-      "IK Start",
-      "Kilmarnock FC",
-      "Celtic FC UEFA U19",
-      "Celtic Glasgow U20",
-      "Celtic FC B",
-      "FC Brentford U21"
+    "Emiliano Buendía": [
+      "Aston Villa",
+      "Norwich City",
+      "Cultural Leonesa",
+      "Getafe CF",
+      "Getafe CF B",
+      "Bayer Leverkusen",
+      "Aston Villa U21"
     ],
-    "Ethan Pinnock": [
-      "Brentford FC",
-      "Barnsley FC",
-      "Forest Green Rovers"
+    "Jadon Sancho": [
+      "Borussia Dortmund",
+      "Manchester United",
+      "Chelsea",
+      "Aston Villa",
+      "Manchester City U18",
+      "Manchester City U21",
+      "Manchester City UEFA U19",
+      "Borussia Dortmund UEFA U19",
+      "Borussia Dortmund II",
+      "Borussia Dortmund U19"
     ],
-    "Rico Henry": [
-      "Brentford FC",
-      "Walsall FC"
+    "Leon Bailey": [
+      "Bayer Leverkusen",
+      "Aston Villa",
+      "KRC Genk",
+      "AS Roma"
     ],
-    "Michael Kayode": [
-      "Fiorentina Primavera",
-      "ACF Fiorentina",
-      "Brentford FC",
-      "ASDC Gozzano",
-      "Fiorentina Under 18"
+    "Alysson": [
+      "Grêmio Foot-Ball Porto Alegrense",
+      "Grêmio FBPA U20"
     ],
-    "Aaron Hickey": [
+    "Ollie Watkins": [
+      "Aston Villa",
       "Brentford FC",
-      "Bologna FC 1909",
-      "Heart of Midlothian FC"
+      "Exeter City"
     ],
-    "Vitaly Janelt": [
-      "Brentford FC",
-      "VfL Bochum",
-      "RB Leipzig U17",
-      "Hamburger SV U17",
-      "RB Leipzig U19",
-      "VfL Bochum U19",
-      "RB Leipzig II (- 2017)"
+    "Tammy Abraham": [
+      "AS Roma",
+      "Chelsea",
+      "Bristol City",
+      "AC Milan",
+      "Aston Villa",
+      "Swansea City",
+      "Chelsea FC U21",
+      "Besiktas JK",
+      "Chelsea FC UEFA U19",
+      "Chelsea FC U18"
     ],
-    "Jordan Henderson": [
-      "Liverpool FC",
-      "Sunderland AFC",
-      "Ajax Amsterdam",
-      "Brentford FC",
-      "Al-Ettifaq FC",
-      "Coventry City"
+    "Evann Guessand": [
+      "OGC Nice",
+      "FC Nantes",
+      "FC Lausanne-Sport",
+      "OGC Nice B",
+      "Aston Villa"
     ],
-    "Yegor Yarmolyuk": [
-      "Brentford FC",
-      "SC Dnipro-1 ( - 2024)"
+    "Brian Madjo": [
+      "FC Metz U19",
+      "FC Metz",
+      "FC Metz B"
     ],
-    "Mathias Jensen": [
-      "Brentford FC",
-      "FC Nordsjaelland",
-      "Celta de Vigo",
-      "FC Nordsjaelland U19",
-      "Dänische Liga-Auswahl"
+    "Jamaldeen Jimoh-Aloba": [
+      "Aston Villa U21",
+      "Aston Villa U18",
+      "Aston Villa UEFA U19",
+      "West Bromwich Albion U18",
+      "Aston Villa"
     ],
-    "Frank Onyeka": [
-      "FC Midtjylland",
-      "Brentford FC",
-      "FC Augsburg",
-      "FC Midtjylland U19",
-      "FC Midtjylland Reserves",
-      "FC Midtjylland UEFA U19"
-    ],
-    "Josh Dasilva": [
-      "Brentford FC",
+    "Donyell Malen": [
+      "Borussia Dortmund",
+      "PSV Eindhoven",
+      "Aston Villa",
+      "PSV Eindhoven U21",
       "Arsenal FC U21",
       "Arsenal FC U18",
       "Arsenal FC UEFA U19",
-      "Arsenal FC"
+      "Ajax Amsterdam U17",
+      "Ajax U18"
+    ]
+  },
+  "Brighton & Hove Albion": {
+    "Bart Verbruggen": [
+      "Brighton & Hove Albion",
+      "RSC Anderlecht",
+      "NAC Breda U19",
+      "RSCA Futures",
+      "NAC Breda",
+      "NAC Breda U21"
     ],
-    "Keane Lewis-Potter": [
-      "Hull City",
-      "Brentford FC",
-      "Bradford (Park Avenue)",
-      "Hull City U18"
+    "Jason Steele": [
+      "Middlesbrough FC",
+      "Blackburn Rovers",
+      "Brighton & Hove Albion",
+      "Sunderland AFC",
+      "Northampton Town",
+      "Brighton & Hove Albion U21",
+      "Middlesbrough FC U21",
+      "Sunderland AFC U21"
     ],
-    "Mikkel Damsgaard": [
-      "Brentford FC",
-      "FC Nordsjaelland",
-      "UC Sampdoria",
-      "FC Nordsjaelland U19",
-      "FC Nordsjaelland Reserves"
+    "Tom McGill": [
+      "Brighton & Hove Albion U21",
+      "Brighton & Hove Albion U18",
+      "Milton Keynes Dons",
+      "Crawley Town",
+      "Brighton & Hove Albion"
     ],
-    "Antoni Milambo": [
-      "Feyenoord Rotterdam",
-      "Feyenoord U21",
-      "Feyenoord U18",
-      "Feyenoord U17",
-      "Brentford FC",
-      "Feyenoord Rotterdam UEFA U19"
+    "Jan Paul van Hecke": [
+      "Brighton & Hove Albion",
+      "Blackburn Rovers",
+      "SC Heerenveen",
+      "NAC Breda U19",
+      "NAC Breda",
+      "NAC Breda U21",
+      "Brighton & Hove Albion U21"
     ],
-    "Fábio Carvalho": [
-      "Fulham FC",
-      "Fulham FC U18",
-      "Fulham FC U21",
-      "Brentford FC",
-      "Liverpool FC",
-      "Hull City",
-      "RB Leipzig",
-      "Liverpool FC U21",
-      "FC Brentford U21"
+    "Olivier Boscagli": [
+      "PSV Eindhoven",
+      "OGC Nice B",
+      "OGC Nice",
+      "Nîmes Olympique",
+      "Brighton & Hove Albion"
     ],
-    "Kevin Schade": [
-      "Brentford FC",
-      "SC Freiburg U19",
-      "SC Freiburg",
-      "SC Freiburg II",
-      "FC Energie Cottbus U17"
+    "Igor Julio": [
+      "ACF Fiorentina",
+      "Brighton & Hove Albion",
+      "FC Liefering",
+      "Austria Vienna",
+      "SPAL",
+      "Wolfsberger AC",
+      "Red Bull Salzburg UEFA U19",
+      "West Ham United",
+      "RB Salzburg",
+      "Red Bull Brasil (SP)"
     ],
-    "Reiss Nelson": [
-      "Arsenal FC",
-      "Arsenal FC U21",
-      "Feyenoord Rotterdam",
-      "TSG 1899 Hoffenheim",
-      "Fulham FC",
-      "Arsenal FC UEFA U19",
-      "Brentford FC",
-      "Arsenal FC U18"
+    "Adam Webster": [
+      "Brighton & Hove Albion",
+      "Portsmouth FC",
+      "Ipswich Town",
+      "Bristol City",
+      "Aldershot Town",
+      "Brighton & Hove Albion U21"
     ],
-    "Dango Ouattara": [
-      "AFC Bournemouth",
-      "FC Lorient",
-      "Brentford FC",
-      "FC Lorient B"
+    "Lewis Dunk": [
+      "Brighton & Hove Albion",
+      "Bristol City"
     ],
-    "Romelle Donovan": [
-      "Birmingham City",
-      "Burton Albion",
-      "Brentford FC",
-      "FC Brentford U21",
-      "Birmingham City U18"
+    "Ferdi Kadıoğlu": [
+      "Fenerbahce",
+      "NEC Nijmegen",
+      "Brighton & Hove Albion",
+      "Fenerbahce U21",
+      "NEC Nijmegen U21",
+      "NEC Nijmegen U19",
+      "Fenerbahce U19"
     ],
-    "Igor Thiago": [
-      "Cruzeiro Esporte Clube",
+    "Maxim De Cuyper": [
       "Club Brugge KV",
-      "Ludogorets Razgrad",
-      "Brentford FC",
-      "Cruzeiro EC U20",
-      "Ludogorets Razgrad II"
-    ],
-    "Kaye Furo": [
+      "KVC Westerlo",
+      "Brighton & Hove Albion",
       "Club NXT",
       "Club Brugge UEFA U19",
-      "Club Brugge KV",
-      "Brentford FC"
+      "Club Bruges U19"
     ],
-    "Paris Maghoma": [
-      "Bolton Wanderers",
-      "Tottenham Hotspur U18",
-      "Tottenham Hotspur U21",
-      "AFC Wimbledon",
+    "Joël Veltman": [
+      "Ajax Amsterdam",
+      "Brighton & Hove Albion",
+      "Ajax Amsterdam U21",
+      "Ajax Amsterdam U19"
+    ],
+    "Carlos Baleba": [
+      "Brighton & Hove Albion",
+      "LOSC Lille",
+      "LOSC Lille B"
+    ],
+    "Mats Wieffer": [
+      "Feyenoord Rotterdam",
+      "Excelsior Rotterdam",
+      "Brighton & Hove Albion",
+      "FC Twente Enschede U19",
+      "FC Twente Enschede U21",
+      "Twente Enschede FC"
+    ],
+    "Jack Hinshelwood": [
+      "Brighton & Hove Albion",
+      "Brighton & Hove Albion U18",
+      "Brighton & Hove Albion U21"
+    ],
+    "Yasin Ayari": [
+      "Brighton & Hove Albion",
+      "AIK",
+      "Blackburn Rovers",
+      "Coventry City",
+      "Blackburn Rovers U21",
+      "AIK U19"
+    ],
+    "Diego Gómez": [
+      "Club Libertad Asunción",
+      "Brighton & Hove Albion",
+      "Inter Miami",
+      "Brighton & Hove Albion U21"
+    ],
+    "Matt O'Riley": [
+      "Celtic FC",
       "Milton Keynes Dons",
-      "Tottenham Hotspur UEFA U19",
-      "Brentford FC",
-      "FC Brentford U21"
+      "Fulham FC U21",
+      "Olympique Marseille",
+      "Brighton & Hove Albion",
+      "Fulham FC U18",
+      "Fulham FC"
     ],
-    "Gustavo Nunes": [
-      "Grêmio Foot-Ball Porto Alegrense",
-      "Grêmio FBPA U20",
-      "Brentford FC",
-      "FC Brentford U21"
+    "Pascal Groß": [
+      "Brighton & Hove Albion",
+      "FC Ingolstadt 04",
+      "Borussia Dortmund",
+      "TSG 1899 Hoffenheim U19",
+      "Karlsruher SC",
+      "TSG 1899 Hoffenheim U17",
+      "TSG 1899 Hoffenheim II",
+      "Karlsruher SC II",
+      "TSG 1899 Hoffenheim",
+      "FC Ingolstadt 04 II"
     ],
-    "Matthew Cox": [
-      "Bristol Rovers",
-      "FC Brentford U21",
-      "Crawley Town",
-      "AFC Wimbledon U18",
-      "Brentford FC",
-      "AFC Wimbledon"
+    "James Milner": [
+      "Liverpool FC",
+      "Manchester City",
+      "Newcastle United",
+      "Aston Villa",
+      "Leeds United",
+      "Brighton & Hove Albion",
+      "Swindon Town"
     ],
-    "Yunus Konak": [
-      "Sivasspor",
-      "Brentford FC",
-      "FC Brentford U21"
+    "Kaoru Mitoma": [
+      "Brighton & Hove Albion",
+      "Kawasaki Frontale",
+      "Union Saint-Gilloise",
+      "Tsukuba University"
     ],
-    "Myles Peart-Harris": [
-      "Forest Green Rovers",
-      "Swansea City",
-      "Chelsea FC U18",
-      "Chelsea FC U21",
-      "Portsmouth FC",
-      "Brentford FC",
-      "FC Brentford U21",
-      "Chelsea FC UEFA U19"
+    "Yankuba Minteh": [
+      "Brighton & Hove Albion",
+      "Feyenoord Rotterdam",
+      "Odense Boldklub",
+      "Odense Boldklub Reserves",
+      "Odense Boldklub U19"
     ],
-    "Benjamin Arthur": [
-      "FC Brentford U21",
-      "Brentford FC",
-      "Peterborough United"
+    "Solly March": [
+      "Brighton & Hove Albion",
+      "Brighton & Hove Albion U21"
     ],
-    "Julian Eyestone": [
-      "North Texas SC",
-      "FC Brentford U21",
-      "Brentford FC"
+    "Georginio Rutter": [
+      "Leeds United",
+      "TSG 1899 Hoffenheim",
+      "Brighton & Hove Albion",
+      "Stade Rennais FC B",
+      "TSG 1899 Hoffenheim II",
+      "Stade Rennais FC",
+      "Stade Rennais FC UEFA U19",
+      "Leeds United U21",
+      "Stade Rennais FC U19"
+    ],
+    "Charalampos Kostoulas": [
+      "Olympiacos Piraeus",
+      "Olympiacos Piraeus B",
+      "Olympiacos Piraeus U19",
+      "Brighton & Hove Albion",
+      "Olympiacos Piraeus UEFA U19",
+      "Brighton & Hove Albion U21"
+    ],
+    "Stefanos Tzimas": [
+      "PAOK Thessaloniki",
+      "1.FC Nuremberg",
+      "Brighton & Hove Albion",
+      "PAOK Thessaloniki U19",
+      "PAOK Thessaloniki B",
+      "Brighton & Hove Albion U21"
+    ],
+    "Danny Welbeck": [
+      "Brighton & Hove Albion",
+      "Manchester United",
+      "Arsenal FC",
+      "Sunderland AFC",
+      "Watford FC",
+      "Preston North End",
+      "Arsenal FC U21",
+      "Manchester United U21",
+      "Manchester United U18",
+      "Sunderland AFC U21"
+    ],
+    "Diego Coppola": [
+      "Hellas Verona",
+      "Hellas Verona Primavera",
+      "Hellas Under 17",
+      "Brighton & Hove Albion"
+    ],
+    "Andrew Moran": [
+      "Brighton & Hove Albion U21",
+      "Blackburn Rovers",
+      "Stoke City",
+      "Brighton & Hove Albion U18",
+      "Los Ángeles FC",
+      "Brighton & Hove Albion",
+      "Bray Wanderers"
+    ],
+    "Tom Watson": [
+      "Sunderland AFC U18",
+      "Sunderland AFC U21",
+      "Sunderland AFC",
+      "Brighton & Hove Albion"
+    ],
+    "Jeremy Sarmiento": [
+      "Burnley FC",
+      "Ipswich Town",
+      "West Bromwich Albion",
+      "Brighton & Hove Albion",
+      "Brighton & Hove Albion U21",
+      "SL Benfica U23",
+      "US Cremonese",
+      "Charlton Athletic U18",
+      "SL Benfica UEFA U19"
+    ],
+    "Brajan Gruda": [
+      "Brighton & Hove Albion",
+      "1.FSV Mainz 05 U19",
+      "1.FSV Mainz 05",
+      "1.FSV Mainz 05 U17"
     ]
   },
   "AFC Bournemouth": {
@@ -2864,6 +2716,13 @@
       "New England Revolution II",
       "FK Cukaricki UEFA U19"
     ],
+    "Christos Mandas": [
+      "SS Lazio",
+      "Atromitos Athens",
+      "OFI Crete FC",
+      "Atromitos Athens U19",
+      "AFC Bournemouth"
+    ],
     "Fraser Forster": [
       "Celtic FC",
       "Southampton FC",
@@ -2875,13 +2734,6 @@
       "Newcastle United U18",
       "Newcastle United",
       "AFC Bournemouth"
-    ],
-    "Will Dennis": [
-      "Kilmarnock FC",
-      "Slough Town",
-      "AFC Bournemouth",
-      "Wealdstone FC",
-      "AFC Bournemouth U18"
     ],
     "Bafodé Diakité": [
       "LOSC Lille",
@@ -3025,6 +2877,11 @@
       "STK 1914 Samorin",
       "FC Porto B"
     ],
+    "Rayan": [
+      "Clube de Regatas Vasco da Gama",
+      "CR Vasco da Gama U20",
+      "AFC Bournemouth"
+    ],
     "Eli Kroupi": [
       "FC Lorient",
       "AFC Bournemouth",
@@ -3041,6 +2898,13 @@
       "NAC Breda",
       "KRC Genk",
       "Levante"
+    ],
+    "Will Dennis": [
+      "Kilmarnock FC",
+      "Slough Town",
+      "AFC Bournemouth",
+      "Wealdstone FC",
+      "AFC Bournemouth U18"
     ],
     "Antoine Semenyo": [
       "Bristol City",
@@ -3088,6 +2952,253 @@
       "AFC Bournemouth",
       "AS Monaco",
       "FC Tours B"
+    ]
+  },
+  "Brentford FC": {
+    "Caoimhín Kelleher": [
+      "Liverpool FC",
+      "Liverpool FC U21",
+      "Brentford FC",
+      "Liverpool FC U18"
+    ],
+    "Hákon Valdimarsson": [
+      "ÍF Grótta",
+      "IF Elfsborg",
+      "Brentford FC",
+      "FC Brentford U21"
+    ],
+    "Ellery Balcombe": [
+      "St. Mirren FC",
+      "Doncaster Rovers",
+      "Bromley FC",
+      "Motherwell FC",
+      "Crawley Town",
+      "Viborg FF",
+      "Bristol Rovers",
+      "Boreham Wood FC",
+      "Burton Albion",
+      "Brentford FC"
+    ],
+    "Nathan Collins": [
+      "Brentford FC",
+      "Stoke City",
+      "Wolverhampton",
+      "Stoke City U21",
+      "Burnley FC",
+      "Stoke City U18"
+    ],
+    "Sepp van den Berg": [
+      "Preston North End",
+      "Brentford FC",
+      "1.FSV Mainz 05",
+      "Liverpool FC U21",
+      "PEC Zwolle",
+      "PEC Zwolle U19",
+      "FC Schalke 04",
+      "Liverpool FC UEFA U19",
+      "Liverpool FC",
+      "PEC Zwolle U21",
+      "FC Schalke 04 II",
+      "1.FSV Mainz 05 II"
+    ],
+    "Kristoffer Ajer": [
+      "Celtic FC",
+      "Brentford FC",
+      "IK Start",
+      "Kilmarnock FC",
+      "Celtic FC UEFA U19",
+      "Celtic Glasgow U20",
+      "Celtic FC B",
+      "FC Brentford U21"
+    ],
+    "Ethan Pinnock": [
+      "Brentford FC",
+      "Barnsley FC",
+      "Forest Green Rovers"
+    ],
+    "Rico Henry": [
+      "Brentford FC",
+      "Walsall FC"
+    ],
+    "Michael Kayode": [
+      "Fiorentina Primavera",
+      "ACF Fiorentina",
+      "Brentford FC",
+      "ASDC Gozzano",
+      "Fiorentina Under 18"
+    ],
+    "Aaron Hickey": [
+      "Brentford FC",
+      "Bologna FC 1909",
+      "Heart of Midlothian FC"
+    ],
+    "Vitaly Janelt": [
+      "Brentford FC",
+      "VfL Bochum",
+      "RB Leipzig U17",
+      "Hamburger SV U17",
+      "RB Leipzig U19",
+      "VfL Bochum U19",
+      "RB Leipzig II (- 2017)"
+    ],
+    "Jordan Henderson": [
+      "Liverpool FC",
+      "Sunderland AFC",
+      "Ajax Amsterdam",
+      "Brentford FC",
+      "Al-Ettifaq FC",
+      "Coventry City"
+    ],
+    "Yegor Yarmolyuk": [
+      "Brentford FC",
+      "SC Dnipro-1 ( - 2024)"
+    ],
+    "Mathias Jensen": [
+      "Brentford FC",
+      "FC Nordsjaelland",
+      "Celta de Vigo",
+      "FC Nordsjaelland U19",
+      "Dänische Liga-Auswahl"
+    ],
+    "Josh Dasilva": [
+      "Brentford FC",
+      "Arsenal FC U21",
+      "Arsenal FC U18",
+      "Arsenal FC UEFA U19",
+      "Arsenal FC"
+    ],
+    "Keane Lewis-Potter": [
+      "Hull City",
+      "Brentford FC",
+      "Bradford (Park Avenue)",
+      "Hull City U18"
+    ],
+    "Mikkel Damsgaard": [
+      "Brentford FC",
+      "FC Nordsjaelland",
+      "UC Sampdoria",
+      "FC Nordsjaelland U19",
+      "FC Nordsjaelland Reserves"
+    ],
+    "Antoni Milambo": [
+      "Feyenoord Rotterdam",
+      "Feyenoord U21",
+      "Feyenoord U18",
+      "Feyenoord U17",
+      "Brentford FC",
+      "Feyenoord Rotterdam UEFA U19"
+    ],
+    "Fábio Carvalho": [
+      "Fulham FC",
+      "Fulham FC U18",
+      "Fulham FC U21",
+      "Brentford FC",
+      "Liverpool FC",
+      "Hull City",
+      "RB Leipzig",
+      "Liverpool FC U21",
+      "FC Brentford U21"
+    ],
+    "Kevin Schade": [
+      "Brentford FC",
+      "SC Freiburg U19",
+      "SC Freiburg",
+      "SC Freiburg II",
+      "FC Energie Cottbus U17"
+    ],
+    "Reiss Nelson": [
+      "Arsenal FC",
+      "Arsenal FC U21",
+      "Feyenoord Rotterdam",
+      "TSG 1899 Hoffenheim",
+      "Fulham FC",
+      "Arsenal FC UEFA U19",
+      "Brentford FC",
+      "Arsenal FC U18"
+    ],
+    "Dango Ouattara": [
+      "AFC Bournemouth",
+      "FC Lorient",
+      "Brentford FC",
+      "FC Lorient B"
+    ],
+    "Romelle Donovan": [
+      "Birmingham City",
+      "Burton Albion",
+      "Brentford FC",
+      "FC Brentford U21",
+      "Birmingham City U18"
+    ],
+    "Igor Thiago": [
+      "Cruzeiro Esporte Clube",
+      "Club Brugge KV",
+      "Ludogorets Razgrad",
+      "Brentford FC",
+      "Cruzeiro EC U20",
+      "Ludogorets Razgrad II"
+    ],
+    "Kaye Furo": [
+      "Club NXT",
+      "Club Brugge UEFA U19",
+      "Club Brugge KV",
+      "Brentford FC"
+    ],
+    "Frank Onyeka": [
+      "FC Midtjylland",
+      "Brentford FC",
+      "FC Augsburg",
+      "FC Midtjylland U19",
+      "FC Midtjylland Reserves",
+      "FC Midtjylland UEFA U19"
+    ],
+    "Paris Maghoma": [
+      "Bolton Wanderers",
+      "Tottenham Hotspur U18",
+      "Tottenham Hotspur U21",
+      "AFC Wimbledon",
+      "Milton Keynes Dons",
+      "Tottenham Hotspur UEFA U19",
+      "Brentford FC",
+      "FC Brentford U21"
+    ],
+    "Gustavo Nunes": [
+      "Grêmio Foot-Ball Porto Alegrense",
+      "Grêmio FBPA U20",
+      "Brentford FC",
+      "FC Brentford U21"
+    ],
+    "Matthew Cox": [
+      "Bristol Rovers",
+      "FC Brentford U21",
+      "Crawley Town",
+      "AFC Wimbledon U18",
+      "Brentford FC",
+      "AFC Wimbledon"
+    ],
+    "Yunus Konak": [
+      "Sivasspor",
+      "Brentford FC",
+      "FC Brentford U21"
+    ],
+    "Myles Peart-Harris": [
+      "Forest Green Rovers",
+      "Swansea City",
+      "Chelsea FC U18",
+      "Chelsea FC U21",
+      "Portsmouth FC",
+      "Brentford FC",
+      "FC Brentford U21",
+      "Chelsea FC UEFA U19"
+    ],
+    "Benjamin Arthur": [
+      "FC Brentford U21",
+      "Brentford FC",
+      "Peterborough United"
+    ],
+    "Julian Eyestone": [
+      "North Texas SC",
+      "FC Brentford U21",
+      "Brentford FC"
     ]
   },
   "Everton FC": {
@@ -3250,6 +3361,12 @@
       "Notts County",
       "Everton FC"
     ],
+    "Tyrique George": [
+      "Chelsea FC U18",
+      "Chelsea",
+      "Chelsea FC U21",
+      "Chelsea FC UEFA U19"
+    ],
     "Dwight McNeil": [
       "Burnley FC",
       "Everton FC",
@@ -3291,563 +3408,6 @@
       "Blackpool FC",
       "Everton FC U18",
       "Everton FC"
-    ]
-  },
-  "West Ham United": {
-    "Mads Hermansen": [
-      "Leicester City",
-      "Bröndby IF",
-      "Bröndby IF U19",
-      "Bröndby IF Reserves",
-      "West Ham United"
-    ],
-    "Alphonse Areola": [
-      "West Ham United",
-      "PSG",
-      "Paris Saint-Germain B",
-      "SC Bastia",
-      "Fulham FC",
-      "Villarreal CF",
-      "RC Lens",
-      "Real Madrid"
-    ],
-    "Lukasz Fabianski": [
-      "West Ham United",
-      "Swansea City",
-      "Arsenal FC",
-      "Legia Warszawa",
-      "Arsenal FC U21",
-      "Lech Poznan",
-      "West Ham United U21"
-    ],
-    "Jean-Clair Todibo": [
-      "OGC Nice",
-      "West Ham United",
-      "FC Schalke 04",
-      "FC Toulouse",
-      "Toulouse FC B",
-      "FC Barcelona",
-      "SL Benfica"
-    ],
-    "Maximilian Kilman": [
-      "Wolverhampton",
-      "West Ham United",
-      "Maidenhead United",
-      "Wolverhampton Wanderers U21"
-    ],
-    "Igor Julio": [
-      "ACF Fiorentina",
-      "Brighton & Hove Albion",
-      "FC Liefering",
-      "Austria Vienna",
-      "SPAL",
-      "Wolfsberger AC",
-      "Red Bull Salzburg UEFA U19",
-      "West Ham United",
-      "RB Salzburg",
-      "Red Bull Brasil (SP)"
-    ],
-    "Konstantinos Mavropanos": [
-      "VfB Stuttgart",
-      "West Ham United",
-      "PAS Giannina U19",
-      "PAS Giannina",
-      "Arsenal FC U21",
-      "1.FC Nuremberg",
-      "Arsenal FC"
-    ],
-    "Ezra Mayers": [
-      "West Ham United U21",
-      "West Ham United U18",
-      "West Ham United"
-    ],
-    "El Diouf": [
-      "SK Slavia Prague",
-      "Tromsø IL",
-      "West Ham United",
-      "Tromsø IL II",
-      "SK Slavia Prague B"
-    ],
-    "Oliver Scarles": [
-      "West Ham United U21",
-      "West Ham United U18",
-      "West Ham United"
-    ],
-    "Aaron Wan-Bissaka": [
-      "Manchester United",
-      "West Ham United",
-      "Crystal Palace"
-    ],
-    "Kyle Walker-Peters": [
-      "Southampton FC",
-      "Tottenham Hotspur U21",
-      "Tottenham Hotspur",
-      "West Ham United",
-      "Tottenham Hotspur UEFA U19",
-      "Tottenham Hotspur U18"
-    ],
-    "Soungoutou Magassa": [
-      "AS Monaco",
-      "AS Monaco U21",
-      "West Ham United"
-    ],
-    "Tomáš Souček": [
-      "West Ham United",
-      "SK Slavia Prague",
-      "FK Viktoria Zizkov",
-      "FC Slovan Liberec",
-      "SK Slavia Prague B",
-      "West Ham United U21"
-    ],
-    "Freddie Potts": [
-      "West Ham United U21",
-      "Wycombe Wanderers",
-      "Portsmouth FC",
-      "West Ham United U18",
-      "West Ham United"
-    ],
-    "Mateus Fernandes": [
-      "Southampton FC",
-      "Sporting CP B",
-      "GD Estoril Praia",
-      "West Ham United",
-      "Sporting Lissabon UEFA U19",
-      "Sporting CP",
-      "Sporting CP U23"
-    ],
-    "James Ward-Prowse": [
-      "Southampton FC",
-      "West Ham United",
-      "Southampton FC U21",
-      "Nottingham Forest"
-    ],
-    "Lucas Paquetá": [
-      "West Ham United",
-      "CR Flamengo",
-      "Olympique Lyon",
-      "AC Milan"
-    ],
-    "Crysencio Summerville": [
-      "Leeds United",
-      "West Ham United",
-      "Leeds United U21",
-      "ADO Den Haag",
-      "Feyenoord U17",
-      "FC Dordrecht",
-      "Feyenoord U19",
-      "Feyenoord U21"
-    ],
-    "Keiber Lamadrid": [
-      "Deportivo La Guaira"
-    ],
-    "Jarrod Bowen": [
-      "West Ham United",
-      "Hull City",
-      "Hereford United (- 2014)",
-      "Hull City U21"
-    ],
-    "Taty Castellanos": [
-      "New York City FC",
-      "SS Lazio",
-      "Girona",
-      "Montevideo City Torque",
-      "West Ham United",
-      "Club Universidad de Chile"
-    ],
-    "Callum Wilson": [
-      "AFC Bournemouth",
-      "Newcastle United",
-      "Coventry City",
-      "West Ham United",
-      "Kettering Town",
-      "Tamworth FC"
-    ],
-    "Pablo": [
-      "FC Famalicão U23",
-      "FC Famalicão",
-      "Gil Vicente FC",
-      "FC Paços de Ferreira",
-      "West Ham United",
-      "FC Famalicão UEFA U19"
-    ],
-    "Guido Rodríguez": [
-      "Betis",
-      "CF América",
-      "Club Tijuana",
-      "West Ham United",
-      "CA River Plate",
-      "Defensa y Justicia"
-    ],
-    "Andrew Irving": [
-      "SK Austria Klagenfurt",
-      "Heart of Midlothian FC",
-      "Türkgücü München",
-      "Berwick Rangers FC",
-      "Falkirk FC",
-      "West Ham United",
-      "Heart of Midlothian FC U20"
-    ],
-    "Callum Marshall": [
-      "Huddersfield Town",
-      "West Ham United U21",
-      "West Ham United U18",
-      "Linfield FC",
-      "West Ham United",
-      "West Bromwich Albion"
-    ],
-    "George Earthy": [
-      "West Ham United U18",
-      "West Ham United U21",
-      "Bristol City",
-      "West Ham United"
-    ],
-    "Luís Guilherme": [
-      "Sociedade Esportiva Palmeiras",
-      "West Ham United",
-      "SE Palmeiras São Paulo U20"
-    ],
-    "Niclas Füllkrug": [
-      "SV Werder Bremen",
-      "Hannover 96",
-      "1.FC Nuremberg",
-      "Borussia Dortmund",
-      "SV Werder Bremen U17",
-      "West Ham United",
-      "SV Werder Bremen U19",
-      "SV Werder Bremen II",
-      "SpVgg Greuther Fürth",
-      "1.FC Nuremberg II"
-    ],
-    "Luis Guilherme": [
-      "Sociedade Esportiva Palmeiras",
-      "West Ham United",
-      "SE Palmeiras São Paulo U20"
-    ],
-    "Wes Foderingham": [
-      "Swindon Town",
-      "Rangers FC",
-      "Sheffield United",
-      "Histon FC",
-      "West Ham United",
-      "Fulham FC U21"
-    ],
-    "El Hadji Malick Diouf": [
-      "SK Slavia Prague",
-      "Tromsø IL",
-      "Tromsø IL II",
-      "West Ham United",
-      "SK Slavia Prague B"
-    ]
-  },
-  "Sunderland AFC": {
-    "Robin Roefs": [
-      "NEC Nijmegen",
-      "NEC Nijmegen U17",
-      "Sunderland AFC",
-      "NEC Nijmegen U21",
-      "NEC Nijmegen U19",
-      "NEC Nijmegen U18"
-    ],
-    "Anthony Patterson": [
-      "Sunderland AFC",
-      "Sunderland AFC U21",
-      "Sunderland AFC U18",
-      "Notts County"
-    ],
-    "Simon Moore": [
-      "Brentford FC",
-      "Sheffield United",
-      "Coventry City",
-      "Cardiff City",
-      "Bristol City",
-      "Sunderland AFC"
-    ],
-    "Dan Ballard": [
-      "Sunderland AFC",
-      "Arsenal FC U18",
-      "Millwall FC",
-      "Blackpool FC",
-      "Arsenal FC U21",
-      "Swindon Town",
-      "Sunderland AFC U21"
-    ],
-    "Omar Alderete": [
-      "Getafe CF",
-      "FC Basel 1893",
-      "Valencia CF",
-      "Club de Gimnasia y Esgrima La Plata",
-      "Sunderland AFC",
-      "Hertha BSC",
-      "CA Huracán",
-      "Club Cerro Porteño"
-    ],
-    "Luke O'Nien": [
-      "Sunderland AFC",
-      "Wycombe Wanderers",
-      "Sunderland AFC U21",
-      "Watford FC"
-    ],
-    "Aji Alese": [
-      "West Ham United U21",
-      "Sunderland AFC",
-      "West Ham United U18",
-      "Accrington Stanley",
-      "Sunderland AFC U21",
-      "West Ham United",
-      "Cambridge United"
-    ],
-    "Dennis Cirkin": [
-      "Sunderland AFC",
-      "Tottenham Hotspur U18",
-      "Tottenham Hotspur U21",
-      "Tottenham Hotspur UEFA U19",
-      "Sunderland AFC U21",
-      "Tottenham Hotspur"
-    ],
-    "Reinildo Mandava": [
-      "Atlético de Madrid",
-      "LOSC Lille",
-      "SC Covilhã",
-      "B SAD",
-      "AD Fafe",
-      "Sunderland AFC",
-      "SL Benfica B"
-    ],
-    "Arthur Masuaku": [
-      "West Ham United",
-      "Besiktas JK",
-      "Olympiacos Piraeus",
-      "Valenciennes FC",
-      "Valenciennes FC B",
-      "West Ham United U21",
-      "Sunderland AFC"
-    ],
-    "Leo Hjelde": [
-      "Sunderland AFC",
-      "Leeds United U21",
-      "Rotherham United",
-      "Ross County FC",
-      "Leeds United",
-      "Sunderland AFC U21",
-      "Celtic FC"
-    ],
-    "Lutsharel Geertruida": [
-      "Feyenoord Rotterdam",
-      "Feyenoord U19",
-      "RB Leipzig",
-      "Feyenoord U21",
-      "Sunderland AFC",
-      "Feyenoord U17",
-      "Feyenoord Rotterdam UEFA U19",
-      "Sunderland AFC U21"
-    ],
-    "Trai Hume": [
-      "Sunderland AFC",
-      "Ballymena United FC",
-      "Linfield FC",
-      "Sunderland AFC U21"
-    ],
-    "Nordi Mukiele": [
-      "RB Leipzig",
-      "Montpellier HSC",
-      "PSG",
-      "Stade Lavallois",
-      "Bayer Leverkusen",
-      "Stade Laval B",
-      "Sunderland AFC",
-      "Montpellier HSC B"
-    ],
-    "Granit Xhaka": [
-      "Arsenal FC",
-      "Borussia Mönchengladbach",
-      "Bayer Leverkusen",
-      "FC Basel 1893",
-      "FC Basel 1893 U21",
-      "Sunderland AFC",
-      "FC Basel 1893 U18"
-    ],
-    "Habib Diarra": [
-      "RC Strasbourg Alsace",
-      "Racing Strasbourg B",
-      "Racing Strasbourg U19",
-      "Sunderland AFC"
-    ],
-    "Noah Sadiki": [
-      "Union Saint-Gilloise",
-      "RSC Anderlecht",
-      "Sunderland AFC",
-      "RSCA Futures"
-    ],
-    "Enzo Le Fée": [
-      "FC Lorient",
-      "Sunderland AFC",
-      "Stade Rennais FC",
-      "FC Lorient B",
-      "AS Roma"
-    ],
-    "Dan Neil": [
-      "Sunderland AFC",
-      "Sunderland AFC U21",
-      "Sunderland AFC U18"
-    ],
-    "Abdoullah Ba": [
-      "Sunderland AFC",
-      "Le Havre AC",
-      "Sunderland AFC U21",
-      "USL Dunkerque",
-      "AC Le Havre B",
-      "AC Le Havre U19"
-    ],
-    "Chris Rigg": [
-      "Sunderland AFC",
-      "Sunderland AFC U18",
-      "Sunderland AFC U21"
-    ],
-    "Milan Aleksic": [
-      "FK Radnicki 1923 Kragujevac",
-      "FK Partizan Belgrade U19",
-      "FK Partizan Belgrade U17",
-      "Sunderland AFC",
-      "Cracovia",
-      "Sunderland AFC U21"
-    ],
-    "Harrison Jones": [
-      "Sunderland AFC U21",
-      "Sunderland AFC U18",
-      "Sunderland AFC"
-    ],
-    "Simon Adingra": [
-      "Brighton & Hove Albion",
-      "Union Saint-Gilloise",
-      "FC Nordsjaelland",
-      "Sunderland AFC",
-      "FC Nordsjaelland U19",
-      "FC Nordsjaelland Reserves"
-    ],
-    "Romaine Mundle": [
-      "Tottenham Hotspur U21",
-      "Sunderland AFC",
-      "Tottenham Hotspur U18",
-      "Standard Liège",
-      "Tottenham Hotspur UEFA U19",
-      "Standard de Liège 16 FC",
-      "Sunderland AFC U21",
-      "Tottenham Hotspur"
-    ],
-    "Chemsdine Talbi": [
-      "Club Brugge KV",
-      "Club NXT",
-      "Sunderland AFC",
-      "Club Brugge UEFA U19"
-    ],
-    "Bertrand Traoré": [
-      "Olympique Lyon",
-      "Ajax Amsterdam",
-      "Aston Villa",
-      "Vitesse Arnhem",
-      "Basaksehir FK",
-      "Chelsea",
-      "Villarreal CF",
-      "Sunderland AFC",
-      "Vitesse Arnhem U21",
-      "Chelsea FC U21",
-      "Olympique Lyon B"
-    ],
-    "Ian Poveda": [
-      "Manchester City U21",
-      "Manchester City U18",
-      "Leeds United",
-      "Blackpool FC",
-      "Manchester City UEFA U19",
-      "Blackburn Rovers",
-      "Sheffield Wednesday",
-      "Leeds United U21",
-      "Sunderland AFC",
-      "Sunderland AFC U21",
-      "Manchester City"
-    ],
-    "Jocelin Ta Bi": [
-      "Hapoel Petah Tikva"
-    ],
-    "Brian Brobbey": [
-      "Ajax Amsterdam",
-      "Ajax Amsterdam U19",
-      "Ajax Amsterdam U21",
-      "Ajax Amsterdam U17",
-      "Sunderland AFC",
-      "RB Leipzig",
-      "Ajax Amsterdam UEFA U19",
-      "Sunderland AFC U21"
-    ],
-    "Eliezer Mayenda": [
-      "Sunderland AFC",
-      "FC Sochaux-Montbéliard U19",
-      "FC Sochaux-Montbéliard",
-      "FC Sochaux-Montbéliard B",
-      "Hibernian FC",
-      "Sunderland AFC U21"
-    ],
-    "Wilson Isidor": [
-      "Sunderland AFC",
-      "Lokomotiv Moscow",
-      "FC Borgo",
-      "Zenit St. Petersburg",
-      "AS Monaco U21",
-      "Stade Lavallois",
-      "AS Monaco",
-      "AS Monaco UEFA U19",
-      "Stade Rennais FC B",
-      "Stade Laval B",
-      "Sunderland AFC U21"
-    ],
-    "Blondy Nna Noukeu": [
-      "Stoke City U21",
-      "Southend United",
-      "Sunderland AFC U21",
-      "Crawley Town",
-      "Sunderland AFC",
-      "Stoke City"
-    ],
-    "Joe Anderson": [
-      "Everton FC U21",
-      "Everton FC U18",
-      "Shrewsbury Town",
-      "Sunderland AFC U21",
-      "Sunderland AFC"
-    ],
-    "Zak Johnson": [
-      "Sunderland AFC U21",
-      "Sunderland AFC U18",
-      "Dundalk FC",
-      "Hartlepool United",
-      "Notts County",
-      "Sunderland AFC",
-      "York City"
-    ],
-    "Timothée Pembélé": [
-      "Paris Saint-Germain U19",
-      "FC Girondins Bordeaux",
-      "Le Havre AC",
-      "PSG",
-      "Sunderland AFC",
-      "Paris Saint-Germain UEFA U19",
-      "Sunderland AFC U21"
-    ],
-    "Jay Matete": [
-      "Bolton Wanderers",
-      "Fleetwood Town",
-      "Sunderland AFC",
-      "Plymouth Argyle",
-      "Grimsby Town",
-      "Sunderland AFC U21",
-      "Oxford United",
-      "Reading FC U18"
-    ],
-    "Ahmed Abdullahi": [
-      "Jong KAA Gent",
-      "KAA Gent",
-      "Sunderland AFC U21",
-      "Sunderland AFC"
     ]
   },
   "Fulham FC": {
@@ -3999,6 +3559,12 @@
       "Arsenal FC UEFA U19",
       "Arsenal FC U18"
     ],
+    "Oscar Bobb": [
+      "Manchester City U21",
+      "Manchester City",
+      "Manchester City U18",
+      "Manchester City UEFA U19"
+    ],
     "Harry Wilson": [
       "Fulham FC",
       "Liverpool FC U21",
@@ -4016,16 +3582,6 @@
       "AC Milan",
       "Villarreal CF B",
       "Fulham FC"
-    ],
-    "Adama Traoré": [
-      "Wolverhampton",
-      "Fulham FC",
-      "Middlesbrough FC",
-      "FC Barcelona Atlètic",
-      "FC Barcelona",
-      "Aston Villa",
-      "Aston Villa U21",
-      "FC Barcelona UEFA U19"
     ],
     "Rodrigo Muniz": [
       "Fulham FC",
@@ -4050,227 +3606,607 @@
       "AIK",
       "Bayern Munich",
       "Fulham FC U21"
+    ],
+    "Adama Traoré": [
+      "Wolverhampton",
+      "Fulham FC",
+      "Middlesbrough FC",
+      "FC Barcelona Atlètic",
+      "FC Barcelona",
+      "Aston Villa",
+      "Aston Villa U21",
+      "FC Barcelona UEFA U19"
     ]
   },
-  "Wolverhampton": {
-    "José Sá": [
-      "Wolverhampton",
-      "Olympiacos Piraeus",
-      "CS Marítimo B",
-      "Porto",
-      "CS Marítimo",
-      "FC Porto B"
+  "West Ham United": {
+    "Mads Hermansen": [
+      "Leicester City",
+      "Bröndby IF",
+      "Bröndby IF U19",
+      "Bröndby IF Reserves",
+      "West Ham United"
     ],
-    "Sam Johnstone": [
-      "West Bromwich Albion",
-      "Aston Villa",
-      "Manchester United U21",
-      "Crystal Palace",
-      "Doncaster Rovers",
-      "Preston North End",
-      "Wolverhampton",
-      "Scunthorpe United",
-      "Walsall FC",
-      "Manchester United U18",
-      "Yeovil Town",
-      "Manchester United"
-    ],
-    "Daniel Bentley": [
-      "Southend United",
-      "Bristol City",
-      "Brentford FC",
-      "Wolverhampton",
-      "Wolverhampton Wanderers U21"
-    ],
-    "Toti": [
-      "Wolverhampton",
-      "Grasshopper Club Zurich",
-      "Estoril Praia U23",
-      "Wolverhampton Wanderers U21",
-      "GD Estoril Praia"
-    ],
-    "Ladislav Krejci": [
-      "AC Sparta Prague",
-      "FC Zbrojovka Brno",
-      "Girona",
-      "Wolverhampton",
-      "FC Zbrojovka Brno B",
-      "FC Zbrojovka Brno U19"
-    ],
-    "Emmanuel Agbadou": [
-      "Stade Reims",
-      "KAS Eupen",
-      "Wolverhampton",
-      "US Monastir",
-      "FC San Pedro"
-    ],
-    "Santiago Bueno": [
-      "Girona",
-      "Wolverhampton",
-      "CF Peralada",
-      "Wolverhampton Wanderers U21",
-      "FC Barcelona UEFA U19",
-      "FC Barcelona Atlètic"
-    ],
-    "Yerson Mosquera": [
-      "FC Cincinnati",
-      "Atlético Nacional",
-      "Wolverhampton",
+    "Alphonse Areola": [
+      "West Ham United",
+      "PSG",
+      "Paris Saint-Germain B",
+      "SC Bastia",
+      "Fulham FC",
       "Villarreal CF",
+      "RC Lens",
+      "Real Madrid"
+    ],
+    "Lukasz Fabianski": [
+      "West Ham United",
+      "Swansea City",
+      "Arsenal FC",
+      "Legia Warszawa",
+      "Arsenal FC U21",
+      "Lech Poznan",
+      "West Ham United U21"
+    ],
+    "Jean-Clair Todibo": [
+      "OGC Nice",
+      "West Ham United",
+      "FC Schalke 04",
+      "FC Toulouse",
+      "Toulouse FC B",
+      "FC Barcelona",
+      "SL Benfica"
+    ],
+    "Maximilian Kilman": [
+      "Wolverhampton",
+      "West Ham United",
+      "Maidenhead United",
       "Wolverhampton Wanderers U21"
     ],
-    "Hugo Bueno": [
-      "Wolverhampton",
-      "Wolverhampton Wanderers U21",
-      "Feyenoord Rotterdam",
-      "Wolverhampton Wanderers U18"
-    ],
-    "David Møller Wolfe": [
-      "AZ Alkmaar",
-      "SK Brann",
-      "Åsane Fotball",
-      "Wolverhampton",
-      "SK Brann II",
-      "FK Bergen Nord"
-    ],
-    "Jackson Tchatchoua": [
-      "Royal Charleroi SC",
-      "Hellas Verona",
-      "Wolverhampton",
-      "Zébra Élites"
-    ],
-    "Pedro Lima": [
-      "Sport Club do Recife",
-      "FC Porto B",
-      "Wolverhampton",
-      "Sport Recife U20",
-      "Wolverhampton Wanderers U21",
-      "Porto"
-    ],
-    "Matt Doherty": [
-      "Wolverhampton",
-      "Tottenham Hotspur",
-      "Wolverhampton Wanderers U21",
-      "Bury FC",
-      "Hibernian FC",
-      "Atlético de Madrid",
-      "Bohemian Football Club"
-    ],
-    "André": [
-      "Fluminense Football Club",
-      "Wolverhampton",
-      "Fluminense FC U20"
-    ],
-    "João Gomes": [
-      "CR Flamengo",
-      "Wolverhampton",
-      "CR Flamengo U20"
-    ],
-    "Jean-Ricner Bellegarde": [
-      "RC Strasbourg Alsace",
-      "Wolverhampton",
-      "RC Lens",
-      "RC Lens B",
-      "RC Lens U19"
-    ],
-    "Rodrigo Gomes": [
-      "SC Braga",
-      "Wolverhampton",
-      "GD Estoril Praia",
-      "SC Braga U23",
-      "SC Braga B"
-    ],
-    "Tawanda Chirewa": [
-      "Wolverhampton Wanderers U21",
-      "Huddersfield Town",
-      "Wolverhampton",
-      "Derby County",
-      "Ipswich Town U18",
-      "Ipswich Town",
-      "Derby County U21"
-    ],
-    "Mateus Mané": [
-      "Wolverhampton Wanderers U21",
-      "Wolverhampton Wanderers U18",
-      "Wolverhampton",
-      "Southampton FC U18",
-      "Rochdale AFC"
-    ],
-    "Enso González": [
-      "Club Libertad Asunción",
-      "Wolverhampton Wanderers U21",
-      "Wolverhampton"
-    ],
-    "Jhon Arias": [
-      "Fluminense Football Club",
-      "Boyacá Patriotas FC",
-      "CD América de Cali",
-      "Independiente Santa Fe",
-      "Wolverhampton",
-      "Dorados de Sinaloa U20",
-      "Club Tijuana U19",
-      "Llaneros FC",
-      "Club Tijuana"
-    ],
-    "Jørgen Strand Larsen": [
-      "Celta de Vigo",
-      "FC Groningen",
-      "Wolverhampton",
-      "Sarpsborg 08 FF",
-      "AC Milan Primavera",
-      "Sarpsborg 08 FF II"
-    ],
-    "Tolu Arokodare": [
-      "KRC Genk",
-      "Amiens SC",
-      "Valmiera FC",
-      "Wolverhampton",
-      "1.FC Köln"
-    ],
-    "Hee-chan Hwang": [
-      "Wolverhampton",
-      "RB Salzburg",
-      "FC Liefering",
-      "RB Leipzig",
-      "Hamburger SV"
-    ],
-    "Nathan Fraser": [
-      "Wolverhampton Wanderers U21",
-      "Wolverhampton Wanderers U18",
-      "Wolverhampton",
-      "Zulte Waregem"
-    ],
-    "Fer López": [
-      "RC Celta Fortuna",
-      "Celta de Vigo",
-      "Wolverhampton"
-    ],
-    "Ki-Jana Hoever": [
-      "Stoke City",
-      "Wolverhampton",
-      "AJ Auxerre",
-      "Liverpool FC U21",
-      "Ajax Amsterdam U17",
-      "Liverpool FC UEFA U19",
-      "PSV Eindhoven",
-      "Liverpool FC U18",
-      "Wolverhampton Wanderers U21",
-      "Liverpool FC",
-      "PSV Eindhoven U21"
-    ],
-    "Marshall Munetsi": [
+    "Axel Disasi": [
+      "AS Monaco",
+      "Chelsea",
       "Stade Reims",
-      "Orlando Pirates",
-      "Baroka FC",
-      "Wolverhampton"
+      "Stade Reims B",
+      "Paris FC B",
+      "Aston Villa",
+      "Paris FC",
+      "Chelsea FC U21"
     ],
-    "Sasa Kalajdzic": [
+    "Konstantinos Mavropanos": [
       "VfB Stuttgart",
-      "Admira Wacker",
-      "Admira Wacker Panthers",
+      "West Ham United",
+      "PAS Giannina U19",
+      "PAS Giannina",
+      "Arsenal FC U21",
+      "1.FC Nuremberg",
+      "Arsenal FC"
+    ],
+    "Ezra Mayers": [
+      "West Ham United U21",
+      "West Ham United U18",
+      "West Ham United"
+    ],
+    "El Diouf": [
+      "SK Slavia Prague",
+      "Tromsø IL",
+      "West Ham United",
+      "Tromsø IL II",
+      "SK Slavia Prague B"
+    ],
+    "Oliver Scarles": [
+      "West Ham United U21",
+      "West Ham United U18",
+      "West Ham United"
+    ],
+    "Aaron Wan-Bissaka": [
+      "Manchester United",
+      "West Ham United",
+      "Crystal Palace"
+    ],
+    "Kyle Walker-Peters": [
+      "Southampton FC",
+      "Tottenham Hotspur U21",
+      "Tottenham Hotspur",
+      "West Ham United",
+      "Tottenham Hotspur UEFA U19",
+      "Tottenham Hotspur U18"
+    ],
+    "Soungoutou Magassa": [
+      "AS Monaco",
+      "AS Monaco U21",
+      "West Ham United"
+    ],
+    "Tomáš Souček": [
+      "West Ham United",
+      "SK Slavia Prague",
+      "FK Viktoria Zizkov",
+      "FC Slovan Liberec",
+      "SK Slavia Prague B",
+      "West Ham United U21"
+    ],
+    "Freddie Potts": [
+      "West Ham United U21",
+      "Wycombe Wanderers",
+      "Portsmouth FC",
+      "West Ham United U18",
+      "West Ham United"
+    ],
+    "Mateus Fernandes": [
+      "Southampton FC",
+      "Sporting CP B",
+      "GD Estoril Praia",
+      "West Ham United",
+      "Sporting Lissabon UEFA U19",
+      "Sporting CP",
+      "Sporting CP U23"
+    ],
+    "Crysencio Summerville": [
+      "Leeds United",
+      "West Ham United",
+      "Leeds United U21",
+      "ADO Den Haag",
+      "Feyenoord U17",
+      "FC Dordrecht",
+      "Feyenoord U19",
+      "Feyenoord U21"
+    ],
+    "Keiber Lamadrid": [
+      "Deportivo La Guaira",
+      "West Ham United U21"
+    ],
+    "Jarrod Bowen": [
+      "West Ham United",
+      "Hull City",
+      "Hereford United (- 2014)",
+      "Hull City U21"
+    ],
+    "Adama Traoré": [
       "Wolverhampton",
-      "Eintracht Frankfurt",
-      "SR Donaufeld"
+      "Fulham FC",
+      "Middlesbrough FC",
+      "FC Barcelona Atlètic",
+      "FC Barcelona",
+      "Aston Villa",
+      "Aston Villa U21",
+      "FC Barcelona UEFA U19",
+      "West Ham United"
+    ],
+    "Taty Castellanos": [
+      "New York City FC",
+      "SS Lazio",
+      "Girona",
+      "Montevideo City Torque",
+      "West Ham United",
+      "Club Universidad de Chile"
+    ],
+    "Callum Wilson": [
+      "AFC Bournemouth",
+      "Newcastle United",
+      "Coventry City",
+      "West Ham United",
+      "Kettering Town",
+      "Tamworth FC"
+    ],
+    "Pablo": [
+      "FC Famalicão U23",
+      "FC Famalicão",
+      "Gil Vicente FC",
+      "FC Paços de Ferreira",
+      "West Ham United",
+      "FC Famalicão UEFA U19"
+    ],
+    "Igor Julio": [
+      "ACF Fiorentina",
+      "Brighton & Hove Albion",
+      "FC Liefering",
+      "Austria Vienna",
+      "SPAL",
+      "Wolfsberger AC",
+      "Red Bull Salzburg UEFA U19",
+      "West Ham United",
+      "RB Salzburg",
+      "Red Bull Brasil (SP)"
+    ],
+    "James Ward-Prowse": [
+      "Southampton FC",
+      "West Ham United",
+      "Southampton FC U21",
+      "Nottingham Forest"
+    ],
+    "Lucas Paquetá": [
+      "West Ham United",
+      "CR Flamengo",
+      "Olympique Lyon",
+      "AC Milan"
+    ],
+    "Guido Rodríguez": [
+      "Betis",
+      "CF América",
+      "Club Tijuana",
+      "West Ham United",
+      "CA River Plate",
+      "Defensa y Justicia"
+    ],
+    "Andrew Irving": [
+      "SK Austria Klagenfurt",
+      "Heart of Midlothian FC",
+      "Türkgücü München",
+      "Berwick Rangers FC",
+      "Falkirk FC",
+      "West Ham United",
+      "Heart of Midlothian FC U20"
+    ],
+    "Callum Marshall": [
+      "Huddersfield Town",
+      "West Ham United U21",
+      "West Ham United U18",
+      "Linfield FC",
+      "West Ham United",
+      "West Bromwich Albion"
+    ],
+    "George Earthy": [
+      "West Ham United U18",
+      "West Ham United U21",
+      "Bristol City",
+      "West Ham United"
+    ],
+    "Luís Guilherme": [
+      "Sociedade Esportiva Palmeiras",
+      "West Ham United",
+      "SE Palmeiras São Paulo U20"
+    ],
+    "Niclas Füllkrug": [
+      "SV Werder Bremen",
+      "Hannover 96",
+      "1.FC Nuremberg",
+      "Borussia Dortmund",
+      "SV Werder Bremen U17",
+      "West Ham United",
+      "SV Werder Bremen U19",
+      "SV Werder Bremen II",
+      "SpVgg Greuther Fürth",
+      "1.FC Nuremberg II"
+    ],
+    "Luis Guilherme": [
+      "Sociedade Esportiva Palmeiras",
+      "West Ham United",
+      "SE Palmeiras São Paulo U20"
+    ],
+    "Wes Foderingham": [
+      "Swindon Town",
+      "Rangers FC",
+      "Sheffield United",
+      "Histon FC",
+      "West Ham United",
+      "Fulham FC U21"
+    ],
+    "El Hadji Malick Diouf": [
+      "SK Slavia Prague",
+      "Tromsø IL",
+      "Tromsø IL II",
+      "West Ham United",
+      "SK Slavia Prague B"
+    ]
+  },
+  "Sunderland AFC": {
+    "Robin Roefs": [
+      "NEC Nijmegen",
+      "Sunderland AFC",
+      "NEC Nijmegen U17",
+      "NEC Nijmegen U21",
+      "NEC Nijmegen U19",
+      "NEC Nijmegen U18"
+    ],
+    "Melker Ellborg": [
+      "Malmö FF",
+      "IFK Malmö",
+      "AFC Malmö",
+      "Trelleborgs FF",
+      "Malmö FF UEFA U19"
+    ],
+    "Simon Moore": [
+      "Brentford FC",
+      "Sheffield United",
+      "Coventry City",
+      "Cardiff City",
+      "Bristol City",
+      "Sunderland AFC"
+    ],
+    "Dan Ballard": [
+      "Sunderland AFC",
+      "Arsenal FC U18",
+      "Millwall FC",
+      "Blackpool FC",
+      "Arsenal FC U21",
+      "Swindon Town",
+      "Sunderland AFC U21"
+    ],
+    "Omar Alderete": [
+      "Getafe CF",
+      "FC Basel 1893",
+      "Valencia CF",
+      "Club de Gimnasia y Esgrima La Plata",
+      "Sunderland AFC",
+      "Hertha BSC",
+      "CA Huracán",
+      "Club Cerro Porteño"
+    ],
+    "Luke O'Nien": [
+      "Sunderland AFC",
+      "Wycombe Wanderers",
+      "Sunderland AFC U21",
+      "Watford FC"
+    ],
+    "Dennis Cirkin": [
+      "Sunderland AFC",
+      "Tottenham Hotspur U18",
+      "Tottenham Hotspur U21",
+      "Tottenham Hotspur UEFA U19",
+      "Sunderland AFC U21",
+      "Tottenham Hotspur"
+    ],
+    "Reinildo Mandava": [
+      "Atlético de Madrid",
+      "LOSC Lille",
+      "SC Covilhã",
+      "B SAD",
+      "AD Fafe",
+      "Sunderland AFC",
+      "SL Benfica B"
+    ],
+    "Lutsharel Geertruida": [
+      "Feyenoord Rotterdam",
+      "Feyenoord U19",
+      "RB Leipzig",
+      "Feyenoord U21",
+      "Sunderland AFC",
+      "Feyenoord U17",
+      "Feyenoord Rotterdam UEFA U19",
+      "Sunderland AFC U21"
+    ],
+    "Trai Hume": [
+      "Sunderland AFC",
+      "Ballymena United FC",
+      "Linfield FC",
+      "Sunderland AFC U21"
+    ],
+    "Nordi Mukiele": [
+      "RB Leipzig",
+      "Montpellier HSC",
+      "PSG",
+      "Stade Lavallois",
+      "Bayer Leverkusen",
+      "Sunderland AFC",
+      "Stade Laval B",
+      "Montpellier HSC B"
+    ],
+    "Granit Xhaka": [
+      "Arsenal FC",
+      "Borussia Mönchengladbach",
+      "Bayer Leverkusen",
+      "FC Basel 1893",
+      "FC Basel 1893 U21",
+      "Sunderland AFC",
+      "FC Basel 1893 U18"
+    ],
+    "Habib Diarra": [
+      "RC Strasbourg Alsace",
+      "Sunderland AFC",
+      "Racing Strasbourg B",
+      "Racing Strasbourg U19"
+    ],
+    "Noah Sadiki": [
+      "Union Saint-Gilloise",
+      "Sunderland AFC",
+      "RSC Anderlecht",
+      "RSCA Futures"
+    ],
+    "Enzo Le Fée": [
+      "FC Lorient",
+      "Sunderland AFC",
+      "Stade Rennais FC",
+      "FC Lorient B",
+      "AS Roma"
+    ],
+    "Abdoullah Ba": [
+      "Sunderland AFC",
+      "Le Havre AC",
+      "Sunderland AFC U21",
+      "USL Dunkerque",
+      "AC Le Havre B",
+      "AC Le Havre U19"
+    ],
+    "Chris Rigg": [
+      "Sunderland AFC",
+      "Sunderland AFC U18",
+      "Sunderland AFC U21"
+    ],
+    "Milan Aleksic": [
+      "FK Radnicki 1923 Kragujevac",
+      "FK Partizan Belgrade U19",
+      "FK Partizan Belgrade U17",
+      "Sunderland AFC",
+      "Cracovia",
+      "Sunderland AFC U21"
+    ],
+    "Harrison Jones": [
+      "Sunderland AFC U21",
+      "Sunderland AFC U18",
+      "Sunderland AFC"
+    ],
+    "Nilson Angulo": [
+      "RSC Anderlecht",
+      "LDU Quito",
+      "RSCA Futures"
+    ],
+    "Romaine Mundle": [
+      "Sunderland AFC",
+      "Tottenham Hotspur U21",
+      "Tottenham Hotspur U18",
+      "Standard Liège",
+      "Tottenham Hotspur UEFA U19",
+      "Standard de Liège 16 FC",
+      "Sunderland AFC U21",
+      "Tottenham Hotspur"
+    ],
+    "Chemsdine Talbi": [
+      "Club Brugge KV",
+      "Club NXT",
+      "Sunderland AFC",
+      "Club Brugge UEFA U19"
+    ],
+    "Bertrand Traoré": [
+      "Olympique Lyon",
+      "Ajax Amsterdam",
+      "Aston Villa",
+      "Vitesse Arnhem",
+      "Basaksehir FK",
+      "Chelsea",
+      "Villarreal CF",
+      "Sunderland AFC",
+      "Vitesse Arnhem U21",
+      "Chelsea FC U21",
+      "Olympique Lyon B"
+    ],
+    "Ian Poveda": [
+      "Manchester City U21",
+      "Manchester City U18",
+      "Leeds United",
+      "Blackpool FC",
+      "Manchester City UEFA U19",
+      "Blackburn Rovers",
+      "Sheffield Wednesday",
+      "Leeds United U21",
+      "Sunderland AFC",
+      "Sunderland AFC U21",
+      "Manchester City"
+    ],
+    "Jocelin Ta Bi": [
+      "Hapoel Petah Tikva"
+    ],
+    "Brian Brobbey": [
+      "Ajax Amsterdam",
+      "Ajax Amsterdam U19",
+      "Ajax Amsterdam U21",
+      "Ajax Amsterdam U17",
+      "Sunderland AFC",
+      "RB Leipzig",
+      "Ajax Amsterdam UEFA U19",
+      "Sunderland AFC U21"
+    ],
+    "Eliezer Mayenda": [
+      "Sunderland AFC",
+      "FC Sochaux-Montbéliard U19",
+      "FC Sochaux-Montbéliard",
+      "FC Sochaux-Montbéliard B",
+      "Hibernian FC",
+      "Sunderland AFC U21"
+    ],
+    "Wilson Isidor": [
+      "Sunderland AFC",
+      "Lokomotiv Moscow",
+      "FC Borgo",
+      "Zenit St. Petersburg",
+      "AS Monaco U21",
+      "Stade Lavallois",
+      "AS Monaco",
+      "AS Monaco UEFA U19",
+      "Stade Rennais FC B",
+      "Stade Laval B",
+      "Sunderland AFC U21"
+    ],
+    "Ahmed Abdullahi": [
+      "Jong KAA Gent",
+      "KAA Gent",
+      "Sunderland AFC U21",
+      "Sunderland AFC"
+    ],
+    "Anthony Patterson": [
+      "Sunderland AFC",
+      "Sunderland AFC U21",
+      "Sunderland AFC U18",
+      "Notts County"
+    ],
+    "Aji Alese": [
+      "West Ham United U21",
+      "Sunderland AFC",
+      "West Ham United U18",
+      "Accrington Stanley",
+      "Sunderland AFC U21",
+      "West Ham United",
+      "Cambridge United"
+    ],
+    "Arthur Masuaku": [
+      "West Ham United",
+      "Besiktas JK",
+      "Olympiacos Piraeus",
+      "Valenciennes FC",
+      "Valenciennes FC B",
+      "West Ham United U21",
+      "Sunderland AFC"
+    ],
+    "Leo Hjelde": [
+      "Sunderland AFC",
+      "Leeds United U21",
+      "Rotherham United",
+      "Ross County FC",
+      "Leeds United",
+      "Sunderland AFC U21",
+      "Celtic FC"
+    ],
+    "Dan Neil": [
+      "Sunderland AFC",
+      "Sunderland AFC U21",
+      "Sunderland AFC U18"
+    ],
+    "Simon Adingra": [
+      "Brighton & Hove Albion",
+      "Union Saint-Gilloise",
+      "FC Nordsjaelland",
+      "Sunderland AFC",
+      "FC Nordsjaelland U19",
+      "FC Nordsjaelland Reserves"
+    ],
+    "Blondy Nna Noukeu": [
+      "Stoke City U21",
+      "Southend United",
+      "Sunderland AFC U21",
+      "Crawley Town",
+      "Sunderland AFC",
+      "Stoke City"
+    ],
+    "Joe Anderson": [
+      "Everton FC U21",
+      "Everton FC U18",
+      "Shrewsbury Town",
+      "Sunderland AFC U21",
+      "Sunderland AFC"
+    ],
+    "Zak Johnson": [
+      "Sunderland AFC U21",
+      "Sunderland AFC U18",
+      "Dundalk FC",
+      "Hartlepool United",
+      "Notts County",
+      "Sunderland AFC",
+      "York City"
+    ],
+    "Timothée Pembélé": [
+      "Paris Saint-Germain U19",
+      "FC Girondins Bordeaux",
+      "Le Havre AC",
+      "PSG",
+      "Sunderland AFC",
+      "Paris Saint-Germain UEFA U19",
+      "Sunderland AFC U21"
+    ],
+    "Jay Matete": [
+      "Bolton Wanderers",
+      "Fleetwood Town",
+      "Sunderland AFC",
+      "Plymouth Argyle",
+      "Grimsby Town",
+      "Sunderland AFC U21",
+      "Oxford United",
+      "Reading FC U18"
     ]
   },
   "Leeds United": {
@@ -4342,9 +4278,9 @@
       "LOSC Lille",
       "Halmstads BK",
       "FC Groningen",
+      "Leeds United",
       "Halmstads BK U19",
       "Halmstads BK U21",
-      "Leeds United",
       "FC Groningen U21",
       "LOSC Lille B"
     ],
@@ -4511,6 +4447,248 @@
       "Leeds United"
     ]
   },
+  "Wolverhampton": {
+    "José Sá": [
+      "Wolverhampton",
+      "Olympiacos Piraeus",
+      "CS Marítimo B",
+      "Porto",
+      "CS Marítimo",
+      "FC Porto B"
+    ],
+    "Sam Johnstone": [
+      "West Bromwich Albion",
+      "Aston Villa",
+      "Manchester United U21",
+      "Crystal Palace",
+      "Doncaster Rovers",
+      "Preston North End",
+      "Wolverhampton",
+      "Scunthorpe United",
+      "Walsall FC",
+      "Manchester United U18",
+      "Yeovil Town",
+      "Manchester United"
+    ],
+    "Daniel Bentley": [
+      "Southend United",
+      "Bristol City",
+      "Brentford FC",
+      "Wolverhampton",
+      "Wolverhampton Wanderers U21"
+    ],
+    "Toti": [
+      "Wolverhampton",
+      "Grasshopper Club Zurich",
+      "Estoril Praia U23",
+      "Wolverhampton Wanderers U21",
+      "GD Estoril Praia"
+    ],
+    "Ladislav Krejci": [
+      "AC Sparta Prague",
+      "FC Zbrojovka Brno",
+      "Girona",
+      "Wolverhampton",
+      "FC Zbrojovka Brno B",
+      "FC Zbrojovka Brno U19"
+    ],
+    "Emmanuel Agbadou": [
+      "Stade Reims",
+      "KAS Eupen",
+      "Wolverhampton",
+      "US Monastir",
+      "FC San Pedro"
+    ],
+    "Santiago Bueno": [
+      "Girona",
+      "Wolverhampton",
+      "CF Peralada",
+      "Wolverhampton Wanderers U21",
+      "FC Barcelona UEFA U19",
+      "FC Barcelona Atlètic"
+    ],
+    "Yerson Mosquera": [
+      "FC Cincinnati",
+      "Atlético Nacional",
+      "Wolverhampton",
+      "Villarreal CF",
+      "Wolverhampton Wanderers U21"
+    ],
+    "Hugo Bueno": [
+      "Wolverhampton",
+      "Wolverhampton Wanderers U21",
+      "Feyenoord Rotterdam",
+      "Wolverhampton Wanderers U18"
+    ],
+    "David Møller Wolfe": [
+      "AZ Alkmaar",
+      "SK Brann",
+      "Åsane Fotball",
+      "Wolverhampton",
+      "SK Brann II",
+      "FK Bergen Nord"
+    ],
+    "Jackson Tchatchoua": [
+      "Royal Charleroi SC",
+      "Hellas Verona",
+      "Wolverhampton",
+      "Zébra Élites"
+    ],
+    "Pedro Lima": [
+      "Sport Club do Recife",
+      "Wolverhampton",
+      "FC Porto B",
+      "Sport Recife U20",
+      "Wolverhampton Wanderers U21",
+      "Porto"
+    ],
+    "Matt Doherty": [
+      "Wolverhampton",
+      "Tottenham Hotspur",
+      "Wolverhampton Wanderers U21",
+      "Bury FC",
+      "Hibernian FC",
+      "Atlético de Madrid",
+      "Bohemian Football Club"
+    ],
+    "André": [
+      "Fluminense Football Club",
+      "Wolverhampton",
+      "Fluminense FC U20"
+    ],
+    "João Gomes": [
+      "CR Flamengo",
+      "Wolverhampton",
+      "CR Flamengo U20"
+    ],
+    "Jean-Ricner Bellegarde": [
+      "RC Strasbourg Alsace",
+      "Wolverhampton",
+      "RC Lens",
+      "RC Lens B",
+      "RC Lens U19"
+    ],
+    "Rodrigo Gomes": [
+      "SC Braga",
+      "Wolverhampton",
+      "GD Estoril Praia",
+      "SC Braga U23",
+      "SC Braga B"
+    ],
+    "Angel Gomes": [
+      "LOSC Lille",
+      "Boavista FC",
+      "Manchester United U21",
+      "Manchester United U18",
+      "Olympique Marseille",
+      "Manchester United UEFA U19",
+      "Manchester United"
+    ],
+    "Mateus Mané": [
+      "Wolverhampton Wanderers U21",
+      "Wolverhampton Wanderers U18",
+      "Wolverhampton",
+      "Southampton FC U18",
+      "Rochdale AFC"
+    ],
+    "Enso González": [
+      "Club Libertad Asunción",
+      "Wolverhampton Wanderers U21",
+      "Wolverhampton"
+    ],
+    "Jhon Arias": [
+      "Fluminense Football Club",
+      "Boyacá Patriotas FC",
+      "CD América de Cali",
+      "Independiente Santa Fe",
+      "Wolverhampton",
+      "Dorados de Sinaloa U20",
+      "Club Tijuana U19",
+      "Llaneros FC",
+      "Club Tijuana"
+    ],
+    "Tolu Arokodare": [
+      "KRC Genk",
+      "Amiens SC",
+      "Valmiera FC",
+      "Wolverhampton",
+      "1.FC Köln"
+    ],
+    "Hee-chan Hwang": [
+      "Wolverhampton",
+      "RB Salzburg",
+      "FC Liefering",
+      "RB Leipzig",
+      "Hamburger SV"
+    ],
+    "Adam Armstrong": [
+      "Southampton FC",
+      "Blackburn Rovers",
+      "Coventry City",
+      "Barnsley FC",
+      "Newcastle United U21",
+      "Bolton Wanderers",
+      "Newcastle United",
+      "West Bromwich Albion",
+      "Newcastle United U18",
+      "Southampton FC U21"
+    ],
+    "Nathan Fraser": [
+      "Wolverhampton Wanderers U21",
+      "Wolverhampton Wanderers U18",
+      "Wolverhampton",
+      "Zulte Waregem"
+    ],
+    "Tawanda Chirewa": [
+      "Wolverhampton Wanderers U21",
+      "Huddersfield Town",
+      "Wolverhampton",
+      "Derby County",
+      "Ipswich Town U18",
+      "Ipswich Town",
+      "Derby County U21"
+    ],
+    "Jørgen Strand Larsen": [
+      "Celta de Vigo",
+      "FC Groningen",
+      "Wolverhampton",
+      "Sarpsborg 08 FF",
+      "AC Milan Primavera",
+      "Sarpsborg 08 FF II"
+    ],
+    "Fer López": [
+      "RC Celta Fortuna",
+      "Celta de Vigo",
+      "Wolverhampton"
+    ],
+    "Ki-Jana Hoever": [
+      "Stoke City",
+      "Wolverhampton",
+      "AJ Auxerre",
+      "Liverpool FC U21",
+      "Ajax Amsterdam U17",
+      "Liverpool FC UEFA U19",
+      "PSV Eindhoven",
+      "Liverpool FC U18",
+      "Wolverhampton Wanderers U21",
+      "Liverpool FC",
+      "PSV Eindhoven U21"
+    ],
+    "Marshall Munetsi": [
+      "Stade Reims",
+      "Orlando Pirates",
+      "Baroka FC",
+      "Wolverhampton"
+    ],
+    "Sasa Kalajdzic": [
+      "VfB Stuttgart",
+      "Admira Wacker",
+      "Admira Wacker Panthers",
+      "Wolverhampton",
+      "Eintracht Frankfurt",
+      "SR Donaufeld"
+    ]
+  },
   "Burnley FC": {
     "Max Weiß": [
       "Karlsruher SC",
@@ -4603,15 +4781,6 @@
       "Santos FC U20",
       "SC Corinthians U20"
     ],
-    "Oliver Sonne": [
-      "Silkeborg IF",
-      "HB Köge",
-      "Burnley FC",
-      "FC Copenhagen U19",
-      "Silkeborg IF Reserves",
-      "FC Copenhagen Reserves",
-      "HB Köge U19"
-    ],
     "Connor Roberts": [
       "Swansea City",
       "Burnley FC",
@@ -4646,8 +4815,8 @@
       "SL Benfica",
       "SL Benfica B",
       "Getafe CF",
-      "SL Benfica UEFA U19",
       "Burnley FC",
+      "SL Benfica UEFA U19",
       "AS Monaco"
     ],
     "Josh Cullen": [
@@ -4658,6 +4827,13 @@
       "West Ham United U21",
       "Bolton Wanderers",
       "West Ham United"
+    ],
+    "James Ward-Prowse": [
+      "Southampton FC",
+      "West Ham United",
+      "Southampton FC U21",
+      "Nottingham Forest",
+      "Burnley FC"
     ],
     "Josh Laurent": [
       "Shrewsbury Town",
@@ -4784,6 +4960,15 @@
       "Oxford United",
       "Salisbury City (- 2014)",
       "Burnley FC U21"
+    ],
+    "Oliver Sonne": [
+      "Silkeborg IF",
+      "HB Köge",
+      "Burnley FC",
+      "FC Copenhagen U19",
+      "Silkeborg IF Reserves",
+      "FC Copenhagen Reserves",
+      "HB Köge U19"
     ],
     "Hannes Delcroix": [
       "RSC Anderlecht",
