@@ -1569,4 +1569,4 @@ st.markdown("---")
 # )
 st.markdown(f"{t("footer.contact")}: [calculadora.fantasy@gmail.com](mailto:calculadora.fantasy@gmail.com)")
 
-# Auto-update trigger: Tue Feb 24 09:00:07 UTC 2026
+# Auto-update trigger: Tue Feb 24 23:56:59 UTC 2026
